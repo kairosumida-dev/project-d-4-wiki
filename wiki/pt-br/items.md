@@ -4,7 +4,7 @@
 <script src="../assets/lb.js" defer></script>
 # Itens
 
-Os ícones das linhas são **sprites de classe** extraídos de `spr_icon.xst` (o atlas de ícones 1024×1024 do jogo) — representam a *família* do item, não arte individual.
+Ícones das linhas: itens verificados contra o índice de ícones do jogo (`icon.bin` / `spr_icon.xst`) mostram o **ícone real extraído**; os demais mostram um **sprite de classe** do mesmo atlas — representante da família, não arte individual.
 
 | ícone | família | ícone | família |
 |---|---|---|---|
@@ -58,16 +58,16 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA01_HANDAXE — ハンドアックス — Espada 1 mão／スケルトンが使用して / いるEspada 1 mão。não sintetizável"> `WEAPON2_KA01_HANDAXE` | ハンドアックス | Espada 1 mão／スケルトンが使用して / いるEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA02_FRANCISCA — フランキスカ — 骸骨の炎剣"> `WEAPON2_KA02_FRANCISCA` | フランキスカ | 骸骨の炎剣 |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA03_WARAXE — ウォーアックス — Espada 1 mão／Ataque：２３ / RequerＳＴＲ：nenhum"> `WEAPON2_KA03_WARAXE` | ウォーアックス | Espada 1 mão／Ataque：２３ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA04_BATTLEAXE — バトルアックス — Espada 1 mão／スケルトンが使用して / いるfogoのEspada 1 mão。não sintetizável"> `WEAPON2_KA04_BATTLEAXE` | バトルアックス | Espada 1 mão／スケルトンが使用して / いるfogoのEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0038.png" width="36" title="WEAPON2_KA01_HANDAXE — ハンドアックス — Espada 1 mão／スケルトンが使用して / いるEspada 1 mão。não sintetizável"> `WEAPON2_KA01_HANDAXE` | ハンドアックス | Espada 1 mão／スケルトンが使用して / いるEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0039.png" width="36" title="WEAPON2_KA02_FRANCISCA — フランキスカ — 骸骨の炎剣"> `WEAPON2_KA02_FRANCISCA` | フランキスカ | 骸骨の炎剣 |
+| <img src="../img/icons/icon_0040.png" width="36" title="WEAPON2_KA03_WARAXE — ウォーアックス — Espada 1 mão／Ataque：２３ / RequerＳＴＲ：nenhum"> `WEAPON2_KA03_WARAXE` | ウォーアックス | Espada 1 mão／Ataque：２３ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0176.png" width="36" title="WEAPON2_KA04_BATTLEAXE — バトルアックス — Espada 1 mão／スケルトンが使用して / いるfogoのEspada 1 mão。não sintetizável"> `WEAPON2_KA04_BATTLEAXE` | バトルアックス | Espada 1 mão／スケルトンが使用して / いるfogoのEspada 1 mão。não sintetizável |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA05_GOLDAXE — ゴールドアックス — 骸骨の氷剣"> `WEAPON2_KA05_GOLDAXE` | ゴールドアックス | 骸骨の氷剣 |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA06_SHIELDAXE — シールドアックス — Espada 1 mão／スケルトンが使用して / いるgeloのEspada 1 mão。não sintetizável"> `WEAPON2_KA06_SHIELDAXE` | シールドアックス | Espada 1 mão／スケルトンが使用して / いるgeloのEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0082.png" width="36" title="WEAPON2_KA06_SHIELDAXE — シールドアックス — Espada 1 mão／スケルトンが使用して / いるgeloのEspada 1 mão。não sintetizável"> `WEAPON2_KA06_SHIELDAXE` | シールドアックス | Espada 1 mão／スケルトンが使用して / いるgeloのEspada 1 mão。não sintetizável |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA07_TRISTRAM — ウェルテクス — 骸骨の雷剣"> `WEAPON2_KA07_TRISTRAM` | ウェルテクス | 骸骨の雷剣 |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA08_WARAXE — ★ウォーアックス — Espada 1 mão／スケルトンが使用して / いるraioのEspada 1 mão。não sintetizável"> `WEAPON2_KA08_WARAXE` | ★ウォーアックス | Espada 1 mão／スケルトンが使用して / いるraioのEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA09_SILVERAXE — シルバーアックス"> `WEAPON2_KA09_SILVERAXE` | シルバーアックス |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA10_EGRET — イーグレット"> `WEAPON2_KA10_EGRET` | イーグレット |
+| <img src="../img/icons/icon_0094.png" width="36" title="WEAPON2_KA08_WARAXE — ★ウォーアックス — Espada 1 mão／スケルトンが使用して / いるraioのEspada 1 mão。não sintetizável"> `WEAPON2_KA08_WARAXE` | ★ウォーアックス | Espada 1 mão／スケルトンが使用して / いるraioのEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0127.png" width="36" title="WEAPON2_KA09_SILVERAXE — シルバーアックス"> `WEAPON2_KA09_SILVERAXE` | シルバーアックス |
+| <img src="../img/icons/icon_0007.png" width="36" title="WEAPON2_KA10_EGRET — イーグレット"> `WEAPON2_KA10_EGRET` | イーグレット |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA11_ORC — 邪鬼の斧"> `WEAPON2_KA11_ORC` | 邪鬼の斧 |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA12_ORC_F — 邪鬼の炎斧"> `WEAPON2_KA12_ORC_F` | 邪鬼の炎斧 |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA13_ORC_I — 邪鬼の氷斧"> `WEAPON2_KA13_ORC_I` | 邪鬼の氷斧 |
@@ -86,7 +86,7 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA26_CRIMSON — クリムゾンライン"> `WEAPON2_KA26_CRIMSON` | クリムゾンライン |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA27_BATTLE — ★バトルアックス"> `WEAPON2_KA27_BATTLE` | ★バトルアックス |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA28_SHIELD — ★シールドアックス"> `WEAPON2_KA28_SHIELD` | ★シールドアックス |
-| <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA29_FRANCISCA — ★フランキスカ"> `WEAPON2_KA29_FRANCISCA` | ★フランキスカ |
+| <img src="../img/icons/icon_0039.png" width="36" title="WEAPON2_KA29_FRANCISCA — ★フランキスカ"> `WEAPON2_KA29_FRANCISCA` | ★フランキスカ |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA30_HORIHORI — ★トライブアックス"> `WEAPON2_KA30_HORIHORI` | ★トライブアックス |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA31_MACHINE_GOLD — 黄金機兵の斧"> `WEAPON2_KA31_MACHINE_GOLD` | 黄金機兵の斧 |
 | <img src="../img/icons/cls_ka.png" width="36" title="WEAPON2_KA32_HEVY_GUARD — 重装兵の斧"> `WEAPON2_KA32_HEVY_GUARD` | 重装兵の斧 |
@@ -103,24 +103,24 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS01_SHORTSWORD — ショートソード — 蜥蜴の剣"> `WEAPON2_KS01_SHORTSWORD` | ショートソード | 蜥蜴の剣 |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS02_RAPIER — レイピア — Espada 1 mão／Ataque：４０ / RequerＳＴＲ：nenhum"> `WEAPON2_KS02_RAPIER` | レイピア | Espada 1 mão／Ataque：４０ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS03_LONGSWORD — ロングソード — Espada 1 mão／リザードマンが使用し / ているEspada 1 mão。não sintetizável"> `WEAPON2_KS03_LONGSWORD` | ロングソード | Espada 1 mão／リザードマンが使用し / ているEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS04_VIKINGSWORD — ヴァイキングソード — 蜥蜴護衛兵の剣"> `WEAPON2_KS04_VIKINGSWORD` | ヴァイキングソード | 蜥蜴護衛兵の剣 |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS05_FALCHION — ファルシオン — Espada 1 mão／Ataque：５５ / RequerＳＴＲ：nenhum"> `WEAPON2_KS05_FALCHION` | ファルシオン | Espada 1 mão／Ataque：５５ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS06_GLADIUS — グラディウス — Espada 1 mão／ガーディアンリザード / マンが持つ剣。não sintetizável"> `WEAPON2_KS06_GLADIUS` | グラディウス | Espada 1 mão／ガーディアンリザード / マンが持つ剣。não sintetizável |
+| <img src="../img/icons/icon_0008.png" width="36" title="WEAPON2_KS01_SHORTSWORD — ショートソード — 蜥蜴の剣"> `WEAPON2_KS01_SHORTSWORD` | ショートソード | 蜥蜴の剣 |
+| <img src="../img/icons/icon_0009.png" width="36" title="WEAPON2_KS02_RAPIER — レイピア — Espada 1 mão／Ataque：４０ / RequerＳＴＲ：nenhum"> `WEAPON2_KS02_RAPIER` | レイピア | Espada 1 mão／Ataque：４０ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0010.png" width="36" title="WEAPON2_KS03_LONGSWORD — ロングソード — Espada 1 mão／リザードマンが使用し / ているEspada 1 mão。não sintetizável"> `WEAPON2_KS03_LONGSWORD` | ロングソード | Espada 1 mão／リザードマンが使用し / ているEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0011.png" width="36" title="WEAPON2_KS04_VIKINGSWORD — ヴァイキングソード — 蜥蜴護衛兵の剣"> `WEAPON2_KS04_VIKINGSWORD` | ヴァイキングソード | 蜥蜴護衛兵の剣 |
+| <img src="../img/icons/icon_0012.png" width="36" title="WEAPON2_KS05_FALCHION — ファルシオン — Espada 1 mão／Ataque：５５ / RequerＳＴＲ：nenhum"> `WEAPON2_KS05_FALCHION` | ファルシオン | Espada 1 mão／Ataque：５５ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0171.png" width="36" title="WEAPON2_KS06_GLADIUS — グラディウス — Espada 1 mão／ガーディアンリザード / マンが持つ剣。não sintetizável"> `WEAPON2_KS06_GLADIUS` | グラディウス | Espada 1 mão／ガーディアンリザード / マンが持つ剣。não sintetizável |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS07_MITHRILBLADE — ミスリルソード — 小鬼の剣"> `WEAPON2_KS07_MITHRILBLADE` | ミスリルソード | 小鬼の剣 |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS08_MAGICSWORD — マジックソード — Espada 1 mão／Ataque：２７ / RequerＳＴＲ：nenhum"> `WEAPON2_KS08_MAGICSWORD` | マジックソード | Espada 1 mão／Ataque：２７ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0079.png" width="36" title="WEAPON2_KS08_MAGICSWORD — マジックソード — Espada 1 mão／Ataque：２７ / RequerＳＴＲ：nenhum"> `WEAPON2_KS08_MAGICSWORD` | マジックソード | Espada 1 mão／Ataque：２７ / RequerＳＴＲ：nenhum |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS09_EXCALIBUR — エクスカリバー — Espada 1 mão／ゴブリンファイターが / 使用しているEspada 1 mão。não sintetizável"> `WEAPON2_KS09_EXCALIBUR` | エクスカリバー | Espada 1 mão／ゴブリンファイターが / 使用しているEspada 1 mão。não sintetizável |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS10_FAKESWORD — フェイクソード — 小鬼君主の剣"> `WEAPON2_KS10_FAKESWORD` | フェイクソード | 小鬼君主の剣 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS11_BOLG — アンサラー — Espada 1 mão／Ataque：４５ / RequerＳＴＲ：nenhum"> `WEAPON2_KS11_BOLG` | アンサラー | Espada 1 mão／Ataque：４５ / RequerＳＴＲ：nenhum |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS12_WHITESWORD — デモンズソード — Espada 1 mão／ゴブリンロードが使用 / しているEspada 1 mão。não sintetizável"> `WEAPON2_KS12_WHITESWORD` | デモンズソード | Espada 1 mão／ゴブリンロードが使用 / しているEspada 1 mão。não sintetizável |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS13_BLACKSWORD — グレートソード — 犬頭鬼の剣"> `WEAPON2_KS13_BLACKSWORD` | グレートソード | 犬頭鬼の剣 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS14_KNIGHTSWORD — ナイトソード — Espada 1 mão／コボルドウォリアーが / 使用しているEspada 1 mão。não sintetizável"> `WEAPON2_KS14_KNIGHTSWORD` | ナイトソード | Espada 1 mão／コボルドウォリアーが / 使用しているEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS15_LONGSWORD — ★ロングソード — サファイアエッジ"> `WEAPON2_KS15_LONGSWORD` | ★ロングソード | サファイアエッジ |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS16_FALCHION — ★ファルシオン — Espada 1 mão／Ataque：８３ / RequerＳＴＲ：１０"> `WEAPON2_KS16_FALCHION` | ★ファルシオン | Espada 1 mão／Ataque：８３ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0080.png" width="36" title="WEAPON2_KS15_LONGSWORD — ★ロングソード — サファイアエッジ"> `WEAPON2_KS15_LONGSWORD` | ★ロングソード | サファイアエッジ |
+| <img src="../img/icons/icon_0105.png" width="36" title="WEAPON2_KS16_FALCHION — ★ファルシオン — Espada 1 mão／Ataque：８３ / RequerＳＴＲ：１０"> `WEAPON2_KS16_FALCHION` | ★ファルシオン | Espada 1 mão／Ataque：８３ / RequerＳＴＲ：１０ |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS17_CULANNSWORD — クランのショートソード"> `WEAPON2_KS17_CULANNSWORD` | クランのショートソード |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS18_VIPERFUNG — バイパーファング"> `WEAPON2_KS18_VIPERFUNG` | バイパーファング |
+| <img src="../img/icons/icon_0050.png" width="36" title="WEAPON2_KS18_VIPERFUNG — バイパーファング"> `WEAPON2_KS18_VIPERFUNG` | バイパーファング |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS19_ROYAL — ホーリーソード"> `WEAPON2_KS19_ROYAL` | ホーリーソード |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS20_SKELETON — 骸骨の剣"> `WEAPON2_KS20_SKELETON` | 骸骨の剣 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS21_SKELETON_F — 骸骨の炎剣"> `WEAPON2_KS21_SKELETON_F` | 骸骨の炎剣 |
@@ -135,7 +135,7 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS30_BLOODY — ブラッディスパイン"> `WEAPON2_KS30_BLOODY` | ブラッディスパイン |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS31_SHAMSHIR — シャムシール"> `WEAPON2_KS31_SHAMSHIR` | シャムシール |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS32_DIVIDER — ディバイドソード"> `WEAPON2_KS32_DIVIDER` | ディバイドソード |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS33_WING — ウィングソード"> `WEAPON2_KS33_WING` | ウィングソード |
+| <img src="../img/icons/icon_0279.png" width="36" title="WEAPON2_KS33_WING — ウィングソード"> `WEAPON2_KS33_WING` | ウィングソード |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS34_GUARDIANFROG — 蛙護衛兵の剣"> `WEAPON2_KS34_GUARDIANFROG` | 蛙護衛兵の剣 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS35_ARMOREDFROGKING — 蛙王の剣"> `WEAPON2_KS35_ARMOREDFROGKING` | 蛙王の剣 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS36_GIANTFIRE — 炎巨人の剣"> `WEAPON2_KS36_GIANTFIRE` | 炎巨人の剣 |
@@ -143,9 +143,9 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS38_SHINOBI — 忍の刀"> `WEAPON2_KS38_SHINOBI` | 忍の刀 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS39_SEIRYUTOU — 青龍刀"> `WEAPON2_KS39_SEIRYUTOU` | 青龍刀 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS40_DRAGONSLAYER — ドラゴンソード"> `WEAPON2_KS40_DRAGONSLAYER` | ドラゴンソード |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS41_RAPIER — ★レイピア"> `WEAPON2_KS41_RAPIER` | ★レイピア |
+| <img src="../img/icons/icon_0009.png" width="36" title="WEAPON2_KS41_RAPIER — ★レイピア"> `WEAPON2_KS41_RAPIER` | ★レイピア |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS42 — ★ヴァイキングソード"> `WEAPON2_KS42` | ★ヴァイキングソード |
-| <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS43_GLADIUS — ★グラディウス"> `WEAPON2_KS43_GLADIUS` | ★グラディウス |
+| <img src="../img/icons/icon_0171.png" width="36" title="WEAPON2_KS43_GLADIUS — ★グラディウス"> `WEAPON2_KS43_GLADIUS` | ★グラディウス |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS44_SHAMSHIR — ★シャムシール"> `WEAPON2_KS44_SHAMSHIR` | ★シャムシール |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS45_SEIRYUTOU — ★青龍刀"> `WEAPON2_KS45_SEIRYUTOU` | ★青龍刀 |
 | <img src="../img/icons/cls_ks.png" width="36" title="WEAPON2_KS46_MACHINE — 機兵の剣"> `WEAPON2_KS46_MACHINE` | 機兵の剣 |
@@ -165,17 +165,17 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA01_CLUB — クラブ — Espada 1 mão／特別な力を持つ純粋な / サファイアで作られた宝剣"> `WEAPON2_MA01_CLUB` | クラブ | Espada 1 mão／特別な力を持つ純粋な / サファイアで作られた宝剣 |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA02_MACE — メイス — ブラッディスパイン"> `WEAPON2_MA02_MACE` | メイス | ブラッディスパイン |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA03_WARHAMMER — ウォーハンマー — Espada 1 mão／Ataque：５５ / RequerＳＴＲ：１０"> `WEAPON2_MA03_WARHAMMER` | ウォーハンマー | Espada 1 mão／Ataque：５５ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA04_MORNINGSTAR — モーニングスター — Espada 1 mão／吸血鬼の如き牙を持つ / 歪な形状の剣"> `WEAPON2_MA04_MORNINGSTAR` | モーニングスター | Espada 1 mão／吸血鬼の如き牙を持つ / 歪な形状の剣 |
+| <img src="../img/icons/icon_0051.png" width="36" title="WEAPON2_MA01_CLUB — クラブ — Espada 1 mão／特別な力を持つ純粋な / サファイアで作られた宝剣"> `WEAPON2_MA01_CLUB` | クラブ | Espada 1 mão／特別な力を持つ純粋な / サファイアで作られた宝剣 |
+| <img src="../img/icons/icon_0052.png" width="36" title="WEAPON2_MA02_MACE — メイス — ブラッディスパイン"> `WEAPON2_MA02_MACE` | メイス | ブラッディスパイン |
+| <img src="../img/icons/icon_0180.png" width="36" title="WEAPON2_MA03_WARHAMMER — ウォーハンマー — Espada 1 mão／Ataque：５５ / RequerＳＴＲ：１０"> `WEAPON2_MA03_WARHAMMER` | ウォーハンマー | Espada 1 mão／Ataque：５５ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0085.png" width="36" title="WEAPON2_MA04_MORNINGSTAR — モーニングスター — Espada 1 mão／吸血鬼の如き牙を持つ / 歪な形状の剣"> `WEAPON2_MA04_MORNINGSTAR` | モーニングスター | Espada 1 mão／吸血鬼の如き牙を持つ / 歪な形状の剣 |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA05_MITHRILHAMMER — ミスリルハンマー — シャムシール"> `WEAPON2_MA05_MITHRILHAMMER` | ミスリルハンマー | シャムシール |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA06_FAYHAMMER — ペルグランデ — Espada 1 mão／Ataque：５０ / RequerＳＴＲ：５"> `WEAPON2_MA06_FAYHAMMER` | ペルグランデ | Espada 1 mão／Ataque：５０ / RequerＳＴＲ：５ |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA07_MJOLLNIR — ノームハンマー — Espada 1 mão／振り下ろすことで / 威力を最大限に発揮する剣"> `WEAPON2_MA07_MJOLLNIR` | ノームハンマー | Espada 1 mão／振り下ろすことで / 威力を最大限に発揮する剣 |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA08_MACE — ★メイス — ディバイドソード"> `WEAPON2_MA08_MACE` | ★メイス | ディバイドソード |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA09_HOLYMACE — ホーリーメイス"> `WEAPON2_MA09_HOLYMACE` | ホーリーメイス |
+| <img src="../img/icons/icon_0097.png" width="36" title="WEAPON2_MA08_MACE — ★メイス — ディバイドソード"> `WEAPON2_MA08_MACE` | ★メイス | ディバイドソード |
+| <img src="../img/icons/icon_0146.png" width="36" title="WEAPON2_MA09_HOLYMACE — ホーリーメイス"> `WEAPON2_MA09_HOLYMACE` | ホーリーメイス |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA10_OAKCLUB — 樫のクラブ"> `WEAPON2_MA10_OAKCLUB` | 樫のクラブ |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA11_WARHAMMER_EX — ブライトハンマー"> `WEAPON2_MA11_WARHAMMER_EX` | ブライトハンマー |
+| <img src="../img/icons/icon_0163.png" width="36" title="WEAPON2_MA11_WARHAMMER_EX — ブライトハンマー"> `WEAPON2_MA11_WARHAMMER_EX` | ブライトハンマー |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA12_GOBLIN_H — 小鬼の棍棒"> `WEAPON2_MA12_GOBLIN_H` | 小鬼の棍棒 |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA13_KOBOLD — 犬頭鬼の棍棒"> `WEAPON2_MA13_KOBOLD` | 犬頭鬼の棍棒 |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA14_TROLL — 巨人の棍棒"> `WEAPON2_MA14_TROLL` | 巨人の棍棒 |
@@ -184,9 +184,9 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA17_TIREI — クェイクハンマー"> `WEAPON2_MA17_TIREI` | クェイクハンマー |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA18_HORIHORI — ジャッジハンマー"> `WEAPON2_MA18_HORIHORI` | ジャッジハンマー |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA19_SHIMENKI — 鬼面の大槌"> `WEAPON2_MA19_SHIMENKI` | 鬼面の大槌 |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA20_WARHAMMER — ★ウォーハンマー"> `WEAPON2_MA20_WARHAMMER` | ★ウォーハンマー |
+| <img src="../img/icons/icon_0180.png" width="36" title="WEAPON2_MA20_WARHAMMER — ★ウォーハンマー"> `WEAPON2_MA20_WARHAMMER` | ★ウォーハンマー |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA21_SHINKI — ストリクトメイス"> `WEAPON2_MA21_SHINKI` | ストリクトメイス |
-| <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA22_WARHAMMER_EX — ★ブライトハンマー"> `WEAPON2_MA22_WARHAMMER_EX` | ★ブライトハンマー |
+| <img src="../img/icons/icon_0163.png" width="36" title="WEAPON2_MA22_WARHAMMER_EX — ★ブライトハンマー"> `WEAPON2_MA22_WARHAMMER_EX` | ★ブライトハンマー |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA23_HORIHORI — ★ジャッジハンマー"> `WEAPON2_MA23_HORIHORI` | ★ジャッジハンマー |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA24_JADE — 翡翠の大槌"> `WEAPON2_MA24_JADE` | 翡翠の大槌 |
 | <img src="../img/icons/cls_ma.png" width="36" title="WEAPON2_MA25_D4SHINKI1 — レオパルドハンマー"> `WEAPON2_MA25_D4SHINKI1` | レオパルドハンマー |
@@ -200,17 +200,17 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC01_WAKKY — ウッドグローブ"> `WEAPON2_NC01_WAKKY` | ウッドグローブ |
+| <img src="../img/icons/icon_0165.png" width="36" title="WEAPON2_NC01_WAKKY — ウッドグローブ"> `WEAPON2_NC01_WAKKY` | ウッドグローブ |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC02_TAMECHAN — トライネイル"> `WEAPON2_NC02_TAMECHAN` | トライネイル |
-| <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC03_MASSU — アイアンスパイク"> `WEAPON2_NC03_MASSU` | アイアンスパイク |
+| <img src="../img/icons/icon_0001.png" width="36" title="WEAPON2_NC03_MASSU — アイアンスパイク"> `WEAPON2_NC03_MASSU` | アイアンスパイク |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC04_WAKKY2 — クランチフィスト"> `WEAPON2_NC04_WAKKY2` | クランチフィスト |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC05_THRUST — スラストナックル"> `WEAPON2_NC05_THRUST` | スラストナックル |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC06_BLADE — ブレイドナックル"> `WEAPON2_NC06_BLADE` | ブレイドナックル |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC07_TETSUTUME — アサシンネイル"> `WEAPON2_NC07_TETSUTUME` | アサシンネイル |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC08_SHINKI — ピアスグローブ"> `WEAPON2_NC08_SHINKI` | ピアスグローブ |
-| <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC09_WAKKY — ★ウッドグローブ"> `WEAPON2_NC09_WAKKY` | ★ウッドグローブ |
-| <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC10_MASSU — ★アイアンスパイク"> `WEAPON2_NC10_MASSU` | ★アイアンスパイク |
-| <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC11_FLAME — フレイムナックル"> `WEAPON2_NC11_FLAME` | フレイムナックル |
+| <img src="../img/icons/icon_0165.png" width="36" title="WEAPON2_NC09_WAKKY — ★ウッドグローブ"> `WEAPON2_NC09_WAKKY` | ★ウッドグローブ |
+| <img src="../img/icons/icon_0001.png" width="36" title="WEAPON2_NC10_MASSU — ★アイアンスパイク"> `WEAPON2_NC10_MASSU` | ★アイアンスパイク |
+| <img src="../img/icons/icon_0457.png" width="36" title="WEAPON2_NC11_FLAME — フレイムナックル"> `WEAPON2_NC11_FLAME` | フレイムナックル |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC12_TAMECHAN — ★トライネイル"> `WEAPON2_NC12_TAMECHAN` | ★トライネイル |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC13_BEAST — 猛獣の爪"> `WEAPON2_NC13_BEAST` | 猛獣の爪 |
 | <img src="../img/icons/cls_nc.png" width="36" title="WEAPON2_NC14_KAISER — カイザーナックル"> `WEAPON2_NC14_KAISER` | カイザーナックル |
@@ -225,15 +225,15 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI01_DAGGER — ダガー — Espada 1 mão／Ataque：６７ / RequerＳＴＲ：１０"> `WEAPON2_NI01_DAGGER` | ダガー | Espada 1 mão／Ataque：６７ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI02_DIRK — ダーク — Espada 1 mão／鉈を戦闘用に改良した / 断ち切ることに優れた剣"> `WEAPON2_NI02_DIRK` | ダーク | Espada 1 mão／鉈を戦闘用に改良した / 断ち切ることに優れた剣 |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI03_POISONDAGGER — ポイズンダガー — ウィングソード"> `WEAPON2_NI03_POISONDAGGER` | ポイズンダガー | ウィングソード |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI04_SWORDBRAKER — ソードブレイカー — Espada 1 mão／Ataque：５８ / RequerＳＴＲ：５"> `WEAPON2_NI04_SWORDBRAKER` | ソードブレイカー | Espada 1 mão／Ataque：５８ / RequerＳＴＲ：５ |
+| <img src="../img/icons/icon_0002.png" width="36" title="WEAPON2_NI01_DAGGER — ダガー — Espada 1 mão／Ataque：６７ / RequerＳＴＲ：１０"> `WEAPON2_NI01_DAGGER` | ダガー | Espada 1 mão／Ataque：６７ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0003.png" width="36" title="WEAPON2_NI02_DIRK — ダーク — Espada 1 mão／鉈を戦闘用に改良した / 断ち切ることに優れた剣"> `WEAPON2_NI02_DIRK` | ダーク | Espada 1 mão／鉈を戦闘用に改良した / 断ち切ることに優れた剣 |
+| <img src="../img/icons/icon_0004.png" width="36" title="WEAPON2_NI03_POISONDAGGER — ポイズンダガー — ウィングソード"> `WEAPON2_NI03_POISONDAGGER` | ポイズンダガー | ウィングソード |
+| <img src="../img/icons/icon_0086.png" width="36" title="WEAPON2_NI04_SWORDBRAKER — ソードブレイカー — Espada 1 mão／Ataque：５８ / RequerＳＴＲ：５"> `WEAPON2_NI04_SWORDBRAKER` | ソードブレイカー | Espada 1 mão／Ataque：５８ / RequerＳＴＲ：５ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI05_KOTETSU — 古鉄 — Espada 1 mão／神速で飛ぶことのでき / る鳥の羽で作られた剣"> `WEAPON2_NI05_KOTETSU` | 古鉄 | Espada 1 mão／神速で飛ぶことのでき / る鳥の羽で作られた剣 |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI06_GALESDAGGER — グラキエース — 蛙護衛兵の剣"> `WEAPON2_NI06_GALESDAGGER` | グラキエース | 蛙護衛兵の剣 |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI07_DIRK — ★ダーク — Espada 1 mão／Ataque：４２ / RequerＳＴＲ：nenhum"> `WEAPON2_NI07_DIRK` | ★ダーク | Espada 1 mão／Ataque：４２ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI08_ROUND — ラウンドナイフ"> `WEAPON2_NI08_ROUND` | ラウンドナイフ |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI09_STUNDAGGER — スタンダガー"> `WEAPON2_NI09_STUNDAGGER` | スタンダガー |
+| <img src="../img/icons/icon_0181.png" width="36" title="WEAPON2_NI07_DIRK — ★ダーク — Espada 1 mão／Ataque：４２ / RequerＳＴＲ：nenhum"> `WEAPON2_NI07_DIRK` | ★ダーク | Espada 1 mão／Ataque：４２ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0090.png" width="36" title="WEAPON2_NI08_ROUND — ラウンドナイフ"> `WEAPON2_NI08_ROUND` | ラウンドナイフ |
+| <img src="../img/icons/icon_0070.png" width="36" title="WEAPON2_NI09_STUNDAGGER — スタンダガー"> `WEAPON2_NI09_STUNDAGGER` | スタンダガー |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI10_GOBLIN_C — 小鬼の包丁"> `WEAPON2_NI10_GOBLIN_C` | 小鬼の包丁 |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI11_THIEF — 盗賊のダガー"> `WEAPON2_NI11_THIEF` | 盗賊のダガー |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI12_ASSASSIN — 暗殺者のダガー"> `WEAPON2_NI12_ASSASSIN` | 暗殺者のダガー |
@@ -242,13 +242,13 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI15_BURGLAR — 夜盗のナイフ"> `WEAPON2_NI15_BURGLAR` | 夜盗のナイフ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI16_CROSS — グレアナイフ"> `WEAPON2_NI16_CROSS` | グレアナイフ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI17_SHINKI — フィートナイフ"> `WEAPON2_NI17_SHINKI` | フィートナイフ |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI18_POISONDAGGER — ★ポイズンダガー"> `WEAPON2_NI18_POISONDAGGER` | ★ポイズンダガー |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI19_ROUND — ★ラウンドナイフ"> `WEAPON2_NI19_ROUND` | ★ラウンドナイフ |
+| <img src="../img/icons/icon_0004.png" width="36" title="WEAPON2_NI18_POISONDAGGER — ★ポイズンダガー"> `WEAPON2_NI18_POISONDAGGER` | ★ポイズンダガー |
+| <img src="../img/icons/icon_0090.png" width="36" title="WEAPON2_NI19_ROUND — ★ラウンドナイフ"> `WEAPON2_NI19_ROUND` | ★ラウンドナイフ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI20_SHINKI — デヴァステイター"> `WEAPON2_NI20_SHINKI` | デヴァステイター |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI21_SAIJYOUI — ツインエッジ"> `WEAPON2_NI21_SAIJYOUI` | ツインエッジ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI22_TAMECHAN2 — ★ロットナイフ"> `WEAPON2_NI22_TAMECHAN2` | ★ロットナイフ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI23_SHINKI — サイ"> `WEAPON2_NI23_SHINKI` | サイ |
-| <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI24_STUNDAGGER — ★スタンダガー"> `WEAPON2_NI24_STUNDAGGER` | ★スタンダガー |
+| <img src="../img/icons/icon_0070.png" width="36" title="WEAPON2_NI24_STUNDAGGER — ★スタンダガー"> `WEAPON2_NI24_STUNDAGGER` | ★スタンダガー |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI25_MOULIN — ムーラン"> `WEAPON2_NI25_MOULIN` | ムーラン |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI26_KUKRI — ククリ"> `WEAPON2_NI26_KUKRI` | ククリ |
 | <img src="../img/icons/cls_ni.png" width="36" title="WEAPON2_NI27_SILENT — サイレントナイフ"> `WEAPON2_NI27_SILENT` | サイレントナイフ |
@@ -265,11 +265,11 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI01_ARROW — アロー — Espada 1 mão／ガーディアンフロッグ / が使用している剣。não sintetizável"> `WEAPON2_QI01_ARROW` | アロー | Espada 1 mão／ガーディアンフロッグ / が使用している剣。não sintetizável |
-| <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI02_FIREARROW — ファイアーアロー — 蛙王の剣"> `WEAPON2_QI02_FIREARROW` | ファイアーアロー | 蛙王の剣 |
-| <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI03_COLDARROW — コールドアロー — Espada 1 mão／Ataque：４７ / RequerＳＴＲ：nenhum"> `WEAPON2_QI03_COLDARROW` | コールドアロー | Espada 1 mão／Ataque：４７ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI04_SPARKARROW — サンダーアロー — Espada 1 mão／アーマードフロッグ / キングの剣。não sintetizável"> `WEAPON2_QI04_SPARKARROW` | サンダーアロー | Espada 1 mão／アーマードフロッグ / キングの剣。não sintetizável |
-| <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI05_MITHRILARROW — ダークアロー — 炎巨人の剣"> `WEAPON2_QI05_MITHRILARROW` | ダークアロー | 炎巨人の剣 |
+| <img src="../img/icons/icon_0071.png" width="36" title="WEAPON2_QI01_ARROW — アロー — Espada 1 mão／ガーディアンフロッグ / が使用している剣。não sintetizável"> `WEAPON2_QI01_ARROW` | アロー | Espada 1 mão／ガーディアンフロッグ / が使用している剣。não sintetizável |
+| <img src="../img/icons/icon_0072.png" width="36" title="WEAPON2_QI02_FIREARROW — ファイアーアロー — 蛙王の剣"> `WEAPON2_QI02_FIREARROW` | ファイアーアロー | 蛙王の剣 |
+| <img src="../img/icons/icon_0073.png" width="36" title="WEAPON2_QI03_COLDARROW — コールドアロー — Espada 1 mão／Ataque：４７ / RequerＳＴＲ：nenhum"> `WEAPON2_QI03_COLDARROW` | コールドアロー | Espada 1 mão／Ataque：４７ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0183.png" width="36" title="WEAPON2_QI04_SPARKARROW — サンダーアロー — Espada 1 mão／アーマードフロッグ / キングの剣。não sintetizável"> `WEAPON2_QI04_SPARKARROW` | サンダーアロー | Espada 1 mão／アーマードフロッグ / キングの剣。não sintetizável |
+| <img src="../img/icons/icon_0044.png" width="36" title="WEAPON2_QI05_MITHRILARROW — ダークアロー — 炎巨人の剣"> `WEAPON2_QI05_MITHRILARROW` | ダークアロー | 炎巨人の剣 |
 | <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI06_HOLYARROW — 太陽の矢 — Espada 1 mão／ファイアージャイアン / トが使用している剣。não sintetizável"> `WEAPON2_QI06_HOLYARROW` | 太陽の矢 | Espada 1 mão／ファイアージャイアン / トが使用している剣。não sintetizável |
 | <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI07_TAIYOUNOYA — 銀の矢 — 氷巨人の剣"> `WEAPON2_QI07_TAIYOUNOYA` | 銀の矢 | 氷巨人の剣 |
 | <img src="../img/icons/cls_qi.png" width="36" title="WEAPON2_QI08_SILVERARROW — ベアリアスアロー"> `WEAPON2_QI08_SILVERARROW` | ベアリアスアロー |
@@ -280,16 +280,16 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA01_BROADAXE — ブロードアックス — Espada 1 mão／アイスジャイアントが / 使用している剣。não sintetizável"> `WEAPON2_RA01_BROADAXE` | ブロードアックス | Espada 1 mão／アイスジャイアントが / 使用している剣。não sintetizável |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA02_GREATAXE — グレートアックス — 忍の刀"> `WEAPON2_RA02_GREATAXE` | グレートアックス | 忍の刀 |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA03_BERDYSH — バルディッシュ — Espada 1 mão／シノビが使用している / 刀。não sintetizável"> `WEAPON2_RA03_BERDYSH` | バルディッシュ | Espada 1 mão／シノビが使用している / 刀。não sintetizável |
+| <img src="../img/icons/icon_0045.png" width="36" title="WEAPON2_RA01_BROADAXE — ブロードアックス — Espada 1 mão／アイスジャイアントが / 使用している剣。não sintetizável"> `WEAPON2_RA01_BROADAXE` | ブロードアックス | Espada 1 mão／アイスジャイアントが / 使用している剣。não sintetizável |
+| <img src="../img/icons/icon_0046.png" width="36" title="WEAPON2_RA02_GREATAXE — グレートアックス — 忍の刀"> `WEAPON2_RA02_GREATAXE` | グレートアックス | 忍の刀 |
+| <img src="../img/icons/icon_0083.png" width="36" title="WEAPON2_RA03_BERDYSH — バルディッシュ — Espada 1 mão／シノビが使用している / 刀。não sintetizável"> `WEAPON2_RA03_BERDYSH` | バルディッシュ | Espada 1 mão／シノビが使用している / 刀。não sintetizável |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA04_MITHRILAXE — ミスリルアックス — 青龍刀"> `WEAPON2_RA04_MITHRILAXE` | ミスリルアックス | 青龍刀 |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA05_DWARVENWARAXE — ドワーブンアックス — Espada 1 mão／Ataque：５２ / RequerＳＴＲ：１０"> `WEAPON2_RA05_DWARVENWARAXE` | ドワーブンアックス | Espada 1 mão／Ataque：５２ / RequerＳＴＲ：１０ |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA06_SICKLEAXE — イビルシックル — Espada 1 mão／古来より伝わる幅広の / 切っ先を持つ大振りの刀"> `WEAPON2_RA06_SICKLEAXE` | イビルシックル | Espada 1 mão／古来より伝わる幅広の / 切っ先を持つ大振りの刀 |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA07_BROADAXE — ★ブロードアックス — ドラゴンソード"> `WEAPON2_RA07_BROADAXE` | ★ブロードアックス | ドラゴンソード |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA08_DIVINEAXE — ディバインアックス"> `WEAPON2_RA08_DIVINEAXE` | ディバインアックス |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA09_STEELAXE — スチールアックス"> `WEAPON2_RA09_STEELAXE` | スチールアックス |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA10_GREAT_EX1 — ブーストアックス"> `WEAPON2_RA10_GREAT_EX1` | ブーストアックス |
+| <img src="../img/icons/icon_0178.png" width="36" title="WEAPON2_RA07_BROADAXE — ★ブロードアックス — ドラゴンソード"> `WEAPON2_RA07_BROADAXE` | ★ブロードアックス | ドラゴンソード |
+| <img src="../img/icons/icon_0096.png" width="36" title="WEAPON2_RA08_DIVINEAXE — ディバインアックス"> `WEAPON2_RA08_DIVINEAXE` | ディバインアックス |
+| <img src="../img/icons/icon_0135.png" width="36" title="WEAPON2_RA09_STEELAXE — スチールアックス"> `WEAPON2_RA09_STEELAXE` | スチールアックス |
+| <img src="../img/icons/icon_0021.png" width="36" title="WEAPON2_RA10_GREAT_EX1 — ブーストアックス"> `WEAPON2_RA10_GREAT_EX1` | ブーストアックス |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA11_SKELETON_D — 骸骨の斧"> `WEAPON2_RA11_SKELETON_D` | 骸骨の斧 |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA12_SKELETON_DF — 骸骨の炎斧"> `WEAPON2_RA12_SKELETON_DF` | 骸骨の炎斧 |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA13_SKELETON_DI — 骸骨の氷斧"> `WEAPON2_RA13_SKELETON_DI` | 骸骨の氷斧 |
@@ -305,9 +305,9 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA23_MINOTAURCOMMANDER — 牛人司令官の斧"> `WEAPON2_RA23_MINOTAURCOMMANDER` | 牛人司令官の斧 |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA24_BATTLEHOE — バトルピック"> `WEAPON2_RA24_BATTLEHOE` | バトルピック |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA25_MARTIANDAWN — インペリアルアックス"> `WEAPON2_RA25_MARTIANDAWN` | インペリアルアックス |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA26_BERDYSH — ★バルディッシュ"> `WEAPON2_RA26_BERDYSH` | ★バルディッシュ |
+| <img src="../img/icons/icon_0083.png" width="36" title="WEAPON2_RA26_BERDYSH — ★バルディッシュ"> `WEAPON2_RA26_BERDYSH` | ★バルディッシュ |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA27_SAIJYOUI — グランドアックス"> `WEAPON2_RA27_SAIJYOUI` | グランドアックス |
-| <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA28_GREATAXE — ★グレートアックス"> `WEAPON2_RA28_GREATAXE` | ★グレートアックス |
+| <img src="../img/icons/icon_0046.png" width="36" title="WEAPON2_RA28_GREATAXE — ★グレートアックス"> `WEAPON2_RA28_GREATAXE` | ★グレートアックス |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA29_D4SHINKI1 — ブルートマホーク"> `WEAPON2_RA29_D4SHINKI1` | ブルートマホーク |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA30_D4SHINKI2 — アポカリプス"> `WEAPON2_RA30_D4SHINKI2` | アポカリプス |
 | <img src="../img/icons/cls_ra.png" width="36" title="WEAPON2_RA31_GIGANT — ギガントアックス"> `WEAPON2_RA31_GIGANT` | ギガントアックス |
@@ -320,17 +320,17 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS01_BASTARDSWORD — バスタードソード — Espada 1 mão／Ataque：６４ / RequerＳＴＲ：１５"> `WEAPON2_RS01_BASTARDSWORD` | バスタードソード | Espada 1 mão／Ataque：６４ / RequerＳＴＲ：１５ |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS02_CLAYMORE — クレイモア — Espada 1 mão／ドラゴンのしなやかな / 尻尾の皮膚で作られた剣"> `WEAPON2_RS02_CLAYMORE` | クレイモア | Espada 1 mão／ドラゴンのしなやかな / 尻尾の皮膚で作られた剣 |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS03_ZWEIHANDER — トゥハンドソード — ★レイピア"> `WEAPON2_RS03_ZWEIHANDER` | トゥハンドソード | ★レイピア |
+| <img src="../img/icons/icon_0022.png" width="36" title="WEAPON2_RS01_BASTARDSWORD — バスタードソード — Espada 1 mão／Ataque：６４ / RequerＳＴＲ：１５"> `WEAPON2_RS01_BASTARDSWORD` | バスタードソード | Espada 1 mão／Ataque：６４ / RequerＳＴＲ：１５ |
+| <img src="../img/icons/icon_0023.png" width="36" title="WEAPON2_RS02_CLAYMORE — クレイモア — Espada 1 mão／ドラゴンのしなやかな / 尻尾の皮膚で作られた剣"> `WEAPON2_RS02_CLAYMORE` | クレイモア | Espada 1 mão／ドラゴンのしなやかな / 尻尾の皮膚で作られた剣 |
+| <img src="../img/icons/icon_0026.png" width="36" title="WEAPON2_RS03_ZWEIHANDER — トゥハンドソード — ★レイピア"> `WEAPON2_RS03_ZWEIHANDER` | トゥハンドソード | ★レイピア |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS04_STEAM — スチームソード — Espada 1 mão／Ataque：３１ / RequerＳＴＲ：nenhum"> `WEAPON2_RS04_STEAM` | スチームソード | Espada 1 mão／Ataque：３１ / RequerＳＴＲ：nenhum |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS05_EXECUTIONERSSWORD — 断罪の剣 — ★ヴァイキングソード"> `WEAPON2_RS05_EXECUTIONERSSWORD` | 断罪の剣 | ★ヴァイキングソード |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS06_DRAGONKILLER — ドラゴンキラー — Espada 1 mão／Ataque：２６ / RequerＳＴＲ：nenhum"> `WEAPON2_RS06_DRAGONKILLER` | ドラゴンキラー | Espada 1 mão／Ataque：２６ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0081.png" width="36" title="WEAPON2_RS06_DRAGONKILLER — ドラゴンキラー — Espada 1 mão／Ataque：２６ / RequerＳＴＲ：nenhum"> `WEAPON2_RS06_DRAGONKILLER` | ドラゴンキラー | Espada 1 mão／Ataque：２６ / RequerＳＴＲ：nenhum |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS07_MURASAME — 砕魔刀 — ★グラディウス"> `WEAPON2_RS07_MURASAME` | 砕魔刀 | ★グラディウス |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS08_PALAMEDES — クラウ・ソナス — ★シャムシール"> `WEAPON2_RS08_PALAMEDES` | クラウ・ソナス | ★シャムシール |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS09_FLAMESWORD — フレイムソード — ★青龍刀"> `WEAPON2_RS09_FLAMESWORD` | フレイムソード | ★青龍刀 |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS10_ZWEIHANDER — ★トゥハンドソード — Espada 1 mão／Ataque：４６ / RequerＳＴＲ：nenhum"> `WEAPON2_RS10_ZWEIHANDER` | ★トゥハンドソード | Espada 1 mão／Ataque：４６ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS11_SQUARETHRUST — スクエアスラッシャー"> `WEAPON2_RS11_SQUARETHRUST` | スクエアスラッシャー |
+| <img src="../img/icons/icon_0116.png" width="36" title="WEAPON2_RS10_ZWEIHANDER — ★トゥハンドソード — Espada 1 mão／Ataque：４６ / RequerＳＴＲ：nenhum"> `WEAPON2_RS10_ZWEIHANDER` | ★トゥハンドソード | Espada 1 mão／Ataque：４６ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0030.png" width="36" title="WEAPON2_RS11_SQUARETHRUST — スクエアスラッシャー"> `WEAPON2_RS11_SQUARETHRUST` | スクエアスラッシャー |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS12_SKELETON_K — 骸骨騎士の剣"> `WEAPON2_RS12_SKELETON_K` | 骸骨騎士の剣 |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS13_SKELETON_KF — 骸骨騎士の炎剣"> `WEAPON2_RS13_SKELETON_KF` | 骸骨騎士の炎剣 |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS14_SKELETON_KI — 骸骨騎士の氷剣"> `WEAPON2_RS14_SKELETON_KI` | 骸骨騎士の氷剣 |
@@ -338,10 +338,10 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS16_TAMECHAN1 — ジェミニブレード"> `WEAPON2_RS16_TAMECHAN1` | ジェミニブレード |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS17_CRYSTALEDGE — リフレクトソード"> `WEAPON2_RS17_CRYSTALEDGE` | リフレクトソード |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS18_SHINKI1 — ガーディアンブレード"> `WEAPON2_RS18_SHINKI1` | ガーディアンブレード |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS19_CLAYMORE — ★クレイモア"> `WEAPON2_RS19_CLAYMORE` | ★クレイモア |
+| <img src="../img/icons/icon_0023.png" width="36" title="WEAPON2_RS19_CLAYMORE — ★クレイモア"> `WEAPON2_RS19_CLAYMORE` | ★クレイモア |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS20_SHINKI — 魔道の剣"> `WEAPON2_RS20_SHINKI` | 魔道の剣 |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS22_SAIJYOUI — アルティマソード"> `WEAPON2_RS22_SAIJYOUI` | アルティマソード |
-| <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS23_SQUARETHRUST — ★スクエアスラッシャー"> `WEAPON2_RS23_SQUARETHRUST` | ★スクエアスラッシャー |
+| <img src="../img/icons/icon_0030.png" width="36" title="WEAPON2_RS23_SQUARETHRUST — ★スクエアスラッシャー"> `WEAPON2_RS23_SQUARETHRUST` | ★スクエアスラッシャー |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS24_ICEBRAND — アイスブランド"> `WEAPON2_RS24_ICEBRAND` | アイスブランド |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS25_THUNDERBLADE — サンダーブレード"> `WEAPON2_RS25_THUNDERBLADE` | サンダーブレード |
 | <img src="../img/icons/cls_rs.png" width="36" title="WEAPON2_RS26_CALIBURN — カリバーン"> `WEAPON2_RS26_CALIBURN` | カリバーン |
@@ -356,16 +356,16 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP01_SHORTSPEAR — ショートスピア — 機兵の剣"> `WEAPON2_SP01_SHORTSPEAR` | ショートスピア | 機兵の剣 |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP02_AWLPIKE — オウルパイク — Espada 1 mão／Ataque：５８ / RequerＳＴＲ：nenhum"> `WEAPON2_SP02_AWLPIKE` | オウルパイク | Espada 1 mão／Ataque：５８ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP03_PARTIZAN — パルチザン — Espada 1 mão／メタルナイトが使用 / しているEspada 1 mão。não sintetizável"> `WEAPON2_SP03_PARTIZAN` | パルチザン | Espada 1 mão／メタルナイトが使用 / しているEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP04_TRIDENT — トライデント — 暗黒機兵の剣"> `WEAPON2_SP04_TRIDENT` | トライデント | 暗黒機兵の剣 |
+| <img src="../img/icons/icon_0179.png" width="36" title="WEAPON2_SP01_SHORTSPEAR — ショートスピア — 機兵の剣"> `WEAPON2_SP01_SHORTSPEAR` | ショートスピア | 機兵の剣 |
+| <img src="../img/icons/icon_0032.png" width="36" title="WEAPON2_SP02_AWLPIKE — オウルパイク — Espada 1 mão／Ataque：５８ / RequerＳＴＲ：nenhum"> `WEAPON2_SP02_AWLPIKE` | オウルパイク | Espada 1 mão／Ataque：５８ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0033.png" width="36" title="WEAPON2_SP03_PARTIZAN — パルチザン — Espada 1 mão／メタルナイトが使用 / しているEspada 1 mão。não sintetizável"> `WEAPON2_SP03_PARTIZAN` | パルチザン | Espada 1 mão／メタルナイトが使用 / しているEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0035.png" width="36" title="WEAPON2_SP04_TRIDENT — トライデント — 暗黒機兵の剣"> `WEAPON2_SP04_TRIDENT` | トライデント | 暗黒機兵の剣 |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP05_MITHRILSPEAR — ミスリルスピア — Espada 1 mão／メタルナイトダークが / 使用しているEspada 1 mão。não sintetizável"> `WEAPON2_SP05_MITHRILSPEAR` | ミスリルスピア | Espada 1 mão／メタルナイトダークが / 使用しているEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP06_ICELANCE — アイススピア — 怪人の剣"> `WEAPON2_SP06_ICELANCE` | アイススピア | 怪人の剣 |
+| <img src="../img/icons/icon_0084.png" width="36" title="WEAPON2_SP06_ICELANCE — アイススピア — 怪人の剣"> `WEAPON2_SP06_ICELANCE` | アイススピア | 怪人の剣 |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP07_HOLYLANCE — ガイ・ボルガ — Espada 1 mão／Ataque：５０ / RequerＳＴＲ：nenhum"> `WEAPON2_SP07_HOLYLANCE` | ガイ・ボルガ | Espada 1 mão／Ataque：５０ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP08_PARTIZAN — ★パルチザン — Espada 1 mão／デヴィアスが使用して / いるEspada 1 mão。não sintetizável"> `WEAPON2_SP08_PARTIZAN` | ★パルチザン | Espada 1 mão／デヴィアスが使用して / いるEspada 1 mão。não sintetizável |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP09_FRAME — フレイムスピア"> `WEAPON2_SP09_FRAME` | フレイムスピア |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP10_THUNDER — サンダースピア"> `WEAPON2_SP10_THUNDER` | サンダースピア |
+| <img src="../img/icons/icon_0092.png" width="36" title="WEAPON2_SP08_PARTIZAN — ★パルチザン — Espada 1 mão／デヴィアスが使用して / いるEspada 1 mão。não sintetizável"> `WEAPON2_SP08_PARTIZAN` | ★パルチザン | Espada 1 mão／デヴィアスが使用して / いるEspada 1 mão。não sintetizável |
+| <img src="../img/icons/icon_0093.png" width="36" title="WEAPON2_SP09_FRAME — フレイムスピア"> `WEAPON2_SP09_FRAME` | フレイムスピア |
+| <img src="../img/icons/icon_0056.png" width="36" title="WEAPON2_SP10_THUNDER — サンダースピア"> `WEAPON2_SP10_THUNDER` | サンダースピア |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP11_LIZARDMAN_L — 蜥蜴槍兵の槍"> `WEAPON2_SP11_LIZARDMAN_L` | 蜥蜴槍兵の槍 |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP12_LIZARDMAN_R — 王族蜥蜴の槍"> `WEAPON2_SP12_LIZARDMAN_R` | 王族蜥蜴の槍 |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP13_KOBOLD_L — 犬頭鬼の槍"> `WEAPON2_SP13_KOBOLD_L` | 犬頭鬼の槍 |
@@ -376,12 +376,12 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP18_MUSSU — グレイブ"> `WEAPON2_SP18_MUSSU` | グレイブ |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP19_RUSHING — ラッシングスピア"> `WEAPON2_SP19_RUSHING` | ラッシングスピア |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP20_SHINKI1 — ニードルランス"> `WEAPON2_SP20_SHINKI1` | ニードルランス |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP21_AWLPIKE — ★オウルパイク"> `WEAPON2_SP21_AWLPIKE` | ★オウルパイク |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP22_TRIDENT — ★トライデント"> `WEAPON2_SP22_TRIDENT` | ★トライデント |
+| <img src="../img/icons/icon_0032.png" width="36" title="WEAPON2_SP21_AWLPIKE — ★オウルパイク"> `WEAPON2_SP21_AWLPIKE` | ★オウルパイク |
+| <img src="../img/icons/icon_0035.png" width="36" title="WEAPON2_SP22_TRIDENT — ★トライデント"> `WEAPON2_SP22_TRIDENT` | ★トライデント |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP23_BRIONAC — ブリューナク"> `WEAPON2_SP23_BRIONAC` | ブリューナク |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP24_FRAME — ★フレイムスピア"> `WEAPON2_SP24_FRAME` | ★フレイムスピア |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP25_ICELANCE — ★アイススピア"> `WEAPON2_SP25_ICELANCE` | ★アイススピア |
-| <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP26_THUNDER — ★サンダースピア"> `WEAPON2_SP26_THUNDER` | ★サンダースピア |
+| <img src="../img/icons/icon_0093.png" width="36" title="WEAPON2_SP24_FRAME — ★フレイムスピア"> `WEAPON2_SP24_FRAME` | ★フレイムスピア |
+| <img src="../img/icons/icon_0084.png" width="36" title="WEAPON2_SP25_ICELANCE — ★アイススピア"> `WEAPON2_SP25_ICELANCE` | ★アイススピア |
+| <img src="../img/icons/icon_0056.png" width="36" title="WEAPON2_SP26_THUNDER — ★サンダースピア"> `WEAPON2_SP26_THUNDER` | ★サンダースピア |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP27_PARALYZER — パラライザー"> `WEAPON2_SP27_PARALYZER` | パラライザー |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP28_SNAKEHALBERD — 軍神の蛇矛"> `WEAPON2_SP28_SNAKEHALBERD` | 軍神の蛇矛 |
 | <img src="../img/icons/cls_sp.png" width="36" title="WEAPON2_SP29_D4SHINKI — ノーザンハルバード"> `WEAPON2_SP29_D4SHINKI` | ノーザンハルバード |
@@ -394,19 +394,19 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST01_QUARTERSTAFF — クォータースタッフ — マスターレイピア"> `WEAPON2_ST01_QUARTERSTAFF` | クォータースタッフ | マスターレイピア |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST02_SCEPTER — セプター — Espada 1 mão／Ataque：５３ / RequerＳＴＲ：５"> `WEAPON2_ST02_SCEPTER` | セプター | Espada 1 mão／Ataque：５３ / RequerＳＴＲ：５ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST03_WIZARDSSTAFF — ウィザードスタッフ — Espada 1 mão／相手を斬りつけること / よりも刺すことを重視した剣"> `WEAPON2_ST03_WIZARDSSTAFF` | ウィザードスタッフ | Espada 1 mão／相手を斬りつけること / よりも刺すことを重視した剣 |
+| <img src="../img/icons/icon_0057.png" width="36" title="WEAPON2_ST01_QUARTERSTAFF — クォータースタッフ — マスターレイピア"> `WEAPON2_ST01_QUARTERSTAFF` | クォータースタッフ | マスターレイピア |
+| <img src="../img/icons/icon_0058.png" width="36" title="WEAPON2_ST02_SCEPTER — セプター — Espada 1 mão／Ataque：５３ / RequerＳＴＲ：５"> `WEAPON2_ST02_SCEPTER` | セプター | Espada 1 mão／Ataque：５３ / RequerＳＴＲ：５ |
+| <img src="../img/icons/icon_0060.png" width="36" title="WEAPON2_ST03_WIZARDSSTAFF — ウィザードスタッフ — Espada 1 mão／相手を斬りつけること / よりも刺すことを重視した剣"> `WEAPON2_ST03_WIZARDSSTAFF` | ウィザードスタッフ | Espada 1 mão／相手を斬りつけること / よりも刺すことを重視した剣 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST04_HEALROD — ヒールロッド — トライブエッジ"> `WEAPON2_ST04_HEALROD` | ヒールロッド | トライブエッジ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST05_MAGICALSTAFF — クリスタルワンド — Espada 1 mão／大きく湾曲した刃が / 特徴的なEspada 1 mão"> `WEAPON2_ST05_MAGICALSTAFF` | クリスタルワンド | Espada 1 mão／大きく湾曲した刃が / 特徴的なEspada 1 mão |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST06_POWERSTAFF — パワースタッフ — グラディエーター"> `WEAPON2_ST06_POWERSTAFF` | パワースタッフ | グラディエーター |
+| <img src="../img/icons/icon_0182.png" width="36" title="WEAPON2_ST05_MAGICALSTAFF — クリスタルワンド — Espada 1 mão／大きく湾曲した刃が / 特徴的なEspada 1 mão"> `WEAPON2_ST05_MAGICALSTAFF` | クリスタルワンド | Espada 1 mão／大きく湾曲した刃が / 特徴的なEspada 1 mão |
+| <img src="../img/icons/icon_0087.png" width="36" title="WEAPON2_ST06_POWERSTAFF — パワースタッフ — グラディエーター"> `WEAPON2_ST06_POWERSTAFF` | パワースタッフ | グラディエーター |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST07_MYRDDINSTAFF — ユーデクス — Espada 1 mão／Ataque：７３ / RequerＳＴＲ：１０"> `WEAPON2_ST07_MYRDDINSTAFF` | ユーデクス | Espada 1 mão／Ataque：７３ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST08_WIZARDSSTAFF — ★ウィザードスタッフ — Espada 1 mão／罪人の怨念が / 込められた剣"> `WEAPON2_ST08_WIZARDSSTAFF` | ★ウィザードスタッフ | Espada 1 mão／罪人の怨念が / 込められた剣 |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST09_MANASTAFF — マナスタッフ"> `WEAPON2_ST09_MANASTAFF` | マナスタッフ |
+| <img src="../img/icons/icon_0099.png" width="36" title="WEAPON2_ST08_WIZARDSSTAFF — ★ウィザードスタッフ — Espada 1 mão／罪人の怨念が / 込められた剣"> `WEAPON2_ST08_WIZARDSSTAFF` | ★ウィザードスタッフ | Espada 1 mão／罪人の怨念が / 込められた剣 |
+| <img src="../img/icons/icon_0150.png" width="36" title="WEAPON2_ST09_MANASTAFF — マナスタッフ"> `WEAPON2_ST09_MANASTAFF` | マナスタッフ |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST10_MAGESTAFF — メイジスタッフ"> `WEAPON2_ST10_MAGESTAFF` | メイジスタッフ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST11_WIZARD_EX1 — フレイムスタッフ"> `WEAPON2_ST11_WIZARD_EX1` | フレイムスタッフ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST12_WIZARD_EX2 — アイススタッフ"> `WEAPON2_ST12_WIZARD_EX2` | アイススタッフ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST13_WIZARD_EX3 — サンダースタッフ"> `WEAPON2_ST13_WIZARD_EX3` | サンダースタッフ |
+| <img src="../img/icons/icon_0151.png" width="36" title="WEAPON2_ST11_WIZARD_EX1 — フレイムスタッフ"> `WEAPON2_ST11_WIZARD_EX1` | フレイムスタッフ |
+| <img src="../img/icons/icon_0152.png" width="36" title="WEAPON2_ST12_WIZARD_EX2 — アイススタッフ"> `WEAPON2_ST12_WIZARD_EX2` | アイススタッフ |
+| <img src="../img/icons/icon_0063.png" width="36" title="WEAPON2_ST13_WIZARD_EX3 — サンダースタッフ"> `WEAPON2_ST13_WIZARD_EX3` | サンダースタッフ |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST14_SKELETON_M — 骸骨の杖"> `WEAPON2_ST14_SKELETON_M` | 骸骨の杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST15_SKELETON_MF — 骸骨の炎杖"> `WEAPON2_ST15_SKELETON_MF` | 骸骨の炎杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST16_SKELETON_MI — 骸骨の氷杖"> `WEAPON2_ST16_SKELETON_MI` | 骸骨の氷杖 |
@@ -417,20 +417,20 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST21_ORC_MT — 邪鬼の雷杖"> `WEAPON2_ST21_ORC_MT` | 邪鬼の雷杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST22_MAGICIAN — 魔術師の杖"> `WEAPON2_ST22_MAGICIAN` | 魔術師の杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST23_TAMECHAN1 — カースロッド"> `WEAPON2_ST23_TAMECHAN1` | カースロッド |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST24_MANA — マナロッド"> `WEAPON2_ST24_MANA` | マナロッド |
+| <img src="../img/icons/icon_0781.png" width="36" title="WEAPON2_ST24_MANA — マナロッド"> `WEAPON2_ST24_MANA` | マナロッド |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST25_NECROMANCER — 死霊術士の杖"> `WEAPON2_ST25_NECROMANCER` | 死霊術士の杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST26_SORCERESS — 魔女の杖"> `WEAPON2_ST26_SORCERESS` | 魔女の杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST27_CONJURER — 奇術師の杖"> `WEAPON2_ST27_CONJURER` | 奇術師の杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST28_JEM — ジェムスタッフ"> `WEAPON2_ST28_JEM` | ジェムスタッフ |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST29_SHINKI — セイクリッドワンド"> `WEAPON2_ST29_SHINKI` | セイクリッドワンド |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST30_MAGICALSTAFF — ★クリスタルワンド"> `WEAPON2_ST30_MAGICALSTAFF` | ★クリスタルワンド |
+| <img src="../img/icons/icon_0182.png" width="36" title="WEAPON2_ST30_MAGICALSTAFF — ★クリスタルワンド"> `WEAPON2_ST30_MAGICALSTAFF` | ★クリスタルワンド |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST31_SHINKI — マギスタッフ"> `WEAPON2_ST31_SHINKI` | マギスタッフ |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST32_SHINKI — アストラルワンド"> `WEAPON2_ST32_SHINKI` | アストラルワンド |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST33_SAIJYOUI — エクリプスロッド"> `WEAPON2_ST33_SAIJYOUI` | エクリプスロッド |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST34_JEM — ★ジェムスタッフ"> `WEAPON2_ST34_JEM` | ★ジェムスタッフ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST35_WIZARD_EX1 — ★フレイムスタッフ"> `WEAPON2_ST35_WIZARD_EX1` | ★フレイムスタッフ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST36_WIZARD_EX2 — ★アイススタッフ"> `WEAPON2_ST36_WIZARD_EX2` | ★アイススタッフ |
-| <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST37_WIZARD_EX3 — ★サンダースタッフ"> `WEAPON2_ST37_WIZARD_EX3` | ★サンダースタッフ |
+| <img src="../img/icons/icon_0151.png" width="36" title="WEAPON2_ST35_WIZARD_EX1 — ★フレイムスタッフ"> `WEAPON2_ST35_WIZARD_EX1` | ★フレイムスタッフ |
+| <img src="../img/icons/icon_0152.png" width="36" title="WEAPON2_ST36_WIZARD_EX2 — ★アイススタッフ"> `WEAPON2_ST36_WIZARD_EX2` | ★アイススタッフ |
+| <img src="../img/icons/icon_0063.png" width="36" title="WEAPON2_ST37_WIZARD_EX3 — ★サンダースタッフ"> `WEAPON2_ST37_WIZARD_EX3` | ★サンダースタッフ |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST38_DRUID_ARCH — 大神官の杖"> `WEAPON2_ST38_DRUID_ARCH` | 大神官の杖 |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST39_PRISMATIC — プリズマティックワンド"> `WEAPON2_ST39_PRISMATIC` | プリズマティックワンド |
 | <img src="../img/icons/cls_st.png" width="36" title="WEAPON2_ST40_NECRO — イビルロッド"> `WEAPON2_ST40_NECRO` | イビルロッド |
@@ -446,18 +446,18 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU01_WOODBOW — ウッドボウ — ライトブリンガー"> `WEAPON2_YU01_WOODBOW` | ウッドボウ | ライトブリンガー |
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU02_BATTLEBOW — バトルボウ — Espada 1 mão／Ataque：７２ / RequerＳＴＲ：１０"> `WEAPON2_YU02_BATTLEBOW` | バトルボウ | Espada 1 mão／Ataque：７２ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU03_LONGBOW — ロングボウ — Espada 1 mão／絶大な力を恐れた神々 / が二つに分断したといわれる剣"> `WEAPON2_YU03_LONGBOW` | ロングボウ | Espada 1 mão／絶大な力を恐れた神々 / が二つに分断したといわれる剣 |
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU04_GREATBOW — グレートボウ — シャドウブリンガー"> `WEAPON2_YU04_GREATBOW` | グレートボウ | シャドウブリンガー |
+| <img src="../img/icons/icon_0064.png" width="36" title="WEAPON2_YU01_WOODBOW — ウッドボウ — ライトブリンガー"> `WEAPON2_YU01_WOODBOW` | ウッドボウ | ライトブリンガー |
+| <img src="../img/icons/icon_0065.png" width="36" title="WEAPON2_YU02_BATTLEBOW — バトルボウ — Espada 1 mão／Ataque：７２ / RequerＳＴＲ：１０"> `WEAPON2_YU02_BATTLEBOW` | バトルボウ | Espada 1 mão／Ataque：７２ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0066.png" width="36" title="WEAPON2_YU03_LONGBOW — ロングボウ — Espada 1 mão／絶大な力を恐れた神々 / が二つに分断したといわれる剣"> `WEAPON2_YU03_LONGBOW` | ロングボウ | Espada 1 mão／絶大な力を恐れた神々 / が二つに分断したといわれる剣 |
+| <img src="../img/icons/icon_0088.png" width="36" title="WEAPON2_YU04_GREATBOW — グレートボウ — シャドウブリンガー"> `WEAPON2_YU04_GREATBOW` | グレートボウ | シャドウブリンガー |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU05_YUMI — 紅桜 — Espada 1 mão／Ataque：７４ / RequerＳＴＲ：１０"> `WEAPON2_YU05_YUMI` | 紅桜 | Espada 1 mão／Ataque：７４ / RequerＳＴＲ：１０ |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU06_MITHRILBOW — ミスリルボウ — アロンダイト"> `WEAPON2_YU06_MITHRILBOW` | ミスリルボウ | アロンダイト |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU07_TSUKINOYUMI — 月の弓 — Espada 1 mão／Ataque：７７ / RequerＳＴＲ：１０"> `WEAPON2_YU07_TSUKINOYUMI` | 月の弓 | Espada 1 mão／Ataque：７７ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU08_LONGBOW — ★ロングボウ"> `WEAPON2_YU08_LONGBOW` | ★ロングボウ |
+| <img src="../img/icons/icon_0101.png" width="36" title="WEAPON2_YU08_LONGBOW — ★ロングボウ"> `WEAPON2_YU08_LONGBOW` | ★ロングボウ |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU09_IRONBOW — アイアンボウ"> `WEAPON2_YU09_IRONBOW` | アイアンボウ |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU10 — 狩人の弓"> `WEAPON2_YU10` | 狩人の弓 |
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU11_BATTLEBOW — ★バトルボウ"> `WEAPON2_YU11_BATTLEBOW` | ★バトルボウ |
-| <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU12_GREATBOW — ★グレートボウ"> `WEAPON2_YU12_GREATBOW` | ★グレートボウ |
+| <img src="../img/icons/icon_0065.png" width="36" title="WEAPON2_YU11_BATTLEBOW — ★バトルボウ"> `WEAPON2_YU11_BATTLEBOW` | ★バトルボウ |
+| <img src="../img/icons/icon_0088.png" width="36" title="WEAPON2_YU12_GREATBOW — ★グレートボウ"> `WEAPON2_YU12_GREATBOW` | ★グレートボウ |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU13_SHINKI — エルブンボウ"> `WEAPON2_YU13_SHINKI` | エルブンボウ |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU14_IRONBOW — ★アイアンボウ"> `WEAPON2_YU14_IRONBOW` | ★アイアンボウ |
 | <img src="../img/icons/cls_yu.png" width="36" title="WEAPON2_YU15_LUGH — ルーの弓"> `WEAPON2_YU15_LUGH` | ルーの弓 |
@@ -473,43 +473,43 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM01_LEATHER — レザーアーマー — スケルトンメイジＩを / 召喚するためのカード"> `ARMOR2_AM01_LEATHER` | レザーアーマー | スケルトンメイジＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0753.png" width="36" title="ARMOR2_AM01_LEATHER — レザーアーマー — スケルトンメイジＩを / 召喚するためのカード"> `ARMOR2_AM01_LEATHER` | レザーアーマー | スケルトンメイジＩを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM02_JACKET — レザージャケット — ドワーブンスケルトンＩ"> `ARMOR2_AM02_JACKET` | レザージャケット | ドワーブンスケルトンＩ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM03_CHAINMAIL — チェインメイル — ドワーブンスケルトンＩを / 召喚するためのカード"> `ARMOR2_AM03_CHAINMAIL` | チェインメイル | ドワーブンスケルトンＩを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM04_SCALE — スケイルメイル — スケルトンアーチャーＩ"> `ARMOR2_AM04_SCALE` | スケイルメイル | スケルトンアーチャーＩ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM05_LAMELLAR — ラメラアーマー — スケルトンアーチャーＩを / 召喚するためのカード"> `ARMOR2_AM05_LAMELLAR` | ラメラアーマー | スケルトンアーチャーＩを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM06_IRON — アイアンアーマー — スケルトンＴ"> `ARMOR2_AM06_IRON` | アイアンアーマー | スケルトンＴ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM07_PLATE — プレートメイル — スケルトンＴを / 召喚するためのカード"> `ARMOR2_AM07_PLATE` | プレートメイル | スケルトンＴを / 召喚するためのカード |
+| <img src="../img/icons/icon_0403.png" width="36" title="ARMOR2_AM03_CHAINMAIL — チェインメイル — ドワーブンスケルトンＩを / 召喚するためのカード"> `ARMOR2_AM03_CHAINMAIL` | チェインメイル | ドワーブンスケルトンＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0404.png" width="36" title="ARMOR2_AM04_SCALE — スケイルメイル — スケルトンアーチャーＩ"> `ARMOR2_AM04_SCALE` | スケイルメイル | スケルトンアーチャーＩ |
+| <img src="../img/icons/icon_0405.png" width="36" title="ARMOR2_AM05_LAMELLAR — ラメラアーマー — スケルトンアーチャーＩを / 召喚するためのカード"> `ARMOR2_AM05_LAMELLAR` | ラメラアーマー | スケルトンアーチャーＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0406.png" width="36" title="ARMOR2_AM06_IRON — アイアンアーマー — スケルトンＴ"> `ARMOR2_AM06_IRON` | アイアンアーマー | スケルトンＴ |
+| <img src="../img/icons/icon_0452.png" width="36" title="ARMOR2_AM07_PLATE — プレートメイル — スケルトンＴを / 召喚するためのカード"> `ARMOR2_AM07_PLATE` | プレートメイル | スケルトンＴを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM08_KNIGHT — ナイトプレート — スケルトンナイトＴ"> `ARMOR2_AM08_KNIGHT` | ナイトプレート | スケルトンナイトＴ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM09_FLAME — フレイムアーマー — スケルトンナイトＴを / 召喚するためのカード"> `ARMOR2_AM09_FLAME` | フレイムアーマー | スケルトンナイトＴを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM10_ICE — アイスアーマー — スケルトンメイジＴ"> `ARMOR2_AM10_ICE` | アイスアーマー | スケルトンメイジＴ |
+| <img src="../img/icons/icon_0457.png" width="36" title="ARMOR2_AM09_FLAME — フレイムアーマー — スケルトンナイトＴを / 召喚するためのカード"> `ARMOR2_AM09_FLAME` | フレイムアーマー | スケルトンナイトＴを / 召喚するためのカード |
+| <img src="../img/icons/icon_0454.png" width="36" title="ARMOR2_AM10_ICE — アイスアーマー — スケルトンメイジＴ"> `ARMOR2_AM10_ICE` | アイスアーマー | スケルトンメイジＴ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM11_SPARK — スパークアーマー — スケルトンメイジＴを / 召喚するためのカード"> `ARMOR2_AM11_SPARK` | スパークアーマー | スケルトンメイジＴを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM12_MAGIC — マジックアーマー — ドワーブンスケルトンＴ"> `ARMOR2_AM12_MAGIC` | マジックアーマー | ドワーブンスケルトンＴ |
+| <img src="../img/icons/icon_0455.png" width="36" title="ARMOR2_AM12_MAGIC — マジックアーマー — ドワーブンスケルトンＴ"> `ARMOR2_AM12_MAGIC` | マジックアーマー | ドワーブンスケルトンＴ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM13_CURE — キュアアーマー — ドワーブンスケルトンＴを / 召喚するためのカード"> `ARMOR2_AM13_CURE` | キュアアーマー | ドワーブンスケルトンＴを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM14_BRIGANDINE — ブリガンダイン — スケルトンアーチャーＴ"> `ARMOR2_AM14_BRIGANDINE` | ブリガンダイン | スケルトンアーチャーＴ |
+| <img src="../img/icons/icon_0415.png" width="36" title="ARMOR2_AM14_BRIGANDINE — ブリガンダイン — スケルトンアーチャーＴ"> `ARMOR2_AM14_BRIGANDINE` | ブリガンダイン | スケルトンアーチャーＴ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM15_MITHRIL — ミスリルアーマー — スケルトンアーチャーＴを / 召喚するためのカード"> `ARMOR2_AM15_MITHRIL` | ミスリルアーマー | スケルトンアーチャーＴを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM16_DRAGON — ドラゴンアーマー — オークＦ"> `ARMOR2_AM16_DRAGON` | ドラゴンアーマー | オークＦ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM17_LEATHER — レザークロス — オークＦを / 召喚するためのカード"> `ARMOR2_AM17_LEATHER` | レザークロス | オークＦを / 召喚するためのカード |
+| <img src="../img/icons/icon_0422.png" width="36" title="ARMOR2_AM16_DRAGON — ドラゴンアーマー — オークＦ"> `ARMOR2_AM16_DRAGON` | ドラゴンアーマー | オークＦ |
+| <img src="../img/icons/icon_0753.png" width="36" title="ARMOR2_AM17_LEATHER — レザークロス — オークＦを / 召喚するためのカード"> `ARMOR2_AM17_LEATHER` | レザークロス | オークＦを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM18_CUCHULAIN — ソリッドアーマー — オークメイジＦ"> `ARMOR2_AM18_CUCHULAIN` | ソリッドアーマー | オークメイジＦ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM19_SPIKE — スパイククロス — オークメイジＦを / 召喚するためのカード"> `ARMOR2_AM19_SPIKE` | スパイククロス | オークメイジＦを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM20_WHITE — ホーリーメイル — オークチーフＦ"> `ARMOR2_AM20_WHITE` | ホーリーメイル | オークチーフＦ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM21_PIRATE — パイレーツプレート — オークチーフＦを / 召喚するためのカード"> `ARMOR2_AM21_PIRATE` | パイレーツプレート | オークチーフＦを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM22_BLACK — デモンズアーマー — オークＩ"> `ARMOR2_AM22_BLACK` | デモンズアーマー | オークＩ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM23_CROTH — オークＩを / 召喚するためのカード"> `ARMOR2_AM23_CROTH` |  | オークＩを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM24_DEFAULT — クロスアーマー — オークメイジＩ"> `ARMOR2_AM24_DEFAULT` | クロスアーマー | オークメイジＩ |
+| <img src="../img/icons/icon_0423.png" width="36" title="ARMOR2_AM23_CROTH — オークＩを / 召喚するためのカード"> `ARMOR2_AM23_CROTH` |  | オークＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0440.png" width="36" title="ARMOR2_AM24_DEFAULT — クロスアーマー — オークメイジＩ"> `ARMOR2_AM24_DEFAULT` | クロスアーマー | オークメイジＩ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM25_FIGHTER — ファイタークロス — ホーリーソード"> `ARMOR2_AM25_FIGHTER` | ファイタークロス | ホーリーソード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM26_LEATHER — ★レザーアーマー — オークメイジＩを / 召喚するためのカード"> `ARMOR2_AM26_LEATHER` | ★レザーアーマー | オークメイジＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0753.png" width="36" title="ARMOR2_AM26_LEATHER — ★レザーアーマー — オークメイジＩを / 召喚するためのカード"> `ARMOR2_AM26_LEATHER` | ★レザーアーマー | オークメイジＩを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM27_JACKET — ★レザージャケット — オークチーフＩ"> `ARMOR2_AM27_JACKET` | ★レザージャケット | オークチーフＩ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM28_CHAINMAIL — ★チェインメイル — オークチーフＩを / 召喚するためのカード"> `ARMOR2_AM28_CHAINMAIL` | ★チェインメイル | オークチーフＩを / 召喚するためのカード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM29_IRON — ★アイアンアーマー — オークＴ"> `ARMOR2_AM29_IRON` | ★アイアンアーマー | オークＴ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM30_CROTH — ★クロスアーマー — オークＴを / 召喚するためのカード"> `ARMOR2_AM30_CROTH` | ★クロスアーマー | オークＴを / 召喚するためのカード |
+| <img src="../img/icons/icon_0441.png" width="36" title="ARMOR2_AM28_CHAINMAIL — ★チェインメイル — オークチーフＩを / 召喚するためのカード"> `ARMOR2_AM28_CHAINMAIL` | ★チェインメイル | オークチーフＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0442.png" width="36" title="ARMOR2_AM29_IRON — ★アイアンアーマー — オークＴ"> `ARMOR2_AM29_IRON` | ★アイアンアーマー | オークＴ |
+| <img src="../img/icons/icon_0449.png" width="36" title="ARMOR2_AM30_CROTH — ★クロスアーマー — オークＴを / 召喚するためのカード"> `ARMOR2_AM30_CROTH` | ★クロスアーマー | オークＴを / 召喚するためのカード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM31_COPPERCLOTH — カッパークロス"> `ARMOR2_AM31_COPPERCLOTH` | カッパークロス |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM32_DAIYOROI — 緋染の鎧"> `ARMOR2_AM32_DAIYOROI` | 緋染の鎧 |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM33_CHAINMALE_EX — クリムゾンチェイン"> `ARMOR2_AM33_CHAINMALE_EX` | クリムゾンチェイン |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM34_CLOTH_EX — レイクロス"> `ARMOR2_AM34_CLOTH_EX` | レイクロス |
+| <img src="../img/icons/icon_0450.png" width="36" title="ARMOR2_AM33_CHAINMALE_EX — クリムゾンチェイン"> `ARMOR2_AM33_CHAINMALE_EX` | クリムゾンチェイン |
+| <img src="../img/icons/icon_0427.png" width="36" title="ARMOR2_AM34_CLOTH_EX — レイクロス"> `ARMOR2_AM34_CLOTH_EX` | レイクロス |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM35_DWARVEN — ドワーブンアーマー — ホーリーソード"> `ARMOR2_AM35_DWARVEN` | ドワーブンアーマー | ホーリーソード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM36_REFLECT — リフレクトアーマー"> `ARMOR2_AM36_REFLECT` | リフレクトアーマー |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM37_SCALE — ★スケイルメイル"> `ARMOR2_AM37_SCALE` | ★スケイルメイル |
+| <img src="../img/icons/icon_0268.png" width="36" title="ARMOR2_AM36_REFLECT — リフレクトアーマー"> `ARMOR2_AM36_REFLECT` | リフレクトアーマー |
+| <img src="../img/icons/icon_0404.png" width="36" title="ARMOR2_AM37_SCALE — ★スケイルメイル"> `ARMOR2_AM37_SCALE` | ★スケイルメイル |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM38_BONE — リブアーマー"> `ARMOR2_AM38_BONE` | リブアーマー |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM39_SHINKI — ジェネラルアーマー"> `ARMOR2_AM39_SHINKI` | ジェネラルアーマー |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM40_SOURAN — 蒼藍の鎧"> `ARMOR2_AM40_SOURAN` | 蒼藍の鎧 |
@@ -527,20 +527,20 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_AM52_NINJYA_EX — 風魔装束"> `ARMOR2_AM52_NINJYA_EX` | 風魔装束 |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO01_ROBE — メイジローブ — ホーリーソード"> `ARMOR2_RO01_ROBE` | メイジローブ | ホーリーソード |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO02_TUNIC — フードローブ — ホーリーソード"> `ARMOR2_RO02_TUNIC` | フードローブ | ホーリーソード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO03_MAGEROBE — 片手Machado／Ataque：５７ / RequerＳＴＲ：１５"> `ARMOR2_RO03_MAGEROBE` |  | 片手Machado／Ataque：５７ / RequerＳＴＲ：１５ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO04_HOODROBE — 片手Machado／ウォーアックスをより / 戦闘向けにしたもの"> `ARMOR2_RO04_HOODROBE` |  | 片手Machado／ウォーアックスをより / 戦闘向けにしたもの |
+| <img src="../img/icons/icon_0428.png" width="36" title="ARMOR2_RO03_MAGEROBE — 片手Machado／Ataque：５７ / RequerＳＴＲ：１５"> `ARMOR2_RO03_MAGEROBE` |  | 片手Machado／Ataque：５７ / RequerＳＴＲ：１５ |
+| <img src="../img/icons/icon_0430.png" width="36" title="ARMOR2_RO04_HOODROBE — 片手Machado／ウォーアックスをより / 戦闘向けにしたもの"> `ARMOR2_RO04_HOODROBE` |  | 片手Machado／ウォーアックスをより / 戦闘向けにしたもの |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO05_SIRCOAT — ホーリーソード"> `ARMOR2_RO05_SIRCOAT` |  | ホーリーソード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO06_CHASUBLE — カズラ — ゴールドアックス"> `ARMOR2_RO06_CHASUBLE` | カズラ | ゴールドアックス |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO07_DALMATICA — ダルマティカ — 片手Machado／Ataque：４０ / RequerＳＴＲ：１５"> `ARMOR2_RO07_DALMATICA` | ダルマティカ | 片手Machado／Ataque：４０ / RequerＳＴＲ：１５ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO08_SHADOWROBE — シャドウローブ — 片手Machado／耐久性に優れた黄金で / 作られたバトルアックス"> `ARMOR2_RO08_SHADOWROBE` | シャドウローブ | 片手Machado／耐久性に優れた黄金で / 作られたバトルアックス |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO09_KINGROBE — キングローブ — シールドアックス"> `ARMOR2_RO09_KINGROBE` | キングローブ | シールドアックス |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO10_PROTECTROBE — プロテクトローブ — 片手Machado／Ataque：５２ / RequerＳＴＲ：１０"> `ARMOR2_RO10_PROTECTROBE` | プロテクトローブ | 片手Machado／Ataque：５２ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO11_WIZARDROBE — ウィザードローブ — 片手Machado／Machadoの柄の部分に鉄製の / シールドを装着したもの"> `ARMOR2_RO11_WIZARDROBE` | ウィザードローブ | 片手Machado／Machadoの柄の部分に鉄製の / シールドを装着したもの |
+| <img src="../img/icons/icon_0431.png" width="36" title="ARMOR2_RO06_CHASUBLE — カズラ — ゴールドアックス"> `ARMOR2_RO06_CHASUBLE` | カズラ | ゴールドアックス |
+| <img src="../img/icons/icon_0432.png" width="36" title="ARMOR2_RO07_DALMATICA — ダルマティカ — 片手Machado／Ataque：４０ / RequerＳＴＲ：１５"> `ARMOR2_RO07_DALMATICA` | ダルマティカ | 片手Machado／Ataque：４０ / RequerＳＴＲ：１５ |
+| <img src="../img/icons/icon_0433.png" width="36" title="ARMOR2_RO08_SHADOWROBE — シャドウローブ — 片手Machado／耐久性に優れた黄金で / 作られたバトルアックス"> `ARMOR2_RO08_SHADOWROBE` | シャドウローブ | 片手Machado／耐久性に優れた黄金で / 作られたバトルアックス |
+| <img src="../img/icons/icon_0456.png" width="36" title="ARMOR2_RO09_KINGROBE — キングローブ — シールドアックス"> `ARMOR2_RO09_KINGROBE` | キングローブ | シールドアックス |
+| <img src="../img/icons/icon_0435.png" width="36" title="ARMOR2_RO10_PROTECTROBE — プロテクトローブ — 片手Machado／Ataque：５２ / RequerＳＴＲ：１０"> `ARMOR2_RO10_PROTECTROBE` | プロテクトローブ | 片手Machado／Ataque：５２ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0443.png" width="36" title="ARMOR2_RO11_WIZARDROBE — ウィザードローブ — 片手Machado／Machadoの柄の部分に鉄製の / シールドを装着したもの"> `ARMOR2_RO11_WIZARDROBE` | ウィザードローブ | 片手Machado／Machadoの柄の部分に鉄製の / シールドを装着したもの |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO12_BURGLARJACKET — バーグラージャケット — ウェルテクス"> `ARMOR2_RO12_BURGLARJACKET` | バーグラージャケット | ウェルテクス |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO13_SOULROBE — ソウルローブ — 片手Machado／Ataque：３０ / RequerＳＴＲ：nenhum"> `ARMOR2_RO13_SOULROBE` | ソウルローブ | 片手Machado／Ataque：３０ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO14_MAGEROBE — ★メイジローブ — 片手Machado／神王のみが所有するこ / とを許された伝説のMachado"> `ARMOR2_RO14_MAGEROBE` | ★メイジローブ | 片手Machado／神王のみが所有するこ / とを許された伝説のMachado |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO15_HOODROBE — ★フードローブ — ★ウォーアックス"> `ARMOR2_RO15_HOODROBE` | ★フードローブ | ★ウォーアックス |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO16_DALMATICA — ★ダルマティカ — 片手Machado／Ataque：３８ / RequerＳＴＲ：nenhum"> `ARMOR2_RO16_DALMATICA` | ★ダルマティカ | 片手Machado／Ataque：３８ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0444.png" width="36" title="ARMOR2_RO14_MAGEROBE — ★メイジローブ — 片手Machado／神王のみが所有するこ / とを許された伝説のMachado"> `ARMOR2_RO14_MAGEROBE` | ★メイジローブ | 片手Machado／神王のみが所有するこ / とを許された伝説のMachado |
+| <img src="../img/icons/icon_0445.png" width="36" title="ARMOR2_RO15_HOODROBE — ★フードローブ — ★ウォーアックス"> `ARMOR2_RO15_HOODROBE` | ★フードローブ | ★ウォーアックス |
+| <img src="../img/icons/icon_0451.png" width="36" title="ARMOR2_RO16_DALMATICA — ★ダルマティカ — 片手Machado／Ataque：３８ / RequerＳＴＲ：nenhum"> `ARMOR2_RO16_DALMATICA` | ★ダルマティカ | 片手Machado／Ataque：３８ / RequerＳＴＲ：nenhum |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO17_WARLOCKROBE — ウォーロックローブ"> `ARMOR2_RO17_WARLOCKROBE` | ウォーロックローブ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO18_DEGRATICA — ディグラティカ"> `ARMOR2_RO18_DEGRATICA` | ディグラティカ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO19_MUSSU1"> `ARMOR2_RO19_MUSSU1` |  |
@@ -550,14 +550,14 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO23_SHAMANQUILT — セイントローブ"> `ARMOR2_RO23_SHAMANQUILT` | セイントローブ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO24_HOOD_EX — シャーマンキルト"> `ARMOR2_RO24_HOOD_EX` | シャーマンキルト |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO25_ELVEN — エンハンスローブ — ホーリーソード"> `ARMOR2_RO25_ELVEN` | エンハンスローブ | ホーリーソード |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO26_CHASUBLE — ★カズラ"> `ARMOR2_RO26_CHASUBLE` | ★カズラ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO27_SHADOWROBE — ★シャドウローブ"> `ARMOR2_RO27_SHADOWROBE` | ★シャドウローブ |
+| <img src="../img/icons/icon_0431.png" width="36" title="ARMOR2_RO26_CHASUBLE — ★カズラ"> `ARMOR2_RO26_CHASUBLE` | ★カズラ |
+| <img src="../img/icons/icon_0433.png" width="36" title="ARMOR2_RO27_SHADOWROBE — ★シャドウローブ"> `ARMOR2_RO27_SHADOWROBE` | ★シャドウローブ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO28_SHINKI — セイクリッドローブ"> `ARMOR2_RO28_SHINKI` | セイクリッドローブ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO29_SHINKI — アストラルローブ"> `ARMOR2_RO29_SHINKI` | アストラルローブ |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO30_PLATE — ★プレートメイル"> `ARMOR2_RO30_PLATE` | ★プレートメイル |
+| <img src="../img/icons/icon_0452.png" width="36" title="ARMOR2_RO30_PLATE — ★プレートメイル"> `ARMOR2_RO30_PLATE` | ★プレートメイル |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO31_SHINKI — バンデットメイル"> `ARMOR2_RO31_SHINKI` | バンデットメイル |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO32_SHINKI — 忍者装束"> `ARMOR2_RO32_SHINKI` | 忍者装束 |
-| <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO33_LEATHER — ★レザークロス"> `ARMOR2_RO33_LEATHER` | ★レザークロス |
+| <img src="../img/icons/icon_0753.png" width="36" title="ARMOR2_RO33_LEATHER — ★レザークロス"> `ARMOR2_RO33_LEATHER` | ★レザークロス |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO34_SHINKI — アビスローブ"> `ARMOR2_RO34_SHINKI` | アビスローブ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO35_SHINKI — ルミナスローブ"> `ARMOR2_RO35_SHINKI` | ルミナスローブ |
 | <img src="../img/icons/cls_armor.png" width="36" title="ARMOR2_RO36_SHINKI — ノートリアスジャケット"> `ARMOR2_RO36_SHINKI` | ノートリアスジャケット |
@@ -575,42 +575,42 @@ chapéus, elmos, coroas, máscaras, óculos
 | item | nome | notas |
 |---|---|---|
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM00_D4SHINKI4 — アルカナベール"> `HELM2_HM00_D4SHINKI4` | アルカナベール |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM01_HALF — ハーフヘルム — ロイヤルリザードマン・改を / 召喚するためのカード"> `HELM2_HM01_HALF` | ハーフヘルム | ロイヤルリザードマン・改を / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM02_IRON — アイアンヘルム — ボーゲスト"> `HELM2_HM02_IRON` | アイアンヘルム | ボーゲスト |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM03_VIKING — ヴァイキングヘルム — ボーゲストを / 召喚するためのカード"> `HELM2_HM03_VIKING` | ヴァイキングヘルム | ボーゲストを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM04_BARREL — バレルヘルム — ジャンプー"> `HELM2_HM04_BARREL` | バレルヘルム | ジャンプー |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM05_GREAT — グレートヘルム — ジャンプーを / 召喚するためのカード"> `HELM2_HM05_GREAT` | グレートヘルム | ジャンプーを / 召喚するためのカード |
+| <img src="../img/icons/icon_0601.png" width="36" title="HELM2_HM01_HALF — ハーフヘルム — ロイヤルリザードマン・改を / 召喚するためのカード"> `HELM2_HM01_HALF` | ハーフヘルム | ロイヤルリザードマン・改を / 召喚するためのカード |
+| <img src="../img/icons/icon_0602.png" width="36" title="HELM2_HM02_IRON — アイアンヘルム — ボーゲスト"> `HELM2_HM02_IRON` | アイアンヘルム | ボーゲスト |
+| <img src="../img/icons/icon_0603.png" width="36" title="HELM2_HM03_VIKING — ヴァイキングヘルム — ボーゲストを / 召喚するためのカード"> `HELM2_HM03_VIKING` | ヴァイキングヘルム | ボーゲストを / 召喚するためのカード |
+| <img src="../img/icons/icon_0604.png" width="36" title="HELM2_HM04_BARREL — バレルヘルム — ジャンプー"> `HELM2_HM04_BARREL` | バレルヘルム | ジャンプー |
+| <img src="../img/icons/icon_0637.png" width="36" title="HELM2_HM05_GREAT — グレートヘルム — ジャンプーを / 召喚するためのカード"> `HELM2_HM05_GREAT` | グレートヘルム | ジャンプーを / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM06_MITHRIL — ミスリルヘルム — バルキリークララ"> `HELM2_HM06_MITHRIL` | ミスリルヘルム | バルキリークララ |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM07_MAGIC — マジックヘルム — バルキリークララを / 召喚するためのカード"> `HELM2_HM07_MAGIC` | マジックヘルム | バルキリークララを / 召喚するためのカード |
+| <img src="../img/icons/icon_0611.png" width="36" title="HELM2_HM07_MAGIC — マジックヘルム — バルキリークララを / 召喚するためのカード"> `HELM2_HM07_MAGIC` | マジックヘルム | バルキリークララを / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM08_KNIGHT — ナイトヘルム — バルキリー燕"> `HELM2_HM08_KNIGHT` | ナイトヘルム | バルキリー燕 |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM09_BANDANNA — バンダナ — バルキリー燕を / 召喚するためのカード"> `HELM2_HM09_BANDANNA` | バンダナ | バルキリー燕を / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM10_LEATHERHAT — レザーキャップ — ディアボルガ"> `HELM2_HM10_LEATHERHAT` | レザーキャップ | ディアボルガ |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM11_WINGHAT — ウィングヘルム — ディアボルガを / 召喚するためのカード"> `HELM2_HM11_WINGHAT` | ウィングヘルム | ディアボルガを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM12_KETTLEHAT — ケトルハット — ミスティカルビジョン"> `HELM2_HM12_KETTLEHAT` | ケトルハット | ミスティカルビジョン |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM13_MAGICIANHAT — マジシャンハット — スキル／技：幻影召喚 / ユーズボタンなどで発動"> `HELM2_HM13_MAGICIANHAT` | マジシャンハット | スキル／技：幻影召喚 / ユーズボタンなどで発動 |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM14_MITLA — ミトラ — スキル／無inimigoの幻影を召喚し、 / ataqueすることができる"> `HELM2_HM14_MITLA` | ミトラ | スキル／無inimigoの幻影を召喚し、 / ataqueすることができる |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM15_WARLOCKCAP — ウォーロックキャップ — リッチ"> `HELM2_HM15_WARLOCKCAP` | ウォーロックキャップ | リッチ |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM16_SORCERERCAP — ソーサラーキャップ — リッチを / 召喚するためのカード"> `HELM2_HM16_SORCERERCAP` | ソーサラーキャップ | リッチを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM17_CLERICCAP — クレリックキャップ — デュラハン"> `HELM2_HM17_CLERICCAP` | クレリックキャップ | デュラハン |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM18_BISHOPCAP — ビショップキャップ — デュラハンを / 召喚するためのカード"> `HELM2_HM18_BISHOPCAP` | ビショップキャップ | デュラハンを / 召喚するためのカード |
+| <img src="../img/icons/icon_0612.png" width="36" title="HELM2_HM12_KETTLEHAT — ケトルハット — ミスティカルビジョン"> `HELM2_HM12_KETTLEHAT` | ケトルハット | ミスティカルビジョン |
+| <img src="../img/icons/icon_0613.png" width="36" title="HELM2_HM13_MAGICIANHAT — マジシャンハット — スキル／技：幻影召喚 / ユーズボタンなどで発動"> `HELM2_HM13_MAGICIANHAT` | マジシャンハット | スキル／技：幻影召喚 / ユーズボタンなどで発動 |
+| <img src="../img/icons/icon_0614.png" width="36" title="HELM2_HM14_MITLA — ミトラ — スキル／無inimigoの幻影を召喚し、 / ataqueすることができる"> `HELM2_HM14_MITLA` | ミトラ | スキル／無inimigoの幻影を召喚し、 / ataqueすることができる |
+| <img src="../img/icons/icon_0615.png" width="36" title="HELM2_HM15_WARLOCKCAP — ウォーロックキャップ — リッチ"> `HELM2_HM15_WARLOCKCAP` | ウォーロックキャップ | リッチ |
+| <img src="../img/icons/icon_0616.png" width="36" title="HELM2_HM16_SORCERERCAP — ソーサラーキャップ — リッチを / 召喚するためのカード"> `HELM2_HM16_SORCERERCAP` | ソーサラーキャップ | リッチを / 召喚するためのカード |
+| <img src="../img/icons/icon_0617.png" width="36" title="HELM2_HM17_CLERICCAP — クレリックキャップ — デュラハン"> `HELM2_HM17_CLERICCAP` | クレリックキャップ | デュラハン |
+| <img src="../img/icons/icon_0620.png" width="36" title="HELM2_HM18_BISHOPCAP — ビショップキャップ — デュラハンを / 召喚するためのカード"> `HELM2_HM18_BISHOPCAP` | ビショップキャップ | デュラハンを / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM19_CROTHCAP — クロスキャップ — サイクロプス"> `HELM2_HM19_CROTHCAP` | クロスキャップ | サイクロプス |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM20_PIRATESHAT — パイレーツハット — サイクロプスを / 召喚するためのカード"> `HELM2_HM20_PIRATESHAT` | パイレーツハット | サイクロプスを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM21_TIARA — ティアラ — ラミア"> `HELM2_HM21_TIARA` | ティアラ | ラミア |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM22_CIRCLET — サークレット — ラミアを / 召喚するためのカード"> `HELM2_HM22_CIRCLET` | サークレット | ラミアを / 召喚するためのカード |
+| <img src="../img/icons/icon_0621.png" width="36" title="HELM2_HM21_TIARA — ティアラ — ラミア"> `HELM2_HM21_TIARA` | ティアラ | ラミア |
+| <img src="../img/icons/icon_0624.png" width="36" title="HELM2_HM22_CIRCLET — サークレット — ラミアを / 召喚するためのカード"> `HELM2_HM22_CIRCLET` | サークレット | ラミアを / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM23_WHITE — ホーリーヘルム — テラー"> `HELM2_HM23_WHITE` | ホーリーヘルム | テラー |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM24_BLACK — デモンズヘルム — テラーを / 召喚するためのカード"> `HELM2_HM24_BLACK` | デモンズヘルム | テラーを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM25_WIZARDHAT — ウィザードハット — ギルマン"> `HELM2_HM25_WIZARDHAT` | ウィザードハット | ギルマン |
+| <img src="../img/icons/icon_0627.png" width="36" title="HELM2_HM25_WIZARDHAT — ウィザードハット — ギルマン"> `HELM2_HM25_WIZARDHAT` | ウィザードハット | ギルマン |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM26_PROTECTHAT — プロテクトハット — ギルマンを / 召喚するためのカード"> `HELM2_HM26_PROTECTHAT` | プロテクトハット | ギルマンを / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM27_SPIKECAP — スパイクキャップ — カメポポン"> `HELM2_HM27_SPIKECAP` | スパイクキャップ | カメポポン |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM28_KINGCROWN — キングクラウン — カメポポンを / 召喚するためのカード"> `HELM2_HM28_KINGCROWN` | キングクラウン | カメポポンを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM29_SNAKEHEAD — スネークヘッド — ふぅ"> `HELM2_HM29_SNAKEHEAD` | スネークヘッド | ふぅ |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM30_IRON — ★アイアンヘルム — ふぅを / 召喚するためのカード"> `HELM2_HM30_IRON` | ★アイアンヘルム | ふぅを / 召喚するためのカード |
+| <img src="../img/icons/icon_0638.png" width="36" title="HELM2_HM28_KINGCROWN — キングクラウン — カメポポンを / 召喚するためのカード"> `HELM2_HM28_KINGCROWN` | キングクラウン | カメポポンを / 召喚するためのカード |
+| <img src="../img/icons/icon_0629.png" width="36" title="HELM2_HM29_SNAKEHEAD — スネークヘッド — ふぅ"> `HELM2_HM29_SNAKEHEAD` | スネークヘッド | ふぅ |
+| <img src="../img/icons/icon_0631.png" width="36" title="HELM2_HM30_IRON — ★アイアンヘルム — ふぅを / 召喚するためのカード"> `HELM2_HM30_IRON` | ★アイアンヘルム | ふぅを / 召喚するためのカード |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM31_LEATHERHAT — ★レザーキャップ — セラフィー・ルカ"> `HELM2_HM31_LEATHERHAT` | ★レザーキャップ | セラフィー・ルカ |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM32_MAGICIANHAT — ★マジシャンハット — セラフィー・ルカを / 召喚するためのカード"> `HELM2_HM32_MAGICIANHAT` | ★マジシャンハット | セラフィー・ルカを / 召喚するためのカード |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM33_CLERICCAP — ★クレリックキャップ — 鉄の竜"> `HELM2_HM33_CLERICCAP` | ★クレリックキャップ | 鉄の竜 |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM34_SCALE — スケイルヘルム"> `HELM2_HM34_SCALE` | スケイルヘルム |
+| <img src="../img/icons/icon_0632.png" width="36" title="HELM2_HM32_MAGICIANHAT — ★マジシャンハット — セラフィー・ルカを / 召喚するためのカード"> `HELM2_HM32_MAGICIANHAT` | ★マジシャンハット | セラフィー・ルカを / 召喚するためのカード |
+| <img src="../img/icons/icon_0633.png" width="36" title="HELM2_HM33_CLERICCAP — ★クレリックキャップ — 鉄の竜"> `HELM2_HM33_CLERICCAP` | ★クレリックキャップ | 鉄の竜 |
+| <img src="../img/icons/icon_0635.png" width="36" title="HELM2_HM34_SCALE — スケイルヘルム"> `HELM2_HM34_SCALE` | スケイルヘルム |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM35_RUSTYHAT — ラスティハット"> `HELM2_HM35_RUSTYHAT` | ラスティハット |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM36_WARLOCKCAP_EX — チャームキャップ"> `HELM2_HM36_WARLOCKCAP_EX` | チャームキャップ |
+| <img src="../img/icons/icon_0636.png" width="36" title="HELM2_HM36_WARLOCKCAP_EX — チャームキャップ"> `HELM2_HM36_WARLOCKCAP_EX` | チャームキャップ |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM37_CLERICCAP_EX — インディゴバニット"> `HELM2_HM37_CLERICCAP_EX` | インディゴバニット |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM38_HANNYA — 白鬼の兜"> `HELM2_HM38_HANNYA` | 白鬼の兜 |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM39_DIVINECIRCLET — ディバインサークレット"> `HELM2_HM39_DIVINECIRCLET` | ディバインサークレット |
@@ -638,22 +638,22 @@ chapéus, elmos, coroas, máscaras, óculos
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM61_MONOCLE — モノクル"> `HELM2_HM61_MONOCLE` | モノクル |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM62_SPIDERFRAME — スパイダーフレーム"> `HELM2_HM62_SPIDERFRAME` | スパイダーフレーム |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM63_WARRIORFRAME — ウォーリアーフレーム"> `HELM2_HM63_WARRIORFRAME` | ウォーリアーフレーム |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM64_SCALE — ★スケイルヘルム"> `HELM2_HM64_SCALE` | ★スケイルヘルム |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM65_WARLOCKCAP — ★ウォーロックキャップ"> `HELM2_HM65_WARLOCKCAP` | ★ウォーロックキャップ |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM66_SORCERERCAP — ★ソーサラーキャップ"> `HELM2_HM66_SORCERERCAP` | ★ソーサラーキャップ |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM67_MITLA — ★ミトラ"> `HELM2_HM67_MITLA` | ★ミトラ |
+| <img src="../img/icons/icon_0404.png" width="36" title="HELM2_HM64_SCALE — ★スケイルヘルム"> `HELM2_HM64_SCALE` | ★スケイルヘルム |
+| <img src="../img/icons/icon_0615.png" width="36" title="HELM2_HM65_WARLOCKCAP — ★ウォーロックキャップ"> `HELM2_HM65_WARLOCKCAP` | ★ウォーロックキャップ |
+| <img src="../img/icons/icon_0616.png" width="36" title="HELM2_HM66_SORCERERCAP — ★ソーサラーキャップ"> `HELM2_HM66_SORCERERCAP` | ★ソーサラーキャップ |
+| <img src="../img/icons/icon_0614.png" width="36" title="HELM2_HM67_MITLA — ★ミトラ"> `HELM2_HM67_MITLA` | ★ミトラ |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM68_BONE — スカルヘルム"> `HELM2_HM68_BONE` | スカルヘルム |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM69_DRAGON — ドラゴンヘルム"> `HELM2_HM69_DRAGON` | ドラゴンヘルム |
+| <img src="../img/icons/icon_0422.png" width="36" title="HELM2_HM69_DRAGON — ドラゴンヘルム"> `HELM2_HM69_DRAGON` | ドラゴンヘルム |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM70_SHINKI — セイクリッドハット"> `HELM2_HM70_SHINKI` | セイクリッドハット |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM71_SHINKI — アビスハット"> `HELM2_HM71_SHINKI` | アビスハット |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM72_SHINKI — アストラルハット"> `HELM2_HM72_SHINKI` | アストラルハット |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM73_BANDANNA — ★バンダナ"> `HELM2_HM73_BANDANNA` | ★バンダナ |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM74_SHINKI — 忍者頭巾"> `HELM2_HM74_SHINKI` | 忍者頭巾 |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM75_BARREL — ★バレルヘルム"> `HELM2_HM75_BARREL` | ★バレルヘルム |
+| <img src="../img/icons/icon_0604.png" width="36" title="HELM2_HM75_BARREL — ★バレルヘルム"> `HELM2_HM75_BARREL` | ★バレルヘルム |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM76_SHINKI — ジェネラルヘルム"> `HELM2_HM76_SHINKI` | ジェネラルヘルム |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM77_SHINKI — ルミナスキャップ"> `HELM2_HM77_SHINKI` | ルミナスキャップ |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM78_SHINKI — ノートリアスハット"> `HELM2_HM78_SHINKI` | ノートリアスハット |
-| <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM79_SNAKEHEAD — ★スネークヘッド"> `HELM2_HM79_SNAKEHEAD` | ★スネークヘッド |
+| <img src="../img/icons/icon_0629.png" width="36" title="HELM2_HM79_SNAKEHEAD — ★スネークヘッド"> `HELM2_HM79_SNAKEHEAD` | ★スネークヘッド |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM80_SOURAN — 蒼藍の兜"> `HELM2_HM80_SOURAN` | 蒼藍の兜 |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM81_ROZETTA — ロゼッタハット"> `HELM2_HM81_ROZETTA` | ロゼッタハット |
 | <img src="../img/icons/cls_helm.png" width="36" title="HELM2_HM82_MISTICAL — オラクルクラウン"> `HELM2_HM82_MISTICAL` | オラクルクラウン |
@@ -681,18 +681,18 @@ botas, sapatos, grevas
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT01_LONG — ロングブーツ — オークメイジＴ"> `BOOTS2_BT01_LONG` | ロングブーツ | オークメイジＴ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT02_LEATHER — レザーブーツ — オークメイジＴを / 召喚するためのカード"> `BOOTS2_BT02_LEATHER` | レザーブーツ | オークメイジＴを / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT03_WING — ウィングブーツ — オークチーフＴ"> `BOOTS2_BT03_WING` | ウィングブーツ | オークチーフＴ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT04_PLATE — アイアンブーツ — オークチーフＴを / 召喚するためのカード"> `BOOTS2_BT04_PLATE` | アイアンブーツ | オークチーフＴを / 召喚するためのカード |
+| <img src="../img/icons/icon_0751.png" width="36" title="BOOTS2_BT01_LONG — ロングブーツ — オークメイジＴ"> `BOOTS2_BT01_LONG` | ロングブーツ | オークメイジＴ |
+| <img src="../img/icons/icon_0753.png" width="36" title="BOOTS2_BT02_LEATHER — レザーブーツ — オークメイジＴを / 召喚するためのカード"> `BOOTS2_BT02_LEATHER` | レザーブーツ | オークメイジＴを / 召喚するためのカード |
+| <img src="../img/icons/icon_0279.png" width="36" title="BOOTS2_BT03_WING — ウィングブーツ — オークチーフＴ"> `BOOTS2_BT03_WING` | ウィングブーツ | オークチーフＴ |
+| <img src="../img/icons/icon_0756.png" width="36" title="BOOTS2_BT04_PLATE — アイアンブーツ — オークチーフＴを / 召喚するためのカード"> `BOOTS2_BT04_PLATE` | アイアンブーツ | オークチーフＴを / 召喚するためのカード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT05_KNIGHT — ナイトブーツ — エルドワイバーン"> `BOOTS2_BT05_KNIGHT` | ナイトブーツ | エルドワイバーン |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT06_MITHRIL — ミスリルブーツ — エルドワイバーンを / 召喚するためのカード"> `BOOTS2_BT06_MITHRIL` | ミスリルブーツ | エルドワイバーンを / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT07_MAGICIANSHOES — マジシャンシューズ — ドラゴンゾンビ"> `BOOTS2_BT07_MAGICIANSHOES` | マジシャンシューズ | ドラゴンゾンビ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT08_MAGIC — マジックブーツ — ドラゴンゾンビを / 召喚するためのカード"> `BOOTS2_BT08_MAGIC` | マジックブーツ | ドラゴンゾンビを / 召喚するためのカード |
+| <img src="../img/icons/icon_0783.png" width="36" title="BOOTS2_BT07_MAGICIANSHOES — マジシャンシューズ — ドラゴンゾンビ"> `BOOTS2_BT07_MAGICIANSHOES` | マジシャンシューズ | ドラゴンゾンビ |
+| <img src="../img/icons/icon_0760.png" width="36" title="BOOTS2_BT08_MAGIC — マジックブーツ — ドラゴンゾンビを / 召喚するためのカード"> `BOOTS2_BT08_MAGIC` | マジックブーツ | ドラゴンゾンビを / 召喚するためのカード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT09_WHITE — ホーリーブーツ — ブルードラゴン"> `BOOTS2_BT09_WHITE` | ホーリーブーツ | ブルードラゴン |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT10_BLACK — デモンズブーツ — ブルードラゴンを / 召喚するためのカード"> `BOOTS2_BT10_BLACK` | デモンズブーツ | ブルードラゴンを / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT11_PRIEST — ガイトラッシュ"> `BOOTS2_BT11_PRIEST` |  | ガイトラッシュ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT12_WARRIOR — ガイトラッシュを / 召喚するためのカード"> `BOOTS2_BT12_WARRIOR` |  | ガイトラッシュを / 召喚するためのカード |
+| <img src="../img/icons/icon_0761.png" width="36" title="BOOTS2_BT11_PRIEST — ガイトラッシュ"> `BOOTS2_BT11_PRIEST` |  | ガイトラッシュ |
+| <img src="../img/icons/icon_0784.png" width="36" title="BOOTS2_BT12_WARRIOR — ガイトラッシュを / 召喚するためのカード"> `BOOTS2_BT12_WARRIOR` |  | ガイトラッシュを / 召喚するためのカード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT13_CLERIC — ホーリーソード"> `BOOTS2_BT13_CLERIC` |  | ホーリーソード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT14_THIEF — プリーストブーツ — ホーリーソード"> `BOOTS2_BT14_THIEF` | プリーストブーツ | ホーリーソード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT15_MAGE — ラスティブーツ — ホーリーソード"> `BOOTS2_BT15_MAGE` | ラスティブーツ | ホーリーソード |
@@ -700,19 +700,19 @@ botas, sapatos, grevas
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT17_SPEED — スピードブーツ — スパンキーを / 召喚するためのカード"> `BOOTS2_BT17_SPEED` | スピードブーツ | スパンキーを / 召喚するためのカード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT18_WARM — ワームブーツ — トロル・改"> `BOOTS2_BT18_WARM` | ワームブーツ | トロル・改 |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT19_SPIKE — スパイクブーツ — トロル・改を / 召喚するためのカード"> `BOOTS2_BT19_SPIKE` | スパイクブーツ | トロル・改を / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT20_GATHER — ギャザーブーツ — リザードマン・改"> `BOOTS2_BT20_GATHER` | ギャザーブーツ | リザードマン・改 |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT21_CROTH — クロスブーツ — リザードマン・改を / 召喚するためのカード"> `BOOTS2_BT21_CROTH` | クロスブーツ | リザードマン・改を / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT22_KING — キングブーツ — リザードマンレンジャー・改"> `BOOTS2_BT22_KING` | キングブーツ | リザードマンレンジャー・改 |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT23_SOUL — リザードマンレンジャー・改を / 召喚するためのカード"> `BOOTS2_BT23_SOUL` |  | リザードマンレンジャー・改を / 召喚するためのカード |
+| <img src="../img/icons/icon_0770.png" width="36" title="BOOTS2_BT20_GATHER — ギャザーブーツ — リザードマン・改"> `BOOTS2_BT20_GATHER` | ギャザーブーツ | リザードマン・改 |
+| <img src="../img/icons/icon_0785.png" width="36" title="BOOTS2_BT21_CROTH — クロスブーツ — リザードマン・改を / 召喚するためのカード"> `BOOTS2_BT21_CROTH` | クロスブーツ | リザードマン・改を / 召喚するためのカード |
+| <img src="../img/icons/icon_0786.png" width="36" title="BOOTS2_BT22_KING — キングブーツ — リザードマンレンジャー・改"> `BOOTS2_BT22_KING` | キングブーツ | リザードマンレンジャー・改 |
+| <img src="../img/icons/icon_0775.png" width="36" title="BOOTS2_BT23_SOUL — リザードマンレンジャー・改を / 召喚するためのカード"> `BOOTS2_BT23_SOUL` |  | リザードマンレンジャー・改を / 召喚するためのカード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT24_FIGHTER — ウィザードブーツ — リザードマンランサー・改"> `BOOTS2_BT24_FIGHTER` | ウィザードブーツ | リザードマンランサー・改 |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT25_LEATHER — ★レザーブーツ — リザードマンランサー・改を / 召喚するためのカード"> `BOOTS2_BT25_LEATHER` | ★レザーブーツ | リザードマンランサー・改を / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT26_PLATE — ★アイアンブーツ — ガーディアンリザードマン・改"> `BOOTS2_BT26_PLATE` | ★アイアンブーツ | ガーディアンリザードマン・改 |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT27_MAGICIANSHOES — ★マジシャンシューズ — ガーディアンリザードマン・改を / 召喚するためのカード"> `BOOTS2_BT27_MAGICIANSHOES` | ★マジシャンシューズ | ガーディアンリザードマン・改を / 召喚するためのカード |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT28_PRIEST — ★プリーストブーツ — ロイヤルリザードマン・改"> `BOOTS2_BT28_PRIEST` | ★プリーストブーツ | ロイヤルリザードマン・改 |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT29_SCALE — スケイルブーツ"> `BOOTS2_BT29_SCALE` | スケイルブーツ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT30_MANA — マナブーツ"> `BOOTS2_BT30_MANA` | マナブーツ |
+| <img src="../img/icons/icon_0753.png" width="36" title="BOOTS2_BT25_LEATHER — ★レザーブーツ — リザードマンランサー・改を / 召喚するためのカード"> `BOOTS2_BT25_LEATHER` | ★レザーブーツ | リザードマンランサー・改を / 召喚するためのカード |
+| <img src="../img/icons/icon_0776.png" width="36" title="BOOTS2_BT26_PLATE — ★アイアンブーツ — ガーディアンリザードマン・改"> `BOOTS2_BT26_PLATE` | ★アイアンブーツ | ガーディアンリザードマン・改 |
+| <img src="../img/icons/icon_0777.png" width="36" title="BOOTS2_BT27_MAGICIANSHOES — ★マジシャンシューズ — ガーディアンリザードマン・改を / 召喚するためのカード"> `BOOTS2_BT27_MAGICIANSHOES` | ★マジシャンシューズ | ガーディアンリザードマン・改を / 召喚するためのカード |
+| <img src="../img/icons/icon_0778.png" width="36" title="BOOTS2_BT28_PRIEST — ★プリーストブーツ — ロイヤルリザードマン・改"> `BOOTS2_BT28_PRIEST` | ★プリーストブーツ | ロイヤルリザードマン・改 |
+| <img src="../img/icons/icon_0779.png" width="36" title="BOOTS2_BT29_SCALE — スケイルブーツ"> `BOOTS2_BT29_SCALE` | スケイルブーツ |
+| <img src="../img/icons/icon_0781.png" width="36" title="BOOTS2_BT30_MANA — マナブーツ"> `BOOTS2_BT30_MANA` | マナブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT31_CROWNSHOES — クラウンシューズ"> `BOOTS2_BT31_CROWNSHOES` | クラウンシューズ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT32_PRIEST_EX — オリエントブーツ"> `BOOTS2_BT32_PRIEST_EX` | オリエントブーツ |
+| <img src="../img/icons/icon_0782.png" width="36" title="BOOTS2_BT32_PRIEST_EX — オリエントブーツ"> `BOOTS2_BT32_PRIEST_EX` | オリエントブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT33_SOUL_EX — ノーブルブーツ"> `BOOTS2_BT33_SOUL_EX` | ノーブルブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT34_DAIGUSOKU — 黒紋の脛当"> `BOOTS2_BT34_DAIGUSOKU` | 黒紋の脛当 |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT35_CURE — キュアブーツ"> `BOOTS2_BT35_CURE` | キュアブーツ |
@@ -724,11 +724,11 @@ botas, sapatos, grevas
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT41_ELVEN — バインドブーツ — ホーリーソード"> `BOOTS2_BT41_ELVEN` | バインドブーツ | ホーリーソード |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT42_SLASH — スラッシュブーツ"> `BOOTS2_BT42_SLASH` | スラッシュブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT43_SOARGREAVE — ソアグリーヴ"> `BOOTS2_BT43_SOARGREAVE` | ソアグリーヴ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT44_CROTH — ★クロスブーツ"> `BOOTS2_BT44_CROTH` | ★クロスブーツ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT45_SCALE — ★スケイルブーツ"> `BOOTS2_BT45_SCALE` | ★スケイルブーツ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT46_MANA — ★マナブーツ"> `BOOTS2_BT46_MANA` | ★マナブーツ |
+| <img src="../img/icons/icon_0423.png" width="36" title="BOOTS2_BT44_CROTH — ★クロスブーツ"> `BOOTS2_BT44_CROTH` | ★クロスブーツ |
+| <img src="../img/icons/icon_0404.png" width="36" title="BOOTS2_BT45_SCALE — ★スケイルブーツ"> `BOOTS2_BT45_SCALE` | ★スケイルブーツ |
+| <img src="../img/icons/icon_0781.png" width="36" title="BOOTS2_BT46_MANA — ★マナブーツ"> `BOOTS2_BT46_MANA` | ★マナブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT47_BONE — シャンクブーツ"> `BOOTS2_BT47_BONE` | シャンクブーツ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT48_DRAGON — ドラゴンブーツ"> `BOOTS2_BT48_DRAGON` | ドラゴンブーツ |
+| <img src="../img/icons/icon_0422.png" width="36" title="BOOTS2_BT48_DRAGON — ドラゴンブーツ"> `BOOTS2_BT48_DRAGON` | ドラゴンブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT49_SHINKI — セイクリッドブーツ"> `BOOTS2_BT49_SHINKI` | セイクリッドブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT50_SHINKI — アストラルブーツ"> `BOOTS2_BT50_SHINKI` | アストラルブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT51_SHINKI — フォールドブーツ"> `BOOTS2_BT51_SHINKI` | フォールドブーツ |
@@ -737,7 +737,7 @@ botas, sapatos, grevas
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT54_SHINKI — アビスブーツ"> `BOOTS2_BT54_SHINKI` | アビスブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT55_SHINKI — ルミナスブーツ"> `BOOTS2_BT55_SHINKI` | ルミナスブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT56_SHINKI — ノートリアスブーツ"> `BOOTS2_BT56_SHINKI` | ノートリアスブーツ |
-| <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT57_WARRIOR — ★ラスティブーツ"> `BOOTS2_BT57_WARRIOR` | ★ラスティブーツ |
+| <img src="../img/icons/icon_0784.png" width="36" title="BOOTS2_BT57_WARRIOR — ★ラスティブーツ"> `BOOTS2_BT57_WARRIOR` | ★ラスティブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT58_ROGUE — ★ローグブーツ"> `BOOTS2_BT58_ROGUE` | ★ローグブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT59_SPEED — ★スピードブーツ"> `BOOTS2_BT59_SPEED` | ★スピードブーツ |
 | <img src="../img/icons/cls_boots.png" width="36" title="BOOTS2_BT60_SOURAN — 蒼藍の脛当"> `BOOTS2_BT60_SOURAN` | 蒼藍の脛当 |
@@ -764,27 +764,27 @@ broquéis, escudos redondos/em losango/de torre
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH01_WOOD — ウッドシールド — シルバーアックス"> `SHIELD2_SH01_WOOD` | ウッドシールド | シルバーアックス |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH02_BUCKLER — バックラー — 片手Machado／純銀製で作りの見事な / 美しいバトルアックス"> `SHIELD2_SH02_BUCKLER` | バックラー | 片手Machado／純銀製で作りの見事な / 美しいバトルアックス |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH03_ROUND — ラウンドシールド — イーグレット"> `SHIELD2_SH03_ROUND` | ラウンドシールド | イーグレット |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH04_LARGE — ラージシールド — 片手Machado／Ataque：４６ / RequerＳＴＲ：１０"> `SHIELD2_SH04_LARGE` | ラージシールド | 片手Machado／Ataque：４６ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0251.png" width="36" title="SHIELD2_SH01_WOOD — ウッドシールド — シルバーアックス"> `SHIELD2_SH01_WOOD` | ウッドシールド | シルバーアックス |
+| <img src="../img/icons/icon_0252.png" width="36" title="SHIELD2_SH02_BUCKLER — バックラー — 片手Machado／純銀製で作りの見事な / 美しいバトルアックス"> `SHIELD2_SH02_BUCKLER` | バックラー | 片手Machado／純銀製で作りの見事な / 美しいバトルアックス |
+| <img src="../img/icons/icon_0253.png" width="36" title="SHIELD2_SH03_ROUND — ラウンドシールド — イーグレット"> `SHIELD2_SH03_ROUND` | ラウンドシールド | イーグレット |
+| <img src="../img/icons/icon_0256.png" width="36" title="SHIELD2_SH04_LARGE — ラージシールド — 片手Machado／Ataque：４６ / RequerＳＴＲ：１０"> `SHIELD2_SH04_LARGE` | ラージシールド | 片手Machado／Ataque：４６ / RequerＳＴＲ：１０ |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH05_KITE — カイトシールド — 片手Machado／相手に向かって投げる / ことができる片手Machado"> `SHIELD2_SH05_KITE` | カイトシールド | 片手Machado／相手に向かって投げる / ことができる片手Machado |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH06_KNIGHT — ナイトシールド — 邪鬼のMachado"> `SHIELD2_SH06_KNIGHT` | ナイトシールド | 邪鬼のMachado |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH07_WING — ウィングシールド — 片手Machado／Ataque：４２ / RequerＳＴＲ：nenhum"> `SHIELD2_SH07_WING` | ウィングシールド | 片手Machado／Ataque：４２ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH08_TOWER — タワーシールド — 片手Machado／オークが使用している / 片手Machado。não sintetizável"> `SHIELD2_SH08_TOWER` | タワーシールド | 片手Machado／オークが使用している / 片手Machado。não sintetizável |
+| <img src="../img/icons/icon_0279.png" width="36" title="SHIELD2_SH07_WING — ウィングシールド — 片手Machado／Ataque：４２ / RequerＳＴＲ：nenhum"> `SHIELD2_SH07_WING` | ウィングシールド | 片手Machado／Ataque：４２ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0280.png" width="36" title="SHIELD2_SH08_TOWER — タワーシールド — 片手Machado／オークが使用している / 片手Machado。não sintetizável"> `SHIELD2_SH08_TOWER` | タワーシールド | 片手Machado／オークが使用している / 片手Machado。não sintetizável |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH09_SPIKE — スパイクシールド — 邪鬼の炎Machado"> `SHIELD2_SH09_SPIKE` | スパイクシールド | 邪鬼の炎Machado |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH10_FLAME — フレイムシールド — 片手Machado／Ataque：２７ / RequerＳＴＲ：nenhum"> `SHIELD2_SH10_FLAME` | フレイムシールド | 片手Machado／Ataque：２７ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH11_ICE — アイスシールド — 片手Machado／オークが使用している / fogoの片手Machado。não sintetizável"> `SHIELD2_SH11_ICE` | アイスシールド | 片手Machado／オークが使用している / fogoの片手Machado。não sintetizável |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH12_THUNDER — サンダーシールド — 邪鬼の氷Machado"> `SHIELD2_SH12_THUNDER` | サンダーシールド | 邪鬼の氷Machado |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH13_MAGIC — マジックシールド — 片手Machado／オークが使用している / geloの片手Machado。não sintetizável"> `SHIELD2_SH13_MAGIC` | マジックシールド | 片手Machado／オークが使用している / geloの片手Machado。não sintetizável |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH14_DRAGON — ドラゴンシールド — 邪鬼の雷Machado"> `SHIELD2_SH14_DRAGON` | ドラゴンシールド | 邪鬼の雷Machado |
+| <img src="../img/icons/icon_0260.png" width="36" title="SHIELD2_SH10_FLAME — フレイムシールド — 片手Machado／Ataque：２７ / RequerＳＴＲ：nenhum"> `SHIELD2_SH10_FLAME` | フレイムシールド | 片手Machado／Ataque：２７ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0281.png" width="36" title="SHIELD2_SH11_ICE — アイスシールド — 片手Machado／オークが使用している / fogoの片手Machado。não sintetizável"> `SHIELD2_SH11_ICE` | アイスシールド | 片手Machado／オークが使用している / fogoの片手Machado。não sintetizável |
+| <img src="../img/icons/icon_0282.png" width="36" title="SHIELD2_SH12_THUNDER — サンダーシールド — 邪鬼の氷Machado"> `SHIELD2_SH12_THUNDER` | サンダーシールド | 邪鬼の氷Machado |
+| <img src="../img/icons/icon_0263.png" width="36" title="SHIELD2_SH13_MAGIC — マジックシールド — 片手Machado／オークが使用している / geloの片手Machado。não sintetizável"> `SHIELD2_SH13_MAGIC` | マジックシールド | 片手Machado／オークが使用している / geloの片手Machado。não sintetizável |
+| <img src="../img/icons/icon_0265.png" width="36" title="SHIELD2_SH14_DRAGON — ドラゴンシールド — 邪鬼の雷Machado"> `SHIELD2_SH14_DRAGON` | ドラゴンシールド | 邪鬼の雷Machado |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH15_MITHRIL — ミスリルシールド — 片手Machado／オークが使用している / raioの片手Machado。não sintetizável"> `SHIELD2_SH15_MITHRIL` | ミスリルシールド | 片手Machado／オークが使用している / raioの片手Machado。não sintetizável |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH16_REFLECT — リフレクトシールド — 牛人のMachado"> `SHIELD2_SH16_REFLECT` | リフレクトシールド | 牛人のMachado |
+| <img src="../img/icons/icon_0268.png" width="36" title="SHIELD2_SH16_REFLECT — リフレクトシールド — 牛人のMachado"> `SHIELD2_SH16_REFLECT` | リフレクトシールド | 牛人のMachado |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH17_WHITE — ホーリーシールド — 片手Machado／Ataque：５０ / RequerＳＴＲ：nenhum"> `SHIELD2_SH17_WHITE` | ホーリーシールド | 片手Machado／Ataque：５０ / RequerＳＴＲ：nenhum |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH18_BLACK — デモンズシールド — 片手Machado／ミノタウロスが使用し / ている片手Machado。não sintetizável"> `SHIELD2_SH18_BLACK` | デモンズシールド | 片手Machado／ミノタウロスが使用し / ている片手Machado。não sintetizável |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH19_ROUND — ★ラウンドシールド — 牛人兵のMachado"> `SHIELD2_SH19_ROUND` | ★ラウンドシールド | 牛人兵のMachado |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH20_LARGE — ★ラージシールド — 片手Machado／Ataque：５５ / RequerＳＴＲ：nenhum"> `SHIELD2_SH20_LARGE` | ★ラージシールド | 片手Machado／Ataque：５５ / RequerＳＴＲ：nenhum |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH21_LEATHER — レザーシールド"> `SHIELD2_SH21_LEATHER` | レザーシールド |
+| <img src="../img/icons/icon_0269.png" width="36" title="SHIELD2_SH19_ROUND — ★ラウンドシールド — 牛人兵のMachado"> `SHIELD2_SH19_ROUND` | ★ラウンドシールド | 牛人兵のMachado |
+| <img src="../img/icons/icon_0271.png" width="36" title="SHIELD2_SH20_LARGE — ★ラージシールド — 片手Machado／Ataque：５５ / RequerＳＴＲ：nenhum"> `SHIELD2_SH20_LARGE` | ★ラージシールド | 片手Machado／Ataque：５５ / RequerＳＴＲ：nenhum |
+| <img src="../img/icons/icon_0753.png" width="36" title="SHIELD2_SH21_LEATHER — レザーシールド"> `SHIELD2_SH21_LEATHER` | レザーシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH22_PALISADE — パリセイドシールド"> `SHIELD2_SH22_PALISADE` | パリセイドシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH23_CHARCOAL — チャコールシールド"> `SHIELD2_SH23_CHARCOAL` | チャコールシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH24_SKELETON — 骸骨の盾"> `SHIELD2_SH24_SKELETON` | 骸骨の盾 |
@@ -793,13 +793,13 @@ broquéis, escudos redondos/em losango/de torre
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH27_GOBLIN_F — 小鬼の盾"> `SHIELD2_SH27_GOBLIN_F` | 小鬼の盾 |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH28_KOBOLD_W — 犬頭鬼の盾"> `SHIELD2_SH28_KOBOLD_W` | 犬頭鬼の盾 |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH29_ORC — 邪鬼の盾"> `SHIELD2_SH29_ORC` | 邪鬼の盾 |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH30_WING — ★ウィングシールド"> `SHIELD2_SH30_WING` | ★ウィングシールド |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH31_TOWER — ★タワーシールド"> `SHIELD2_SH31_TOWER` | ★タワーシールド |
+| <img src="../img/icons/icon_0279.png" width="36" title="SHIELD2_SH30_WING — ★ウィングシールド"> `SHIELD2_SH30_WING` | ★ウィングシールド |
+| <img src="../img/icons/icon_0280.png" width="36" title="SHIELD2_SH31_TOWER — ★タワーシールド"> `SHIELD2_SH31_TOWER` | ★タワーシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH32_PALISADE — ★パリセイドシールド"> `SHIELD2_SH32_PALISADE` | ★パリセイドシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH33_SHINKI"> `SHIELD2_SH33_SHINKI` |  |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH34_SHINKI — ジェネラルシールド"> `SHIELD2_SH34_SHINKI` | ジェネラルシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH35_SHINKI — ルミナスシールド"> `SHIELD2_SH35_SHINKI` | ルミナスシールド |
-| <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH36_LARGE — ノートリアスシールド"> `SHIELD2_SH36_LARGE` | ノートリアスシールド |
+| <img src="../img/icons/icon_0256.png" width="36" title="SHIELD2_SH36_LARGE — ノートリアスシールド"> `SHIELD2_SH36_LARGE` | ノートリアスシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH37_KITE — ★カイトシールド"> `SHIELD2_SH37_KITE` | ★カイトシールド |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH38_MACHINE — 機兵の盾"> `SHIELD2_SH38_MACHINE` | 機兵の盾 |
 | <img src="../img/icons/cls_shield.png" width="36" title="SHIELD2_SH39_MACHINE_GOLD — 黄金機兵の盾"> `SHIELD2_SH39_MACHINE_GOLD` | 黄金機兵の盾 |
@@ -820,11 +820,11 @@ Inclui os acessórios easter-egg de consoles Sega (`SC3000`, `SG1000`, `MARK3`, 
 
 | item | nome | notas |
 |---|---|---|
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL01_FIREAMULET — ファイアーアミュレット — アーマートードキングを / 召喚するためのカード"> `ACCES2_AL01_FIREAMULET` | ファイアーアミュレット | アーマートードキングを / 召喚するためのカード |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL02_ICEAMULET — アイスアミュレット — サキュバス"> `ACCES2_AL02_ICEAMULET` | アイスアミュレット | サキュバス |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL03_THUNDERAMULET — サンダーアミュレット — サキュバスを / 召喚するためのカード"> `ACCES2_AL03_THUNDERAMULET` | サンダーアミュレット | サキュバスを / 召喚するためのカード |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL04_HOLYAMULET — ホーリーアミュレット — スケルトンＦ"> `ACCES2_AL04_HOLYAMULET` | ホーリーアミュレット | スケルトンＦ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL05_DARKAMULET — ダークアミュレット — スケルトンＦを / 召喚するためのカード"> `ACCES2_AL05_DARKAMULET` | ダークアミュレット | スケルトンＦを / 召喚するためのカード |
+| <img src="../img/icons/icon_0901.png" width="36" title="ACCES2_AL01_FIREAMULET — ファイアーアミュレット — アーマートードキングを / 召喚するためのカード"> `ACCES2_AL01_FIREAMULET` | ファイアーアミュレット | アーマートードキングを / 召喚するためのカード |
+| <img src="../img/icons/icon_0939.png" width="36" title="ACCES2_AL02_ICEAMULET — アイスアミュレット — サキュバス"> `ACCES2_AL02_ICEAMULET` | アイスアミュレット | サキュバス |
+| <img src="../img/icons/icon_0940.png" width="36" title="ACCES2_AL03_THUNDERAMULET — サンダーアミュレット — サキュバスを / 召喚するためのカード"> `ACCES2_AL03_THUNDERAMULET` | サンダーアミュレット | サキュバスを / 召喚するためのカード |
+| <img src="../img/icons/icon_0941.png" width="36" title="ACCES2_AL04_HOLYAMULET — ホーリーアミュレット — スケルトンＦ"> `ACCES2_AL04_HOLYAMULET` | ホーリーアミュレット | スケルトンＦ |
+| <img src="../img/icons/icon_0927.png" width="36" title="ACCES2_AL05_DARKAMULET — ダークアミュレット — スケルトンＦを / 召喚するためのカード"> `ACCES2_AL05_DARKAMULET` | ダークアミュレット | スケルトンＦを / 召喚するためのカード |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL06_GREATAMULET — グレートアミュレット — スケルトンナイトＦ"> `ACCES2_AL06_GREATAMULET` | グレートアミュレット | スケルトンナイトＦ |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL07_HOLYCHARM — 破邪の護符 — スケルトンナイトＦを / 召喚するためのカード"> `ACCES2_AL07_HOLYCHARM` | 破邪の護符 | スケルトンナイトＦを / 召喚するためのカード |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL08_GOODCHARM — 光の護符 — スケルトンメイジＦ"> `ACCES2_AL08_GOODCHARM` | 光の護符 | スケルトンメイジＦ |
@@ -834,8 +834,8 @@ Inclui os acessórios easter-egg de consoles Sega (`SC3000`, `SG1000`, `MARK3`, 
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL12_EARTHCHARM — 地の護符 — スケルトンアーチャーＦを / 召喚するためのカード"> `ACCES2_AL12_EARTHCHARM` | 地の護符 | スケルトンアーチャーＦを / 召喚するためのカード |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL13_OCEANCHARM — 海の護符 — スケルトンＩ"> `ACCES2_AL13_OCEANCHARM` | 海の護符 | スケルトンＩ |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL14_LAWCHARM — 法の護符 — スケルトンＩを / 召喚するためのカード"> `ACCES2_AL14_LAWCHARM` | 法の護符 | スケルトンＩを / 召喚するためのカード |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL15_HOLYAMULET — ★ホーリーアミュレット — スケルトンナイトＩ"> `ACCES2_AL15_HOLYAMULET` | ★ホーリーアミュレット | スケルトンナイトＩ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL16_DARKAMULET — ★ダークアミュレット — スケルトンナイトＩを / 召喚するためのカード"> `ACCES2_AL16_DARKAMULET` | ★ダークアミュレット | スケルトンナイトＩを / 召喚するためのカード |
+| <img src="../img/icons/icon_0928.png" width="36" title="ACCES2_AL15_HOLYAMULET — ★ホーリーアミュレット — スケルトンナイトＩ"> `ACCES2_AL15_HOLYAMULET` | ★ホーリーアミュレット | スケルトンナイトＩ |
+| <img src="../img/icons/icon_0914.png" width="36" title="ACCES2_AL16_DARKAMULET — ★ダークアミュレット — スケルトンナイトＩを / 召喚するためのカード"> `ACCES2_AL16_DARKAMULET` | ★ダークアミュレット | スケルトンナイトＩを / 召喚するためのカード |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL17_GREATAMULET — ★グレートアミュレット — スケルトンメイジＩ"> `ACCES2_AL17_GREATAMULET` | ★グレートアミュレット | スケルトンメイジＩ |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL18_SILVERAMULET — 銀のネックレス"> `ACCES2_AL18_SILVERAMULET` | 銀のネックレス |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL19_OMAMORI — 朱鳥のお守り"> `ACCES2_AL19_OMAMORI` | 朱鳥のお守り |
@@ -845,9 +845,9 @@ Inclui os acessórios easter-egg de consoles Sega (`SC3000`, `SG1000`, `MARK3`, 
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL23_DIANAAMULET — ディアナアミュレット"> `ACCES2_AL23_DIANAAMULET` | ディアナアミュレット |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL24_SOLAMULET — ソルアミュレット"> `ACCES2_AL24_SOLAMULET` | ソルアミュレット |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL25_DAMULET — 魔道の首飾り"> `ACCES2_AL25_DAMULET` | 魔道の首飾り |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL26_FIREAMULET — ★Ｆアミュレット"> `ACCES2_AL26_FIREAMULET` | ★Ｆアミュレット |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL27_ICEAMULET — ★アイスアミュレット"> `ACCES2_AL27_ICEAMULET` | ★アイスアミュレット |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL28_THUNDERAMULET — ★サンダーアミュレット"> `ACCES2_AL28_THUNDERAMULET` | ★サンダーアミュレット |
+| <img src="../img/icons/icon_0901.png" width="36" title="ACCES2_AL26_FIREAMULET — ★Ｆアミュレット"> `ACCES2_AL26_FIREAMULET` | ★Ｆアミュレット |
+| <img src="../img/icons/icon_0939.png" width="36" title="ACCES2_AL27_ICEAMULET — ★アイスアミュレット"> `ACCES2_AL27_ICEAMULET` | ★アイスアミュレット |
+| <img src="../img/icons/icon_0940.png" width="36" title="ACCES2_AL28_THUNDERAMULET — ★サンダーアミュレット"> `ACCES2_AL28_THUNDERAMULET` | ★サンダーアミュレット |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL29_SC3000 — ＳＣ－３０００"> `ACCES2_AL29_SC3000` | ＳＣ－３０００ |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL30_SG1000 — ＳＧ－１０００"> `ACCES2_AL30_SG1000` | ＳＧ－１０００ |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL31_SG1000_2 — ＳＧ－１０００Ⅱ"> `ACCES2_AL31_SG1000_2` | ＳＧ－１０００Ⅱ |
@@ -867,27 +867,27 @@ Inclui os acessórios easter-egg de consoles Sega (`SC3000`, `SG1000`, `MARK3`, 
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL45_GLOWAMULET — グロウアミュレット"> `ACCES2_AL45_GLOWAMULET` | グロウアミュレット |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL46_D4SHINKI2 — ジュピターアミュレット"> `ACCES2_AL46_D4SHINKI2` | ジュピターアミュレット |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_AL47_D4SHINKI3 — Ｄ４新規アミュレット２ — アーマートードキングを / 召喚するためのカード"> `ACCES2_AL47_D4SHINKI3` | Ｄ４新規アミュレット２ | アーマートードキングを / 召喚するためのカード |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI01_SPELLRING — マインドリング — 鉄の竜を / 召喚するためのカード"> `ACCES2_RI01_SPELLRING` | マインドリング | 鉄の竜を / 召喚するためのカード |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI02_TOUGHNESSRING — タフネスリング — スキル／特殊な能力を持つゴー / レムを召喚し、inimigoをataqueさせる"> `ACCES2_RI02_TOUGHNESSRING` | タフネスリング | スキル／特殊な能力を持つゴー / レムを召喚し、inimigoをataqueさせる |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI03_POWERRING — パワーリング — 対戦ポイント"> `ACCES2_RI03_POWERRING` | パワーリング | 対戦ポイント |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI04_SPEEDRING — スピードリング — 対戦／ポイント"> `ACCES2_RI04_SPEEDRING` | スピードリング | 対戦／ポイント |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI05_MAGICIANRING — マジックリング — 対戦パワーアップ"> `ACCES2_RI05_MAGICIANRING` | マジックリング | 対戦パワーアップ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI06_SIGHTRING — ゲイルリング — 対戦／パワーアップ"> `ACCES2_RI06_SIGHTRING` | ゲイルリング | 対戦／パワーアップ |
+| <img src="../img/icons/icon_0915.png" width="36" title="ACCES2_RI01_SPELLRING — マインドリング — 鉄の竜を / 召喚するためのカード"> `ACCES2_RI01_SPELLRING` | マインドリング | 鉄の竜を / 召喚するためのカード |
+| <img src="../img/icons/icon_0916.png" width="36" title="ACCES2_RI02_TOUGHNESSRING — タフネスリング — スキル／特殊な能力を持つゴー / レムを召喚し、inimigoをataqueさせる"> `ACCES2_RI02_TOUGHNESSRING` | タフネスリング | スキル／特殊な能力を持つゴー / レムを召喚し、inimigoをataqueさせる |
+| <img src="../img/icons/icon_0942.png" width="36" title="ACCES2_RI03_POWERRING — パワーリング — 対戦ポイント"> `ACCES2_RI03_POWERRING` | パワーリング | 対戦ポイント |
+| <img src="../img/icons/icon_0918.png" width="36" title="ACCES2_RI04_SPEEDRING — スピードリング — 対戦／ポイント"> `ACCES2_RI04_SPEEDRING` | スピードリング | 対戦／ポイント |
+| <img src="../img/icons/icon_0943.png" width="36" title="ACCES2_RI05_MAGICIANRING — マジックリング — 対戦パワーアップ"> `ACCES2_RI05_MAGICIANRING` | マジックリング | 対戦パワーアップ |
+| <img src="../img/icons/icon_0944.png" width="36" title="ACCES2_RI06_SIGHTRING — ゲイルリング — 対戦／パワーアップ"> `ACCES2_RI06_SIGHTRING` | ゲイルリング | 対戦／パワーアップ |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI07_HAPPYRING — ギネヴィアの指輪"> `ACCES2_RI07_HAPPYRING` | ギネヴィアの指輪 |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI08_DICTATOR — 支配者の指輪"> `ACCES2_RI08_DICTATOR` | 支配者の指輪 |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI09_GREATRING — グレートリング — 対戦／レベルアップ"> `ACCES2_RI09_GREATRING` | グレートリング | 対戦／レベルアップ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI10_LUCKRING — ラックリング — ハンドアックス"> `ACCES2_RI10_LUCKRING` | ラックリング | ハンドアックス |
+| <img src="../img/icons/icon_0930.png" width="36" title="ACCES2_RI10_LUCKRING — ラックリング — ハンドアックス"> `ACCES2_RI10_LUCKRING` | ラックリング | ハンドアックス |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI11 — バロルの邪眼"> `ACCES2_RI11` | バロルの邪眼 |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI12 — 妖精王の紅玉"> `ACCES2_RI12` | 妖精王の紅玉 |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI13 — 宝珠"> `ACCES2_RI13` | 宝珠 |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI14_SPELLRING — ★マインドリング — 片手Machado／Ataque：３０ / RequerＳＴＲ：５"> `ACCES2_RI14_SPELLRING` | ★マインドリング | 片手Machado／Ataque：３０ / RequerＳＴＲ：５ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI15_TOUGHNESSRING — ★タフネスリング — 片手Machado／一般的で簡素なMachado"> `ACCES2_RI15_TOUGHNESSRING` | ★タフネスリング | 片手Machado／一般的で簡素なMachado |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI16_POWERRING — ★パワーリング — フランキスカ"> `ACCES2_RI16_POWERRING` | ★パワーリング | フランキスカ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI17_SPEEDRING — ★スピードリング — 片手Machado／Ataque：５１ / RequerＳＴＲ：１０"> `ACCES2_RI17_SPEEDRING` | ★スピードリング | 片手Machado／Ataque：５１ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI18_MAGICIANRING — ★マジックリング — 片手Machado／地中海近くに住む勇猛 / な民族が愛用していたMachado"> `ACCES2_RI18_MAGICIANRING` | ★マジックリング | 片手Machado／地中海近くに住む勇猛 / な民族が愛用していたMachado |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI19_SIGHTRING — ★ゲイルリング — ウォーアックス"> `ACCES2_RI19_SIGHTRING` | ★ゲイルリング | ウォーアックス |
+| <img src="../img/icons/icon_0931.png" width="36" title="ACCES2_RI14_SPELLRING — ★マインドリング — 片手Machado／Ataque：３０ / RequerＳＴＲ：５"> `ACCES2_RI14_SPELLRING` | ★マインドリング | 片手Machado／Ataque：３０ / RequerＳＴＲ：５ |
+| <img src="../img/icons/icon_0932.png" width="36" title="ACCES2_RI15_TOUGHNESSRING — ★タフネスリング — 片手Machado／一般的で簡素なMachado"> `ACCES2_RI15_TOUGHNESSRING` | ★タフネスリング | 片手Machado／一般的で簡素なMachado |
+| <img src="../img/icons/icon_0933.png" width="36" title="ACCES2_RI16_POWERRING — ★パワーリング — フランキスカ"> `ACCES2_RI16_POWERRING` | ★パワーリング | フランキスカ |
+| <img src="../img/icons/icon_0934.png" width="36" title="ACCES2_RI17_SPEEDRING — ★スピードリング — 片手Machado／Ataque：５１ / RequerＳＴＲ：１０"> `ACCES2_RI17_SPEEDRING` | ★スピードリング | 片手Machado／Ataque：５１ / RequerＳＴＲ：１０ |
+| <img src="../img/icons/icon_0935.png" width="36" title="ACCES2_RI18_MAGICIANRING — ★マジックリング — 片手Machado／地中海近くに住む勇猛 / な民族が愛用していたMachado"> `ACCES2_RI18_MAGICIANRING` | ★マジックリング | 片手Machado／地中海近くに住む勇猛 / な民族が愛用していたMachado |
+| <img src="../img/icons/icon_0937.png" width="36" title="ACCES2_RI19_SIGHTRING — ★ゲイルリング — ウォーアックス"> `ACCES2_RI19_SIGHTRING` | ★ゲイルリング | ウォーアックス |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI20_GREATRING — ★グレートリング — 片手Machado／Ataque：３６ / RequerＳＴＲ：１０"> `ACCES2_RI20_GREATRING` | ★グレートリング | 片手Machado／Ataque：３６ / RequerＳＴＲ：１０ |
-| <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI21_LUCKRING — ★ラックリング — 片手Machado／工具としてのMachadoから発 / 展して完成された戦闘用のMachado"> `ACCES2_RI21_LUCKRING` | ★ラックリング | 片手Machado／工具としてのMachadoから発 / 展して完成された戦闘用のMachado |
+| <img src="../img/icons/icon_0930.png" width="36" title="ACCES2_RI21_LUCKRING — ★ラックリング — 片手Machado／工具としてのMachadoから発 / 展して完成された戦闘用のMachado"> `ACCES2_RI21_LUCKRING` | ★ラックリング | 片手Machado／工具としてのMachadoから発 / 展して完成された戦闘用のMachado |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI22_HAPPYRING — ★プロテクトリング — バトルアックス"> `ACCES2_RI22_HAPPYRING` | ★プロテクトリング | バトルアックス |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI23_KNIGHT — ナイトリング"> `ACCES2_RI23_KNIGHT` | ナイトリング |
 | <img src="../img/icons/cls_acces.png" width="36" title="ACCES2_RI24_PROTECT — プロテクトリング"> `ACCES2_RI24_PROTECT` | プロテクトリング |
@@ -1046,15 +1046,15 @@ itens de comida
 |---|---|---|
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS01_MATERIAL — マテリアルストーン"> `BOOK2_MS01_MATERIAL` | マテリアルストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS02_FIRE — ファイアーストーン"> `BOOK2_MS02_FIRE` | ファイアーストーン |
-| <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS03_ICE — アイスストーン"> `BOOK2_MS03_ICE` | アイスストーン |
-| <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS04_THUNDER — サンダーストーン"> `BOOK2_MS04_THUNDER` | サンダーストーン |
+| <img src="../img/icons/icon_0454.png" width="36" title="BOOK2_MS03_ICE — アイスストーン"> `BOOK2_MS03_ICE` | アイスストーン |
+| <img src="../img/icons/icon_0056.png" width="36" title="BOOK2_MS04_THUNDER — サンダーストーン"> `BOOK2_MS04_THUNDER` | サンダーストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS05_HOLY — ホーリーストーン"> `BOOK2_MS05_HOLY` | ホーリーストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS06_DARK — ダークストーン"> `BOOK2_MS06_DARK` | ダークストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS07_POWER — パワーストーン"> `BOOK2_MS07_POWER` | パワーストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS08_TOUGHNESS — タフネスストーン"> `BOOK2_MS08_TOUGHNESS` | タフネスストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS09_SPEED — スピードストーン"> `BOOK2_MS09_SPEED` | スピードストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS10_GALE — ゲイルストーン"> `BOOK2_MS10_GALE` | ゲイルストーン |
-| <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS11_MAGIC — マジックストーン"> `BOOK2_MS11_MAGIC` | マジックストーン |
+| <img src="../img/icons/icon_0455.png" width="36" title="BOOK2_MS11_MAGIC — マジックストーン"> `BOOK2_MS11_MAGIC` | マジックストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS12_MIND — マインドストーン"> `BOOK2_MS12_MIND` | マインドストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS13_LUCK — ラックストーン"> `BOOK2_MS13_LUCK` | ラックストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS14_POISON — ポイズンストーン"> `BOOK2_MS14_POISON` | ポイズンストーン |
@@ -1064,7 +1064,7 @@ itens de comida
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS18_BLEED — ブリードストーン"> `BOOK2_MS18_BLEED` | ブリードストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS19_RISE — ライズストーン — マジシャン"> `BOOK2_MS19_RISE` | ライズストーン | マジシャン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS20_SENCE — センスストーン — マジシャン"> `BOOK2_MS20_SENCE` | センスストーン | マジシャン |
-| <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS21_SOUL — ソウルストーン"> `BOOK2_MS21_SOUL` | ソウルストーン |
+| <img src="../img/icons/icon_0775.png" width="36" title="BOOK2_MS21_SOUL — ソウルストーン"> `BOOK2_MS21_SOUL` | ソウルストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS22_ETHER — エーテルストーン"> `BOOK2_MS22_ETHER` | エーテルストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS23_BLIND — ブラインドストーン"> `BOOK2_MS23_BLIND` | ブラインドストーン |
 | <img src="../img/icons/cls_mat.png" width="36" title="BOOK2_MS24_SLOW — スロウストーン"> `BOOK2_MS24_SLOW` | スロウストーン |
@@ -1087,7 +1087,7 @@ itens de comida
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT12_ORB_HOLY — ホーリーオーブ"> `BOOK2_MT12_ORB_HOLY` | ホーリーオーブ |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT13_ORB_DARK — ダークオーブ"> `BOOK2_MT13_ORB_DARK` | ダークオーブ |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT14_IRON_RAW — 砂鉄"> `BOOK2_MT14_IRON_RAW` | 砂鉄 |
-| <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT15_IRON — 鉄"> `BOOK2_MT15_IRON` | 鉄 |
+| <img src="../img/icons/icon_0406.png" width="36" title="BOOK2_MT15_IRON — 鉄"> `BOOK2_MT15_IRON` | 鉄 |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT16_IRON_INGOT — アイアンインゴット"> `BOOK2_MT16_IRON_INGOT` | アイアンインゴット |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT17_IRON_G — 仮素材3"> `BOOK2_MT17_IRON_G` | 仮素材3 |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT18_LEATHER_BEAST — 獣の皮"> `BOOK2_MT18_LEATHER_BEAST` | 獣の皮 |
@@ -1114,7 +1114,7 @@ itens de comida
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT39_JEWEL_FIRE — フレイムジュエル"> `BOOK2_MT39_JEWEL_FIRE` | フレイムジュエル |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT40_JEWEL_ICE — フロストジュエル"> `BOOK2_MT40_JEWEL_ICE` | フロストジュエル |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT41_JEWEL_THUNDER — ライトニングジュエル"> `BOOK2_MT41_JEWEL_THUNDER` | ライトニングジュエル |
-| <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT42_WING — 飛翔の翼"> `BOOK2_MT42_WING` | 飛翔の翼 |
+| <img src="../img/icons/icon_0279.png" width="36" title="BOOK2_MT42_WING — 飛翔の翼"> `BOOK2_MT42_WING` | 飛翔の翼 |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT43_MGC_ROCK"> `BOOK2_MT43_MGC_ROCK` |  |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT44"> `BOOK2_MT44` |  |
 | <img src="../img/icons/cls_book2.png" width="36" title="BOOK2_MT45 — 幻魔石"> `BOOK2_MT45` | 幻魔石 |
