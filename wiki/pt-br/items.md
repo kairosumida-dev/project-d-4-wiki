@@ -4,29 +4,18 @@
 <script src="../assets/lb.js" defer></script>
 # Itens
 
-Itens de v4 vivem em nove tabelas `*2`. A **evidência primária dos nomes de exibição** é
-a faixa de nomes dentro de `text.bin` (nomes intercalados com strings de descrição
-`〈type〉／…`, filtradas antes do alinhamento). Notas de método:
+Os ícones das linhas são **sprites de classe** extraídos de `spr_icon.xst` (o atlas de ícones 1024×1024 do jogo) — representam a *família* do item, não arte individual.
 
-- `helm2` (100) e `food2` (21) batem com as faixas de nomes **exatamente** — 1:1.
-- `weapon2` (358) é ordinal contra a faixa de nomes 3359–4298 com **um
-  slot de nome faltando** em `WEAPON2_QI10_SHINKI` (a tabela de texto não tem entrada
-  entre os vizinhos QI09 `スパークアロー` e QI11 `雷電の矢`).
-- `boots2`, `armor2`, `shield2`, `acces2` foram alinhados por uma passada de
-  alinhamento de sequência pontuada por correspondências token de ID ↔ palavra-chave em katakana
-  (ex.: `FIRE` ↔ `ファイアー`). Nomes dessa passada são **candidatos fortes,
-  não provas** — algumas linhas podem estar um slot fora do lugar.
-- `potion2` e `book2` foram decodificados manualmente: `potion2` mapeia trincas
-  nome/descrição (2465–2541) diretamente; `book2` mapeia faixas de nomes por tier de
-  elemento e é **confirmado pelos 26 nomes de livros `*_EX` em 1786–1811** (ex.:
-  `THUNDER04_EX` ↔ `ライトニングチェインＥＸ` prova `THUNDER04` ↔
-  `ライトニングチェイン`). Clusters `BOOK2_SK{nnn}` puros (área SK410–SK500)
-  ficam em branco — os ~49 nomes de técnicas em 2342–2464 (カラドボルグ …
-  リジェネレーション) ainda não podem ser vinculados a registros individuais.
-- As tabelas sem prefixo (`weapon`, `armor`, `helm`, `boots`, `shield`,
-  `acces`, `potion`, `food`, `book`) são os **conjuntos legados v1.x** mantidos por
-  compatibilidade; elas se sobrepõem às faixas `*2` e estão resumidas
-  ao final, sem expansão.
+| ícone | família | ícone | família |
+|---|---|---|---|
+| ![](../img/icons/cls_ka.png) | `KA` machados 1 mão | ![](../img/icons/cls_ks.png) | `KS` espadas 1 mão |
+| ![](../img/icons/cls_ra.png) | `RA` machados 2 mãos | ![](../img/icons/cls_rs.png) | `RS` espadas 2 mãos |
+| ![](../img/icons/cls_ma.png) | `MA` clavas/maças | ![](../img/icons/cls_nc.png) | `NC` soqueiras |
+| ![](../img/icons/cls_ni.png) | `NI` adagas | ![](../img/icons/cls_sp.png) | `SP` lanças |
+| ![](../img/icons/cls_st.png) | `ST` cajados | ![](../img/icons/cls_yu.png) | `YU` arcos |
+| ![](../img/icons/cls_qi.png) | `QI` flechas/aljavas | | |
+
+Itens das nove tabelas `*2` do v4. Clique num ícone para ampliar.
 
 ### Totais das tabelas v4
 
