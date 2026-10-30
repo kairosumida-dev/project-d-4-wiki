@@ -44,6 +44,3 @@ Reverse-engineering notes and extracted game data for **Quest of D 4.0 — The B
 - [Items](items.md)
 - [Skills](skills.md)
 - [Cards](cards.md)
-- [Quests & dungeons](quests.md)
-- [Status effects & traps](status-effects.md)
-- [Network protocol](protocol.md)

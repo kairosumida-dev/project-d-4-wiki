@@ -44,6 +44,3 @@
 - [アイテム](items.md)
 - [スキル](skills.md)
 - [カード](cards.md)
-- [クエスト＆ダンジョン](quests.md)
-- [状態異常＆トラップ](status-effects.md)
-- [ネットワークプロトコル](protocol.md)

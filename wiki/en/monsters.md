@@ -291,102 +291,102 @@ species name resolved above (blank = unresolved / no summon card).
 | `MONST_DYH_AN18_1_CHARGE` | <img src="../img/pack_cha_dyh_an18.png" width="48"> `DYH_AN18` | ミノタウロスコマンダー | `CHARGE` |
 | `MONST_DYH_AN18_AXE` | <img src="../img/pack_cha_dyh_an18.png" width="48"> `DYH_AN18` | ミノタウロスコマンダー | `AXE` |
 | `MONST_DYH_AN18_CHARGE` | <img src="../img/pack_cha_dyh_an18.png" width="48"> `DYH_AN18` | ミノタウロスコマンダー | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE` | <img src="../img/pack_cha_dyh_no01.png" width="48"> `DYH_NO01` | ドワーブンスケルトン | `AXE` |
-| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE_F` | <img src="../img/pack_cha_dyh_no01.png" width="48"> `DYH_NO01` | ドワーブンスケルトン | `AXE_F` |
-| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE_I` | <img src="../img/pack_cha_dyh_no01.png" width="48"> `DYH_NO01` | ドワーブンスケルトン | `AXE_I` |
-| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE_T` | <img src="../img/pack_cha_dyh_no01.png" width="48"> `DYH_NO01` | ドワーブンスケルトン | `AXE_T` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD_F` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SHIELD_F` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD_I` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SHIELD_I` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD_T` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SHIELD_T` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SWORD` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD_F` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SWORD_F` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD_I` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SWORD_I` |
-| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD_T` | <img src="../img/pack_cha_dyh_no02.png" width="48"> `DYH_NO02` | スケルトン | `SWORD_T` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_FIRE` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `FIRE` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_FIRE_AREA` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `FIRE_AREA` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_ICE` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `ICE` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_ICE_AREA` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `ICE_AREA` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_THUNDER` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_THUNDER_AREA` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `THUNDER_AREA` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `STAFF` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF_F` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `STAFF_F` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF_I` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `STAFF_I` |
-| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF_T` | <img src="../img/pack_cha_dyh_no03.png" width="48"> `DYH_NO03` | スケルトンメイジ | `STAFF_T` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `BOW` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW_F` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `BOW_F` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW_I` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `BOW_I` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW_T` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `BOW_T` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `POISONQUIV` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV_F` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `POISONQUIV_F` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV_I` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `POISONQUIV_I` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV_T` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `POISONQUIV_T` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `QUIV` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV_F` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `QUIV_F` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV_I` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `QUIV_I` |
-| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV_T` | <img src="../img/pack_cha_dyh_no04.png" width="48"> `DYH_NO04` | スケルトンアーチャー | `QUIV_T` |
-| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD` | <img src="../img/pack_cha_dyh_no05.png" width="48"> `DYH_NO05` | スケルトンナイト | `SWORD` |
-| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD_F` | <img src="../img/pack_cha_dyh_no05.png" width="48"> `DYH_NO05` | スケルトンナイト | `SWORD_F` |
-| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD_I` | <img src="../img/pack_cha_dyh_no05.png" width="48"> `DYH_NO05` | スケルトンナイト | `SWORD_I` |
-| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD_T` | <img src="../img/pack_cha_dyh_no05.png" width="48"> `DYH_NO05` | スケルトンナイト | `SWORD_T` |
-| <img src="../img/pack_cha_dyh_no06.png" width="48"> `MONST_DYH_NO06_CLAW_L` | <img src="../img/pack_cha_dyh_no06.png" width="48"> `DYH_NO06` | ゾンビ | `CLAW_L` |
-| <img src="../img/pack_cha_dyh_no06.png" width="48"> `MONST_DYH_NO06_CLAW_R` | <img src="../img/pack_cha_dyh_no06.png" width="48"> `DYH_NO06` | ゾンビ | `CLAW_R` |
+| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE` | `DYH_NO01` | ドワーブンスケルトン | `AXE` |
+| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE_F` | `DYH_NO01` | ドワーブンスケルトン | `AXE_F` |
+| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE_I` | `DYH_NO01` | ドワーブンスケルトン | `AXE_I` |
+| <img src="../img/pack_cha_dyh_no01.png" width="48"> `MONST_DYH_NO01_AXE_T` | `DYH_NO01` | ドワーブンスケルトン | `AXE_T` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD` | `DYH_NO02` | スケルトン | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD_F` | `DYH_NO02` | スケルトン | `SHIELD_F` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD_I` | `DYH_NO02` | スケルトン | `SHIELD_I` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SHIELD_T` | `DYH_NO02` | スケルトン | `SHIELD_T` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD` | `DYH_NO02` | スケルトン | `SWORD` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD_F` | `DYH_NO02` | スケルトン | `SWORD_F` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD_I` | `DYH_NO02` | スケルトン | `SWORD_I` |
+| <img src="../img/pack_cha_dyh_no02.png" width="48"> `MONST_DYH_NO02_SWORD_T` | `DYH_NO02` | スケルトン | `SWORD_T` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_FIRE` | `DYH_NO03` | スケルトンメイジ | `FIRE` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_FIRE_AREA` | `DYH_NO03` | スケルトンメイジ | `FIRE_AREA` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_ICE` | `DYH_NO03` | スケルトンメイジ | `ICE` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_ICE_AREA` | `DYH_NO03` | スケルトンメイジ | `ICE_AREA` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_THUNDER` | `DYH_NO03` | スケルトンメイジ | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_THUNDER_AREA` | `DYH_NO03` | スケルトンメイジ | `THUNDER_AREA` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF` | `DYH_NO03` | スケルトンメイジ | `STAFF` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF_F` | `DYH_NO03` | スケルトンメイジ | `STAFF_F` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF_I` | `DYH_NO03` | スケルトンメイジ | `STAFF_I` |
+| <img src="../img/pack_cha_dyh_no03.png" width="48"> `MONST_DYH_NO03_STAFF_T` | `DYH_NO03` | スケルトンメイジ | `STAFF_T` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW` | `DYH_NO04` | スケルトンアーチャー | `BOW` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW_F` | `DYH_NO04` | スケルトンアーチャー | `BOW_F` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW_I` | `DYH_NO04` | スケルトンアーチャー | `BOW_I` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_BOW_T` | `DYH_NO04` | スケルトンアーチャー | `BOW_T` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV` | `DYH_NO04` | スケルトンアーチャー | `POISONQUIV` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV_F` | `DYH_NO04` | スケルトンアーチャー | `POISONQUIV_F` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV_I` | `DYH_NO04` | スケルトンアーチャー | `POISONQUIV_I` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_POISONQUIV_T` | `DYH_NO04` | スケルトンアーチャー | `POISONQUIV_T` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV` | `DYH_NO04` | スケルトンアーチャー | `QUIV` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV_F` | `DYH_NO04` | スケルトンアーチャー | `QUIV_F` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV_I` | `DYH_NO04` | スケルトンアーチャー | `QUIV_I` |
+| <img src="../img/pack_cha_dyh_no04.png" width="48"> `MONST_DYH_NO04_QUIV_T` | `DYH_NO04` | スケルトンアーチャー | `QUIV_T` |
+| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD` | `DYH_NO05` | スケルトンナイト | `SWORD` |
+| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD_F` | `DYH_NO05` | スケルトンナイト | `SWORD_F` |
+| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD_I` | `DYH_NO05` | スケルトンナイト | `SWORD_I` |
+| <img src="../img/pack_cha_dyh_no05.png" width="48"> `MONST_DYH_NO05_SWORD_T` | `DYH_NO05` | スケルトンナイト | `SWORD_T` |
+| <img src="../img/pack_cha_dyh_no06.png" width="48"> `MONST_DYH_NO06_CLAW_L` | `DYH_NO06` | ゾンビ | `CLAW_L` |
+| <img src="../img/pack_cha_dyh_no06.png" width="48"> `MONST_DYH_NO06_CLAW_R` | `DYH_NO06` | ゾンビ | `CLAW_R` |
 | `MONST_DYH_NO07_SHIELD` | `DYH_NO07` |  | `SHIELD` |
 | `MONST_DYH_NO07_SWORD` | `DYH_NO07` |  | `SWORD` |
 | `MONST_DYH_NO08_SHIELD` | `DYH_NO08` |  | `SHIELD` |
 | `MONST_DYH_NO08_SWORD` | `DYH_NO08` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no09.png" width="48"> `MONST_DYH_NO09_BITE` | <img src="../img/pack_cha_dyh_no09.png" width="48"> `DYH_NO09` | グール | `BITE` |
-| <img src="../img/pack_cha_dyh_no09.png" width="48"> `MONST_DYH_NO09_CLAW_L` | <img src="../img/pack_cha_dyh_no09.png" width="48"> `DYH_NO09` | グール | `CLAW_L` |
-| <img src="../img/pack_cha_dyh_no09.png" width="48"> `MONST_DYH_NO09_CLAW_R` | <img src="../img/pack_cha_dyh_no09.png" width="48"> `DYH_NO09` | グール | `CLAW_R` |
+| <img src="../img/pack_cha_dyh_no09.png" width="48"> `MONST_DYH_NO09_BITE` | `DYH_NO09` | グール | `BITE` |
+| <img src="../img/pack_cha_dyh_no09.png" width="48"> `MONST_DYH_NO09_CLAW_L` | `DYH_NO09` | グール | `CLAW_L` |
+| <img src="../img/pack_cha_dyh_no09.png" width="48"> `MONST_DYH_NO09_CLAW_R` | `DYH_NO09` | グール | `CLAW_R` |
 | `MONST_DYH_NO10_SWORD` | `DYH_NO10` |  | `SWORD` |
 | `MONST_DYH_NO11_SHIELD` | `DYH_NO11` |  | `SHIELD` |
 | `MONST_DYH_NO11_SWORD` | `DYH_NO11` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_FIRE` | <img src="../img/pack_cha_dyh_no12.png" width="48"> `DYH_NO12` | ゴースト | `FIRE` |
-| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_ICE` | <img src="../img/pack_cha_dyh_no12.png" width="48"> `DYH_NO12` | ゴースト | `ICE` |
-| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_SILENT` | <img src="../img/pack_cha_dyh_no12.png" width="48"> `DYH_NO12` | ゴースト | `SILENT` |
-| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_THUNDER` | <img src="../img/pack_cha_dyh_no12.png" width="48"> `DYH_NO12` | ゴースト | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_BITE` | <img src="../img/pack_cha_dyh_no12.png" width="48"> `DYH_NO12` | ゴースト | `BITE` |
-| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_FIRE` | <img src="../img/pack_cha_dyh_no13.png" width="48"> `DYH_NO13` | ファントム | `FIRE` |
-| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_ICE` | <img src="../img/pack_cha_dyh_no13.png" width="48"> `DYH_NO13` | ファントム | `ICE` |
-| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_SILENT` | <img src="../img/pack_cha_dyh_no13.png" width="48"> `DYH_NO13` | ファントム | `SILENT` |
-| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_THUNDER` | <img src="../img/pack_cha_dyh_no13.png" width="48"> `DYH_NO13` | ファントム | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_BITE` | <img src="../img/pack_cha_dyh_no13.png" width="48"> `DYH_NO13` | ファントム | `BITE` |
+| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_FIRE` | `DYH_NO12` | ゴースト | `FIRE` |
+| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_ICE` | `DYH_NO12` | ゴースト | `ICE` |
+| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_SILENT` | `DYH_NO12` | ゴースト | `SILENT` |
+| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_THUNDER` | `DYH_NO12` | ゴースト | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no12.png" width="48"> `MONST_DYH_NO12_BITE` | `DYH_NO12` | ゴースト | `BITE` |
+| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_FIRE` | `DYH_NO13` | ファントム | `FIRE` |
+| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_ICE` | `DYH_NO13` | ファントム | `ICE` |
+| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_SILENT` | `DYH_NO13` | ファントム | `SILENT` |
+| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_THUNDER` | `DYH_NO13` | ファントム | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no13.png" width="48"> `MONST_DYH_NO13_BITE` | `DYH_NO13` | ファントム | `BITE` |
 | `MONST_DYH_NO14_SHIELD` | `DYH_NO14` | ガスクラウド | `SHIELD` |
 | `MONST_DYH_NO14_SWORD` | `DYH_NO14` | ガスクラウド | `SWORD` |
 | `MONST_DYH_NO15_SHIELD` | `DYH_NO15` | サルファークラウド | `SHIELD` |
 | `MONST_DYH_NO15_SWORD` | `DYH_NO15` | サルファークラウド | `SWORD` |
 | `MONST_DYH_NO16_SHIELD` | `DYH_NO16` | ポイズンクラウド | `SHIELD` |
 | `MONST_DYH_NO16_SWORD` | `DYH_NO16` | ポイズンクラウド | `SWORD` |
-| <img src="../img/pack_cha_dyh_no17.png" width="48"> `MONST_DYH_NO17_SWORD` | <img src="../img/pack_cha_dyh_no17.png" width="48"> `DYH_NO17` | ゴブリンコック | `SWORD` |
-| <img src="../img/pack_cha_dyh_no18.png" width="48"> `MONST_DYH_NO18_BOW` | <img src="../img/pack_cha_dyh_no18.png" width="48"> `DYH_NO18` | ゴブリンアーチャー | `BOW` |
-| <img src="../img/pack_cha_dyh_no18.png" width="48"> `MONST_DYH_NO18_POISONQUIV` | <img src="../img/pack_cha_dyh_no18.png" width="48"> `DYH_NO18` | ゴブリンアーチャー | `POISONQUIV` |
-| <img src="../img/pack_cha_dyh_no18.png" width="48"> `MONST_DYH_NO18_QUIV` | <img src="../img/pack_cha_dyh_no18.png" width="48"> `DYH_NO18` | ゴブリンアーチャー | `QUIV` |
-| <img src="../img/pack_cha_dyh_no19.png" width="48"> `MONST_DYH_NO19_SHIELD` | <img src="../img/pack_cha_dyh_no19.png" width="48"> `DYH_NO19` | ゴブリンファイター | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no19.png" width="48"> `MONST_DYH_NO19_SWORD` | <img src="../img/pack_cha_dyh_no19.png" width="48"> `DYH_NO19` | ゴブリンファイター | `SWORD` |
-| <img src="../img/pack_cha_dyh_no21.png" width="48"> `MONST_DYH_NO21_MACE` | <img src="../img/pack_cha_dyh_no21.png" width="48"> `DYH_NO21` | ホブゴブリン | `MACE` |
-| <img src="../img/pack_cha_dyh_no22.png" width="48"> `MONST_DYH_NO22_SWORD` | <img src="../img/pack_cha_dyh_no22.png" width="48"> `DYH_NO22` | ゴブリンロード | `SWORD` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `AXE` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE_F` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `AXE_F` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE_I` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `AXE_I` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE_T` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `AXE_T` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD_F` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `SHIELD_F` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD_I` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `SHIELD_I` |
-| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD_T` | <img src="../img/pack_cha_dyh_no23.png" width="48"> `DYH_NO23` | オーク | `SHIELD_T` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_FIRE` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `FIRE` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_FIRE_AREA` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `FIRE_AREA` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_ICE` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `ICE` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_ICE_AREA` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `ICE_AREA` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_THUNDER` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_THUNDER_AREA` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `THUNDER_AREA` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `STAFF` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF_F` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `STAFF_F` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF_I` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `STAFF_I` |
-| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF_T` | <img src="../img/pack_cha_dyh_no24.png" width="48"> `DYH_NO24` | オークメイジ | `STAFF_T` |
-| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE` | <img src="../img/pack_cha_dyh_no25.png" width="48"> `DYH_NO25` | オークチーフ | `AXE` |
-| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE_F` | <img src="../img/pack_cha_dyh_no25.png" width="48"> `DYH_NO25` | オークチーフ | `AXE_F` |
-| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE_I` | <img src="../img/pack_cha_dyh_no25.png" width="48"> `DYH_NO25` | オークチーフ | `AXE_I` |
-| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE_T` | <img src="../img/pack_cha_dyh_no25.png" width="48"> `DYH_NO25` | オークチーフ | `AXE_T` |
+| <img src="../img/pack_cha_dyh_no17.png" width="48"> `MONST_DYH_NO17_SWORD` | `DYH_NO17` | ゴブリンコック | `SWORD` |
+| <img src="../img/pack_cha_dyh_no18.png" width="48"> `MONST_DYH_NO18_BOW` | `DYH_NO18` | ゴブリンアーチャー | `BOW` |
+| <img src="../img/pack_cha_dyh_no18.png" width="48"> `MONST_DYH_NO18_POISONQUIV` | `DYH_NO18` | ゴブリンアーチャー | `POISONQUIV` |
+| <img src="../img/pack_cha_dyh_no18.png" width="48"> `MONST_DYH_NO18_QUIV` | `DYH_NO18` | ゴブリンアーチャー | `QUIV` |
+| <img src="../img/pack_cha_dyh_no19.png" width="48"> `MONST_DYH_NO19_SHIELD` | `DYH_NO19` | ゴブリンファイター | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no19.png" width="48"> `MONST_DYH_NO19_SWORD` | `DYH_NO19` | ゴブリンファイター | `SWORD` |
+| <img src="../img/pack_cha_dyh_no21.png" width="48"> `MONST_DYH_NO21_MACE` | `DYH_NO21` | ホブゴブリン | `MACE` |
+| <img src="../img/pack_cha_dyh_no22.png" width="48"> `MONST_DYH_NO22_SWORD` | `DYH_NO22` | ゴブリンロード | `SWORD` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE` | `DYH_NO23` | オーク | `AXE` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE_F` | `DYH_NO23` | オーク | `AXE_F` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE_I` | `DYH_NO23` | オーク | `AXE_I` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_AXE_T` | `DYH_NO23` | オーク | `AXE_T` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD` | `DYH_NO23` | オーク | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD_F` | `DYH_NO23` | オーク | `SHIELD_F` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD_I` | `DYH_NO23` | オーク | `SHIELD_I` |
+| <img src="../img/pack_cha_dyh_no23.png" width="48"> `MONST_DYH_NO23_SHIELD_T` | `DYH_NO23` | オーク | `SHIELD_T` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_FIRE` | `DYH_NO24` | オークメイジ | `FIRE` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_FIRE_AREA` | `DYH_NO24` | オークメイジ | `FIRE_AREA` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_ICE` | `DYH_NO24` | オークメイジ | `ICE` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_ICE_AREA` | `DYH_NO24` | オークメイジ | `ICE_AREA` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_THUNDER` | `DYH_NO24` | オークメイジ | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_THUNDER_AREA` | `DYH_NO24` | オークメイジ | `THUNDER_AREA` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF` | `DYH_NO24` | オークメイジ | `STAFF` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF_F` | `DYH_NO24` | オークメイジ | `STAFF_F` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF_I` | `DYH_NO24` | オークメイジ | `STAFF_I` |
+| <img src="../img/pack_cha_dyh_no24.png" width="48"> `MONST_DYH_NO24_STAFF_T` | `DYH_NO24` | オークメイジ | `STAFF_T` |
+| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE` | `DYH_NO25` | オークチーフ | `AXE` |
+| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE_F` | `DYH_NO25` | オークチーフ | `AXE_F` |
+| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE_I` | `DYH_NO25` | オークチーフ | `AXE_I` |
+| <img src="../img/pack_cha_dyh_no25.png" width="48"> `MONST_DYH_NO25_AXE_T` | `DYH_NO25` | オークチーフ | `AXE_T` |
 | `MONST_DYH_NO26_SHIELD` | `DYH_NO26` |  | `SHIELD` |
 | `MONST_DYH_NO26_SWORD` | `DYH_NO26` |  | `SWORD` |
 | `MONST_DYH_NO27_SHIELD` | `DYH_NO27` |  | `SHIELD` |
@@ -395,252 +395,252 @@ species name resolved above (blank = unresolved / no summon card).
 | `MONST_DYH_NO28_SWORD` | `DYH_NO28` |  | `SWORD` |
 | `MONST_DYH_NO29_SHIELD` | `DYH_NO29` |  | `SHIELD` |
 | `MONST_DYH_NO29_SWORD` | `DYH_NO29` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no30.png" width="48"> `MONST_DYH_NO30_BEAT1` | <img src="../img/pack_cha_dyh_no30.png" width="48"> `DYH_NO30` | ストーンゴーレム | `BEAT1` |
-| <img src="../img/pack_cha_dyh_no30.png" width="48"> `MONST_DYH_NO30_BEAT2` | <img src="../img/pack_cha_dyh_no30.png" width="48"> `DYH_NO30` | ストーンゴーレム | `BEAT2` |
-| <img src="../img/pack_cha_dyh_no31.png" width="48"> `MONST_DYH_NO31_BEAT1` | <img src="../img/pack_cha_dyh_no31.png" width="48"> `DYH_NO31` | アイアンゴーレム | `BEAT1` |
-| <img src="../img/pack_cha_dyh_no31.png" width="48"> `MONST_DYH_NO31_BEAT2` | <img src="../img/pack_cha_dyh_no31.png" width="48"> `DYH_NO31` | アイアンゴーレム | `BEAT2` |
-| <img src="../img/pack_cha_dyh_no32.png" width="48"> `MONST_DYH_NO32_BEAT1` | <img src="../img/pack_cha_dyh_no32.png" width="48"> `DYH_NO32` | アイスゴーレム | `BEAT1` |
-| <img src="../img/pack_cha_dyh_no32.png" width="48"> `MONST_DYH_NO32_BEAT2` | <img src="../img/pack_cha_dyh_no32.png" width="48"> `DYH_NO32` | アイスゴーレム | `BEAT2` |
-| <img src="../img/pack_cha_dyh_no33.png" width="48"> `MONST_DYH_NO33_BEAT1` | <img src="../img/pack_cha_dyh_no33.png" width="48"> `DYH_NO33` | ファイアーゴーレム | `BEAT1` |
-| <img src="../img/pack_cha_dyh_no33.png" width="48"> `MONST_DYH_NO33_BEAT2` | <img src="../img/pack_cha_dyh_no33.png" width="48"> `DYH_NO33` | ファイアーゴーレム | `BEAT2` |
-| <img src="../img/pack_cha_dyh_no34.png" width="48"> `MONST_DYH_NO34_BEAT1` | <img src="../img/pack_cha_dyh_no34.png" width="48"> `DYH_NO34` | ミミック | `BEAT1` |
-| <img src="../img/pack_cha_dyh_no34.png" width="48"> `MONST_DYH_NO34_BEAT2` | <img src="../img/pack_cha_dyh_no34.png" width="48"> `DYH_NO34` | ミミック | `BEAT2` |
-| <img src="../img/pack_cha_dyh_no35.png" width="48"> `MONST_DYH_NO35_SHIELD` | <img src="../img/pack_cha_dyh_no35.png" width="48"> `DYH_NO35` | スチームナイトゴールド | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no35.png" width="48"> `MONST_DYH_NO35_SHIELDBASH` | <img src="../img/pack_cha_dyh_no35.png" width="48"> `DYH_NO35` | スチームナイトゴールド | `SHIELDBASH` |
-| <img src="../img/pack_cha_dyh_no35.png" width="48"> `MONST_DYH_NO35_SWORD` | <img src="../img/pack_cha_dyh_no35.png" width="48"> `DYH_NO35` | スチームナイトゴールド | `SWORD` |
-| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_THUNDER_AREA` | <img src="../img/pack_cha_dyh_no36.png" width="48"> `DYH_NO36` | スチームナイトダーク | `THUNDER_AREA` |
-| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_AXE` | <img src="../img/pack_cha_dyh_no36.png" width="48"> `DYH_NO36` | スチームナイトダーク | `AXE` |
-| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_SHIELD` | <img src="../img/pack_cha_dyh_no36.png" width="48"> `DYH_NO36` | スチームナイトダーク | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_SHIELDBASH` | <img src="../img/pack_cha_dyh_no36.png" width="48"> `DYH_NO36` | スチームナイトダーク | `SHIELDBASH` |
-| <img src="../img/pack_cha_dyh_no37.png" width="48"> `MONST_DYH_NO37_SHIELD` | <img src="../img/pack_cha_dyh_no37.png" width="48"> `DYH_NO37` | マジシャン | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no37.png" width="48"> `MONST_DYH_NO37_SHIELDBASH` | <img src="../img/pack_cha_dyh_no37.png" width="48"> `DYH_NO37` | マジシャン | `SHIELDBASH` |
-| <img src="../img/pack_cha_dyh_no37.png" width="48"> `MONST_DYH_NO37_SWORD` | <img src="../img/pack_cha_dyh_no37.png" width="48"> `DYH_NO37` | マジシャン | `SWORD` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_FIRE` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `FIRE` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_HOLY` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `HOLY` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_ICE` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `ICE` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_PANIC` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `PANIC` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_SILENT` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `SILENT` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_THUNDER` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_VENOM` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `VENOM` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_1_STAFF` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `STAFF` |
-| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_STAFF` | <img src="../img/pack_cha_dyh_no38.png" width="48"> `DYH_NO38` | ダークマジシャン | `STAFF` |
-| <img src="../img/pack_cha_dyh_no39.png" width="48"> `MONST_DYH_NO39_HEALNOVA` | <img src="../img/pack_cha_dyh_no39.png" width="48"> `DYH_NO39` | ネクロマンサー | `HEALNOVA` |
-| <img src="../img/pack_cha_dyh_no39.png" width="48"> `MONST_DYH_NO39_HOLYVENOM` | <img src="../img/pack_cha_dyh_no39.png" width="48"> `DYH_NO39` | ネクロマンサー | `HOLYVENOM` |
-| <img src="../img/pack_cha_dyh_no39.png" width="48"> `MONST_DYH_NO39_STAFF` | <img src="../img/pack_cha_dyh_no39.png" width="48"> `DYH_NO39` | ネクロマンサー | `STAFF` |
-| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_FIREVENOM` | <img src="../img/pack_cha_dyh_no40.png" width="48"> `DYH_NO40` | ワイルドブル | `FIREVENOM` |
-| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_HEAL` | <img src="../img/pack_cha_dyh_no40.png" width="48"> `DYH_NO40` | ワイルドブル | `HEAL` |
-| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_VENOM` | <img src="../img/pack_cha_dyh_no40.png" width="48"> `DYH_NO40` | ワイルドブル | `VENOM` |
-| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_STAFF` | <img src="../img/pack_cha_dyh_no40.png" width="48"> `DYH_NO40` | ワイルドブル | `STAFF` |
-| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_1_ARROW` | <img src="../img/pack_cha_dyh_no41.png" width="48"> `DYH_NO41` | ロバー | `ARROW` |
-| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_1_SWORD` | <img src="../img/pack_cha_dyh_no41.png" width="48"> `DYH_NO41` | ロバー | `SWORD` |
-| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_ARROW` | <img src="../img/pack_cha_dyh_no41.png" width="48"> `DYH_NO41` | ロバー | `ARROW` |
-| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_SWORD` | <img src="../img/pack_cha_dyh_no41.png" width="48"> `DYH_NO41` | ロバー | `SWORD` |
-| <img src="../img/pack_cha_dyh_no42.png" width="48"> `MONST_DYH_NO42_1_SWORD` | <img src="../img/pack_cha_dyh_no42.png" width="48"> `DYH_NO42` | アサシン | `SWORD` |
-| <img src="../img/pack_cha_dyh_no42.png" width="48"> `MONST_DYH_NO42_SWORD` | <img src="../img/pack_cha_dyh_no42.png" width="48"> `DYH_NO42` | アサシン | `SWORD` |
-| <img src="../img/pack_cha_dyh_no43.png" width="48"> `MONST_DYH_NO43_BOMB` | <img src="../img/pack_cha_dyh_no43.png" width="48"> `DYH_NO43` | トレント | `BOMB` |
-| <img src="../img/pack_cha_dyh_no43.png" width="48"> `MONST_DYH_NO43_SWORD` | <img src="../img/pack_cha_dyh_no43.png" width="48"> `DYH_NO43` | トレント | `SWORD` |
-| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_1_CLUB` | <img src="../img/pack_cha_dyh_no45.png" width="48"> `DYH_NO45` | ストーンジャイアント | `CLUB` |
-| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_1_THROW` | <img src="../img/pack_cha_dyh_no45.png" width="48"> `DYH_NO45` | ストーンジャイアント | `THROW` |
-| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_CLUB` | <img src="../img/pack_cha_dyh_no45.png" width="48"> `DYH_NO45` | ストーンジャイアント | `CLUB` |
-| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_THROW` | <img src="../img/pack_cha_dyh_no45.png" width="48"> `DYH_NO45` | ストーンジャイアント | `THROW` |
-| <img src="../img/pack_cha_dyh_no46.png" width="48"> `MONST_DYH_NO46_CLUB` | <img src="../img/pack_cha_dyh_no46.png" width="48"> `DYH_NO46` | ファイアージャイアント | `CLUB` |
-| <img src="../img/pack_cha_dyh_no46.png" width="48"> `MONST_DYH_NO46_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no46.png" width="48"> `DYH_NO46` | ファイアージャイアント | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no46.png" width="48"> `MONST_DYH_NO46_THROW` | <img src="../img/pack_cha_dyh_no46.png" width="48"> `DYH_NO46` | ファイアージャイアント | `THROW` |
-| <img src="../img/pack_cha_dyh_no47.png" width="48"> `MONST_DYH_NO47_CLUB` | <img src="../img/pack_cha_dyh_no47.png" width="48"> `DYH_NO47` | ゴールドドラゴン | `CLUB` |
-| <img src="../img/pack_cha_dyh_no47.png" width="48"> `MONST_DYH_NO47_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no47.png" width="48"> `DYH_NO47` | ゴールドドラゴン | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no47.png" width="48"> `MONST_DYH_NO47_THROW` | <img src="../img/pack_cha_dyh_no47.png" width="48"> `DYH_NO47` | ゴールドドラゴン | `THROW` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_1_BALL` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `BALL` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_BALL` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `BALL` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIRE` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `FIRE` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIREWALL` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `FIREWALL` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIREWAVE` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `FIREWAVE` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIRE_02` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `FIRE_02` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIRE_AREA` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `FIRE_AREA` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_PILLAR` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `PILLAR` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_QUAKE` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `QUAKE` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_CHARGE` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_HAND_L` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `HAND_L` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_HAND_R` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `HAND_R` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_QUAKE01` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `QUAKE01` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_SHOCKWAVE01` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `SHOCKWAVE01` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_SHOCKWAVE02` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `SHOCKWAVE02` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_THROW` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `THROW` |
-| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_WAVE` | <img src="../img/pack_cha_dyh_no49.png" width="48"> `DYH_NO49` | ワイバーン | `WAVE` |
-| <img src="../img/pack_cha_dyh_no50.png" width="48"> `MONST_DYH_NO50_AXE` | <img src="../img/pack_cha_dyh_no50.png" width="48"> `DYH_NO50` | アーマートードキング | `AXE` |
-| <img src="../img/pack_cha_dyh_no50.png" width="48"> `MONST_DYH_NO50_CHARGE` | <img src="../img/pack_cha_dyh_no50.png" width="48"> `DYH_NO50` | アーマートードキング | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no51.png" width="48"> `MONST_DYH_NO51_CHARGE` | <img src="../img/pack_cha_dyh_no51.png" width="48"> `DYH_NO51` | サキュバス | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no51.png" width="48"> `MONST_DYH_NO51_SHIELD` | <img src="../img/pack_cha_dyh_no51.png" width="48"> `DYH_NO51` | サキュバス | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no51.png" width="48"> `MONST_DYH_NO51_SWORD` | <img src="../img/pack_cha_dyh_no51.png" width="48"> `DYH_NO51` | サキュバス | `SWORD` |
-| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_CHARGE` | <img src="../img/pack_cha_dyh_no52.png" width="48"> `DYH_NO52` | スケルトンＦ | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_PRESS` | <img src="../img/pack_cha_dyh_no52.png" width="48"> `DYH_NO52` | スケルトンＦ | `PRESS` |
-| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_SHIELD` | <img src="../img/pack_cha_dyh_no52.png" width="48"> `DYH_NO52` | スケルトンＦ | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_SWORD` | <img src="../img/pack_cha_dyh_no52.png" width="48"> `DYH_NO52` | スケルトンＦ | `SWORD` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_FIRE` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `FIRE` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_SYUIRIKEN` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `SYUIRIKEN` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_THUNDER01` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `THUNDER01` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_THUNDER02` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `THUNDER02` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_VENOM` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `VENOM` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_SWORD` | <img src="../img/pack_cha_dyh_no53.png" width="48"> `DYH_NO53` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `FIRE` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE01` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `FIRE01` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE02` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `FIRE02` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIREWAVE` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `FIREWAVE` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE_AREA` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `FIRE_AREA` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_ICE` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `ICE` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_ICE01` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `ICE01` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_ICE_AREA` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `ICE_AREA` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_MAGICMISSILE` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `MAGICMISSILE` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_PANIC` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `PANIC` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_PILLAR` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `PILLAR` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_THUNDER` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_THUNDER01` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `THUNDER01` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_TIMESTOP` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `TIMESTOP` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_TORNADO` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `TORNADO` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_VENOM` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `VENOM` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_STAFF` | <img src="../img/pack_cha_dyh_no54.png" width="48"> `DYH_NO54` |  | `STAFF` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_REFLECTBALL` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `REFLECTBALL` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_THUNDER01` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `THUNDER01` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_THUNDER02` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `THUNDER02` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_VENOM` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `VENOM` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_SHOCKWAVE02` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `SHOCKWAVE02` |
-| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_SWORD` | <img src="../img/pack_cha_dyh_no55.png" width="48"> `DYH_NO55` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no57.png" width="48"> `MONST_DYH_NO57_HOLYVENOM` | <img src="../img/pack_cha_dyh_no57.png" width="48"> `DYH_NO57` |  | `HOLYVENOM` |
-| <img src="../img/pack_cha_dyh_no57.png" width="48"> `MONST_DYH_NO57_STAFF` | <img src="../img/pack_cha_dyh_no57.png" width="48"> `DYH_NO57` |  | `STAFF` |
-| <img src="../img/pack_cha_dyh_no58.png" width="48"> `MONST_DYH_NO58_BOMB` | <img src="../img/pack_cha_dyh_no58.png" width="48"> `DYH_NO58` |  | `BOMB` |
-| <img src="../img/pack_cha_dyh_no58.png" width="48"> `MONST_DYH_NO58_SWORD` | <img src="../img/pack_cha_dyh_no58.png" width="48"> `DYH_NO58` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no59.png" width="48"> `MONST_DYH_NO59_STAFF` | <img src="../img/pack_cha_dyh_no59.png" width="48"> `DYH_NO59` |  | `STAFF` |
-| <img src="../img/pack_cha_dyh_no60.png" width="48"> `MONST_DYH_NO60_KICK` | <img src="../img/pack_cha_dyh_no60.png" width="48"> `DYH_NO60` | ディアボルガ | `KICK` |
-| <img src="../img/pack_cha_dyh_no61.png" width="48"> `MONST_DYH_NO61_SHIELD` | <img src="../img/pack_cha_dyh_no61.png" width="48"> `DYH_NO61` | デュラハン | `SHIELD` |
-| <img src="../img/pack_cha_dyh_no61.png" width="48"> `MONST_DYH_NO61_SWORD` | <img src="../img/pack_cha_dyh_no61.png" width="48"> `DYH_NO61` | デュラハン | `SWORD` |
-| <img src="../img/pack_cha_dyh_no62.png" width="48"> `MONST_DYH_NO62_SWORD` | <img src="../img/pack_cha_dyh_no62.png" width="48"> `DYH_NO62` | ラミア | `SWORD` |
-| <img src="../img/pack_cha_dyh_no63.png" width="48"> `MONST_DYH_NO63_CLUB` | <img src="../img/pack_cha_dyh_no63.png" width="48"> `DYH_NO63` |  | `CLUB` |
-| <img src="../img/pack_cha_dyh_no63.png" width="48"> `MONST_DYH_NO63_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no63.png" width="48"> `DYH_NO63` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no63.png" width="48"> `MONST_DYH_NO63_THROW` | <img src="../img/pack_cha_dyh_no63.png" width="48"> `DYH_NO63` |  | `THROW` |
-| <img src="../img/pack_cha_dyh_no64.png" width="48"> `MONST_DYH_NO64_BOW` | <img src="../img/pack_cha_dyh_no64.png" width="48"> `DYH_NO64` |  | `BOW` |
-| <img src="../img/pack_cha_dyh_no64.png" width="48"> `MONST_DYH_NO64_POISONQUIV` | <img src="../img/pack_cha_dyh_no64.png" width="48"> `DYH_NO64` |  | `POISONQUIV` |
-| <img src="../img/pack_cha_dyh_no64.png" width="48"> `MONST_DYH_NO64_QUIV` | <img src="../img/pack_cha_dyh_no64.png" width="48"> `DYH_NO64` |  | `QUIV` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_3WAYTHUNDER` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `3WAYTHUNDER` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_FIRE` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `FIRE` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_FIRE02` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `FIRE02` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_FIREWALL` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `FIREWALL` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_ICE` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `ICE` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_PILLAR` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `PILLAR` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_SHOOT` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `SHOOT` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_THUNDER01` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `THUNDER01` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_THUNDER02` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `THUNDER02` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_VENOM` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `VENOM` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_WAVE` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `WAVE` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_SWORD` | <img src="../img/pack_cha_dyh_no65.png" width="48"> `DYH_NO65` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_3WAYTHUNDER` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `3WAYTHUNDER` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_FIRE` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `FIRE` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_FIRE02` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `FIRE02` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_FIREWALL` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `FIREWALL` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_HEAL` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `HEAL` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_HOLYVENOM` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `HOLYVENOM` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_ICE` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `ICE` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_ICEPILLAR` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `ICEPILLAR` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_PILLAR` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `PILLAR` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SHOOT` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `SHOOT` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SILENT` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `SILENT` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_THUNDER01` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `THUNDER01` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_THUNDER02` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `THUNDER02` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_TORNADO` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `TORNADO` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_VENOM` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `VENOM` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_WAVE` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `WAVE` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_BLAST` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `BLAST` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SWORD` | <img src="../img/pack_cha_dyh_no66.png" width="48"> `DYH_NO66` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no67.png" width="48"> `MONST_DYH_NO67_STONE` | <img src="../img/pack_cha_dyh_no67.png" width="48"> `DYH_NO67` |  | `STONE` |
-| <img src="../img/pack_cha_dyh_no67.png" width="48"> `MONST_DYH_NO67_SMASH` | <img src="../img/pack_cha_dyh_no67.png" width="48"> `DYH_NO67` |  | `SMASH` |
-| <img src="../img/pack_cha_dyh_no68.png" width="48"> `MONST_DYH_NO68_BEAT` | <img src="../img/pack_cha_dyh_no68.png" width="48"> `DYH_NO68` |  | `BEAT` |
-| <img src="../img/pack_cha_dyh_no68.png" width="48"> `MONST_DYH_NO68_CHARGE` | <img src="../img/pack_cha_dyh_no68.png" width="48"> `DYH_NO68` |  | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no68.png" width="48"> `MONST_DYH_NO68_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no68.png" width="48"> `DYH_NO68` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no69.png" width="48"> `MONST_DYH_NO69_SWORD` | <img src="../img/pack_cha_dyh_no69.png" width="48"> `DYH_NO69` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no69.png" width="48"> `MONST_DYH_NO69_SWORD_1` | <img src="../img/pack_cha_dyh_no69.png" width="48"> `DYH_NO69` |  | `SWORD_1` |
-| <img src="../img/pack_cha_dyh_no69.png" width="48"> `MONST_DYH_NO69_THROW_AXE` | <img src="../img/pack_cha_dyh_no69.png" width="48"> `DYH_NO69` |  | `THROW_AXE` |
-| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_MAGICMISSILE` | <img src="../img/pack_cha_dyh_no70.png" width="48"> `DYH_NO70` |  | `MAGICMISSILE` |
-| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_HOLD` | <img src="../img/pack_cha_dyh_no70.png" width="48"> `DYH_NO70` |  | `HOLD` |
-| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_SWORD` | <img src="../img/pack_cha_dyh_no70.png" width="48"> `DYH_NO70` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_SWORD_1` | <img src="../img/pack_cha_dyh_no70.png" width="48"> `DYH_NO70` |  | `SWORD_1` |
-| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_REFLECTBALL` | <img src="../img/pack_cha_dyh_no71.png" width="48"> `DYH_NO71` |  | `REFLECTBALL` |
-| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_THUNDER01` | <img src="../img/pack_cha_dyh_no71.png" width="48"> `DYH_NO71` |  | `THUNDER01` |
-| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_THUNDER02` | <img src="../img/pack_cha_dyh_no71.png" width="48"> `DYH_NO71` |  | `THUNDER02` |
-| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_VENOM` | <img src="../img/pack_cha_dyh_no71.png" width="48"> `DYH_NO71` |  | `VENOM` |
-| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no71.png" width="48"> `DYH_NO71` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_SWORD` | <img src="../img/pack_cha_dyh_no71.png" width="48"> `DYH_NO71` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_FIRE` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `FIRE` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_ICE` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `ICE` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_PANIC` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `PANIC` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_POISON` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `POISON` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_SLEEP` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `SLEEP` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_THUNDER` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_SHOCKWAVE` | <img src="../img/pack_cha_dyh_no72.png" width="48"> `DYH_NO72` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyh_no74.png" width="48"> `MONST_DYH_NO74_SWORD` | <img src="../img/pack_cha_dyh_no74.png" width="48"> `DYH_NO74` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_BLIND` | <img src="../img/pack_cha_dyh_no76.png" width="48"> `DYH_NO76` | セラフィー・ルカ | `BLIND` |
-| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_POISON` | <img src="../img/pack_cha_dyh_no76.png" width="48"> `DYH_NO76` | セラフィー・ルカ | `POISON` |
-| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_SHOTGUN` | <img src="../img/pack_cha_dyh_no76.png" width="48"> `DYH_NO76` | セラフィー・ルカ | `SHOTGUN` |
-| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_THUNDER` | <img src="../img/pack_cha_dyh_no76.png" width="48"> `DYH_NO76` | セラフィー・ルカ | `THUNDER` |
-| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_STAFF` | <img src="../img/pack_cha_dyh_no76.png" width="48"> `DYH_NO76` | セラフィー・ルカ | `STAFF` |
-| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_THROW` | <img src="../img/pack_cha_dyh_no76.png" width="48"> `DYH_NO76` | セラフィー・ルカ | `THROW` |
-| <img src="../img/pack_cha_dyh_no77.png" width="48"> `MONST_DYH_NO77_STONE` | <img src="../img/pack_cha_dyh_no77.png" width="48"> `DYH_NO77` | 鉄の竜 | `STONE` |
-| <img src="../img/pack_cha_dyh_no77.png" width="48"> `MONST_DYH_NO77_BREATH` | <img src="../img/pack_cha_dyh_no77.png" width="48"> `DYH_NO77` | 鉄の竜 | `BREATH` |
-| <img src="../img/pack_cha_dyh_no77.png" width="48"> `MONST_DYH_NO77_SWORD` | <img src="../img/pack_cha_dyh_no77.png" width="48"> `DYH_NO77` | 鉄の竜 | `SWORD` |
-| <img src="../img/pack_cha_dyh_no78.png" width="48"> `MONST_DYH_NO78_WAVE` | <img src="../img/pack_cha_dyh_no78.png" width="48"> `DYH_NO78` |  | `WAVE` |
-| <img src="../img/pack_cha_dyh_no78.png" width="48"> `MONST_DYH_NO78_AXE` | <img src="../img/pack_cha_dyh_no78.png" width="48"> `DYH_NO78` |  | `AXE` |
-| <img src="../img/pack_cha_dyh_no79.png" width="48"> `MONST_DYH_NO79_TAIL` | <img src="../img/pack_cha_dyh_no79.png" width="48"> `DYH_NO79` |  | `TAIL` |
-| <img src="../img/pack_cha_dyh_no79.png" width="48"> `MONST_DYH_NO79_WAVE` | <img src="../img/pack_cha_dyh_no79.png" width="48"> `DYH_NO79` |  | `WAVE` |
-| <img src="../img/pack_cha_dyh_no79.png" width="48"> `MONST_DYH_NO79_SPEAR` | <img src="../img/pack_cha_dyh_no79.png" width="48"> `DYH_NO79` |  | `SPEAR` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_POISON` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `POISON` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_BREATH` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `BREATH` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `CLAW` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_L` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `CLAW_L` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_L_SMN` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `CLAW_L_SMN` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_R` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `CLAW_R` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_R_SMN` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `CLAW_R_SMN` |
-| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_SMASH` | <img src="../img/pack_cha_dyh_no80.png" width="48"> `DYH_NO80` |  | `SMASH` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `BOMB` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB2` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `BOMB2` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB_MAGIC` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `BOMB_MAGIC` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB_MAGIC2` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `BOMB_MAGIC2` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_GAS` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `GAS` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_HOLYTORNADO` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `HOLYTORNADO` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_POWER_DOWN` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `POWER_DOWN` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_THUNDER_AREA` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `THUNDER_AREA` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_THUNDER_AREA1` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `THUNDER_AREA1` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_THUNDER_AREA3` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `THUNDER_AREA3` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_WAVE` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `WAVE` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BLAST` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `BLAST` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BLAST_ICE` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `BLAST_ICE` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_CHARGE` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `CHARGE` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_SLIDING` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `SLIDING` |
-| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_SWORD` | <img src="../img/pack_cha_dyh_no81.png" width="48"> `DYH_NO81` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_CHAIN` | <img src="../img/pack_cha_dyh_no82.png" width="48"> `DYH_NO82` |  | `CHAIN` |
-| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_HOOKATTACK` | <img src="../img/pack_cha_dyh_no82.png" width="48"> `DYH_NO82` |  | `HOOKATTACK` |
-| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_SHOCKWAVE01` | <img src="../img/pack_cha_dyh_no82.png" width="48"> `DYH_NO82` |  | `SHOCKWAVE01` |
-| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_SHOCKWAVE02` | <img src="../img/pack_cha_dyh_no82.png" width="48"> `DYH_NO82` |  | `SHOCKWAVE02` |
-| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_BOMB` | <img src="../img/pack_cha_dyh_no83.png" width="48"> `DYH_NO83` |  | `BOMB` |
-| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_BEAT` | <img src="../img/pack_cha_dyh_no83.png" width="48"> `DYH_NO83` |  | `BEAT` |
-| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_SLIDING` | <img src="../img/pack_cha_dyh_no83.png" width="48"> `DYH_NO83` |  | `SLIDING` |
-| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_SWORD` | <img src="../img/pack_cha_dyh_no83.png" width="48"> `DYH_NO83` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_GUN` | <img src="../img/pack_cha_dyh_no84.png" width="48"> `DYH_NO84` |  | `GUN` |
-| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_BEAT` | <img src="../img/pack_cha_dyh_no84.png" width="48"> `DYH_NO84` |  | `BEAT` |
-| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_SWORD` | <img src="../img/pack_cha_dyh_no84.png" width="48"> `DYH_NO84` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_SWORD_1` | <img src="../img/pack_cha_dyh_no84.png" width="48"> `DYH_NO84` |  | `SWORD_1` |
-| <img src="../img/pack_cha_dyh_no85.png" width="48"> `MONST_DYH_NO85_BEAT1` | <img src="../img/pack_cha_dyh_no85.png" width="48"> `DYH_NO85` |  | `BEAT1` |
-| <img src="../img/pack_cha_dyh_no85.png" width="48"> `MONST_DYH_NO85_BEAT2` | <img src="../img/pack_cha_dyh_no85.png" width="48"> `DYH_NO85` |  | `BEAT2` |
-| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_WATER` | <img src="../img/pack_cha_dyh_no86.png" width="48"> `DYH_NO86` |  | `WATER` |
-| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_BITE` | <img src="../img/pack_cha_dyh_no86.png" width="48"> `DYH_NO86` |  | `BITE` |
-| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_SWORD` | <img src="../img/pack_cha_dyh_no86.png" width="48"> `DYH_NO86` |  | `SWORD` |
-| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_TAIL` | <img src="../img/pack_cha_dyh_no86.png" width="48"> `DYH_NO86` |  | `TAIL` |
-| <img src="../img/pack_cha_dyh_no87.png" width="48"> `MONST_DYH_NO87_SOUND` | <img src="../img/pack_cha_dyh_no87.png" width="48"> `DYH_NO87` |  | `SOUND` |
-| <img src="../img/pack_cha_dyh_no87.png" width="48"> `MONST_DYH_NO87_BREATH` | <img src="../img/pack_cha_dyh_no87.png" width="48"> `DYH_NO87` |  | `BREATH` |
-| <img src="../img/pack_cha_dyh_no87.png" width="48"> `MONST_DYH_NO87_TRUMPET` | <img src="../img/pack_cha_dyh_no87.png" width="48"> `DYH_NO87` |  | `TRUMPET` |
-| <img src="../img/pack_cha_dyh_no88.png" width="48"> `MONST_DYH_NO88_CHARGE01` | <img src="../img/pack_cha_dyh_no88.png" width="48"> `DYH_NO88` |  | `CHARGE01` |
-| <img src="../img/pack_cha_dyh_no88.png" width="48"> `MONST_DYH_NO88_CHARGE02` | <img src="../img/pack_cha_dyh_no88.png" width="48"> `DYH_NO88` |  | `CHARGE02` |
+| <img src="../img/pack_cha_dyh_no30.png" width="48"> `MONST_DYH_NO30_BEAT1` | `DYH_NO30` | ストーンゴーレム | `BEAT1` |
+| <img src="../img/pack_cha_dyh_no30.png" width="48"> `MONST_DYH_NO30_BEAT2` | `DYH_NO30` | ストーンゴーレム | `BEAT2` |
+| <img src="../img/pack_cha_dyh_no31.png" width="48"> `MONST_DYH_NO31_BEAT1` | `DYH_NO31` | アイアンゴーレム | `BEAT1` |
+| <img src="../img/pack_cha_dyh_no31.png" width="48"> `MONST_DYH_NO31_BEAT2` | `DYH_NO31` | アイアンゴーレム | `BEAT2` |
+| <img src="../img/pack_cha_dyh_no32.png" width="48"> `MONST_DYH_NO32_BEAT1` | `DYH_NO32` | アイスゴーレム | `BEAT1` |
+| <img src="../img/pack_cha_dyh_no32.png" width="48"> `MONST_DYH_NO32_BEAT2` | `DYH_NO32` | アイスゴーレム | `BEAT2` |
+| <img src="../img/pack_cha_dyh_no33.png" width="48"> `MONST_DYH_NO33_BEAT1` | `DYH_NO33` | ファイアーゴーレム | `BEAT1` |
+| <img src="../img/pack_cha_dyh_no33.png" width="48"> `MONST_DYH_NO33_BEAT2` | `DYH_NO33` | ファイアーゴーレム | `BEAT2` |
+| <img src="../img/pack_cha_dyh_no34.png" width="48"> `MONST_DYH_NO34_BEAT1` | `DYH_NO34` | ミミック | `BEAT1` |
+| <img src="../img/pack_cha_dyh_no34.png" width="48"> `MONST_DYH_NO34_BEAT2` | `DYH_NO34` | ミミック | `BEAT2` |
+| <img src="../img/pack_cha_dyh_no35.png" width="48"> `MONST_DYH_NO35_SHIELD` | `DYH_NO35` | スチームナイトゴールド | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no35.png" width="48"> `MONST_DYH_NO35_SHIELDBASH` | `DYH_NO35` | スチームナイトゴールド | `SHIELDBASH` |
+| <img src="../img/pack_cha_dyh_no35.png" width="48"> `MONST_DYH_NO35_SWORD` | `DYH_NO35` | スチームナイトゴールド | `SWORD` |
+| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_THUNDER_AREA` | `DYH_NO36` | スチームナイトダーク | `THUNDER_AREA` |
+| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_AXE` | `DYH_NO36` | スチームナイトダーク | `AXE` |
+| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_SHIELD` | `DYH_NO36` | スチームナイトダーク | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no36.png" width="48"> `MONST_DYH_NO36_SHIELDBASH` | `DYH_NO36` | スチームナイトダーク | `SHIELDBASH` |
+| <img src="../img/pack_cha_dyh_no37.png" width="48"> `MONST_DYH_NO37_SHIELD` | `DYH_NO37` | マジシャン | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no37.png" width="48"> `MONST_DYH_NO37_SHIELDBASH` | `DYH_NO37` | マジシャン | `SHIELDBASH` |
+| <img src="../img/pack_cha_dyh_no37.png" width="48"> `MONST_DYH_NO37_SWORD` | `DYH_NO37` | マジシャン | `SWORD` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_FIRE` | `DYH_NO38` | ダークマジシャン | `FIRE` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_HOLY` | `DYH_NO38` | ダークマジシャン | `HOLY` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_ICE` | `DYH_NO38` | ダークマジシャン | `ICE` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_PANIC` | `DYH_NO38` | ダークマジシャン | `PANIC` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_SILENT` | `DYH_NO38` | ダークマジシャン | `SILENT` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_THUNDER` | `DYH_NO38` | ダークマジシャン | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_VENOM` | `DYH_NO38` | ダークマジシャン | `VENOM` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_1_STAFF` | `DYH_NO38` | ダークマジシャン | `STAFF` |
+| <img src="../img/pack_cha_dyh_no38.png" width="48"> `MONST_DYH_NO38_STAFF` | `DYH_NO38` | ダークマジシャン | `STAFF` |
+| <img src="../img/pack_cha_dyh_no39.png" width="48"> `MONST_DYH_NO39_HEALNOVA` | `DYH_NO39` | ネクロマンサー | `HEALNOVA` |
+| <img src="../img/pack_cha_dyh_no39.png" width="48"> `MONST_DYH_NO39_HOLYVENOM` | `DYH_NO39` | ネクロマンサー | `HOLYVENOM` |
+| <img src="../img/pack_cha_dyh_no39.png" width="48"> `MONST_DYH_NO39_STAFF` | `DYH_NO39` | ネクロマンサー | `STAFF` |
+| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_FIREVENOM` | `DYH_NO40` | ワイルドブル | `FIREVENOM` |
+| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_HEAL` | `DYH_NO40` | ワイルドブル | `HEAL` |
+| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_VENOM` | `DYH_NO40` | ワイルドブル | `VENOM` |
+| <img src="../img/pack_cha_dyh_no40.png" width="48"> `MONST_DYH_NO40_STAFF` | `DYH_NO40` | ワイルドブル | `STAFF` |
+| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_1_ARROW` | `DYH_NO41` | ロバー | `ARROW` |
+| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_1_SWORD` | `DYH_NO41` | ロバー | `SWORD` |
+| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_ARROW` | `DYH_NO41` | ロバー | `ARROW` |
+| <img src="../img/pack_cha_dyh_no41.png" width="48"> `MONST_DYH_NO41_SWORD` | `DYH_NO41` | ロバー | `SWORD` |
+| <img src="../img/pack_cha_dyh_no42.png" width="48"> `MONST_DYH_NO42_1_SWORD` | `DYH_NO42` | アサシン | `SWORD` |
+| <img src="../img/pack_cha_dyh_no42.png" width="48"> `MONST_DYH_NO42_SWORD` | `DYH_NO42` | アサシン | `SWORD` |
+| <img src="../img/pack_cha_dyh_no43.png" width="48"> `MONST_DYH_NO43_BOMB` | `DYH_NO43` | トレント | `BOMB` |
+| <img src="../img/pack_cha_dyh_no43.png" width="48"> `MONST_DYH_NO43_SWORD` | `DYH_NO43` | トレント | `SWORD` |
+| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_1_CLUB` | `DYH_NO45` | ストーンジャイアント | `CLUB` |
+| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_1_THROW` | `DYH_NO45` | ストーンジャイアント | `THROW` |
+| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_CLUB` | `DYH_NO45` | ストーンジャイアント | `CLUB` |
+| <img src="../img/pack_cha_dyh_no45.png" width="48"> `MONST_DYH_NO45_THROW` | `DYH_NO45` | ストーンジャイアント | `THROW` |
+| <img src="../img/pack_cha_dyh_no46.png" width="48"> `MONST_DYH_NO46_CLUB` | `DYH_NO46` | ファイアージャイアント | `CLUB` |
+| <img src="../img/pack_cha_dyh_no46.png" width="48"> `MONST_DYH_NO46_SHOCKWAVE` | `DYH_NO46` | ファイアージャイアント | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no46.png" width="48"> `MONST_DYH_NO46_THROW` | `DYH_NO46` | ファイアージャイアント | `THROW` |
+| <img src="../img/pack_cha_dyh_no47.png" width="48"> `MONST_DYH_NO47_CLUB` | `DYH_NO47` | ゴールドドラゴン | `CLUB` |
+| <img src="../img/pack_cha_dyh_no47.png" width="48"> `MONST_DYH_NO47_SHOCKWAVE` | `DYH_NO47` | ゴールドドラゴン | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no47.png" width="48"> `MONST_DYH_NO47_THROW` | `DYH_NO47` | ゴールドドラゴン | `THROW` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_1_BALL` | `DYH_NO49` | ワイバーン | `BALL` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_BALL` | `DYH_NO49` | ワイバーン | `BALL` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIRE` | `DYH_NO49` | ワイバーン | `FIRE` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIREWALL` | `DYH_NO49` | ワイバーン | `FIREWALL` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIREWAVE` | `DYH_NO49` | ワイバーン | `FIREWAVE` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIRE_02` | `DYH_NO49` | ワイバーン | `FIRE_02` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_FIRE_AREA` | `DYH_NO49` | ワイバーン | `FIRE_AREA` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_PILLAR` | `DYH_NO49` | ワイバーン | `PILLAR` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_QUAKE` | `DYH_NO49` | ワイバーン | `QUAKE` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_CHARGE` | `DYH_NO49` | ワイバーン | `CHARGE` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_HAND_L` | `DYH_NO49` | ワイバーン | `HAND_L` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_HAND_R` | `DYH_NO49` | ワイバーン | `HAND_R` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_QUAKE01` | `DYH_NO49` | ワイバーン | `QUAKE01` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_SHOCKWAVE01` | `DYH_NO49` | ワイバーン | `SHOCKWAVE01` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_SHOCKWAVE02` | `DYH_NO49` | ワイバーン | `SHOCKWAVE02` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_THROW` | `DYH_NO49` | ワイバーン | `THROW` |
+| <img src="../img/pack_cha_dyh_no49.png" width="48"> `MONST_DYH_NO49_WAVE` | `DYH_NO49` | ワイバーン | `WAVE` |
+| <img src="../img/pack_cha_dyh_no50.png" width="48"> `MONST_DYH_NO50_AXE` | `DYH_NO50` | アーマートードキング | `AXE` |
+| <img src="../img/pack_cha_dyh_no50.png" width="48"> `MONST_DYH_NO50_CHARGE` | `DYH_NO50` | アーマートードキング | `CHARGE` |
+| <img src="../img/pack_cha_dyh_no51.png" width="48"> `MONST_DYH_NO51_CHARGE` | `DYH_NO51` | サキュバス | `CHARGE` |
+| <img src="../img/pack_cha_dyh_no51.png" width="48"> `MONST_DYH_NO51_SHIELD` | `DYH_NO51` | サキュバス | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no51.png" width="48"> `MONST_DYH_NO51_SWORD` | `DYH_NO51` | サキュバス | `SWORD` |
+| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_CHARGE` | `DYH_NO52` | スケルトンＦ | `CHARGE` |
+| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_PRESS` | `DYH_NO52` | スケルトンＦ | `PRESS` |
+| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_SHIELD` | `DYH_NO52` | スケルトンＦ | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no52.png" width="48"> `MONST_DYH_NO52_SWORD` | `DYH_NO52` | スケルトンＦ | `SWORD` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_FIRE` | `DYH_NO53` |  | `FIRE` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_SYUIRIKEN` | `DYH_NO53` |  | `SYUIRIKEN` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_THUNDER01` | `DYH_NO53` |  | `THUNDER01` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_THUNDER02` | `DYH_NO53` |  | `THUNDER02` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_VENOM` | `DYH_NO53` |  | `VENOM` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_SHOCKWAVE` | `DYH_NO53` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no53.png" width="48"> `MONST_DYH_NO53_SWORD` | `DYH_NO53` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE` | `DYH_NO54` |  | `FIRE` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE01` | `DYH_NO54` |  | `FIRE01` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE02` | `DYH_NO54` |  | `FIRE02` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIREWAVE` | `DYH_NO54` |  | `FIREWAVE` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_FIRE_AREA` | `DYH_NO54` |  | `FIRE_AREA` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_ICE` | `DYH_NO54` |  | `ICE` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_ICE01` | `DYH_NO54` |  | `ICE01` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_ICE_AREA` | `DYH_NO54` |  | `ICE_AREA` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_MAGICMISSILE` | `DYH_NO54` |  | `MAGICMISSILE` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_PANIC` | `DYH_NO54` |  | `PANIC` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_PILLAR` | `DYH_NO54` |  | `PILLAR` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_THUNDER` | `DYH_NO54` |  | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_THUNDER01` | `DYH_NO54` |  | `THUNDER01` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_TIMESTOP` | `DYH_NO54` |  | `TIMESTOP` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_TORNADO` | `DYH_NO54` |  | `TORNADO` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_VENOM` | `DYH_NO54` |  | `VENOM` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_SHOCKWAVE` | `DYH_NO54` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no54.png" width="48"> `MONST_DYH_NO54_STAFF` | `DYH_NO54` |  | `STAFF` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_REFLECTBALL` | `DYH_NO55` |  | `REFLECTBALL` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_THUNDER01` | `DYH_NO55` |  | `THUNDER01` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_THUNDER02` | `DYH_NO55` |  | `THUNDER02` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_VENOM` | `DYH_NO55` |  | `VENOM` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_SHOCKWAVE` | `DYH_NO55` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_SHOCKWAVE02` | `DYH_NO55` |  | `SHOCKWAVE02` |
+| <img src="../img/pack_cha_dyh_no55.png" width="48"> `MONST_DYH_NO55_SWORD` | `DYH_NO55` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no57.png" width="48"> `MONST_DYH_NO57_HOLYVENOM` | `DYH_NO57` |  | `HOLYVENOM` |
+| <img src="../img/pack_cha_dyh_no57.png" width="48"> `MONST_DYH_NO57_STAFF` | `DYH_NO57` |  | `STAFF` |
+| <img src="../img/pack_cha_dyh_no58.png" width="48"> `MONST_DYH_NO58_BOMB` | `DYH_NO58` |  | `BOMB` |
+| <img src="../img/pack_cha_dyh_no58.png" width="48"> `MONST_DYH_NO58_SWORD` | `DYH_NO58` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no59.png" width="48"> `MONST_DYH_NO59_STAFF` | `DYH_NO59` |  | `STAFF` |
+| <img src="../img/pack_cha_dyh_no60.png" width="48"> `MONST_DYH_NO60_KICK` | `DYH_NO60` | ディアボルガ | `KICK` |
+| <img src="../img/pack_cha_dyh_no61.png" width="48"> `MONST_DYH_NO61_SHIELD` | `DYH_NO61` | デュラハン | `SHIELD` |
+| <img src="../img/pack_cha_dyh_no61.png" width="48"> `MONST_DYH_NO61_SWORD` | `DYH_NO61` | デュラハン | `SWORD` |
+| <img src="../img/pack_cha_dyh_no62.png" width="48"> `MONST_DYH_NO62_SWORD` | `DYH_NO62` | ラミア | `SWORD` |
+| <img src="../img/pack_cha_dyh_no63.png" width="48"> `MONST_DYH_NO63_CLUB` | `DYH_NO63` |  | `CLUB` |
+| <img src="../img/pack_cha_dyh_no63.png" width="48"> `MONST_DYH_NO63_SHOCKWAVE` | `DYH_NO63` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no63.png" width="48"> `MONST_DYH_NO63_THROW` | `DYH_NO63` |  | `THROW` |
+| <img src="../img/pack_cha_dyh_no64.png" width="48"> `MONST_DYH_NO64_BOW` | `DYH_NO64` |  | `BOW` |
+| <img src="../img/pack_cha_dyh_no64.png" width="48"> `MONST_DYH_NO64_POISONQUIV` | `DYH_NO64` |  | `POISONQUIV` |
+| <img src="../img/pack_cha_dyh_no64.png" width="48"> `MONST_DYH_NO64_QUIV` | `DYH_NO64` |  | `QUIV` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_3WAYTHUNDER` | `DYH_NO65` |  | `3WAYTHUNDER` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_FIRE` | `DYH_NO65` |  | `FIRE` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_FIRE02` | `DYH_NO65` |  | `FIRE02` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_FIREWALL` | `DYH_NO65` |  | `FIREWALL` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_ICE` | `DYH_NO65` |  | `ICE` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_PILLAR` | `DYH_NO65` |  | `PILLAR` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_SHOOT` | `DYH_NO65` |  | `SHOOT` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_THUNDER01` | `DYH_NO65` |  | `THUNDER01` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_THUNDER02` | `DYH_NO65` |  | `THUNDER02` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_VENOM` | `DYH_NO65` |  | `VENOM` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_WAVE` | `DYH_NO65` |  | `WAVE` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_SHOCKWAVE` | `DYH_NO65` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no65.png" width="48"> `MONST_DYH_NO65_SWORD` | `DYH_NO65` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_3WAYTHUNDER` | `DYH_NO66` |  | `3WAYTHUNDER` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_FIRE` | `DYH_NO66` |  | `FIRE` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_FIRE02` | `DYH_NO66` |  | `FIRE02` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_FIREWALL` | `DYH_NO66` |  | `FIREWALL` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_HEAL` | `DYH_NO66` |  | `HEAL` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_HOLYVENOM` | `DYH_NO66` |  | `HOLYVENOM` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_ICE` | `DYH_NO66` |  | `ICE` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_ICEPILLAR` | `DYH_NO66` |  | `ICEPILLAR` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_PILLAR` | `DYH_NO66` |  | `PILLAR` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SHOOT` | `DYH_NO66` |  | `SHOOT` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SILENT` | `DYH_NO66` |  | `SILENT` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_THUNDER01` | `DYH_NO66` |  | `THUNDER01` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_THUNDER02` | `DYH_NO66` |  | `THUNDER02` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_TORNADO` | `DYH_NO66` |  | `TORNADO` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_VENOM` | `DYH_NO66` |  | `VENOM` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_WAVE` | `DYH_NO66` |  | `WAVE` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_BLAST` | `DYH_NO66` |  | `BLAST` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SHOCKWAVE` | `DYH_NO66` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no66.png" width="48"> `MONST_DYH_NO66_SWORD` | `DYH_NO66` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no67.png" width="48"> `MONST_DYH_NO67_STONE` | `DYH_NO67` |  | `STONE` |
+| <img src="../img/pack_cha_dyh_no67.png" width="48"> `MONST_DYH_NO67_SMASH` | `DYH_NO67` |  | `SMASH` |
+| <img src="../img/pack_cha_dyh_no68.png" width="48"> `MONST_DYH_NO68_BEAT` | `DYH_NO68` |  | `BEAT` |
+| <img src="../img/pack_cha_dyh_no68.png" width="48"> `MONST_DYH_NO68_CHARGE` | `DYH_NO68` |  | `CHARGE` |
+| <img src="../img/pack_cha_dyh_no68.png" width="48"> `MONST_DYH_NO68_SHOCKWAVE` | `DYH_NO68` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no69.png" width="48"> `MONST_DYH_NO69_SWORD` | `DYH_NO69` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no69.png" width="48"> `MONST_DYH_NO69_SWORD_1` | `DYH_NO69` |  | `SWORD_1` |
+| <img src="../img/pack_cha_dyh_no69.png" width="48"> `MONST_DYH_NO69_THROW_AXE` | `DYH_NO69` |  | `THROW_AXE` |
+| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_MAGICMISSILE` | `DYH_NO70` |  | `MAGICMISSILE` |
+| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_HOLD` | `DYH_NO70` |  | `HOLD` |
+| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_SWORD` | `DYH_NO70` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no70.png" width="48"> `MONST_DYH_NO70_SWORD_1` | `DYH_NO70` |  | `SWORD_1` |
+| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_REFLECTBALL` | `DYH_NO71` |  | `REFLECTBALL` |
+| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_THUNDER01` | `DYH_NO71` |  | `THUNDER01` |
+| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_THUNDER02` | `DYH_NO71` |  | `THUNDER02` |
+| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_VENOM` | `DYH_NO71` |  | `VENOM` |
+| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_SHOCKWAVE` | `DYH_NO71` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no71.png" width="48"> `MONST_DYH_NO71_SWORD` | `DYH_NO71` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_FIRE` | `DYH_NO72` |  | `FIRE` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_ICE` | `DYH_NO72` |  | `ICE` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_PANIC` | `DYH_NO72` |  | `PANIC` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_POISON` | `DYH_NO72` |  | `POISON` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_SLEEP` | `DYH_NO72` |  | `SLEEP` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_THUNDER` | `DYH_NO72` |  | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no72.png" width="48"> `MONST_DYH_NO72_SHOCKWAVE` | `DYH_NO72` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyh_no74.png" width="48"> `MONST_DYH_NO74_SWORD` | `DYH_NO74` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_BLIND` | `DYH_NO76` | セラフィー・ルカ | `BLIND` |
+| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_POISON` | `DYH_NO76` | セラフィー・ルカ | `POISON` |
+| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_SHOTGUN` | `DYH_NO76` | セラフィー・ルカ | `SHOTGUN` |
+| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_THUNDER` | `DYH_NO76` | セラフィー・ルカ | `THUNDER` |
+| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_STAFF` | `DYH_NO76` | セラフィー・ルカ | `STAFF` |
+| <img src="../img/pack_cha_dyh_no76.png" width="48"> `MONST_DYH_NO76_THROW` | `DYH_NO76` | セラフィー・ルカ | `THROW` |
+| <img src="../img/pack_cha_dyh_no77.png" width="48"> `MONST_DYH_NO77_STONE` | `DYH_NO77` | 鉄の竜 | `STONE` |
+| <img src="../img/pack_cha_dyh_no77.png" width="48"> `MONST_DYH_NO77_BREATH` | `DYH_NO77` | 鉄の竜 | `BREATH` |
+| <img src="../img/pack_cha_dyh_no77.png" width="48"> `MONST_DYH_NO77_SWORD` | `DYH_NO77` | 鉄の竜 | `SWORD` |
+| <img src="../img/pack_cha_dyh_no78.png" width="48"> `MONST_DYH_NO78_WAVE` | `DYH_NO78` |  | `WAVE` |
+| <img src="../img/pack_cha_dyh_no78.png" width="48"> `MONST_DYH_NO78_AXE` | `DYH_NO78` |  | `AXE` |
+| <img src="../img/pack_cha_dyh_no79.png" width="48"> `MONST_DYH_NO79_TAIL` | `DYH_NO79` |  | `TAIL` |
+| <img src="../img/pack_cha_dyh_no79.png" width="48"> `MONST_DYH_NO79_WAVE` | `DYH_NO79` |  | `WAVE` |
+| <img src="../img/pack_cha_dyh_no79.png" width="48"> `MONST_DYH_NO79_SPEAR` | `DYH_NO79` |  | `SPEAR` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_POISON` | `DYH_NO80` |  | `POISON` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_BREATH` | `DYH_NO80` |  | `BREATH` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW` | `DYH_NO80` |  | `CLAW` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_L` | `DYH_NO80` |  | `CLAW_L` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_L_SMN` | `DYH_NO80` |  | `CLAW_L_SMN` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_R` | `DYH_NO80` |  | `CLAW_R` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_CLAW_R_SMN` | `DYH_NO80` |  | `CLAW_R_SMN` |
+| <img src="../img/pack_cha_dyh_no80.png" width="48"> `MONST_DYH_NO80_SMASH` | `DYH_NO80` |  | `SMASH` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB` | `DYH_NO81` |  | `BOMB` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB2` | `DYH_NO81` |  | `BOMB2` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB_MAGIC` | `DYH_NO81` |  | `BOMB_MAGIC` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BOMB_MAGIC2` | `DYH_NO81` |  | `BOMB_MAGIC2` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_GAS` | `DYH_NO81` |  | `GAS` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_HOLYTORNADO` | `DYH_NO81` |  | `HOLYTORNADO` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_POWER_DOWN` | `DYH_NO81` |  | `POWER_DOWN` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_THUNDER_AREA` | `DYH_NO81` |  | `THUNDER_AREA` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_THUNDER_AREA1` | `DYH_NO81` |  | `THUNDER_AREA1` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_THUNDER_AREA3` | `DYH_NO81` |  | `THUNDER_AREA3` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_WAVE` | `DYH_NO81` |  | `WAVE` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BLAST` | `DYH_NO81` |  | `BLAST` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_BLAST_ICE` | `DYH_NO81` |  | `BLAST_ICE` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_CHARGE` | `DYH_NO81` |  | `CHARGE` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_SLIDING` | `DYH_NO81` |  | `SLIDING` |
+| <img src="../img/pack_cha_dyh_no81.png" width="48"> `MONST_DYH_NO81_SWORD` | `DYH_NO81` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_CHAIN` | `DYH_NO82` |  | `CHAIN` |
+| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_HOOKATTACK` | `DYH_NO82` |  | `HOOKATTACK` |
+| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_SHOCKWAVE01` | `DYH_NO82` |  | `SHOCKWAVE01` |
+| <img src="../img/pack_cha_dyh_no82.png" width="48"> `MONST_DYH_NO82_SHOCKWAVE02` | `DYH_NO82` |  | `SHOCKWAVE02` |
+| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_BOMB` | `DYH_NO83` |  | `BOMB` |
+| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_BEAT` | `DYH_NO83` |  | `BEAT` |
+| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_SLIDING` | `DYH_NO83` |  | `SLIDING` |
+| <img src="../img/pack_cha_dyh_no83.png" width="48"> `MONST_DYH_NO83_SWORD` | `DYH_NO83` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_GUN` | `DYH_NO84` |  | `GUN` |
+| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_BEAT` | `DYH_NO84` |  | `BEAT` |
+| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_SWORD` | `DYH_NO84` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no84.png" width="48"> `MONST_DYH_NO84_SWORD_1` | `DYH_NO84` |  | `SWORD_1` |
+| <img src="../img/pack_cha_dyh_no85.png" width="48"> `MONST_DYH_NO85_BEAT1` | `DYH_NO85` |  | `BEAT1` |
+| <img src="../img/pack_cha_dyh_no85.png" width="48"> `MONST_DYH_NO85_BEAT2` | `DYH_NO85` |  | `BEAT2` |
+| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_WATER` | `DYH_NO86` |  | `WATER` |
+| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_BITE` | `DYH_NO86` |  | `BITE` |
+| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_SWORD` | `DYH_NO86` |  | `SWORD` |
+| <img src="../img/pack_cha_dyh_no86.png" width="48"> `MONST_DYH_NO86_TAIL` | `DYH_NO86` |  | `TAIL` |
+| <img src="../img/pack_cha_dyh_no87.png" width="48"> `MONST_DYH_NO87_SOUND` | `DYH_NO87` |  | `SOUND` |
+| <img src="../img/pack_cha_dyh_no87.png" width="48"> `MONST_DYH_NO87_BREATH` | `DYH_NO87` |  | `BREATH` |
+| <img src="../img/pack_cha_dyh_no87.png" width="48"> `MONST_DYH_NO87_TRUMPET` | `DYH_NO87` |  | `TRUMPET` |
+| <img src="../img/pack_cha_dyh_no88.png" width="48"> `MONST_DYH_NO88_CHARGE01` | `DYH_NO88` |  | `CHARGE01` |
+| <img src="../img/pack_cha_dyh_no88.png" width="48"> `MONST_DYH_NO88_CHARGE02` | `DYH_NO88` |  | `CHARGE02` |
 | `MONST_DYH_WA09_BLAST` | `DYH_WA09` |  | `BLAST` |
 | `MONST_DYH_WA09_SMASH` | `DYH_WA09` |  | `SMASH` |
 | `MONST_DYH_WI01_FIRE` | <img src="../img/pack_cha_dyh_wi01.png" width="48"> `DYH_WI01` | デーモン | `FIRE` |
@@ -734,10 +734,10 @@ species name resolved above (blank = unresolved / no summon card).
 | `MONST_DYF_FI03_TAILARROW` | <img src="../img/pack_cha_dyf_fi03.png" width="48"> `DYF_FI03` | ストーンスコーピオン | `TAILARROW` |
 | `MONST_DYF_FI04_THREAD` | <img src="../img/pack_cha_dyf_fi04.png" width="48"> `DYF_FI04` |  | `THREAD` |
 | `MONST_DYF_FI05_STONE_SHIELD` | `DYF_FI05` |  | `STONE_SHIELD` |
-| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_BITE` | <img src="../img/pack_cha_dyf_no01.png" width="48"> `DYF_NO01` | ダイアーウルフ | `BITE` |
-| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_BREATH` | <img src="../img/pack_cha_dyf_no01.png" width="48"> `DYF_NO01` | ダイアーウルフ | `BREATH` |
-| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_CLAW_L` | <img src="../img/pack_cha_dyf_no01.png" width="48"> `DYF_NO01` | ダイアーウルフ | `CLAW_L` |
-| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_CLAW_R` | <img src="../img/pack_cha_dyf_no01.png" width="48"> `DYF_NO01` | ダイアーウルフ | `CLAW_R` |
+| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_BITE` | `DYF_NO01` | ダイアーウルフ | `BITE` |
+| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_BREATH` | `DYF_NO01` | ダイアーウルフ | `BREATH` |
+| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_CLAW_L` | `DYF_NO01` | ダイアーウルフ | `CLAW_L` |
+| <img src="../img/pack_cha_dyf_no01.png" width="48"> `MONST_DYF_NO01_CLAW_R` | `DYF_NO01` | ダイアーウルフ | `CLAW_R` |
 | `MONST_DYF_NO02_THUNDER` | `DYF_NO02` | ヘルハウンド | `THUNDER` |
 | `MONST_DYF_NO02_1_BITE` | `DYF_NO02` | ヘルハウンド | `BITE` |
 | `MONST_DYF_NO02_1_CLAW_L` | `DYF_NO02` | ヘルハウンド | `CLAW_L` |
@@ -748,36 +748,36 @@ species name resolved above (blank = unresolved / no summon card).
 | `MONST_DYF_NO02_BITE` | `DYF_NO02` | ヘルハウンド | `BITE` |
 | `MONST_DYF_NO02_CLAW_L` | `DYF_NO02` | ヘルハウンド | `CLAW_L` |
 | `MONST_DYF_NO02_CLAW_R` | `DYF_NO02` | ヘルハウンド | `CLAW_R` |
-| <img src="../img/pack_cha_dyf_no03.png" width="48"> `MONST_DYF_NO03_CHARGE` | <img src="../img/pack_cha_dyf_no03.png" width="48"> `DYF_NO03` | ブルータルブル | `CHARGE` |
-| <img src="../img/pack_cha_dyf_no03.png" width="48"> `MONST_DYF_NO03_HEAD` | <img src="../img/pack_cha_dyf_no03.png" width="48"> `DYF_NO03` | ブルータルブル | `HEAD` |
-| <img src="../img/pack_cha_dyf_no04.png" width="48"> `MONST_DYF_NO04_CHARGE` | <img src="../img/pack_cha_dyf_no04.png" width="48"> `DYF_NO04` | ブラニーブル | `CHARGE` |
-| <img src="../img/pack_cha_dyf_no04.png" width="48"> `MONST_DYF_NO04_HEAD` | <img src="../img/pack_cha_dyf_no04.png" width="48"> `DYF_NO04` | ブラニーブル | `HEAD` |
-| <img src="../img/pack_cha_dyf_no05.png" width="48"> `MONST_DYF_NO05_CHARGE` | <img src="../img/pack_cha_dyf_no05.png" width="48"> `DYF_NO05` | エクスプロージョンＳ | `CHARGE` |
-| <img src="../img/pack_cha_dyf_no05.png" width="48"> `MONST_DYF_NO05_HEAD` | <img src="../img/pack_cha_dyf_no05.png" width="48"> `DYF_NO05` | エクスプロージョンＳ | `HEAD` |
-| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_BOW` | <img src="../img/pack_cha_dyf_no06.png" width="48"> `DYF_NO06` | スチームバトラー | `BOW` |
-| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_FOOT` | <img src="../img/pack_cha_dyf_no06.png" width="48"> `DYF_NO06` | スチームバトラー | `FOOT` |
-| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_QUIV` | <img src="../img/pack_cha_dyf_no06.png" width="48"> `DYF_NO06` | スチームバトラー | `QUIV` |
-| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_SHOCKWAVE` | <img src="../img/pack_cha_dyf_no06.png" width="48"> `DYF_NO06` | スチームバトラー | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_AXE` | <img src="../img/pack_cha_dyf_no07.png" width="48"> `DYF_NO07` | アーマードフロッグ | `AXE` |
-| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_FOOT` | <img src="../img/pack_cha_dyf_no07.png" width="48"> `DYF_NO07` | アーマードフロッグ | `FOOT` |
-| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_SHIELD` | <img src="../img/pack_cha_dyf_no07.png" width="48"> `DYF_NO07` | アーマードフロッグ | `SHIELD` |
-| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_SHOCKWAVE` | <img src="../img/pack_cha_dyf_no07.png" width="48"> `DYF_NO07` | アーマードフロッグ | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_FOOT` | <img src="../img/pack_cha_dyf_no08.png" width="48"> `DYF_NO08` | ガーディアンフロッグ | `FOOT` |
-| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_SHIELD` | <img src="../img/pack_cha_dyf_no08.png" width="48"> `DYF_NO08` | ガーディアンフロッグ | `SHIELD` |
-| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_SHOCKWAVE` | <img src="../img/pack_cha_dyf_no08.png" width="48"> `DYF_NO08` | ガーディアンフロッグ | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_STEAM` | <img src="../img/pack_cha_dyf_no08.png" width="48"> `DYF_NO08` | ガーディアンフロッグ | `STEAM` |
-| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_SWORD` | <img src="../img/pack_cha_dyf_no08.png" width="48"> `DYF_NO08` | ガーディアンフロッグ | `SWORD` |
-| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_SHELL` | <img src="../img/pack_cha_dyf_no11.png" width="48"> `DYF_NO11` |  | `SHELL` |
-| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_BITE` | <img src="../img/pack_cha_dyf_no11.png" width="48"> `DYF_NO11` |  | `BITE` |
-| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_BREATH` | <img src="../img/pack_cha_dyf_no11.png" width="48"> `DYF_NO11` |  | `BREATH` |
-| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_SHOCKWAVE` | <img src="../img/pack_cha_dyf_no11.png" width="48"> `DYF_NO11` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_MISSILE` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `MISSILE` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_MISSILE_FAST` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `MISSILE_FAST` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_CHARGE` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `CHARGE` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_FOOTSTAMP` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `FOOTSTAMP` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_FOOTSTAMP02` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `FOOTSTAMP02` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_SHOCKWAVE` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `SHOCKWAVE` |
-| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_STEAM` | <img src="../img/pack_cha_dyf_no12.png" width="48"> `DYF_NO12` |  | `STEAM` |
+| <img src="../img/pack_cha_dyf_no03.png" width="48"> `MONST_DYF_NO03_CHARGE` | `DYF_NO03` | ブルータルブル | `CHARGE` |
+| <img src="../img/pack_cha_dyf_no03.png" width="48"> `MONST_DYF_NO03_HEAD` | `DYF_NO03` | ブルータルブル | `HEAD` |
+| <img src="../img/pack_cha_dyf_no04.png" width="48"> `MONST_DYF_NO04_CHARGE` | `DYF_NO04` | ブラニーブル | `CHARGE` |
+| <img src="../img/pack_cha_dyf_no04.png" width="48"> `MONST_DYF_NO04_HEAD` | `DYF_NO04` | ブラニーブル | `HEAD` |
+| <img src="../img/pack_cha_dyf_no05.png" width="48"> `MONST_DYF_NO05_CHARGE` | `DYF_NO05` | エクスプロージョンＳ | `CHARGE` |
+| <img src="../img/pack_cha_dyf_no05.png" width="48"> `MONST_DYF_NO05_HEAD` | `DYF_NO05` | エクスプロージョンＳ | `HEAD` |
+| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_BOW` | `DYF_NO06` | スチームバトラー | `BOW` |
+| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_FOOT` | `DYF_NO06` | スチームバトラー | `FOOT` |
+| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_QUIV` | `DYF_NO06` | スチームバトラー | `QUIV` |
+| <img src="../img/pack_cha_dyf_no06.png" width="48"> `MONST_DYF_NO06_SHOCKWAVE` | `DYF_NO06` | スチームバトラー | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_AXE` | `DYF_NO07` | アーマードフロッグ | `AXE` |
+| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_FOOT` | `DYF_NO07` | アーマードフロッグ | `FOOT` |
+| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_SHIELD` | `DYF_NO07` | アーマードフロッグ | `SHIELD` |
+| <img src="../img/pack_cha_dyf_no07.png" width="48"> `MONST_DYF_NO07_SHOCKWAVE` | `DYF_NO07` | アーマードフロッグ | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_FOOT` | `DYF_NO08` | ガーディアンフロッグ | `FOOT` |
+| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_SHIELD` | `DYF_NO08` | ガーディアンフロッグ | `SHIELD` |
+| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_SHOCKWAVE` | `DYF_NO08` | ガーディアンフロッグ | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_STEAM` | `DYF_NO08` | ガーディアンフロッグ | `STEAM` |
+| <img src="../img/pack_cha_dyf_no08.png" width="48"> `MONST_DYF_NO08_SWORD` | `DYF_NO08` | ガーディアンフロッグ | `SWORD` |
+| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_SHELL` | `DYF_NO11` |  | `SHELL` |
+| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_BITE` | `DYF_NO11` |  | `BITE` |
+| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_BREATH` | `DYF_NO11` |  | `BREATH` |
+| <img src="../img/pack_cha_dyf_no11.png" width="48"> `MONST_DYF_NO11_SHOCKWAVE` | `DYF_NO11` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_MISSILE` | `DYF_NO12` |  | `MISSILE` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_MISSILE_FAST` | `DYF_NO12` |  | `MISSILE_FAST` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_CHARGE` | `DYF_NO12` |  | `CHARGE` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_FOOTSTAMP` | `DYF_NO12` |  | `FOOTSTAMP` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_FOOTSTAMP02` | `DYF_NO12` |  | `FOOTSTAMP02` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_SHOCKWAVE` | `DYF_NO12` |  | `SHOCKWAVE` |
+| <img src="../img/pack_cha_dyf_no12.png" width="48"> `MONST_DYF_NO12_STEAM` | `DYF_NO12` |  | `STEAM` |
 | `MONST_DYF_WA08_FIRE` | `DYF_WA08` |  | `FIRE` |
 | `MONST_DYF_WI01_BARRIER` | <img src="../img/pack_cha_dyf_wi01.png" width="48"> `DYF_WI01` | ホワイトドラゴン | `BARRIER` |
 | `MONST_DYF_WI01_FIREBALL` | <img src="../img/pack_cha_dyf_wi01.png" width="48"> `DYF_WI01` | ホワイトドラゴン | `FIREBALL` |
@@ -900,24 +900,24 @@ species name resolved above (blank = unresolved / no summon card).
 
 | internal id | model | jp | action |
 |---|---|---|---|
-| <img src="../img/pack_cha_dyb_no01.png" width="48"> `MONST_DYB_NO01_BITE` | <img src="../img/pack_cha_dyb_no01.png" width="48"> `DYB_NO01` | バット | `BITE` |
-| <img src="../img/pack_cha_dyb_no01.png" width="48"> `MONST_DYB_NO01_CHARGE` | <img src="../img/pack_cha_dyb_no01.png" width="48"> `DYB_NO01` | バット | `CHARGE` |
-| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_2_BREATH` | <img src="../img/pack_cha_dyb_no02.png" width="48"> `DYB_NO02` | ジャイアントバット | `BREATH` |
-| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_BITE` | <img src="../img/pack_cha_dyb_no02.png" width="48"> `DYB_NO02` | ジャイアントバット | `BITE` |
-| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_BREATH` | <img src="../img/pack_cha_dyb_no02.png" width="48"> `DYB_NO02` | ジャイアントバット | `BREATH` |
-| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_CHARGE` | <img src="../img/pack_cha_dyb_no02.png" width="48"> `DYB_NO02` | ジャイアントバット | `CHARGE` |
-| <img src="../img/pack_cha_dyb_no03.png" width="48"> `MONST_DYB_NO03_BITE` | <img src="../img/pack_cha_dyb_no03.png" width="48"> `DYB_NO03` | バンパイアバット | `BITE` |
-| <img src="../img/pack_cha_dyb_no03.png" width="48"> `MONST_DYB_NO03_CHARGE` | <img src="../img/pack_cha_dyb_no03.png" width="48"> `DYB_NO03` | バンパイアバット | `CHARGE` |
-| <img src="../img/pack_cha_dyb_no04.png" width="48"> `MONST_DYB_NO04_BITE` | <img src="../img/pack_cha_dyb_no04.png" width="48"> `DYB_NO04` | コカトリス | `BITE` |
-| <img src="../img/pack_cha_dyb_no04.png" width="48"> `MONST_DYB_NO04_BREATH` | <img src="../img/pack_cha_dyb_no04.png" width="48"> `DYB_NO04` | コカトリス | `BREATH` |
-| <img src="../img/pack_cha_dyb_no04.png" width="48"> `MONST_DYB_NO04_CHARGE` | <img src="../img/pack_cha_dyb_no04.png" width="48"> `DYB_NO04` | コカトリス | `CHARGE` |
-| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_BITE` | <img src="../img/pack_cha_dyb_no05.png" width="48"> `DYB_NO05` | トップヘヴィコカトリス | `BITE` |
-| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_BLAST` | <img src="../img/pack_cha_dyb_no05.png" width="48"> `DYB_NO05` | トップヘヴィコカトリス | `BLAST` |
-| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_BREATH` | <img src="../img/pack_cha_dyb_no05.png" width="48"> `DYB_NO05` | トップヘヴィコカトリス | `BREATH` |
-| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_CHARGE` | <img src="../img/pack_cha_dyb_no05.png" width="48"> `DYB_NO05` | トップヘヴィコカトリス | `CHARGE` |
-| <img src="../img/pack_cha_dyb_no06.png" width="48"> `MONST_DYB_NO06_STONE` | <img src="../img/pack_cha_dyb_no06.png" width="48"> `DYB_NO06` | エディブルコック | `STONE` |
-| <img src="../img/pack_cha_dyb_no06.png" width="48"> `MONST_DYB_NO06_PECK1` | <img src="../img/pack_cha_dyb_no06.png" width="48"> `DYB_NO06` | エディブルコック | `PECK1` |
-| <img src="../img/pack_cha_dyb_no06.png" width="48"> `MONST_DYB_NO06_PECK2` | <img src="../img/pack_cha_dyb_no06.png" width="48"> `DYB_NO06` | エディブルコック | `PECK2` |
+| <img src="../img/pack_cha_dyb_no01.png" width="48"> `MONST_DYB_NO01_BITE` | `DYB_NO01` | バット | `BITE` |
+| <img src="../img/pack_cha_dyb_no01.png" width="48"> `MONST_DYB_NO01_CHARGE` | `DYB_NO01` | バット | `CHARGE` |
+| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_2_BREATH` | `DYB_NO02` | ジャイアントバット | `BREATH` |
+| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_BITE` | `DYB_NO02` | ジャイアントバット | `BITE` |
+| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_BREATH` | `DYB_NO02` | ジャイアントバット | `BREATH` |
+| <img src="../img/pack_cha_dyb_no02.png" width="48"> `MONST_DYB_NO02_CHARGE` | `DYB_NO02` | ジャイアントバット | `CHARGE` |
+| <img src="../img/pack_cha_dyb_no03.png" width="48"> `MONST_DYB_NO03_BITE` | `DYB_NO03` | バンパイアバット | `BITE` |
+| <img src="../img/pack_cha_dyb_no03.png" width="48"> `MONST_DYB_NO03_CHARGE` | `DYB_NO03` | バンパイアバット | `CHARGE` |
+| <img src="../img/pack_cha_dyb_no04.png" width="48"> `MONST_DYB_NO04_BITE` | `DYB_NO04` | コカトリス | `BITE` |
+| <img src="../img/pack_cha_dyb_no04.png" width="48"> `MONST_DYB_NO04_BREATH` | `DYB_NO04` | コカトリス | `BREATH` |
+| <img src="../img/pack_cha_dyb_no04.png" width="48"> `MONST_DYB_NO04_CHARGE` | `DYB_NO04` | コカトリス | `CHARGE` |
+| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_BITE` | `DYB_NO05` | トップヘヴィコカトリス | `BITE` |
+| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_BLAST` | `DYB_NO05` | トップヘヴィコカトリス | `BLAST` |
+| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_BREATH` | `DYB_NO05` | トップヘヴィコカトリス | `BREATH` |
+| <img src="../img/pack_cha_dyb_no05.png" width="48"> `MONST_DYB_NO05_CHARGE` | `DYB_NO05` | トップヘヴィコカトリス | `CHARGE` |
+| <img src="../img/pack_cha_dyb_no06.png" width="48"> `MONST_DYB_NO06_STONE` | `DYB_NO06` | エディブルコック | `STONE` |
+| <img src="../img/pack_cha_dyb_no06.png" width="48"> `MONST_DYB_NO06_PECK1` | `DYB_NO06` | エディブルコック | `PECK1` |
+| <img src="../img/pack_cha_dyb_no06.png" width="48"> `MONST_DYB_NO06_PECK2` | `DYB_NO06` | エディブルコック | `PECK2` |
 | `MONST_DYB_WA01_FIREBALL` | <img src="../img/pack_cha_dyb_wa01.png" width="48"> `DYB_WA01` | スチームシューター | `FIREBALL` |
 | `MONST_DYB_WA01_POISONBALL` | <img src="../img/pack_cha_dyb_wa01.png" width="48"> `DYB_WA01` | スチームシューター | `POISONBALL` |
 | `MONST_DYB_WA01_BLAST` | <img src="../img/pack_cha_dyb_wa01.png" width="48"> `DYB_WA01` | スチームシューター | `BLAST` |
@@ -995,30 +995,30 @@ species name resolved above (blank = unresolved / no summon card).
 
 | internal id | model | jp | action |
 |---|---|---|---|
-| <img src="../img/pack_cha_dys_no01.png" width="48"> `MONST_DYS_NO01_BITE` | <img src="../img/pack_cha_dys_no01.png" width="48"> `DYS_NO01` | スネーク | `BITE` |
-| <img src="../img/pack_cha_dys_no01.png" width="48"> `MONST_DYS_NO01_CHARGE` | <img src="../img/pack_cha_dys_no01.png" width="48"> `DYS_NO01` | スネーク | `CHARGE` |
-| <img src="../img/pack_cha_dys_no02.png" width="48"> `MONST_DYS_NO02_BITE` | <img src="../img/pack_cha_dys_no02.png" width="48"> `DYS_NO02` | バイパー | `BITE` |
-| <img src="../img/pack_cha_dys_no02.png" width="48"> `MONST_DYS_NO02_CHARGE` | <img src="../img/pack_cha_dys_no02.png" width="48"> `DYS_NO02` | バイパー | `CHARGE` |
-| <img src="../img/pack_cha_dys_no03.png" width="48"> `MONST_DYS_NO03_BITE` | <img src="../img/pack_cha_dys_no03.png" width="48"> `DYS_NO03` | コブラ | `BITE` |
-| <img src="../img/pack_cha_dys_no03.png" width="48"> `MONST_DYS_NO03_CHARGE` | <img src="../img/pack_cha_dys_no03.png" width="48"> `DYS_NO03` | コブラ | `CHARGE` |
-| <img src="../img/pack_cha_dys_no04.png" width="48"> `MONST_DYS_NO04_BITE` | <img src="../img/pack_cha_dys_no04.png" width="48"> `DYS_NO04` | アナコンダ | `BITE` |
-| <img src="../img/pack_cha_dys_no04.png" width="48"> `MONST_DYS_NO04_CHARGE` | <img src="../img/pack_cha_dys_no04.png" width="48"> `DYS_NO04` | アナコンダ | `CHARGE` |
-| <img src="../img/pack_cha_dys_no05.png" width="48"> `MONST_DYS_NO05_BITE` | <img src="../img/pack_cha_dys_no05.png" width="48"> `DYS_NO05` | パイソン | `BITE` |
-| <img src="../img/pack_cha_dys_no05.png" width="48"> `MONST_DYS_NO05_CHARGE` | <img src="../img/pack_cha_dys_no05.png" width="48"> `DYS_NO05` | パイソン | `CHARGE` |
-| <img src="../img/pack_cha_dys_no06.png" width="48"> `MONST_DYS_NO06_BITE` | <img src="../img/pack_cha_dys_no06.png" width="48"> `DYS_NO06` |  | `BITE` |
-| <img src="../img/pack_cha_dys_no06.png" width="48"> `MONST_DYS_NO06_CHARGE` | <img src="../img/pack_cha_dys_no06.png" width="48"> `DYS_NO06` |  | `CHARGE` |
+| <img src="../img/pack_cha_dys_no01.png" width="48"> `MONST_DYS_NO01_BITE` | `DYS_NO01` | スネーク | `BITE` |
+| <img src="../img/pack_cha_dys_no01.png" width="48"> `MONST_DYS_NO01_CHARGE` | `DYS_NO01` | スネーク | `CHARGE` |
+| <img src="../img/pack_cha_dys_no02.png" width="48"> `MONST_DYS_NO02_BITE` | `DYS_NO02` | バイパー | `BITE` |
+| <img src="../img/pack_cha_dys_no02.png" width="48"> `MONST_DYS_NO02_CHARGE` | `DYS_NO02` | バイパー | `CHARGE` |
+| <img src="../img/pack_cha_dys_no03.png" width="48"> `MONST_DYS_NO03_BITE` | `DYS_NO03` | コブラ | `BITE` |
+| <img src="../img/pack_cha_dys_no03.png" width="48"> `MONST_DYS_NO03_CHARGE` | `DYS_NO03` | コブラ | `CHARGE` |
+| <img src="../img/pack_cha_dys_no04.png" width="48"> `MONST_DYS_NO04_BITE` | `DYS_NO04` | アナコンダ | `BITE` |
+| <img src="../img/pack_cha_dys_no04.png" width="48"> `MONST_DYS_NO04_CHARGE` | `DYS_NO04` | アナコンダ | `CHARGE` |
+| <img src="../img/pack_cha_dys_no05.png" width="48"> `MONST_DYS_NO05_BITE` | `DYS_NO05` | パイソン | `BITE` |
+| <img src="../img/pack_cha_dys_no05.png" width="48"> `MONST_DYS_NO05_CHARGE` | `DYS_NO05` | パイソン | `CHARGE` |
+| <img src="../img/pack_cha_dys_no06.png" width="48"> `MONST_DYS_NO06_BITE` | `DYS_NO06` |  | `BITE` |
+| <img src="../img/pack_cha_dys_no06.png" width="48"> `MONST_DYS_NO06_CHARGE` | `DYS_NO06` |  | `CHARGE` |
 
 #### DNO — 7 records, 3 model codes
 
 | internal id | model | jp | action |
 |---|---|---|---|
-| <img src="../img/pack_cha_dno_no06.png" width="48"> `MONST_DNO_NO06_POISON` | <img src="../img/pack_cha_dno_no06.png" width="48"> `DNO_NO06` | スライミミック | `POISON` |
-| <img src="../img/pack_cha_dno_no06.png" width="48"> `MONST_DNO_NO06_BITE` | <img src="../img/pack_cha_dno_no06.png" width="48"> `DNO_NO06` | スライミミック | `BITE` |
-| <img src="../img/pack_cha_dno_no07.png" width="48"> `MONST_DNO_NO07_POISON` | <img src="../img/pack_cha_dno_no07.png" width="48"> `DNO_NO07` | スチームナイト | `POISON` |
-| <img src="../img/pack_cha_dno_no07.png" width="48"> `MONST_DNO_NO07_BITE` | <img src="../img/pack_cha_dno_no07.png" width="48"> `DNO_NO07` | スチームナイト | `BITE` |
-| <img src="../img/pack_cha_dno_no09.png" width="48"> `MONST_DNO_NO09_DARK_NOVA` | <img src="../img/pack_cha_dno_no09.png" width="48"> `DNO_NO09` |  | `DARK_NOVA` |
-| <img src="../img/pack_cha_dno_no09.png" width="48"> `MONST_DNO_NO09_MAGICMISSILE` | <img src="../img/pack_cha_dno_no09.png" width="48"> `DNO_NO09` |  | `MAGICMISSILE` |
-| <img src="../img/pack_cha_dno_no09.png" width="48"> `MONST_DNO_NO09_BITE` | <img src="../img/pack_cha_dno_no09.png" width="48"> `DNO_NO09` |  | `BITE` |
+| <img src="../img/pack_cha_dno_no06.png" width="48"> `MONST_DNO_NO06_POISON` | `DNO_NO06` | スライミミック | `POISON` |
+| <img src="../img/pack_cha_dno_no06.png" width="48"> `MONST_DNO_NO06_BITE` | `DNO_NO06` | スライミミック | `BITE` |
+| <img src="../img/pack_cha_dno_no07.png" width="48"> `MONST_DNO_NO07_POISON` | `DNO_NO07` | スチームナイト | `POISON` |
+| <img src="../img/pack_cha_dno_no07.png" width="48"> `MONST_DNO_NO07_BITE` | `DNO_NO07` | スチームナイト | `BITE` |
+| <img src="../img/pack_cha_dno_no09.png" width="48"> `MONST_DNO_NO09_DARK_NOVA` | `DNO_NO09` |  | `DARK_NOVA` |
+| <img src="../img/pack_cha_dno_no09.png" width="48"> `MONST_DNO_NO09_MAGICMISSILE` | `DNO_NO09` |  | `MAGICMISSILE` |
+| <img src="../img/pack_cha_dno_no09.png" width="48"> `MONST_DNO_NO09_BITE` | `DNO_NO09` |  | `BITE` |
 
 ### Non-creature records
 

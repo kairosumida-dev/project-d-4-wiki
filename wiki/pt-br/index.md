@@ -44,6 +44,3 @@ Notas de engenharia reversa e dados extraídos do jogo **Quest of D 4.0 — The 
 - [Itens](items.md)
 - [Habilidades](skills.md)
 - [Cartas](cards.md)
-- [Missões e masmorras](quests.md)
-- [Efeitos de status e armadilhas](status-effects.md)
-- [Protocolo de rede](protocol.md)
