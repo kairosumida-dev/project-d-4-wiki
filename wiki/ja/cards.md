@@ -1,68 +1,77 @@
 [EN](../en/cards.md) | [JA](../ja/cards.md) | [PT-BR](../pt-br/cards.md)
 
-# カード
+# カードと IC カードシステム
 
-Quest of D のカードは **3層**: 物理 **ICセーブカード**、排出される物理 **デッキカード**、そして **ゲーム内カードアイテム**（ダンジョンの拾得品はすべてデッキに入るカード）。
+> Source: `project_d.xbe` .data table @ `0x65d7a4`–`0x662b24` (`summon`) + client strings / save-field names — reverse engineered
 
-### リーダーハードウェア
+> **Quest of D 4.0 — The Battle Kingdom**（Sega Chihiro、`CDV-10035B`）の抽出データ。このページではカードハードウェアとカード上のセーブデータに関する文字列／シンボルの証拠をまとめる。物理リーダーの挙動は I/O 文字列とセーブ構造から裏付けられるが、個々のゲームプレイ上の意味はまだ部分的にしか解読されていない。
 
-| 文字列/シンボル | 役割 |
+Quest of D には **2層のカード** がある：プレイヤーの **IC セーブカード**（キャラクターデータ。他の Sega Chihiro/ALL.Net カードゲームと同様）と、**排出式デッキカード** —— 筐体が印刷する物理カードで、1枚ごとがゲーム内アイテムまたは召喚モンスターを表す。
+
+## リーダーハードウェアの証拠
+
+| 文字列／シンボル | 役割 |
 |---|---|
-| `sens_card` | IC card-present sensor |
-| `card_lock` | locks the IC card in the reader |
-| `card_unlock_instant` | instant card eject/unlock |
-| `DFOCECARD_RED_LEFT` | left card slot indicator (red) |
-| `ICCARD_RED_RIGHT` | right card slot indicator (red) |
-| `B_SYSTEM_CARD_DISPLAY` | card-reader display device |
-| `B_SYSTEM_CARD_BUZZER / B_SYSTEM_CARD_BUZZER2` | card-reader buzzers |
-| `DECK READER` | deck-card dispenser/reader unit (test menu) |
-| `DECK READER DOOR OPEN` | deck reader door test command |
-| `SEL_DM_VDECK` | virtual deck reader selector |
+| `sens_card` | IC カード挿入センサー |
+| `card_lock` | IC カードをリーダー内にロック |
+| `card_unlock_instant` | 即時排出／アンロック |
+| `DFOCECARD_RED_LEFT` | 左カードスロットの表示 LED（赤） |
+| `ICCARD_RED_RIGHT` | 右カードスロットの表示 LED（赤） |
+| `DECK READER`, `DECK READER DOOR OPEN` | デッキカードユニット＋扉（テストメニュー） |
+| `SEL_DM_VDECK` | 仮想デッキリーダー選択子 |
 
-### ICカードのライフサイクル
+## IC カードのライフサイクル文字列（Shift-JIS、text.bin より）
 
-| 生の日本語文字列 | 意味 |
+| 生 jp | 意味 |
 |---|---|
-| `・新規カード` | 初回発行直後の状態 |
-| `・更新済みのカード` | リニューアル済み |
-| `・使用回数限度のカード` | 使用回数上限に到達 |
-| `・データが壊れているカード` | データ破損を検出 |
-| `フォーマットバージョン違いのカード` | 別バージョンでフォーマット済み |
-| `リリースバージョン違いのカード` | 別リリースで発行済み |
-| `ＱＵＥＳＴ＿ＯＦ＿Ｄ以外のカード` | 他タイトルのカード |
-| `このカードでの再発行はあと一回までです` | 再発行は残り1回 |
-| `このカードは前回正常終了していません` | 前回異常終了（復旧対象） |
-| `再発行専用カードではありません` | 再発行専用カードが必要 |
-| `カードが２枚挿入されています` | 2枚同時挿入を検出 |
-| `ＩＣカードに書き込み中です` | 書き込み中（抜き取り禁止） |
-| `デッキカードを排出しました` | デッキカード排出済み |
-| `ＩＣカード，デッキカードの取り忘れにご注意ください` | IC/デッキカードの取り忘れ注意 |
+| `・新規カード` | 新規カード |
+| `・更新済みのカード` | 更新済みのカード |
+| `・使用回数限度のカード` | 使用回数限度のカード |
+| `・データが壊れているカード` | データが壊れているカード |
+| `フォーマットバージョン違いのカード` | フォーマットバージョンが異なる |
+| `リリースバージョン違いのカード` | リリースバージョンが異なる |
+| `ＱＵＥＳＴ＿ＯＦ＿Ｄ以外のカード` | QUEST_OF_D 以外のカード |
+| `このカードでの再発行はあと一回までです` | 再発行はあと1回のみ |
+| `このカードは前回正常終了していません` | 前回のセッションが正常終了していない |
+| `再発行専用カードではありません` | 再発行専用カードではない |
+| `カードが２枚挿入されています` | カードが2枚挿入されている |
+| `ＩＣカードに書き込み中です` | IC カードに書き込み中 |
+| `デッキカードを排出しました` | デッキカードを排出した |
+| `ＩＣカード，デッキカードの取り忘れにご注意ください` | IC カード・デッキカードの取り忘れ注意 |
 
-サービスメニューに出るモード: `＜ＩＣカード挿入モード＞`（挿入）、`＜カード更新モード＞`（更新）、`ＩＣカード復旧モード`/`＜カード復旧モード＞`（復旧）。カードは暗証番号で保護され、3回連続で失敗すると翌日までロックされる。`Ver.2.0` ロケテストカードでのプレイを禁じる文字列もある。
+メニュー文字列に見えるサービスモード：`＜ＩＣカード挿入モード＞`、`＜カード更新モード＞`、`ＩＣカード復旧モード` / `＜カード復旧モード＞`。カードは暗証番号（PIN）で保護され、3回連続で失敗すると翌日までロックされる。Ver.2.0 のロケテストカードを禁止する文字列もある。
 
-### セーブレコード（カードごと）
+## セーブレコード（カードごと）
 
-セーブ/パーティローダー（`FUN_000de7c0`）はカード1枚につき最大 **12人分** のスロットを読む:
+セーブ／パーティローダー（`FUN_000de7c0`）は最大 **12人分のスロット** を次のフィールド名で読み込む：
 
-| # | field |
+`player_name` · `job` · `card_id` · `stage_id` · `get_date` · `numof_item` · `item_id` · `item_nm`
+
+バイナリ内のその他のカード関連キー：`card_id%d`、`card_trade`、`card_trade%d`、`card_reissue_status`、`card_ban_flag`、`card_item_send`、`card_item_receive`、`card_send_gold_amount`、`multi_history_card_id`、`old_card_id`、`rr_card_id` —— カード交換、再発行追跡、BAN フラグ、カード間のアイテム／ゴールド送金の証拠。
+
+## プレイヤー職業（カードキャラクター）
+
+スキル／クエスト／サーバーデータを通じて4つの主職業が確認できる：
+
+| 職業 | 役割 |
 |---|---|
-| 1 | `player_name` |
-| 2 | `job` |
-| 3 | `card_id` |
-| 4 | `stage_id` |
-| 5 | `get_date` |
-| 6 | `numof_item` |
-| 7 | `item_id[]` |
-| 8 | `item_nm[]` |
+| `FIGHTER` | 近接前衛 |
+| `THIEF` | 速度・罠・遠隔職 |
+| `WIZARD` | 攻撃魔法職 |
+| `PRIEST` | 回復・支援魔法職 |
 
-### カード関連プロトコルキー
+スキル、書物、サーバーレコード（`vs_border_limit_job0-3` 等）で使われる内部サブ職業／武器クラスコード：
 
-KK "Kage" プロトコルとカードトレードで使われるキー・バリューフィールド:
+`MA`（モンク）· `NI`（忍者）· `KA` `KS` `MA` `NC` `NI` `RA` `RS` `SP` `ST` `YU`/`YZ`（武器クラス — アイテム参照）· `BARRIER`（バリア系）· `ALL`（パーティ全体）
 
-`card_id` · `card_id%d` · `card_trade` · `card_trade%d` · `old_card_id` · `multi_history_card_id` · `card_ban_flag` · `card_reissue_status` · `card_send_item_main` · `card_send_item_sub` · `card_send_item_sub2` · `card_send_gold_amount` · `card_receive_item_main` · `card_receive_item_sub` · `card_receive_item_sub2` · `card_gold_send_counter` · `card_gold_receive_counter` · `card_item_send_counter` · `card_item_receive_counter` · `d_force_card_item_id` · `d_force_card_item_nm` · `CARDRENEW` · `CARDPLAY` · `CARD RETURN` · `NU_CARD_AUTH` · `CLEAR_WITHOUT_CARDITEM`
+## ゲーム内アイテムとしてのデッキカード
 
-トレード: `card_item_send/receive_counter` と `card_gold_send/receive_counter` が main/sub/sub2 のアイテム・ゴールド交換を順序付ける。`old_card_id`/`multi_history_card_id` はカード更新（データがカード間を移行）を追跡する。`d_force_card_item_*` はデバッグ注入フィールド。
+ダンジョンで拾うものはすべてカードである。最も強い証拠は `text.bin` の召喚カードブロック（エントリ約3036–3352）で、召喚可能なモンスターはそれぞれ `〈name〉を召喚するためのカード`（「〈name〉を召喚するためのカード」）という文字列を持つ —— つまり物理デッキカードがそのまま召喚魔法を担っている。装備レコード `MONST_SUMMON_ARMOR_*` / `MONST_SUMMON_ACCESS_*` は召喚モンスターもアイテムを装備できることを示す。
 
-### ゲーム内カードアイテム
+`auth2d/card.bin`（`media/auth2d/card.bin` も）は UI が使うカード表面のスプライト／アトラス定義 —— バイナリで、カード画像テーブルとしての役割以上はまだ解読されていない。
 
-text.bin の証拠: `カードウィンドウ`、`カードをデッキに入れたため`、`デッキカードを排出しました`。多くのアイテム説明文は `〜を召喚するためのカード`（Xを召喚するためのカード）に解決される。召喚モンスターは物理デッキカードとして配布され、デッキウィンドウから使う。
+## 未解決
+
+- カード上レコードの正確なレイアウト（上記フィールドは名前のみ）
+- デッキカードの印刷／排出プロトコルの詳細
+- `card_trade` / `card_send_gold_amount` がゲーム内でどう公開されていたか
