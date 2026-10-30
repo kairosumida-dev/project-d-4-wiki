@@ -2,130 +2,103 @@
 
 # Network protocol
 
-Two protocol layers: the **KK "Kage" middleware** session protocol (key-value request/response over SCTP — `ESCTPoU`) and the **in-room game protocol** (64-command relay) inside `SpPrjdGameServer`. Transport magic `0xba4766`, frame size `0x380B`; client entry `angelReceiveData` @0x289170, dispatcher `prjdNwArrivedDataPacket` @0x0804a294.
+> Source: `project_d.xbe` + `SpPrjdGameServer.vXXXXX` command-dispatch table (`prjdNwArrivedDataPacket` @ `0x0804a294`, `cmd_string_tbl` @ file `0x1b1a0`) — reverse engineered
 
-### Server daemons (GD-ROM `angel` payload)
+> Server→client traffic is key-value "response" messages (`command` + `protocol_version`="aeaaee45"); in-room game traffic uses the 64-command dispatch below. The battle simulation is mostly **client-side** — the room server is primarily a relay + shared-resource arbiter. Client joins the nationwide room at `cherubim.questofd.net`; the `inhouse` mode is in-store LAN.
 
-| daemon | size | role |
+## Game packet commands (0–63)
+
+| cmd | name | notes |
 |---|---|---|
-| `Virtues` | 758K / ~437 fns | game-room manager (JoinUserIntoGameRoom, GameRoomAllocateByUser, ChangeGameRoomAttribute, StartVoiceChat) |
-| `Dominions` | — | matchmaking (add_player_to_matching_list, IsSameLevel, QueryPlayers, GetWorldUniqueGameRoomName) |
-| `Cherubim` | — | user auth/session (LoadUserLoginFile, CreateUser, CheckUserName, FindRegisteredUser) — client dials `cherubim.questofd.net` |
-| `Seraphim` | — | game-class registry / supervisor |
-| `SpPrjdGameServer.vXXXXX` | v40000 = 885K / ~555 fns | per-room session host — mostly a relay; battle sim is client-side |
-| `PrjdGameServer.v1XXXX` | — | older angel-protocol game server (v1.x) |
-| `spgsed / sp_gse` | — | gse remsh spawner of SpPrjdGameServer.vNNNNN (GsedListenPort=40000) |
-| `sp_distributor` | — | SpDistributor @ 192.168.20.8:30050 tcp+udp (sphingo.ini) |
+| 0 | `INVALID PACKET` | |
+| 1 | `OK` | |
+| 2 | `NG` | |
+| 3 | `CLIENT INFO` | per-player 0xAC-byte blob |
+| 4 | `READY` | all ready → GAME START |
+| 5 | `GAME START` | |
+| 6 | `GAME OVER` | |
+| 7 | `DEAD ROBOT` | marks `dead_list[]` |
+| 8 | `CONTINUE` | clears `dead_list[]` |
+| 9 | `RAND` | |
+| 10 | `EQUIP` | |
+| 11 | `SWITCH` | |
+| 12 | `USE` | **1.x DEPRECATED** |
+| 13 | `PICK` | 1.x DEPRECATED |
+| 14 | `DROP` | 1.x DEPRECATED |
+| 15 | `THROW` | 1.x DEPRECATED |
+| 16 | `ITEM INQ` | 1.x DEPRECATED |
+| 17 | `TRAP SW` | trap switch bits per robid (≤0x400 traps) |
+| 18 | `GIMMICK` | pure room relay |
+| 19 | `LOCK GATE` | per-gate player bitmask; party holds gates |
+| 20 | `CLIENT READY` | |
+| 21 | `SERVER READY` | |
+| 22 | `ROB STATE` | |
+| 23 | `THROW RESULT ITEM` | 1.1.2 DEPRECATED |
+| 24 | `MV FLOOR` | |
+| 25 | `TREASURE BOX` | tbox open state machine |
+| 26 | `CINFO ITEM` | per-player item/ping report |
+| 27 | `THROW RESULT ITEM` | DEPRECATED |
+| 28 | `GLOCK` | pure room relay; `GlockFlagManager` dedups |
+| 29 | `HEARTBEAT` | |
+| 30 | `DEBUG` | |
+| 31 | `R_ECHO` | reliable-channel echo |
+| 32 | `U_ECHO` | UDP-channel echo |
+| 33 | `COMM DATA` | pure room relay |
+| 34 | `MONSTER DATA` | monster sync |
+| 35 | `MONSTER BOSS` | boss sync |
+| 36 | `MONSTER DATA IH` | in-house (local-store) variant |
+| 37 | `MONSTER BOSS IH` | in-house (local-store) variant |
+| 38 | `USE FREE` | DEPRECATED |
+| 39 | `STEAL` | DEPRECATED |
+| 40 | `ACTIVE SKILL` | |
+| 41–50 | *unused* | |
+| 51 | `USE ITEM` | |
+| 52 | `PICK ITEM` | server grants/denies via `item_free[]` |
+| 53 | `DROP ITEM` | |
+| 54 | `THROW ITEM` | |
+| 55 | `INQ ITEM` | |
+| 56 | `THROW RESULT ITEM` | |
+| 57 | `USE AND FREE ITEM` | |
+| 58 | `STEAL ITEM` | transfers `item_free[]` ownership (PvP-ish) |
+| 59–63 | *unused* | |
 
-### Request/response pairs
+## Server arbitration state (`sv->` struct)
 
-Server→client messages are key-value `*_response` documents keyed by `command` + `protocol_version` (`aeaaee45`). Request names recovered from the binary:
-
-`attend_request`/`attend_response` · `auth_request`/`auth_response` · `danirank_request`/`danirank_response` · `defrank_request`/`defrank_response` · `end_request`/`end_response` · `event_request`/`event_response` · `gamepara_request`/`gamepara_response` · `init_request`/`init_response` · `itempara_request`/`itempara_response` · `live_free_request`/`live_free_response` · `news_request`/`news_response` · `passcode_request`/`passcode_response` · `ranking_request`/`ranking_response` · `recover_request`/`recover_response` · `registapply_request`/`registapply_response` · `registcancel_request`/`registcancel_response` · `reissue_request`/`reissue_response` · `reissueapply_request`/`reissueapply_response` · `rirank_request`/`rirank_response` · `shop_request`/`shop_response` · `srgen_request`/`srgen_response` · `start_request`/`start_response` · `verify_request`/`verify_response` · `vs_cr_request`/`vs_cr_response` · `vs_dr_request`/`vs_dr_response`
-
-### In-room game commands (cmd_string_tbl)
-
-| # | command | note |
-|---|---|---|
-| 0 | `INVALID PACKET` |  |
-| 1 | `OK` |  |
-| 2 | `NG` |  |
-| 3 | `CLIENT INFO` |  |
-| 4 | `READY` |  |
-| 5 | `GAME START` |  |
-| 6 | `GAME OVER` |  |
-| 7 | `DEAD ROBOT` |  |
-| 8 | `CONTINUE` |  |
-| 9 | `RAND` |  |
-| 10 | `EQUIP` |  |
-| 11 | `SWITCH` |  |
-| 12 | `USE` | deprecated in 1.x |
-| 13 | `PICK` | deprecated in 1.x |
-| 14 | `DROP` | deprecated in 1.x |
-| 15 | `THROW` | deprecated in 1.x |
-| 16 | `ITEM INQ` | deprecated in 1.x |
-| 17 | `TRAP SW` |  |
-| 18 | `GIMMICK` |  |
-| 19 | `LOCK GATE` |  |
-| 20 | `CLIENT READY` |  |
-| 21 | `SERVER READY` |  |
-| 22 | `ROB STATE` |  |
-| 23 | `THROW RESULT ITEM` | deprecated in 1.1.2 |
-| 24 | `MV FLOOR` |  |
-| 25 | `TREASURE BOX` |  |
-| 26 | `CINFO ITEM` |  |
-| 27 | `THROW RESULT ITEM` | deprecated |
-| 28 | `GLOCK` |  |
-| 29 | `HEARTBEAT` |  |
-| 30 | `DEBUG` |  |
-| 31 | `R_ECHO` |  |
-| 32 | `U_ECHO` |  |
-| 33 | `COMM DATA` |  |
-| 34 | `MONSTER DATA` |  |
-| 35 | `MONSTER BOSS` |  |
-| 36 | `MONSTER DATA IH` |  |
-| 37 | `MONSTER BOSS IH` |  |
-| 38 | `USE_FREE` | deprecated |
-| 39 | `STEAL` | deprecated |
-| 40 | `ACTIVE SKILL` |  |
-| 41 | `—` | unused |
-| 42 | `—` | unused |
-| 43 | `—` | unused |
-| 44 | `—` | unused |
-| 45 | `—` | unused |
-| 46 | `—` | unused |
-| 47 | `—` | unused |
-| 48 | `—` | unused |
-| 49 | `—` | unused |
-| 50 | `—` | unused |
-| 51 | `USE ITEM` |  |
-| 52 | `PICK ITEM` |  |
-| 53 | `DROP ITEM` |  |
-| 54 | `THROW ITEM` |  |
-| 55 | `INQ ITEM` |  |
-| 56 | `THROW RESULT ITEM` |  |
-| 57 | `USE AND FREE ITEM` |  |
-| 58 | `STEAL ITEM` |  |
-| 59 | `—` | unused |
-| 60 | `—` | unused |
-| 61 | `—` | unused |
-| 62 | `—` | unused |
-| 63 | `—` | unused |
-
-### Server arbitration state
-
-The server is a relay + shared-resource arbiter. Per-room state fields:
-
-| field(s) | meaning |
+| field | meaning |
 |---|---|
-| `item_free[]` | dungeon floor-item ownership; grants/denies pickups; STEAL ITEM transfers ownership (PvP-ish) |
-| `trap_sw[]` | trap switch bits per robid (≤0x400 traps); ON/OFF transitions broadcast |
-| `lock_gate[]` | per-gate player bitmask; party holds gates |
+| `item_free[]` | dungeon floor-item ownership; grants/denies pickups |
+| `trap_sw[]` | trap switch bits per robid (≤0x400 traps); ON/OFF broadcast |
+| `lock_gate[]` | per-gate player bitmask |
 | `tbox_status[]` | treasure-box open state machine |
-| `dead_list[]` | dead entity flags; DEAD ROBOT marks, CONTINUE clears |
+| `dead_list[]` | dead entity flags (cmd 7 marks, cmd 8 clears) |
 | `client_info[]` | 0xAC-byte blob per player; all READY → GAME START |
 | `cinfo_item(2,3)_result` | per-player item/ping reports aggregated |
 
-### init_response fields
+## Protocol facts
 
-| field(s) | meaning |
-|---|---|
-| `place_name / prefecture` | arcade location (regional matchmaking) |
-| `cherubim_ip` | game server IP to connect to |
-| `match_wait_time` | matching timeout |
-| `dungeon_open_id ×60 / _start_hour ×60 / _end_hour ×60` | dungeon rotation schedule |
-| `vs_local_dungeon_open_* ×60` | local VS dungeon schedule |
-| `ex_dungeon_floor_map / image / boss ×10` | EX dungeon floor tables |
-| `vs_convention_name / rank_bonus / border_limit_job0-3 / border_num_job0-3` | VS tournament config, 4 jobs |
-| `vs_capture_limit, vs_capture_per_{all,guild,local}_{silver,gold}` | VS capture mechanics |
-
-### event_response fields
-
-`n_event_id` · `n_event_status` · `n_event_start_time` · `n_event_end_time` · `n_event_name` · `n_event_dungeon_id` · `n_event_dungeon_seed` · `n_event_rule` · `n_event_item_limit` · `n_event_border_num / limit_main / sub_job0-3` · `n_event_top10_score_main / sub_job0-3` · `n_event_stamp` · `n_event_item_main / sub / sub2`
-
-### Misc
-
-- `GlockFlagManager` dedups flag packets (cmd 28 `GLOCK`).
-- RUDP (reliable) + UDP channels: cmds 31/32 echo, 0x21–0x23 UDP broadcasts.
+- `angelReceiveData` @ `0x289170`: `select` → `recv` 0x380B frames → magic `0xba4766` → `kkAllExchangeHeaderNtoH` → `kkDispatchingPacket`.
+- RUDP (reliable) + UDP channels: cmds 31/32 are echoes; 0x21–0x23 are UDP broadcasts.
 - `GLOCK`/`GIMMICK`/`COMM DATA` = pure room relays.
-- `MONSTER DATA IH` / `MONSTER BOSS IH` = in-house (local-store) monster sync variants.
+- `MONSTER DATA IH`/`MONSTER BOSS IH` = in-house (local-store) monster sync variants.
+- Lobby join call: `FUN_000cf610(cfg, "Project-D", "sega-nw-Dungeon", mode|0x20, …)`
+- Network modes: `net nationwide main|local`, `net guild main|local`, `net Ikebukuro main|local`, `net inhouse main|local` — `inhouse` = in-store LAN co-op.
+- Command registration: `FUN_0006c9c0(-1, 3, "QUEST", 0, 0, 0, &handler)` — name→callback table.
+
+## init_response / event_response keys (selection)
+
+| key(s) | meaning |
+|---|---|
+| `place_name` / `prefecture` | arcade location (regional matchmaking) |
+| `cherubim_ip` | game server IP to connect |
+| `match_wait_time` | matching timeout |
+| `dungeon_open_id` ×60, `_start_hour` ×60, `_end_hour` ×60 | dungeon rotation schedule |
+| `vs_local_dungeon_open_*` ×60 | local VS dungeon schedule |
+| `ex_dungeon_floor_map` / `image` / `boss` ×10 | EX dungeon floor tables |
+| `vs_convention_name` / `rank_bonus` / `border_limit_job0-3` / `border_num_job0-3` | VS tournament config, 4 jobs |
+| `vs_capture_limit`, `vs_capture_per_{all,guild,local}_{silver,gold}` | capture mechanics |
+| `n_event_id` / `status` / `start_time` / `end_time` / `name` | event lifecycle |
+| `n_event_dungeon_id` + `n_event_dungeon_seed` | seeded dungeon generation |
+| `n_event_rule`, `n_event_item_limit` | event rules / item cap |
+| `n_event_border_num` / `limit_main` / `sub_job0-3` | ranking borders |
+| `n_event_top10_score_main` / `sub_job0-3` | top-10 scores |
+| `n_event_stamp`, `n_event_item_main` / `sub` / `sub2` | stamp + reward items |

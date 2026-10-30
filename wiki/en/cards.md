@@ -1,68 +1,84 @@
 [EN](../en/cards.md) | [JA](../ja/cards.md) | [PT-BR](../pt-br/cards.md)
 
-# Cards
+# Cards & the IC-card system
 
-Quest of D uses **three card layers**: the physical **IC save card**, the dispensed **deck card** (physical), and **in-game card items** (every dungeon pickup is a card that goes into the deck).
+> Source: `project_d.xbe` .data table @ `0x65d7a4`–`0x662b24` (`summon`) + client strings / save-field names — reverse engineered
 
-### Reader hardware
+> Extracted data for **Quest of D 4.0 — The Battle Kingdom** (Sega Chihiro, `CDV-10035B`). This page collects the string/symbol evidence for the card hardware and the on-card save data. Physical reader behaviour is evidenced by I/O strings and save structures; individual gameplay semantics are only partially decoded.
 
-| string/symbol | role |
+Quest of D uses **two card layers**: the player's **IC save card** (character data, like other Sega Chihiro/ALL.Net card games) and **dispensed deck cards** — physical cards the machine prints, each representing an in-game item or summoned monster.
+
+## Reader hardware evidence
+
+| string / symbol | role |
 |---|---|
 | `sens_card` | IC card-present sensor |
-| `card_lock` | locks the IC card in the reader |
-| `card_unlock_instant` | instant card eject/unlock |
-| `DFOCECARD_RED_LEFT` | left card slot indicator (red) |
-| `ICCARD_RED_RIGHT` | right card slot indicator (red) |
-| `B_SYSTEM_CARD_DISPLAY` | card-reader display device |
-| `B_SYSTEM_CARD_BUZZER / B_SYSTEM_CARD_BUZZER2` | card-reader buzzers |
-| `DECK READER` | deck-card dispenser/reader unit (test menu) |
-| `DECK READER DOOR OPEN` | deck reader door test command |
+| `card_lock` | locks the IC card inside the reader |
+| `card_unlock_instant` | instant eject/unlock |
+| `DFOCECARD_RED_LEFT` | left card-slot indicator LED (red) |
+| `ICCARD_RED_RIGHT` | right card-slot indicator LED (red) |
+| `DECK READER`, `DECK READER DOOR OPEN` | deck-card unit + door (test menu) |
 | `SEL_DM_VDECK` | virtual deck reader selector |
 
-### IC card lifecycle
+## IC card lifecycle strings (Shift-JIS, from text.bin)
 
-| raw jp string | meaning |
+| raw jp | meaning |
 |---|---|
 | `・新規カード` | new card |
 | `・更新済みのカード` | renewed card |
-| `・使用回数限度のカード` | card at its usage-count limit |
-| `・データが壊れているカード` | card with corrupted data |
-| `フォーマットバージョン違いのカード` | card with a different format version |
-| `リリースバージョン違いのカード` | card from a different release version |
-| `ＱＵＥＳＴ＿ＯＦ＿Ｄ以外のカード` | a non-QUEST_OF_D card |
-| `このカードでの再発行はあと一回までです` | this card can be reissued only once more |
-| `このカードは前回正常終了していません` | this card did not shut down cleanly last time |
+| `・使用回数限度のカード` | card at usage-count limit |
+| `・データが壊れているカード` | corrupted card |
+| `フォーマットバージョン違いのカード` | different format version |
+| `リリースバージョン違いのカード` | different release version |
+| `ＱＵＥＳＴ＿ＯＦ＿Ｄ以外のカード` | not a QUEST_OF_D card |
+| `このカードでの再発行はあと一回までです` | can be reissued only once more |
+| `このカードは前回正常終了していません` | previous session ended abnormally |
 | `再発行専用カードではありません` | not a reissue-only card |
-| `カードが２枚挿入されています` | two cards are inserted |
-| `ＩＣカードに書き込み中です` | writing to the IC card |
-| `デッキカードを排出しました` | a deck card was dispensed |
-| `ＩＣカード，デッキカードの取り忘れにご注意ください` | please do not forget your IC card and deck card |
+| `カードが２枚挿入されています` | two cards inserted |
+| `ＩＣカードに書き込み中です` | writing to IC card |
+| `デッキカードを排出しました` | deck card dispensed |
+| `ＩＣカード，デッキカードの取り忘れにご注意ください` | don't forget IC card & deck card |
 
-Modes shown by the service menus: `＜ＩＣカード挿入モード＞` (insert), `＜カード更新モード＞` (renewal), `ＩＣカード復旧モード` / `＜カード復旧モード＞` (recovery). Cards are protected by a PIN (暗証番号); three consecutive failures lock the card until the next day. One string bans `Ver.2.0` loctest cards from play.
+Service modes visible in menu strings: `＜ＩＣカード挿入モード＞`, `＜カード更新モード＞`, `ＩＣカード復旧モード` / `＜カード復旧モード＞`. Cards are PIN-protected (暗証番号); three consecutive failures lock the card until the next day. One string bans Ver.2.0 location-test cards.
 
-### Save record (per card)
+## Save record (per card)
 
-The save/party loader (`FUN_000de7c0`) reads up to **12 player slots** per card:
+The save/party loader (`FUN_000de7c0`) reads up to **12 player slots** with these field names:
 
-| # | field |
+`player_name` · `job` · `card_id` · `stage_id` · `get_date` · `numof_item` · `item_id` · `item_nm`
+
+Other card-related keys in the binary: `card_id%d`, `card_trade`, `card_trade%d`, `card_reissue_status`, `card_ban_flag`, `card_item_send`, `card_item_receive`, `card_send_gold_amount`, `multi_history_card_id`, `old_card_id`, `rr_card_id` — evidence for card trading, reissue tracking, ban flags, and item/gold transfer between cards.
+
+## Player jobs (card characters)
+
+Four main jobs appear throughout skill/quest/server data:
+
+| job | role |
 |---|---|
-| 1 | `player_name` |
-| 2 | `job` |
-| 3 | `card_id` |
-| 4 | `stage_id` |
-| 5 | `get_date` |
-| 6 | `numof_item` |
-| 7 | `item_id[]` |
-| 8 | `item_nm[]` |
+| `FIGHTER` | melee front-liner |
+| `THIEF` | speed/trap/ranged job |
+| `WIZARD` | offensive caster |
+| `PRIEST` | healer/support caster |
 
-### Card protocol keys
+Internal sub-job / weapon-class codes used in skill, book and server records (`vs_border_limit_job0-3` etc.):
 
-Key-value fields used by the KK "Kage" protocol and the card-trade flow:
+`MA` (monk) · `NI` (ninja) · `KA` `KS` `MA` `NC` `NI` `RA` `RS` `SP` `ST` `YU`/`YZ` (weapon classes — see items) · `BARRIER` (barrier line) · `ALL` (party-wide)
 
-`card_id` · `card_id%d` · `card_trade` · `card_trade%d` · `old_card_id` · `multi_history_card_id` · `card_ban_flag` · `card_reissue_status` · `card_send_item_main` · `card_send_item_sub` · `card_send_item_sub2` · `card_send_gold_amount` · `card_receive_item_main` · `card_receive_item_sub` · `card_receive_item_sub2` · `card_gold_send_counter` · `card_gold_receive_counter` · `card_item_send_counter` · `card_item_receive_counter` · `d_force_card_item_id` · `d_force_card_item_nm` · `CARDRENEW` · `CARDPLAY` · `CARD RETURN` · `NU_CARD_AUTH` · `CLEAR_WITHOUT_CARDITEM`
+## Deck cards as in-game items
 
-Trading: `card_item_send/receive_counter` + `card_gold_send/receive_counter` sequence the main/sub/sub2 item-and-gold exchange. `old_card_id`/`multi_history_card_id` track card renewals (data migrates card→card). `d_force_card_item_*` are debug injection fields.
+Every dungeon pickup is a card. The strongest evidence is the `text.bin`
+summon-card block (~entries 3036–3352): each summonable monster owns a
+`〈name〉を召喚するためのカード` ("card to summon 〈name〉") string — i.e.
+physical deck cards literally carry the summon spell. Equipment records
+`MONST_SUMMON_ARMOR_*` / `MONST_SUMMON_ACCESS_*` show summoned monsters can
+equip items too.
 
-### In-game card items
+`auth2d/card.bin` (also `media/auth2d/card.bin`) is the sprite/atlas
+definition for card faces used by the UI — binary, not yet decoded beyond
+its role as the card-image table.
 
-Evidence in text.bin: `カードウィンドウ` (card window), `カードをデッキに入れたため` (because the card was put in the deck), `デッキカードを排出しました` (a deck card was dispensed). Many item descriptions resolve to `〜を召喚するためのカード` — *card used to summon X*. Summon monsters are distributed as physical deck cards and played from the deck window.
+## Unresolved
+
+- Exact on-card record layout (fields above are names only)
+- Deck-card print/dispense protocol details
+- How `card_trade` / `card_send_gold_amount` were exposed in-game
