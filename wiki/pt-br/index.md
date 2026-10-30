@@ -40,7 +40,7 @@ Notas de engenharia reversa e dados extraídos do jogo **Quest of D 4.0 — The 
 
 ### Páginas
 
-- [Monstros](monsters.md)
+- [Reconstrução de Modelo](model.md)
 - [Itens](items.md)
 - [Habilidades](skills.md)
 - [Cartas](cards.md)

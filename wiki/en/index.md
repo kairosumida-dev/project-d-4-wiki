@@ -40,7 +40,7 @@ Reverse-engineering notes and extracted game data for **Quest of D 4.0 — The B
 
 ### Pages
 
-- [Monsters](monsters.md)
+- [Model Reconstruction](model.md)
 - [Items](items.md)
 - [Skills](skills.md)
 - [Cards](cards.md)

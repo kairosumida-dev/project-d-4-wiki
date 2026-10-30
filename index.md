@@ -1,14 +1,20 @@
 # Project D 4 — Quest of D 4.0 Wiki
 
-Reverse-engineered game database for **Quest of D 4.0** (Sega Chihiro, 2007).
+Reverse-engineered game database + findings for **Quest of D 4.0**
+(Sega Chihiro, 2007) — and a Godot fan recreation in progress.
 
-## Languages / Idiomas / 言語
+## Wiki
 
 - [English](wiki/en/index.md)
 - [日本語](wiki/ja/index.md)
 - [Português (BR)](wiki/pt-br/index.md)
 
----
+## Documentation
 
-Data extracted for documentation purposes. No original game assets
-are redistributed. Fan project — not affiliated with Sega.
+- [FINDINGS.md](FINDINGS.md) — full reverse-engineering ledger
+  (protocol, server daemons, decryption, entity tables)
+
+## Data
+
+All content is extracted from the author's own game disc for
+documentation purposes. No original assets are redistributed.

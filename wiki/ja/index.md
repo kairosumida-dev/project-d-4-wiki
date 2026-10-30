@@ -40,7 +40,7 @@
 
 ### ページ
 
-- [モンスター](monsters.md)
+- [モデル復元](model.md)
 - [アイテム](items.md)
 - [スキル](skills.md)
 - [カード](cards.md)
