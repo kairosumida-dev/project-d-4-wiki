@@ -12,7 +12,7 @@ a faixa de nomes dentro de `text.bin` (nomes intercalados com strings de descri�
 
 - `helm2` (100) e `food2` (21) batem com as faixas de nomes **exatamente** — 1:1.
 - `weapon2` (358) é ordinal contra a faixa de nomes 3359–4298 com **um
-  slot de nome faltando** em `WEAPON2_QI10_SHINKI` (a tabela de texto não tem entrada
+  slot de nome faltando** em <img src="../img/pack_wpn_qi10_bomb.png" width="48"> `WEAPON2_QI10_SHINKI` (a tabela de texto não tem entrada
   entre os vizinhos QI09 `スパークアロー` e QI11 `雷電の矢`).
 - `boots2`, `armor2`, `shield2`, `acces2` foram alinhados por uma passada de
   alinhamento de sequência pontuada por correspondências token de ID ↔ palavra-chave em katakana
@@ -67,265 +67,265 @@ prefixos de habilidade restritos por classe. As leituras das famílias vêm dos 
 | `QI` | 10 | flechas e aljavas (アロー, ファイアーアロー…) |
 
 As linhas `*_D4SUMMON` são o conjunto 「大魔の〜」; as linhas `*_EX` são variantes
-melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
+melhoradas (nomes ＥＸ). <img src="../img/pack_wpn_qi10_bomb.png" width="48"> `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 #### `KA` (40)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_KA01_HANDAXE` | 0x62e124 | ハンドアックス |
-| `WEAPON2_KA02_FRANCISCA` | 0x62e1a4 | フランキスカ |
-| `WEAPON2_KA03_WARAXE` | 0x62e224 | ウォーアックス |
-| `WEAPON2_KA04_BATTLEAXE` | 0x62e2a4 | バトルアックス |
-| `WEAPON2_KA05_GOLDAXE` | 0x62e324 | ゴールドアックス |
-| `WEAPON2_KA06_SHIELDAXE` | 0x62e3a4 | シールドアックス |
-| `WEAPON2_KA07_TRISTRAM` | 0x62e424 | ウェルテクス |
+| <img src="../img/pack_wpn_ka01_handaxe.png" width="48"> `WEAPON2_KA01_HANDAXE` | 0x62e124 | ハンドアックス |
+| <img src="../img/pack_wpn_ka02_francisca.png" width="48"> `WEAPON2_KA02_FRANCISCA` | 0x62e1a4 | フランキスカ |
+| <img src="../img/pack_wpn_ka03_waraxe.png" width="48"> `WEAPON2_KA03_WARAXE` | 0x62e224 | ウォーアックス |
+| <img src="../img/pack_wpn_ka04_battleaxe.png" width="48"> `WEAPON2_KA04_BATTLEAXE` | 0x62e2a4 | バトルアックス |
+| <img src="../img/pack_wpn_ka05_goldaxe.png" width="48"> `WEAPON2_KA05_GOLDAXE` | 0x62e324 | ゴールドアックス |
+| <img src="../img/pack_wpn_ka06_shieldaxe.png" width="48"> `WEAPON2_KA06_SHIELDAXE` | 0x62e3a4 | シールドアックス |
+| <img src="../img/pack_wpn_ka07_tristram.png" width="48"> `WEAPON2_KA07_TRISTRAM` | 0x62e424 | ウェルテクス |
 | `WEAPON2_KA08_WARAXE` | 0x62e4a4 | ★ウォーアックス |
-| `WEAPON2_KA09_SILVERAXE` | 0x62e524 | シルバーアックス |
-| `WEAPON2_KA10_EGRET` | 0x62e5a4 | イーグレット |
-| `WEAPON2_KA11_ORC` | 0x62e624 | 邪鬼の斧 |
-| `WEAPON2_KA12_ORC_F` | 0x62e6a4 | 邪鬼の炎斧 |
-| `WEAPON2_KA13_ORC_I` | 0x62e724 | 邪鬼の氷斧 |
-| `WEAPON2_KA14_ORC_T` | 0x62e7a4 | 邪鬼の雷斧 |
-| `WEAPON2_KA15_MINOTAUR` | 0x62e824 | 牛人の斧 |
-| `WEAPON2_KA16_MINOTAUR_S` | 0x62e8a4 | 牛人兵の斧 |
-| `WEAPON2_KA17_ROBBER` | 0x62e924 | 山賊の斧 |
-| `WEAPON2_KA18_CRESCENT` | 0x62e9a4 | クレセントアックス |
-| `WEAPON2_KA19_TAMECHAN2` | 0x62ea24 | スパイクアックス |
-| `WEAPON2_KA20_DEMONCHOPPER` | 0x62eaa4 | ブラックハチェット |
-| `WEAPON2_KA21_LILAC` | 0x62eb24 | サイレントアックス |
-| `WEAPON2_KA22_ARMOREDFROG` | 0x62eba4 | 蛙の斧 |
-| `WEAPON2_KA23_GIANTSTONE` | 0x62ec24 | 岩石巨人の斧 |
-| `WEAPON2_KA24_MUGGER` | 0x62eca4 | 悪漢の斧 |
-| `WEAPON2_KA25_HORIHORI` | 0x62ed24 | トライブアックス |
-| `WEAPON2_KA26_CRIMSON` | 0x62eda4 | クリムゾンライン |
+| <img src="../img/pack_wpn_ka09_silveraxe.png" width="48"> `WEAPON2_KA09_SILVERAXE` | 0x62e524 | シルバーアックス |
+| <img src="../img/pack_wpn_ka10_handaxe.png" width="48"> `WEAPON2_KA10_EGRET` | 0x62e5a4 | イーグレット |
+| <img src="../img/pack_wpn_ka11_orc.png" width="48"> `WEAPON2_KA11_ORC` | 0x62e624 | 邪鬼の斧 |
+| <img src="../img/pack_wpn_ka12_orcf.png" width="48"> `WEAPON2_KA12_ORC_F` | 0x62e6a4 | 邪鬼の炎斧 |
+| <img src="../img/pack_wpn_ka13_orci.png" width="48"> `WEAPON2_KA13_ORC_I` | 0x62e724 | 邪鬼の氷斧 |
+| <img src="../img/pack_wpn_ka14_orct.png" width="48"> `WEAPON2_KA14_ORC_T` | 0x62e7a4 | 邪鬼の雷斧 |
+| <img src="../img/pack_wpn_ka15_mino.png" width="48"> `WEAPON2_KA15_MINOTAUR` | 0x62e824 | 牛人の斧 |
+| <img src="../img/pack_wpn_ka16_minoserjent.png" width="48"> `WEAPON2_KA16_MINOTAUR_S` | 0x62e8a4 | 牛人兵の斧 |
+| <img src="../img/pack_wpn_ka17_robber.png" width="48"> `WEAPON2_KA17_ROBBER` | 0x62e924 | 山賊の斧 |
+| <img src="../img/pack_wpn_ka18_bladeaxe.png" width="48"> `WEAPON2_KA18_CRESCENT` | 0x62e9a4 | クレセントアックス |
+| <img src="../img/pack_wpn_ka19_stoneaxe.png" width="48"> `WEAPON2_KA19_TAMECHAN2` | 0x62ea24 | スパイクアックス |
+| <img src="../img/pack_wpn_ka20_demonchopper.png" width="48"> `WEAPON2_KA20_DEMONCHOPPER` | 0x62eaa4 | ブラックハチェット |
+| <img src="../img/pack_wpn_ka21_lilacaxe.png" width="48"> `WEAPON2_KA21_LILAC` | 0x62eb24 | サイレントアックス |
+| <img src="../img/pack_wpn_ka22_armfroaxe.png" width="48"> `WEAPON2_KA22_ARMOREDFROG` | 0x62eba4 | 蛙の斧 |
+| <img src="../img/pack_wpn_ka23_stngigantaxe.png" width="48"> `WEAPON2_KA23_GIANTSTONE` | 0x62ec24 | 岩石巨人の斧 |
+| <img src="../img/pack_wpn_ka24_magar.png" width="48"> `WEAPON2_KA24_MUGGER` | 0x62eca4 | 悪漢の斧 |
+| <img src="../img/pack_wpn_ka25_bentaxe.png" width="48"> `WEAPON2_KA25_HORIHORI` | 0x62ed24 | トライブアックス |
+| <img src="../img/pack_wpn_ka26_plateaxe.png" width="48"> `WEAPON2_KA26_CRIMSON` | 0x62eda4 | クリムゾンライン |
 | `WEAPON2_KA27_BATTLE` | 0x62ee24 | ★バトルアックス |
 | `WEAPON2_KA28_SHIELD` | 0x62eea4 | ★シールドアックス |
 | `WEAPON2_KA29_FRANCISCA` | 0x62ef24 | ★フランキスカ |
 | `WEAPON2_KA30_HORIHORI` | 0x62efa4 | ★トライブアックス |
-| `WEAPON2_KA31_MACHINE_GOLD` | 0x62f024 | 黄金機兵の斧 |
-| `WEAPON2_KA32_HEVY_GUARD` | 0x62f0a4 | 重装兵の斧 |
-| `WEAPON2_KA33_D4SHINKI1` | 0x62f124 | ヘルクリムゾン |
-| `WEAPON2_KA34_BARBARIAN` | 0x62f1a4 | バルバロスアックス |
-| `WEAPON2_KA35_D4SHINKI2` | 0x62f224 | バロックアックス |
-| `WEAPON2_KA36_SUNLIGHT` | 0x62f2a4 | サンライトアックス |
+| <img src="../img/pack_wpn_ka31_metalgold.png" width="48"> `WEAPON2_KA31_MACHINE_GOLD` | 0x62f024 | 黄金機兵の斧 |
+| <img src="../img/pack_wpn_ka32_hevy.png" width="48"> `WEAPON2_KA32_HEVY_GUARD` | 0x62f0a4 | 重装兵の斧 |
+| <img src="../img/pack_wpn_ka33_burstaxe.png" width="48"> `WEAPON2_KA33_D4SHINKI1` | 0x62f124 | ヘルクリムゾン |
+| <img src="../img/pack_wpn_ka34_barbarian.png" width="48"> `WEAPON2_KA34_BARBARIAN` | 0x62f1a4 | バルバロスアックス |
+| <img src="../img/pack_wpn_ka35_pastel.png" width="48"> `WEAPON2_KA35_D4SHINKI2` | 0x62f224 | バロックアックス |
+| <img src="../img/pack_wpn_ka36_sunlight.png" width="48"> `WEAPON2_KA36_SUNLIGHT` | 0x62f2a4 | サンライトアックス |
 | `WEAPON2_KA37_MOONLIGHT` | 0x62f324 | ムーンライトアックス |
 | `WEAPON2_KA38_GLADIATOR` | 0x62f3a4 | カタストロフィー |
 | `WEAPON2_KA39_D4SUMMON` | 0x62f424 | 大魔の斧 |
-| `WEAPON2_KA40_TRISTRAM_EX` | 0x62f4a4 | ウェルテクスＥＸ |
+| <img src="../img/pack_wpn_ka40_tristram2.png" width="48"> `WEAPON2_KA40_TRISTRAM_EX` | 0x62f4a4 | ウェルテクスＥＸ |
 
 #### `KS` (57)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_KS01_SHORTSWORD` | 0x62f524 | ショートソード |
-| `WEAPON2_KS02_RAPIER` | 0x62f5a4 | レイピア |
-| `WEAPON2_KS03_LONGSWORD` | 0x62f624 | ロングソード |
-| `WEAPON2_KS04_VIKINGSWORD` | 0x62f6a4 | ヴァイキングソード |
-| `WEAPON2_KS05_FALCHION` | 0x62f724 | ファルシオン |
-| `WEAPON2_KS06_GLADIUS` | 0x62f7a4 | グラディウス |
-| `WEAPON2_KS07_MITHRILBLADE` | 0x62f824 | ミスリルソード |
-| `WEAPON2_KS08_MAGICSWORD` | 0x62f8a4 | マジックソード |
-| `WEAPON2_KS09_EXCALIBUR` | 0x62f924 | エクスカリバー |
-| `WEAPON2_KS10_FAKESWORD` | 0x62f9a4 | フェイクソード |
-| `WEAPON2_KS11_BOLG` | 0x62fa24 | アンサラー |
-| `WEAPON2_KS12_WHITESWORD` | 0x62faa4 | デモンズソード |
-| `WEAPON2_KS13_BLACKSWORD` | 0x62fb24 | グレートソード |
-| `WEAPON2_KS14_KNIGHTSWORD` | 0x62fba4 | ナイトソード |
+| <img src="../img/pack_wpn_ks01_shortsword.png" width="48"> `WEAPON2_KS01_SHORTSWORD` | 0x62f524 | ショートソード |
+| <img src="../img/pack_wpn_ks02_rapier.png" width="48"> `WEAPON2_KS02_RAPIER` | 0x62f5a4 | レイピア |
+| <img src="../img/pack_wpn_ks03_longsword.png" width="48"> `WEAPON2_KS03_LONGSWORD` | 0x62f624 | ロングソード |
+| <img src="../img/pack_wpn_ks04_vikingsword.png" width="48"> `WEAPON2_KS04_VIKINGSWORD` | 0x62f6a4 | ヴァイキングソード |
+| <img src="../img/pack_wpn_ks05_falchion.png" width="48"> `WEAPON2_KS05_FALCHION` | 0x62f724 | ファルシオン |
+| <img src="../img/pack_wpn_ks06_gradius.png" width="48"> `WEAPON2_KS06_GLADIUS` | 0x62f7a4 | グラディウス |
+| <img src="../img/pack_wpn_ks07_mythrilblade.png" width="48"> `WEAPON2_KS07_MITHRILBLADE` | 0x62f824 | ミスリルソード |
+| <img src="../img/pack_wpn_ks08_magicsword.png" width="48"> `WEAPON2_KS08_MAGICSWORD` | 0x62f8a4 | マジックソード |
+| <img src="../img/pack_wpn_ks09_excalibur.png" width="48"> `WEAPON2_KS09_EXCALIBUR` | 0x62f924 | エクスカリバー |
+| <img src="../img/pack_wpn_ks10_fakesword.png" width="48"> `WEAPON2_KS10_FAKESWORD` | 0x62f9a4 | フェイクソード |
+| <img src="../img/pack_wpn_ks11_gaibolga.png" width="48"> `WEAPON2_KS11_BOLG` | 0x62fa24 | アンサラー |
+| <img src="../img/pack_wpn_ks12_whitesword.png" width="48"> `WEAPON2_KS12_WHITESWORD` | 0x62faa4 | デモンズソード |
+| <img src="../img/pack_wpn_ks13_blacksword.png" width="48"> `WEAPON2_KS13_BLACKSWORD` | 0x62fb24 | グレートソード |
+| <img src="../img/pack_wpn_ks14_knightsword.png" width="48"> `WEAPON2_KS14_KNIGHTSWORD` | 0x62fba4 | ナイトソード |
 | `WEAPON2_KS15_LONGSWORD` | 0x62fc24 | ★ロングソード |
 | `WEAPON2_KS16_FALCHION` | 0x62fca4 | ★ファルシオン |
-| `WEAPON2_KS17_CULANNSWORD` | 0x62fd24 | クランのショートソード |
-| `WEAPON2_KS18_VIPERFUNG` | 0x62fda4 | バイパーファング |
-| `WEAPON2_KS19_ROYAL` | 0x62fe24 | ホーリーソード |
-| `WEAPON2_KS20_SKELETON` | 0x62fea4 | 骸骨の剣 |
-| `WEAPON2_KS21_SKELETON_F` | 0x62ff24 | 骸骨の炎剣 |
-| `WEAPON2_KS22_SKELETON_I` | 0x62ffa4 | 骸骨の氷剣 |
-| `WEAPON2_KS23_SKELETON_T` | 0x630024 | 骸骨の雷剣 |
-| `WEAPON2_KS24_LIZARDMAN` | 0x6300a4 | 蜥蜴の剣 |
-| `WEAPON2_KS25_LIZARDNAN_G` | 0x630124 | 蜥蜴護衛兵の剣 |
-| `WEAPON2_KS26_GOBLIN_F` | 0x6301a4 | 小鬼の剣 |
-| `WEAPON2_KS27_GOBLIN_L` | 0x630224 | 小鬼君主の剣 |
-| `WEAPON2_KS28_KOBOLD_W` | 0x6302a4 | 犬頭鬼の剣 |
-| `WEAPON2_KS29_SAPPHIRE` | 0x630324 | サファイアエッジ |
-| `WEAPON2_KS30_BLOODY` | 0x6303a4 | ブラッディスパイン |
-| `WEAPON2_KS31_SHAMSHIR` | 0x630424 | シャムシール |
-| `WEAPON2_KS32_DIVIDER` | 0x6304a4 | ディバイドソード |
-| `WEAPON2_KS33_WING` | 0x630524 | ウィングソード |
-| `WEAPON2_KS34_GUARDIANFROG` | 0x6305a4 | 蛙護衛兵の剣 |
-| `WEAPON2_KS35_ARMOREDFROGKING` | 0x630624 | 蛙王の剣 |
-| `WEAPON2_KS36_GIANTFIRE` | 0x6306a4 | 炎巨人の剣 |
-| `WEAPON2_KS37_GIANTICE` | 0x630724 | 氷巨人の剣 |
-| `WEAPON2_KS38_SHINOBI` | 0x6307a4 | 忍の刀 |
-| `WEAPON2_KS39_SEIRYUTOU` | 0x630824 | 青龍刀 |
-| `WEAPON2_KS40_DRAGONSLAYER` | 0x6308a4 | ドラゴンソード |
+| <img src="../img/pack_wpn_ks17_culannsword.png" width="48"> `WEAPON2_KS17_CULANNSWORD` | 0x62fd24 | クランのショートソード |
+| <img src="../img/pack_wpn_ks18_gradius.png" width="48"> `WEAPON2_KS18_VIPERFUNG` | 0x62fda4 | バイパーファング |
+| <img src="../img/pack_wpn_ks19_holysword.png" width="48"> `WEAPON2_KS19_ROYAL` | 0x62fe24 | ホーリーソード |
+| <img src="../img/pack_wpn_ks20_skeltonsword.png" width="48"> `WEAPON2_KS20_SKELETON` | 0x62fea4 | 骸骨の剣 |
+| <img src="../img/pack_wpn_ks21_skeltonsword_f.png" width="48"> `WEAPON2_KS21_SKELETON_F` | 0x62ff24 | 骸骨の炎剣 |
+| <img src="../img/pack_wpn_ks22_skeltonsword_i.png" width="48"> `WEAPON2_KS22_SKELETON_I` | 0x62ffa4 | 骸骨の氷剣 |
+| <img src="../img/pack_wpn_ks23_skeltonsword_t.png" width="48"> `WEAPON2_KS23_SKELETON_T` | 0x630024 | 骸骨の雷剣 |
+| <img src="../img/pack_wpn_ks24_lizardmansword.png" width="48"> `WEAPON2_KS24_LIZARDMAN` | 0x6300a4 | 蜥蜴の剣 |
+| <img src="../img/pack_wpn_ks25_gurdianlizardsword.png" width="48"> `WEAPON2_KS25_LIZARDNAN_G` | 0x630124 | 蜥蜴護衛兵の剣 |
+| <img src="../img/pack_wpn_ks26_goblinfighter.png" width="48"> `WEAPON2_KS26_GOBLIN_F` | 0x6301a4 | 小鬼の剣 |
+| <img src="../img/pack_wpn_ks27_goblinsword.png" width="48"> `WEAPON2_KS27_GOBLIN_L` | 0x630224 | 小鬼君主の剣 |
+| <img src="../img/pack_wpn_ks28_coboldsword.png" width="48"> `WEAPON2_KS28_KOBOLD_W` | 0x6302a4 | 犬頭鬼の剣 |
+| <img src="../img/pack_wpn_ks29_greensword.png" width="48"> `WEAPON2_KS29_SAPPHIRE` | 0x630324 | サファイアエッジ |
+| <img src="../img/pack_wpn_ks30_bloodyspine.png" width="48"> `WEAPON2_KS30_BLOODY` | 0x6303a4 | ブラッディスパイン |
+| <img src="../img/pack_wpn_ks31_shamshir.png" width="48"> `WEAPON2_KS31_SHAMSHIR` | 0x630424 | シャムシール |
+| <img src="../img/pack_wpn_ks32_divider.png" width="48"> `WEAPON2_KS32_DIVIDER` | 0x6304a4 | ディバイドソード |
+| <img src="../img/pack_wpn_ks33_wingsword.png" width="48"> `WEAPON2_KS33_WING` | 0x630524 | ウィングソード |
+| <img src="../img/pack_wpn_ks34_frogsword.png" width="48"> `WEAPON2_KS34_GUARDIANFROG` | 0x6305a4 | 蛙護衛兵の剣 |
+| <img src="../img/pack_wpn_ks35_armfrokin.png" width="48"> `WEAPON2_KS35_ARMOREDFROGKING` | 0x630624 | 蛙王の剣 |
+| <img src="../img/pack_wpn_ks36_firegigantsword.png" width="48"> `WEAPON2_KS36_GIANTFIRE` | 0x6306a4 | 炎巨人の剣 |
+| <img src="../img/pack_wpn_ks37_icegigantsword.png" width="48"> `WEAPON2_KS37_GIANTICE` | 0x630724 | 氷巨人の剣 |
+| <img src="../img/pack_wpn_ks38_shinobisword.png" width="48"> `WEAPON2_KS38_SHINOBI` | 0x6307a4 | 忍の刀 |
+| <img src="../img/pack_wpn_ks39_chnsword.png" width="48"> `WEAPON2_KS39_SEIRYUTOU` | 0x630824 | 青龍刀 |
+| <img src="../img/pack_wpn_ks40_dragonsword.png" width="48"> `WEAPON2_KS40_DRAGONSLAYER` | 0x6308a4 | ドラゴンソード |
 | `WEAPON2_KS41_RAPIER` | 0x630924 | ★レイピア |
 | `WEAPON2_KS42` | 0x6309a4 | ★ヴァイキングソード |
-| `WEAPON2_KS43_GLADIUS` | 0x630a24 | ★グラディウス |
+| <img src="../img/pack_wpn_ks43_dragonsword.png" width="48"> `WEAPON2_KS43_GLADIUS` | 0x630a24 | ★グラディウス |
 | `WEAPON2_KS44_SHAMSHIR` | 0x630aa4 | ★シャムシール |
 | `WEAPON2_KS45_SEIRYUTOU` | 0x630b24 | ★青龍刀 |
-| `WEAPON2_KS46_MACHINE` | 0x630ba4 | 機兵の剣 |
-| `WEAPON2_KS47_MACHINE_DARK` | 0x630c24 | 暗黒機兵の剣 |
-| `WEAPON2_KS48_DUBIOUS` | 0x630ca4 | 怪人の剣 |
-| `WEAPON2_KS49_MASTERRAPIER` | 0x630d24 | マスターレイピア |
-| `WEAPON2_KS50_TRIBE` | 0x630da4 | トライブエッジ |
-| `WEAPON2_KS51_D4SHINKI2` | 0x630e24 | グラディエーター |
-| `WEAPON2_KS52_BRINGER_R` | 0x630ea4 | ライトブリンガー |
-| `WEAPON2_KS53_BRINGER_L` | 0x630f24 | シャドウブリンガー |
-| `WEAPON2_KS54_RAGNAROK` | 0x630fa4 | アロンダイト |
-| `WEAPON2_KS55_PIRATE` | 0x631024 | 海賊の剣 |
+| <img src="../img/pack_wpn_ks46_metal.png" width="48"> `WEAPON2_KS46_MACHINE` | 0x630ba4 | 機兵の剣 |
+| <img src="../img/pack_wpn_ks47_metaldark.png" width="48"> `WEAPON2_KS47_MACHINE_DARK` | 0x630c24 | 暗黒機兵の剣 |
+| <img src="../img/pack_wpn_ks48_devias.png" width="48"> `WEAPON2_KS48_DUBIOUS` | 0x630ca4 | 怪人の剣 |
+| <img src="../img/pack_wpn_ks49_rapierjyoui.png" width="48"> `WEAPON2_KS49_MASTERRAPIER` | 0x630d24 | マスターレイピア |
+| <img src="../img/pack_wpn_ks50_orenge.png" width="48"> `WEAPON2_KS50_TRIBE` | 0x630da4 | トライブエッジ |
+| <img src="../img/pack_wpn_ks51_death.png" width="48"> `WEAPON2_KS51_D4SHINKI2` | 0x630e24 | グラディエーター |
+| <img src="../img/pack_wpn_ks52_right.png" width="48"> `WEAPON2_KS52_BRINGER_R` | 0x630ea4 | ライトブリンガー |
+| <img src="../img/pack_wpn_ks53_left.png" width="48"> `WEAPON2_KS53_BRINGER_L` | 0x630f24 | シャドウブリンガー |
+| <img src="../img/pack_wpn_ks54_aron.png" width="48"> `WEAPON2_KS54_RAGNAROK` | 0x630fa4 | アロンダイト |
+| <img src="../img/pack_wpn_ks55_shorty.png" width="48"> `WEAPON2_KS55_PIRATE` | 0x631024 | 海賊の剣 |
 | `WEAPON2_KS56_D4SUMMON` | 0x6310a4 | 大魔の剣 |
-| `WEAPON2_KS57_BOLG_EX` | 0x631124 | アンサラーＥＸ |
+| <img src="../img/pack_wpn_ks57_gaibolga2.png" width="48"> `WEAPON2_KS57_BOLG_EX` | 0x631124 | アンサラーＥＸ |
 
 #### `MA` (30)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_MA01_CLUB` | 0x6311a4 | クラブ |
-| `WEAPON2_MA02_MACE` | 0x631224 | メイス |
-| `WEAPON2_MA03_WARHAMMER` | 0x6312a4 | ウォーハンマー |
-| `WEAPON2_MA04_MORNINGSTAR` | 0x631324 | モーニングスター |
-| `WEAPON2_MA05_MITHRILHAMMER` | 0x6313a4 | ミスリルハンマー |
-| `WEAPON2_MA06_FAYHAMMER` | 0x631424 | ペルグランデ |
-| `WEAPON2_MA07_MJOLLNIR` | 0x6314a4 | ノームハンマー |
+| <img src="../img/pack_wpn_ma01_club.png" width="48"> `WEAPON2_MA01_CLUB` | 0x6311a4 | クラブ |
+| <img src="../img/pack_wpn_ma02_mace.png" width="48"> `WEAPON2_MA02_MACE` | 0x631224 | メイス |
+| <img src="../img/pack_wpn_ma03_warhammer.png" width="48"> `WEAPON2_MA03_WARHAMMER` | 0x6312a4 | ウォーハンマー |
+| <img src="../img/pack_wpn_ma04_morningstar.png" width="48"> `WEAPON2_MA04_MORNINGSTAR` | 0x631324 | モーニングスター |
+| <img src="../img/pack_wpn_ma05_mythrilhammer.png" width="48"> `WEAPON2_MA05_MITHRILHAMMER` | 0x6313a4 | ミスリルハンマー |
+| <img src="../img/pack_wpn_ma06_fayhammer.png" width="48"> `WEAPON2_MA06_FAYHAMMER` | 0x631424 | ペルグランデ |
+| <img src="../img/pack_wpn_ma07_mjolnir.png" width="48"> `WEAPON2_MA07_MJOLLNIR` | 0x6314a4 | ノームハンマー |
 | `WEAPON2_MA08_MACE` | 0x631524 | ★メイス |
-| `WEAPON2_MA09_HOLYMACE` | 0x6315a4 | ホーリーメイス |
-| `WEAPON2_MA10_OAKCLUB` | 0x631624 | 樫のクラブ |
-| `WEAPON2_MA11_WARHAMMER_EX` | 0x6316a4 | ブライトハンマー |
-| `WEAPON2_MA12_GOBLIN_H` | 0x631724 | 小鬼の棍棒 |
-| `WEAPON2_MA13_KOBOLD` | 0x6317a4 | 犬頭鬼の棍棒 |
-| `WEAPON2_MA14_TROLL` | 0x631824 | 巨人の棍棒 |
-| `WEAPON2_MA15_TAMECHAN1` | 0x6318a4 | スクエアメイス |
-| `WEAPON2_MA16_STRIKE` | 0x631924 | スマッシュハンマー |
-| `WEAPON2_MA17_TIREI` | 0x6319a4 | クェイクハンマー |
-| `WEAPON2_MA18_HORIHORI` | 0x631a24 | ジャッジハンマー |
-| `WEAPON2_MA19_SHIMENKI` | 0x631aa4 | 鬼面の大槌 |
+| <img src="../img/pack_wpn_ma09_holymace.png" width="48"> `WEAPON2_MA09_HOLYMACE` | 0x6315a4 | ホーリーメイス |
+| <img src="../img/pack_wpn_ma10_oakclub.png" width="48"> `WEAPON2_MA10_OAKCLUB` | 0x631624 | 樫のクラブ |
+| <img src="../img/pack_wpn_ma11_warhammer.png" width="48"> `WEAPON2_MA11_WARHAMMER_EX` | 0x6316a4 | ブライトハンマー |
+| <img src="../img/pack_wpn_ma12_hobgob.png" width="48"> `WEAPON2_MA12_GOBLIN_H` | 0x631724 | 小鬼の棍棒 |
+| <img src="../img/pack_wpn_ma13_kobolt.png" width="48"> `WEAPON2_MA13_KOBOLD` | 0x6317a4 | 犬頭鬼の棍棒 |
+| <img src="../img/pack_wpn_ma14_trol.png" width="48"> `WEAPON2_MA14_TROLL` | 0x631824 | 巨人の棍棒 |
+| <img src="../img/pack_wpn_ma15_squaremace.png" width="48"> `WEAPON2_MA15_TAMECHAN1` | 0x6318a4 | スクエアメイス |
+| <img src="../img/pack_wpn_ma16_headcrusher.png" width="48"> `WEAPON2_MA16_STRIKE` | 0x631924 | スマッシュハンマー |
+| <img src="../img/pack_wpn_ma17_gnomehammer.png" width="48"> `WEAPON2_MA17_TIREI` | 0x6319a4 | クェイクハンマー |
+| <img src="../img/pack_wpn_ma18_stone.png" width="48"> `WEAPON2_MA18_HORIHORI` | 0x631a24 | ジャッジハンマー |
+| <img src="../img/pack_wpn_ma19_yonmenki.png" width="48"> `WEAPON2_MA19_SHIMENKI` | 0x631aa4 | 鬼面の大槌 |
 | `WEAPON2_MA20_WARHAMMER` | 0x631b24 | ★ウォーハンマー |
-| `WEAPON2_MA21_SHINKI` | 0x631ba4 | ストリクトメイス |
+| <img src="../img/pack_wpn_ma21_sikyo.png" width="48"> `WEAPON2_MA21_SHINKI` | 0x631ba4 | ストリクトメイス |
 | `WEAPON2_MA22_WARHAMMER_EX` | 0x631c24 | ★ブライトハンマー |
 | `WEAPON2_MA23_HORIHORI` | 0x631ca4 | ★ジャッジハンマー |
-| `WEAPON2_MA24_JADE` | 0x631d24 | 翡翠の大槌 |
-| `WEAPON2_MA25_D4SHINKI1` | 0x631da4 | レオパルドハンマー |
-| `WEAPON2_MA26_D4SHINKI2` | 0x631e24 | タイニーワンド |
-| `WEAPON2_MA27_D4SHINKI3` | 0x631ea4 | ブリガンティア |
-| `WEAPON2_MA28_PIKOHAMMER` | 0x631f24 | 錘 |
+| <img src="../img/pack_wpn_ma24_hisui.png" width="48"> `WEAPON2_MA24_JADE` | 0x631d24 | 翡翠の大槌 |
+| <img src="../img/pack_wpn_ma25_konbo.png" width="48"> `WEAPON2_MA25_D4SHINKI1` | 0x631da4 | レオパルドハンマー |
+| <img src="../img/pack_wpn_ma26_mahou.png" width="48"> `WEAPON2_MA26_D4SHINKI2` | 0x631e24 | タイニーワンド |
+| <img src="../img/pack_wpn_ma27_brigantia.png" width="48"> `WEAPON2_MA27_D4SHINKI3` | 0x631ea4 | ブリガンティア |
+| <img src="../img/pack_wpn_ma28_bonbon.png" width="48"> `WEAPON2_MA28_PIKOHAMMER` | 0x631f24 | 錘 |
 | `WEAPON2_MA29_D4SUMMON` | 0x631fa4 | 大魔の棍棒 |
-| `WEAPON2_MA30_FAYHAMMER_EX` | 0x632024 | ペルグランデＥＸ |
+| <img src="../img/pack_wpn_ma30_fayhammer2.png" width="48"> `WEAPON2_MA30_FAYHAMMER_EX` | 0x632024 | ペルグランデＥＸ |
 
 #### `NC` (20)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_NC01_WAKKY` | 0x6320a4 | ウッドグローブ |
-| `WEAPON2_NC02_TAMECHAN` | 0x632124 | トライネイル |
-| `WEAPON2_NC03_MASSU` | 0x6321a4 | アイアンスパイク |
-| `WEAPON2_NC04_WAKKY2` | 0x632224 | クランチフィスト |
-| `WEAPON2_NC05_THRUST` | 0x6322a4 | スラストナックル |
-| `WEAPON2_NC06_BLADE` | 0x632324 | ブレイドナックル |
-| `WEAPON2_NC07_TETSUTUME` | 0x6323a4 | アサシンネイル |
-| `WEAPON2_NC08_SHINKI` | 0x632424 | ピアスグローブ |
+| <img src="../img/pack_wpn_nc01_woodglove.png" width="48"> `WEAPON2_NC01_WAKKY` | 0x6320a4 | ウッドグローブ |
+| <img src="../img/pack_wpn_nc02_clawnuckle.png" width="48"> `WEAPON2_NC02_TAMECHAN` | 0x632124 | トライネイル |
+| <img src="../img/pack_wpn_nc03_spikeglove.png" width="48"> `WEAPON2_NC03_MASSU` | 0x6321a4 | アイアンスパイク |
+| <img src="../img/pack_wpn_nc04_beastfang.png" width="48"> `WEAPON2_NC04_WAKKY2` | 0x632224 | クランチフィスト |
+| <img src="../img/pack_wpn_nc05_hornnuckle.png" width="48"> `WEAPON2_NC05_THRUST` | 0x6322a4 | スラストナックル |
+| <img src="../img/pack_wpn_nc06_bladeglove.png" width="48"> `WEAPON2_NC06_BLADE` | 0x632324 | ブレイドナックル |
+| <img src="../img/pack_wpn_nc07_tessou.png" width="48"> `WEAPON2_NC07_TETSUTUME` | 0x6323a4 | アサシンネイル |
+| <img src="../img/pack_wpn_nc08_knuckle.png" width="48"> `WEAPON2_NC08_SHINKI` | 0x632424 | ピアスグローブ |
 | `WEAPON2_NC09_WAKKY` | 0x6324a4 | ★ウッドグローブ |
 | `WEAPON2_NC10_MASSU` | 0x632524 | ★アイアンスパイク |
-| `WEAPON2_NC11_FLAME` | 0x6325a4 | フレイムナックル |
+| <img src="../img/pack_wpn_nc11_flameknuckle.png" width="48"> `WEAPON2_NC11_FLAME` | 0x6325a4 | フレイムナックル |
 | `WEAPON2_NC12_TAMECHAN` | 0x632624 | ★トライネイル |
-| `WEAPON2_NC13_BEAST` | 0x6326a4 | 猛獣の爪 |
-| `WEAPON2_NC14_KAISER` | 0x632724 | カイザーナックル |
+| <img src="../img/pack_wpn_nc13_fomor.png" width="48"> `WEAPON2_NC13_BEAST` | 0x6326a4 | 猛獣の爪 |
+| <img src="../img/pack_wpn_nc14_kaisernuckle.png" width="48"> `WEAPON2_NC14_KAISER` | 0x632724 | カイザーナックル |
 | `WEAPON2_NC15_MONK` | 0x6327a4 | 拳聖の手甲 |
-| `WEAPON2_NC16_D4SHINKI` | 0x632824 | ベインナックル |
-| `WEAPON2_NC17_SONIC` | 0x6328a4 | ソニックナックル |
-| `WEAPON2_NC18_GODHAND` | 0x632924 | ゴッドハンド |
-| `WEAPON2_NC19_GHOUL` | 0x6329a4 | 食屍鬼の手甲 |
+| <img src="../img/pack_wpn_nc16_flap.png" width="48"> `WEAPON2_NC16_D4SHINKI` | 0x632824 | ベインナックル |
+| <img src="../img/pack_wpn_nc17_rise.png" width="48"> `WEAPON2_NC17_SONIC` | 0x6328a4 | ソニックナックル |
+| <img src="../img/pack_wpn_nc18_god.png" width="48"> `WEAPON2_NC18_GODHAND` | 0x632924 | ゴッドハンド |
+| <img src="../img/pack_wpn_nc19_terror.png" width="48"> `WEAPON2_NC19_GHOUL` | 0x6329a4 | 食屍鬼の手甲 |
 | `WEAPON2_NC20_D4SUMMON` | 0x632a24 | 大魔の爪 |
 
 #### `NI` (35)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_NI01_DAGGER` | 0x632aa4 | ダガー |
-| `WEAPON2_NI02_DIRK` | 0x632b24 | ダーク |
-| `WEAPON2_NI03_POISONDAGGER` | 0x632ba4 | ポイズンダガー |
-| `WEAPON2_NI04_SWORDBRAKER` | 0x632c24 | ソードブレイカー |
-| `WEAPON2_NI05_KOTETSU` | 0x632ca4 | 古鉄 |
-| `WEAPON2_NI06_GALESDAGGER` | 0x632d24 | グラキエース |
+| <img src="../img/pack_wpn_ni01_dagger.png" width="48"> `WEAPON2_NI01_DAGGER` | 0x632aa4 | ダガー |
+| <img src="../img/pack_wpn_ni02_dirk.png" width="48"> `WEAPON2_NI02_DIRK` | 0x632b24 | ダーク |
+| <img src="../img/pack_wpn_ni03_poisondagger.png" width="48"> `WEAPON2_NI03_POISONDAGGER` | 0x632ba4 | ポイズンダガー |
+| <img src="../img/pack_wpn_ni04_swordbraker.png" width="48"> `WEAPON2_NI04_SWORDBRAKER` | 0x632c24 | ソードブレイカー |
+| <img src="../img/pack_wpn_ni05_kotetsu.png" width="48"> `WEAPON2_NI05_KOTETSU` | 0x632ca4 | 古鉄 |
+| <img src="../img/pack_wpn_ni06_garethdagger.png" width="48"> `WEAPON2_NI06_GALESDAGGER` | 0x632d24 | グラキエース |
 | `WEAPON2_NI07_DIRK` | 0x632da4 | ★ダーク |
-| `WEAPON2_NI08_ROUND` | 0x632e24 | ラウンドナイフ |
-| `WEAPON2_NI09_STUNDAGGER` | 0x632ea4 | スタンダガー |
-| `WEAPON2_NI10_GOBLIN_C` | 0x632f24 | 小鬼の包丁 |
-| `WEAPON2_NI11_THIEF` | 0x632fa4 | 盗賊のダガー |
-| `WEAPON2_NI12_ASSASSIN` | 0x633024 | 暗殺者のダガー |
-| `WEAPON2_NI13_KERIS` | 0x6330a4 | クリス |
-| `WEAPON2_NI14_TAMECHAN2` | 0x633124 | ロットナイフ |
-| `WEAPON2_NI15_BURGLAR` | 0x6331a4 | 夜盗のナイフ |
-| `WEAPON2_NI16_CROSS` | 0x633224 | グレアナイフ |
-| `WEAPON2_NI17_SHINKI` | 0x6332a4 | フィートナイフ |
+| <img src="../img/pack_wpn_ni08_rounddagger.png" width="48"> `WEAPON2_NI08_ROUND` | 0x632e24 | ラウンドナイフ |
+| <img src="../img/pack_wpn_ni09_stundagger.png" width="48"> `WEAPON2_NI09_STUNDAGGER` | 0x632ea4 | スタンダガー |
+| <img src="../img/pack_wpn_ni10_gobcook.png" width="48"> `WEAPON2_NI10_GOBLIN_C` | 0x632f24 | 小鬼の包丁 |
+| <img src="../img/pack_wpn_ni11_thief.png" width="48"> `WEAPON2_NI11_THIEF` | 0x632fa4 | 盗賊のダガー |
+| <img src="../img/pack_wpn_ni12_assassin.png" width="48"> `WEAPON2_NI12_ASSASSIN` | 0x633024 | 暗殺者のダガー |
+| <img src="../img/pack_wpn_ni13_keris.png" width="48"> `WEAPON2_NI13_KERIS` | 0x6330a4 | クリス |
+| <img src="../img/pack_wpn_ni14_knife.png" width="48"> `WEAPON2_NI14_TAMECHAN2` | 0x633124 | ロットナイフ |
+| <img src="../img/pack_wpn_ni15_bagura.png" width="48"> `WEAPON2_NI15_BURGLAR` | 0x6331a4 | 夜盗のナイフ |
+| <img src="../img/pack_wpn_ni16_tricaput.png" width="48"> `WEAPON2_NI16_CROSS` | 0x633224 | グレアナイフ |
+| <img src="../img/pack_wpn_ni17_evilgaze.png" width="48"> `WEAPON2_NI17_SHINKI` | 0x6332a4 | フィートナイフ |
 | `WEAPON2_NI18_POISONDAGGER` | 0x633324 | ★ポイズンダガー |
 | `WEAPON2_NI19_ROUND` | 0x6333a4 | ★ラウンドナイフ |
-| `WEAPON2_NI20_SHINKI` | 0x633424 | デヴァステイター |
-| `WEAPON2_NI21_SAIJYOUI` | 0x6334a4 | ツインエッジ |
+| <img src="../img/pack_wpn_ni20_steelknife.png" width="48"> `WEAPON2_NI20_SHINKI` | 0x633424 | デヴァステイター |
+| <img src="../img/pack_wpn_ni21_highknife.png" width="48"> `WEAPON2_NI21_SAIJYOUI` | 0x6334a4 | ツインエッジ |
 | `WEAPON2_NI22_TAMECHAN2` | 0x633524 | ★ロットナイフ |
-| `WEAPON2_NI23_SHINKI` | 0x6335a4 | サイ |
+| <img src="../img/pack_wpn_ni23_sai.png" width="48"> `WEAPON2_NI23_SHINKI` | 0x6335a4 | サイ |
 | `WEAPON2_NI24_STUNDAGGER` | 0x633624 | ★スタンダガー |
-| `WEAPON2_NI25_MOULIN` | 0x6336a4 | ムーラン |
-| `WEAPON2_NI26_KUKRI` | 0x633724 | ククリ |
-| `WEAPON2_NI27_SILENT` | 0x6337a4 | サイレントナイフ |
+| <img src="../img/pack_wpn_ni25_kazaguruma.png" width="48"> `WEAPON2_NI25_MOULIN` | 0x6336a4 | ムーラン |
+| <img src="../img/pack_wpn_ni26_kukuri.png" width="48"> `WEAPON2_NI26_KUKRI` | 0x633724 | ククリ |
+| <img src="../img/pack_wpn_ni27_silent.png" width="48"> `WEAPON2_NI27_SILENT` | 0x6337a4 | サイレントナイフ |
 | `WEAPON2_NI28_PANIC` | 0x633824 | パニックナイフ |
-| `WEAPON2_NI29_D4SHINKI1` | 0x6338a4 | ルーンナイフ |
-| `WEAPON2_NI30_D4SHINKI2` | 0x633924 | ツヴァイダガー |
-| `WEAPON2_NI31_D4SHINKI3` | 0x6339a4 | インフィニティー |
-| `WEAPON2_NI32_PIRATE` | 0x633a24 | 海賊の短剣 |
+| <img src="../img/pack_wpn_ni29_knife.png" width="48"> `WEAPON2_NI29_D4SHINKI1` | 0x6338a4 | ルーンナイフ |
+| <img src="../img/pack_wpn_ni30_gold.png" width="48"> `WEAPON2_NI30_D4SHINKI2` | 0x633924 | ツヴァイダガー |
+| <img src="../img/pack_wpn_ni31_inf.png" width="48"> `WEAPON2_NI31_D4SHINKI3` | 0x6339a4 | インフィニティー |
+| <img src="../img/pack_wpn_ni32_lanky.png" width="48"> `WEAPON2_NI32_PIRATE` | 0x633a24 | 海賊の短剣 |
 | `WEAPON2_NI33_D4SUMMON` | 0x633aa4 | 大魔の短剣 |
-| `WEAPON2_NI34_CATHAND` | 0x633b24 | キャットスティンガー |
-| `WEAPON2_NI35_GALESDAGGER_EX` | 0x633ba4 | グラキエースＥＸ |
+| <img src="../img/pack_wpn_ni34_nekote.png" width="48"> `WEAPON2_NI34_CATHAND` | 0x633b24 | キャットスティンガー |
+| <img src="../img/pack_wpn_ni35_garethdagger2.png" width="48"> `WEAPON2_NI35_GALESDAGGER_EX` | 0x633ba4 | グラキエースＥＸ |
 
 #### `QI` (10)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_QI01_ARROW` | 0x633c24 | アロー |
-| `WEAPON2_QI02_FIREARROW` | 0x633ca4 | ファイアーアロー |
-| `WEAPON2_QI03_COLDARROW` | 0x633d24 | コールドアロー |
-| `WEAPON2_QI04_SPARKARROW` | 0x633da4 | サンダーアロー |
-| `WEAPON2_QI05_MITHRILARROW` | 0x633e24 | ダークアロー |
-| `WEAPON2_QI06_HOLYARROW` | 0x633ea4 | 太陽の矢 |
-| `WEAPON2_QI07_TAIYOUNOYA` | 0x633f24 | 銀の矢 |
-| `WEAPON2_QI08_SILVERARROW` | 0x633fa4 | ベアリアスアロー |
-| `WEAPON2_QI09_SHINKI` | 0x634024 | スパークアロー |
-| `WEAPON2_QI10_SHINKI` | 0x6340a4 |  |
+| <img src="../img/pack_wpn_qi01_arrowquiver.png" width="48"> `WEAPON2_QI01_ARROW` | 0x633c24 | アロー |
+| <img src="../img/pack_wpn_qi02_firearrowquiver.png" width="48"> `WEAPON2_QI02_FIREARROW` | 0x633ca4 | ファイアーアロー |
+| <img src="../img/pack_wpn_qi03_coldarrowquiver.png" width="48"> `WEAPON2_QI03_COLDARROW` | 0x633d24 | コールドアロー |
+| <img src="../img/pack_wpn_qi04_sparkarrowquiver.png" width="48"> `WEAPON2_QI04_SPARKARROW` | 0x633da4 | サンダーアロー |
+| <img src="../img/pack_wpn_qi05_darkarrowquiver.png" width="48"> `WEAPON2_QI05_MITHRILARROW` | 0x633e24 | ダークアロー |
+| <img src="../img/pack_wpn_qi06_holyarrowquiver.png" width="48"> `WEAPON2_QI06_HOLYARROW` | 0x633ea4 | 太陽の矢 |
+| <img src="../img/pack_wpn_qi07_taiyounoya.png" width="48"> `WEAPON2_QI07_TAIYOUNOYA` | 0x633f24 | 銀の矢 |
+| <img src="../img/pack_wpn_qi08_vampirekiller.png" width="48"> `WEAPON2_QI08_SILVERARROW` | 0x633fa4 | ベアリアスアロー |
+| <img src="../img/pack_wpn_qi09_random.png" width="48"> `WEAPON2_QI09_SHINKI` | 0x634024 | スパークアロー |
+| <img src="../img/pack_wpn_qi10_bomb.png" width="48"> `WEAPON2_QI10_SHINKI` | 0x6340a4 |  |
 
 #### `RA` (35)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_RA01_BROADAXE` | 0x634124 | ブロードアックス |
-| `WEAPON2_RA02_GREATAXE` | 0x6341a4 | グレートアックス |
-| `WEAPON2_RA03_BERDYSH` | 0x634224 | バルディッシュ |
-| `WEAPON2_RA04_MITHRILAXE` | 0x6342a4 | ミスリルアックス |
-| `WEAPON2_RA05_DWARVENWARAXE` | 0x634324 | ドワーブンアックス |
-| `WEAPON2_RA06_SICKLEAXE` | 0x6343a4 | イビルシックル |
+| <img src="../img/pack_wpn_ra01_broadaxe.png" width="48"> `WEAPON2_RA01_BROADAXE` | 0x634124 | ブロードアックス |
+| <img src="../img/pack_wpn_ra02_greataxe.png" width="48"> `WEAPON2_RA02_GREATAXE` | 0x6341a4 | グレートアックス |
+| <img src="../img/pack_wpn_ra03_berdysh.png" width="48"> `WEAPON2_RA03_BERDYSH` | 0x634224 | バルディッシュ |
+| <img src="../img/pack_wpn_ra04_mythrilaxe.png" width="48"> `WEAPON2_RA04_MITHRILAXE` | 0x6342a4 | ミスリルアックス |
+| <img src="../img/pack_wpn_ra05_dwarvenwaraxe.png" width="48"> `WEAPON2_RA05_DWARVENWARAXE` | 0x634324 | ドワーブンアックス |
+| <img src="../img/pack_wpn_ra06_sickleaxe.png" width="48"> `WEAPON2_RA06_SICKLEAXE` | 0x6343a4 | イビルシックル |
 | `WEAPON2_RA07_BROADAXE` | 0x634424 | ★ブロードアックス |
-| `WEAPON2_RA08_DIVINEAXE` | 0x6344a4 | ディバインアックス |
-| `WEAPON2_RA09_STEELAXE` | 0x634524 | スチールアックス |
-| `WEAPON2_RA10_GREAT_EX1` | 0x6345a4 | ブーストアックス |
-| `WEAPON2_RA11_SKELETON_D` | 0x634624 | 骸骨の斧 |
-| `WEAPON2_RA12_SKELETON_DF` | 0x6346a4 | 骸骨の炎斧 |
-| `WEAPON2_RA13_SKELETON_DI` | 0x634724 | 骸骨の氷斧 |
-| `WEAPON2_RA14_SKELETON_DT` | 0x6347a4 | 骸骨の雷斧 |
-| `WEAPON2_RA15_GNOLL` | 0x634824 | 犬頭鬼の斧 |
-| `WEAPON2_RA16_ORC_C` | 0x6348a4 | 邪鬼首領の斧 |
-| `WEAPON2_RA17_ORC_CF` | 0x634924 | 邪鬼首領の炎斧 |
-| `WEAPON2_RA18_ORC_CI` | 0x6349a4 | 邪鬼首領の氷斧 |
-| `WEAPON2_RA19_ORC_CT` | 0x634a24 | 邪鬼首領の雷斧 |
-| `WEAPON2_RA20_MINOTAUR_B` | 0x634aa4 | 牛人の両手斧 |
-| `WEAPON2_RA21_MAGICIAN_D` | 0x634b24 | 黒魔術師の鎌 |
-| `WEAPON2_RA22_RUIN` | 0x634ba4 | ルーインアックス |
-| `WEAPON2_RA23_MINOTAURCOMMANDER` | 0x634c24 | 牛人司令官の斧 |
-| `WEAPON2_RA24_BATTLEHOE` | 0x634ca4 | バトルピック |
-| `WEAPON2_RA25_MARTIANDAWN` | 0x634d24 | インペリアルアックス |
+| <img src="../img/pack_wpn_ra08_divineaxe.png" width="48"> `WEAPON2_RA08_DIVINEAXE` | 0x6344a4 | ディバインアックス |
+| <img src="../img/pack_wpn_ra09_steelaxe.png" width="48"> `WEAPON2_RA09_STEELAXE` | 0x634524 | スチールアックス |
+| <img src="../img/pack_wpn_ra10_greataxe2.png" width="48"> `WEAPON2_RA10_GREAT_EX1` | 0x6345a4 | ブーストアックス |
+| <img src="../img/pack_wpn_ra11_dwarvenskeleton.png" width="48"> `WEAPON2_RA11_SKELETON_D` | 0x634624 | 骸骨の斧 |
+| <img src="../img/pack_wpn_ra12_dwarvenskeletonf.png" width="48"> `WEAPON2_RA12_SKELETON_DF` | 0x6346a4 | 骸骨の炎斧 |
+| <img src="../img/pack_wpn_ra13_dwarvenskeletoni.png" width="48"> `WEAPON2_RA13_SKELETON_DI` | 0x634724 | 骸骨の氷斧 |
+| <img src="../img/pack_wpn_ra14_dwarvenskeletont.png" width="48"> `WEAPON2_RA14_SKELETON_DT` | 0x6347a4 | 骸骨の雷斧 |
+| <img src="../img/pack_wpn_ra15_gnoll.png" width="48"> `WEAPON2_RA15_GNOLL` | 0x634824 | 犬頭鬼の斧 |
+| <img src="../img/pack_wpn_ra16_orcchief.png" width="48"> `WEAPON2_RA16_ORC_C` | 0x6348a4 | 邪鬼首領の斧 |
+| <img src="../img/pack_wpn_ra17_orcchieff.png" width="48"> `WEAPON2_RA17_ORC_CF` | 0x634924 | 邪鬼首領の炎斧 |
+| <img src="../img/pack_wpn_ra18_orcchiefi.png" width="48"> `WEAPON2_RA18_ORC_CI` | 0x6349a4 | 邪鬼首領の氷斧 |
+| <img src="../img/pack_wpn_ra19_orcchieft.png" width="48"> `WEAPON2_RA19_ORC_CT` | 0x634a24 | 邪鬼首領の雷斧 |
+| <img src="../img/pack_wpn_ra20_minotaurbattler.png" width="48"> `WEAPON2_RA20_MINOTAUR_B` | 0x634aa4 | 牛人の両手斧 |
+| <img src="../img/pack_wpn_ra21_darkmagician.png" width="48"> `WEAPON2_RA21_MAGICIAN_D` | 0x634b24 | 黒魔術師の鎌 |
+| <img src="../img/pack_wpn_ra22_demonaxe.png" width="48"> `WEAPON2_RA22_RUIN` | 0x634ba4 | ルーインアックス |
+| <img src="../img/pack_wpn_ra23_minocomaxe.png" width="48"> `WEAPON2_RA23_MINOTAURCOMMANDER` | 0x634c24 | 牛人司令官の斧 |
+| <img src="../img/pack_wpn_ra24_battlehoe.png" width="48"> `WEAPON2_RA24_BATTLEHOE` | 0x634ca4 | バトルピック |
+| <img src="../img/pack_wpn_ra25_vinedaxe.png" width="48"> `WEAPON2_RA25_MARTIANDAWN` | 0x634d24 | インペリアルアックス |
 | `WEAPON2_RA26_BERDYSH` | 0x634da4 | ★バルディッシュ |
-| `WEAPON2_RA27_SAIJYOUI` | 0x634e24 | グランドアックス |
+| <img src="../img/pack_wpn_ra27_hammer.png" width="48"> `WEAPON2_RA27_SAIJYOUI` | 0x634e24 | グランドアックス |
 | `WEAPON2_RA28_GREATAXE` | 0x634ea4 | ★グレートアックス |
 | `WEAPON2_RA29_D4SHINKI1` | 0x634f24 | ブルートマホーク |
-| `WEAPON2_RA30_D4SHINKI2` | 0x634fa4 | アポカリプス |
-| `WEAPON2_RA31_GIGANT` | 0x635024 | ギガントアックス |
+| <img src="../img/pack_wpn_ra30_apocalypse.png" width="48"> `WEAPON2_RA30_D4SHINKI2` | 0x634fa4 | アポカリプス |
+| <img src="../img/pack_wpn_ra31_rise.png" width="48"> `WEAPON2_RA31_GIGANT` | 0x635024 | ギガントアックス |
 | `WEAPON2_RA32_EXECUTIONER` | 0x6350a4 | ウィンドアックス |
 | `WEAPON2_RA33_APOCALYPSE` | 0x635124 | ディストピア |
 | `WEAPON2_RA34_GIANT` | 0x6351a4 | 一つ目巨人の斧 |
@@ -335,151 +335,151 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_RS01_BASTARDSWORD` | 0x6352a4 | バスタードソード |
-| `WEAPON2_RS02_CLAYMORE` | 0x635324 | クレイモア |
-| `WEAPON2_RS03_ZWEIHANDER` | 0x6353a4 | トゥハンドソード |
-| `WEAPON2_RS04_STEAM` | 0x635424 | スチームソード |
-| `WEAPON2_RS05_EXECUTIONERSSWORD` | 0x6354a4 | 断罪の剣 |
-| `WEAPON2_RS06_DRAGONKILLER` | 0x635524 | ドラゴンキラー |
-| `WEAPON2_RS07_MURASAME` | 0x6355a4 | 砕魔刀 |
-| `WEAPON2_RS08_PALAMEDES` | 0x635624 | クラウ・ソナス |
-| `WEAPON2_RS09_FLAMESWORD` | 0x6356a4 | フレイムソード |
+| <img src="../img/pack_wpn_rs01_bastardsword.png" width="48"> `WEAPON2_RS01_BASTARDSWORD` | 0x6352a4 | バスタードソード |
+| <img src="../img/pack_wpn_rs02_claymore.png" width="48"> `WEAPON2_RS02_CLAYMORE` | 0x635324 | クレイモア |
+| <img src="../img/pack_wpn_rs03_zweihander.png" width="48"> `WEAPON2_RS03_ZWEIHANDER` | 0x6353a4 | トゥハンドソード |
+| <img src="../img/pack_wpn_rs04_steamsword.png" width="48"> `WEAPON2_RS04_STEAM` | 0x635424 | スチームソード |
+| <img src="../img/pack_wpn_rs05_executionerssword.png" width="48"> `WEAPON2_RS05_EXECUTIONERSSWORD` | 0x6354a4 | 断罪の剣 |
+| <img src="../img/pack_wpn_rs06_dragonkiller.png" width="48"> `WEAPON2_RS06_DRAGONKILLER` | 0x635524 | ドラゴンキラー |
+| <img src="../img/pack_wpn_rs07_murasame.png" width="48"> `WEAPON2_RS07_MURASAME` | 0x6355a4 | 砕魔刀 |
+| <img src="../img/pack_wpn_rs08_palamedes.png" width="48"> `WEAPON2_RS08_PALAMEDES` | 0x635624 | クラウ・ソナス |
+| <img src="../img/pack_wpn_rs09_flamesword.png" width="48"> `WEAPON2_RS09_FLAMESWORD` | 0x6356a4 | フレイムソード |
 | `WEAPON2_RS10_ZWEIHANDER` | 0x635724 | ★トゥハンドソード |
-| `WEAPON2_RS11_SQUARETHRUST` | 0x6357a4 | スクエアスラッシャー |
-| `WEAPON2_RS12_SKELETON_K` | 0x635824 | 骸骨騎士の剣 |
-| `WEAPON2_RS13_SKELETON_KF` | 0x6358a4 | 骸骨騎士の炎剣 |
-| `WEAPON2_RS14_SKELETON_KI` | 0x635924 | 骸骨騎士の氷剣 |
-| `WEAPON2_RS15_SKELETON_KT` | 0x6359a4 | 骸骨騎士の雷剣 |
-| `WEAPON2_RS16_TAMECHAN1` | 0x635a24 | ジェミニブレード |
-| `WEAPON2_RS17_CRYSTALEDGE` | 0x635aa4 | リフレクトソード |
-| `WEAPON2_RS18_SHINKI1` | 0x635b24 | ガーディアンブレード |
+| <img src="../img/pack_wpn_rs11_bastardsword2.png" width="48"> `WEAPON2_RS11_SQUARETHRUST` | 0x6357a4 | スクエアスラッシャー |
+| <img src="../img/pack_wpn_rs12_skeltonknight.png" width="48"> `WEAPON2_RS12_SKELETON_K` | 0x635824 | 骸骨騎士の剣 |
+| <img src="../img/pack_wpn_rs13_skeltonknightf.png" width="48"> `WEAPON2_RS13_SKELETON_KF` | 0x6358a4 | 骸骨騎士の炎剣 |
+| <img src="../img/pack_wpn_rs14_skeltonknighti.png" width="48"> `WEAPON2_RS14_SKELETON_KI` | 0x635924 | 骸骨騎士の氷剣 |
+| <img src="../img/pack_wpn_rs15_skeltonknightt.png" width="48"> `WEAPON2_RS15_SKELETON_KT` | 0x6359a4 | 骸骨騎士の雷剣 |
+| <img src="../img/pack_wpn_rs16_wingsword.png" width="48"> `WEAPON2_RS16_TAMECHAN1` | 0x635a24 | ジェミニブレード |
+| <img src="../img/pack_wpn_rs17_crystaledge.png" width="48"> `WEAPON2_RS17_CRYSTALEDGE` | 0x635aa4 | リフレクトソード |
+| <img src="../img/pack_wpn_rs18_shildsword.png" width="48"> `WEAPON2_RS18_SHINKI1` | 0x635b24 | ガーディアンブレード |
 | `WEAPON2_RS19_CLAYMORE` | 0x635ba4 | ★クレイモア |
-| `WEAPON2_RS20_SHINKI` | 0x635c24 | 魔道の剣 |
-| `WEAPON2_RS22_SAIJYOUI` | 0x635ca4 | アルティマソード |
+| <img src="../img/pack_wpn_rs20_dsword.png" width="48"> `WEAPON2_RS20_SHINKI` | 0x635c24 | 魔道の剣 |
+| <img src="../img/pack_wpn_rs22_ryoute.png" width="48"> `WEAPON2_RS22_SAIJYOUI` | 0x635ca4 | アルティマソード |
 | `WEAPON2_RS23_SQUARETHRUST` | 0x635d24 | ★スクエアスラッシャー |
-| `WEAPON2_RS24_ICEBRAND` | 0x635da4 | アイスブランド |
-| `WEAPON2_RS25_THUNDERBLADE` | 0x635e24 | サンダーブレード |
+| <img src="../img/pack_wpn_rs24_cold.png" width="48"> `WEAPON2_RS24_ICEBRAND` | 0x635da4 | アイスブランド |
+| <img src="../img/pack_wpn_rs25_thunder.png" width="48"> `WEAPON2_RS25_THUNDERBLADE` | 0x635e24 | サンダーブレード |
 | `WEAPON2_RS26_CALIBURN` | 0x635ea4 | カリバーン |
 | `WEAPON2_RS27_MURAKUMO` | 0x635f24 | 天叢雲剣 |
-| `WEAPON2_RS28_AVALON` | 0x635fa4 | レオンハート |
-| `WEAPON2_RS29_SKELETON` | 0x636024 | 骸骨貴族の剣 |
+| <img src="../img/pack_wpn_rs28_ava.png" width="48"> `WEAPON2_RS28_AVALON` | 0x635fa4 | レオンハート |
+| <img src="../img/pack_wpn_rs29_dullahan.png" width="48"> `WEAPON2_RS29_SKELETON` | 0x636024 | 骸骨貴族の剣 |
 | `WEAPON2_RS30_D4SUMMON` | 0x6360a4 | 大魔の大剣 |
-| `WEAPON2_RS31_SLAP` | 0x636124 | ハリセンブレード |
-| `WEAPON2_RS32_PALAMEDES_EX` | 0x6361a4 | クラウ・ソナスＥＸ |
+| <img src="../img/pack_wpn_rs31_harisen.png" width="48"> `WEAPON2_RS31_SLAP` | 0x636124 | ハリセンブレード |
+| <img src="../img/pack_wpn_rs32_palamedes2.png" width="48"> `WEAPON2_RS32_PALAMEDES_EX` | 0x6361a4 | クラウ・ソナスＥＸ |
 
 #### `SP` (33)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_SP01_SHORTSPEAR` | 0x636224 | ショートスピア |
-| `WEAPON2_SP02_AWLPIKE` | 0x6362a4 | オウルパイク |
-| `WEAPON2_SP03_PARTIZAN` | 0x636324 | パルチザン |
-| `WEAPON2_SP04_TRIDENT` | 0x6363a4 | トライデント |
-| `WEAPON2_SP05_MITHRILSPEAR` | 0x636424 | ミスリルスピア |
-| `WEAPON2_SP06_ICELANCE` | 0x6364a4 | アイススピア |
-| `WEAPON2_SP07_HOLYLANCE` | 0x636524 | ガイ・ボルガ |
+| <img src="../img/pack_wpn_sp01_shortspear.png" width="48"> `WEAPON2_SP01_SHORTSPEAR` | 0x636224 | ショートスピア |
+| <img src="../img/pack_wpn_sp02_awlpike.png" width="48"> `WEAPON2_SP02_AWLPIKE` | 0x6362a4 | オウルパイク |
+| <img src="../img/pack_wpn_sp03_partizan.png" width="48"> `WEAPON2_SP03_PARTIZAN` | 0x636324 | パルチザン |
+| <img src="../img/pack_wpn_sp04_trident.png" width="48"> `WEAPON2_SP04_TRIDENT` | 0x6363a4 | トライデント |
+| <img src="../img/pack_wpn_sp05_mythrilspear.png" width="48"> `WEAPON2_SP05_MITHRILSPEAR` | 0x636424 | ミスリルスピア |
+| <img src="../img/pack_wpn_sp06_icelance.png" width="48"> `WEAPON2_SP06_ICELANCE` | 0x6364a4 | アイススピア |
+| <img src="../img/pack_wpn_sp07_holylance.png" width="48"> `WEAPON2_SP07_HOLYLANCE` | 0x636524 | ガイ・ボルガ |
 | `WEAPON2_SP08_PARTIZAN` | 0x6365a4 | ★パルチザン |
-| `WEAPON2_SP09_FRAME` | 0x636624 | フレイムスピア |
-| `WEAPON2_SP10_THUNDER` | 0x6366a4 | サンダースピア |
-| `WEAPON2_SP11_LIZARDMAN_L` | 0x636724 | 蜥蜴槍兵の槍 |
-| `WEAPON2_SP12_LIZARDMAN_R` | 0x6367a4 | 王族蜥蜴の槍 |
-| `WEAPON2_SP13_KOBOLD_L` | 0x636824 | 犬頭鬼の槍 |
-| `WEAPON2_SP14_SALAMANDER` | 0x6368a4 | 火蜥蜴の槍 |
-| `WEAPON2_SP15_SALAMANDER_F` | 0x636924 | 氷蜥蜴の槍 |
-| `WEAPON2_SP16_SALAMANDER_H` | 0x6369a4 | 雷蜥蜴の槍 |
-| `WEAPON2_SP17_SPLITLANCE` | 0x636a24 | スプリットランス |
-| `WEAPON2_SP18_MUSSU` | 0x636aa4 | グレイブ |
-| `WEAPON2_SP19_RUSHING` | 0x636b24 | ラッシングスピア |
-| `WEAPON2_SP20_SHINKI1` | 0x636ba4 | ニードルランス |
+| <img src="../img/pack_wpn_sp09_flamespear.png" width="48"> `WEAPON2_SP09_FRAME` | 0x636624 | フレイムスピア |
+| <img src="../img/pack_wpn_sp10_thunderspear.png" width="48"> `WEAPON2_SP10_THUNDER` | 0x6366a4 | サンダースピア |
+| <img src="../img/pack_wpn_sp11_lizalancer.png" width="48"> `WEAPON2_SP11_LIZARDMAN_L` | 0x636724 | 蜥蜴槍兵の槍 |
+| <img src="../img/pack_wpn_sp12_royalliza.png" width="48"> `WEAPON2_SP12_LIZARDMAN_R` | 0x6367a4 | 王族蜥蜴の槍 |
+| <img src="../img/pack_wpn_sp13_koboldleader.png" width="48"> `WEAPON2_SP13_KOBOLD_L` | 0x636824 | 犬頭鬼の槍 |
+| <img src="../img/pack_wpn_sp14_salamander.png" width="48"> `WEAPON2_SP14_SALAMANDER` | 0x6368a4 | 火蜥蜴の槍 |
+| <img src="../img/pack_wpn_sp15_frosalamander.png" width="48"> `WEAPON2_SP15_SALAMANDER_F` | 0x636924 | 氷蜥蜴の槍 |
+| <img src="../img/pack_wpn_sp16_highsalamander.png" width="48"> `WEAPON2_SP16_SALAMANDER_H` | 0x6369a4 | 雷蜥蜴の槍 |
+| <img src="../img/pack_wpn_sp17_gemellibianca.png" width="48"> `WEAPON2_SP17_SPLITLANCE` | 0x636a24 | スプリットランス |
+| <img src="../img/pack_wpn_sp18_gemellibianca.png" width="48"> `WEAPON2_SP18_MUSSU` | 0x636aa4 | グレイブ |
+| <img src="../img/pack_wpn_sp19_landlancer.png" width="48"> `WEAPON2_SP19_RUSHING` | 0x636b24 | ラッシングスピア |
+| <img src="../img/pack_wpn_sp20_spear.png" width="48"> `WEAPON2_SP20_SHINKI1` | 0x636ba4 | ニードルランス |
 | `WEAPON2_SP21_AWLPIKE` | 0x636c24 | ★オウルパイク |
 | `WEAPON2_SP22_TRIDENT` | 0x636ca4 | ★トライデント |
-| `WEAPON2_SP23_BRIONAC` | 0x636d24 | ブリューナク |
+| <img src="../img/pack_wpn_sp23_brionac.png" width="48"> `WEAPON2_SP23_BRIONAC` | 0x636d24 | ブリューナク |
 | `WEAPON2_SP24_FRAME` | 0x636da4 | ★フレイムスピア |
 | `WEAPON2_SP25_ICELANCE` | 0x636e24 | ★アイススピア |
 | `WEAPON2_SP26_THUNDER` | 0x636ea4 | ★サンダースピア |
-| `WEAPON2_SP27_PARALYZER` | 0x636f24 | パラライザー |
-| `WEAPON2_SP28_SNAKEHALBERD` | 0x636fa4 | 軍神の蛇矛 |
-| `WEAPON2_SP29_D4SHINKI` | 0x637024 | ノーザンハルバード |
+| <img src="../img/pack_wpn_sp27_paralyzer.png" width="48"> `WEAPON2_SP27_PARALYZER` | 0x636f24 | パラライザー |
+| <img src="../img/pack_wpn_sp28_jabou.png" width="48"> `WEAPON2_SP28_SNAKEHALBERD` | 0x636fa4 | 軍神の蛇矛 |
+| <img src="../img/pack_wpn_sp29_mushi.png" width="48"> `WEAPON2_SP29_D4SHINKI` | 0x637024 | ノーザンハルバード |
 | `WEAPON2_SP30_DYSTOPIA` | 0x6370a4 | 虚空閃 |
-| `WEAPON2_SP31_FISHMAN` | 0x637124 | 魚人の槍 |
+| <img src="../img/pack_wpn_sp31_gillman.png" width="48"> `WEAPON2_SP31_FISHMAN` | 0x637124 | 魚人の槍 |
 | `WEAPON2_SP32_D4SUMMON` | 0x6371a4 | 大魔の槍 |
-| `WEAPON2_SP33_HOLYLANCE_EX` | 0x637224 | ガイ・ボルガＥＸ |
+| <img src="../img/pack_wpn_sp33_holylance2.png" width="48"> `WEAPON2_SP33_HOLYLANCE_EX` | 0x637224 | ガイ・ボルガＥＸ |
 
 #### `ST` (47)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_ST01_QUARTERSTAFF` | 0x6372a4 | クォータースタッフ |
-| `WEAPON2_ST02_SCEPTER` | 0x637324 | セプター |
-| `WEAPON2_ST03_WIZARDSSTAFF` | 0x6373a4 | ウィザードスタッフ |
-| `WEAPON2_ST04_HEALROD` | 0x637424 | ヒールロッド |
-| `WEAPON2_ST05_MAGICALSTAFF` | 0x6374a4 | クリスタルワンド |
-| `WEAPON2_ST06_POWERSTAFF` | 0x637524 | パワースタッフ |
-| `WEAPON2_ST07_MYRDDINSTAFF` | 0x6375a4 | ユーデクス |
+| <img src="../img/pack_wpn_st01_quarterstuff.png" width="48"> `WEAPON2_ST01_QUARTERSTAFF` | 0x6372a4 | クォータースタッフ |
+| <img src="../img/pack_wpn_st02_scepter.png" width="48"> `WEAPON2_ST02_SCEPTER` | 0x637324 | セプター |
+| <img src="../img/pack_wpn_st03_wizardsstuff.png" width="48"> `WEAPON2_ST03_WIZARDSSTAFF` | 0x6373a4 | ウィザードスタッフ |
+| <img src="../img/pack_wpn_st04_healrod.png" width="48"> `WEAPON2_ST04_HEALROD` | 0x637424 | ヒールロッド |
+| <img src="../img/pack_wpn_st05_magicalstuff.png" width="48"> `WEAPON2_ST05_MAGICALSTAFF` | 0x6374a4 | クリスタルワンド |
+| <img src="../img/pack_wpn_st06_powerstuff.png" width="48"> `WEAPON2_ST06_POWERSTAFF` | 0x637524 | パワースタッフ |
+| <img src="../img/pack_wpn_st07_myrddinstuff.png" width="48"> `WEAPON2_ST07_MYRDDINSTAFF` | 0x6375a4 | ユーデクス |
 | `WEAPON2_ST08_WIZARDSSTAFF` | 0x637624 | ★ウィザードスタッフ |
-| `WEAPON2_ST09_MANASTAFF` | 0x6376a4 | マナスタッフ |
-| `WEAPON2_ST10_MAGESTAFF` | 0x637724 | メイジスタッフ |
-| `WEAPON2_ST11_WIZARD_EX1` | 0x6377a4 | フレイムスタッフ |
-| `WEAPON2_ST12_WIZARD_EX2` | 0x637824 | アイススタッフ |
-| `WEAPON2_ST13_WIZARD_EX3` | 0x6378a4 | サンダースタッフ |
-| `WEAPON2_ST14_SKELETON_M` | 0x637924 | 骸骨の杖 |
-| `WEAPON2_ST15_SKELETON_MF` | 0x6379a4 | 骸骨の炎杖 |
-| `WEAPON2_ST16_SKELETON_MI` | 0x637a24 | 骸骨の氷杖 |
-| `WEAPON2_ST17_SKELETON_MT` | 0x637aa4 | 骸骨の雷杖 |
-| `WEAPON2_ST18_ORC_M` | 0x637b24 | 邪鬼の杖 |
-| `WEAPON2_ST19_ORC_MF` | 0x637ba4 | 邪鬼の炎杖 |
-| `WEAPON2_ST20_ORC_MI` | 0x637c24 | 邪鬼の氷杖 |
-| `WEAPON2_ST21_ORC_MT` | 0x637ca4 | 邪鬼の雷杖 |
-| `WEAPON2_ST22_MAGICIAN` | 0x637d24 | 魔術師の杖 |
-| `WEAPON2_ST23_TAMECHAN1` | 0x637da4 | カースロッド |
-| `WEAPON2_ST24_MANA` | 0x637e24 | マナロッド |
-| `WEAPON2_ST25_NECROMANCER` | 0x637ea4 | 死霊術士の杖 |
-| `WEAPON2_ST26_SORCERESS` | 0x637f24 | 魔女の杖 |
-| `WEAPON2_ST27_CONJURER` | 0x637fa4 | 奇術師の杖 |
-| `WEAPON2_ST28_JEM` | 0x638024 | ジェムスタッフ |
-| `WEAPON2_ST29_SHINKI` | 0x6380a4 | セイクリッドワンド |
+| <img src="../img/pack_wpn_st09_manastuff.png" width="48"> `WEAPON2_ST09_MANASTAFF` | 0x6376a4 | マナスタッフ |
+| <img src="../img/pack_wpn_st10_magestuff.png" width="48"> `WEAPON2_ST10_MAGESTAFF` | 0x637724 | メイジスタッフ |
+| <img src="../img/pack_wpn_st11_wizardsstuff2.png" width="48"> `WEAPON2_ST11_WIZARD_EX1` | 0x6377a4 | フレイムスタッフ |
+| <img src="../img/pack_wpn_st12_wizardsstuff3.png" width="48"> `WEAPON2_ST12_WIZARD_EX2` | 0x637824 | アイススタッフ |
+| <img src="../img/pack_wpn_st13_wizardsstuff4.png" width="48"> `WEAPON2_ST13_WIZARD_EX3` | 0x6378a4 | サンダースタッフ |
+| <img src="../img/pack_wpn_st14_skeltonmagestuff.png" width="48"> `WEAPON2_ST14_SKELETON_M` | 0x637924 | 骸骨の杖 |
+| <img src="../img/pack_wpn_st15_skeltonmagestuff_f.png" width="48"> `WEAPON2_ST15_SKELETON_MF` | 0x6379a4 | 骸骨の炎杖 |
+| <img src="../img/pack_wpn_st16_skeltonmagestuff_i.png" width="48"> `WEAPON2_ST16_SKELETON_MI` | 0x637a24 | 骸骨の氷杖 |
+| <img src="../img/pack_wpn_st17_skeltonmagestuff_t.png" width="48"> `WEAPON2_ST17_SKELETON_MT` | 0x637aa4 | 骸骨の雷杖 |
+| <img src="../img/pack_wpn_st18_olkmagestuff.png" width="48"> `WEAPON2_ST18_ORC_M` | 0x637b24 | 邪鬼の杖 |
+| <img src="../img/pack_wpn_st19_olkmagestuff_f.png" width="48"> `WEAPON2_ST19_ORC_MF` | 0x637ba4 | 邪鬼の炎杖 |
+| <img src="../img/pack_wpn_st20_olkmagestuff_i.png" width="48"> `WEAPON2_ST20_ORC_MI` | 0x637c24 | 邪鬼の氷杖 |
+| <img src="../img/pack_wpn_st21_olkmagestuff_t.png" width="48"> `WEAPON2_ST21_ORC_MT` | 0x637ca4 | 邪鬼の雷杖 |
+| <img src="../img/pack_wpn_st22_magiciainsstuff.png" width="48"> `WEAPON2_ST22_MAGICIAN` | 0x637d24 | 魔術師の杖 |
+| <img src="../img/pack_wpn_st23_darkmagicianstuff.png" width="48"> `WEAPON2_ST23_TAMECHAN1` | 0x637da4 | カースロッド |
+| <img src="../img/pack_wpn_st24_lunastaff.png" width="48"> `WEAPON2_ST24_MANA` | 0x637e24 | マナロッド |
+| <img src="../img/pack_wpn_st25_necrostaff.png" width="48"> `WEAPON2_ST25_NECROMANCER` | 0x637ea4 | 死霊術士の杖 |
+| <img src="../img/pack_wpn_st26_sourcereless.png" width="48"> `WEAPON2_ST26_SORCERESS` | 0x637f24 | 魔女の杖 |
+| <img src="../img/pack_wpn_st27_kanjara.png" width="48"> `WEAPON2_ST27_CONJURER` | 0x637fa4 | 奇術師の杖 |
+| <img src="../img/pack_wpn_st28_crystalrod.png" width="48"> `WEAPON2_ST28_JEM` | 0x638024 | ジェムスタッフ |
+| <img src="../img/pack_wpn_st29_card_staff.png" width="48"> `WEAPON2_ST29_SHINKI` | 0x6380a4 | セイクリッドワンド |
 | `WEAPON2_ST30_MAGICALSTAFF` | 0x638124 | ★クリスタルワンド |
-| `WEAPON2_ST31_SHINKI` | 0x6381a4 | マギスタッフ |
-| `WEAPON2_ST32_SHINKI` | 0x638224 | アストラルワンド |
-| `WEAPON2_ST33_SAIJYOUI` | 0x6382a4 | エクリプスロッド |
+| <img src="../img/pack_wpn_st31_zokusei.png" width="48"> `WEAPON2_ST31_SHINKI` | 0x6381a4 | マギスタッフ |
+| <img src="../img/pack_wpn_st32_staff.png" width="48"> `WEAPON2_ST32_SHINKI` | 0x638224 | アストラルワンド |
+| <img src="../img/pack_wpn_st33_highstuff.png" width="48"> `WEAPON2_ST33_SAIJYOUI` | 0x6382a4 | エクリプスロッド |
 | `WEAPON2_ST34_JEM` | 0x638324 | ★ジェムスタッフ |
 | `WEAPON2_ST35_WIZARD_EX1` | 0x6383a4 | ★フレイムスタッフ |
 | `WEAPON2_ST36_WIZARD_EX2` | 0x638424 | ★アイススタッフ |
 | `WEAPON2_ST37_WIZARD_EX3` | 0x6384a4 | ★サンダースタッフ |
-| `WEAPON2_ST38_DRUID_ARCH` | 0x638524 | 大神官の杖 |
-| `WEAPON2_ST39_PRISMATIC` | 0x6385a4 | プリズマティックワンド |
+| <img src="../img/pack_wpn_st38_sorisiter.png" width="48"> `WEAPON2_ST38_DRUID_ARCH` | 0x638524 | 大神官の杖 |
+| <img src="../img/pack_wpn_st39_mp.png" width="48"> `WEAPON2_ST39_PRISMATIC` | 0x6385a4 | プリズマティックワンド |
 | `WEAPON2_ST40_NECRO` | 0x638624 | イビルロッド |
 | `WEAPON2_ST41_D4SHINKI1` | 0x6386a4 | マイティスタッフ |
-| `WEAPON2_ST42_ZOMBI` | 0x638724 | 死霊の杖 |
+| <img src="../img/pack_wpn_st42_liches.png" width="48"> `WEAPON2_ST42_ZOMBI` | 0x638724 | 死霊の杖 |
 | `WEAPON2_ST43_D4SHINKI2` | 0x6387a4 | ラケシスの杖 |
 | `WEAPON2_ST44_D4SUMMON` | 0x638824 | 大魔の杖 |
-| `WEAPON2_ST45_MAGICBROOM` | 0x6388a4 | マジカルブルーム |
-| `WEAPON2_ST46_MYRDDINSTAFF_EX` | 0x638924 | ユーデクスＥＸ |
+| <img src="../img/pack_wpn_st45_houki.png" width="48"> `WEAPON2_ST45_MAGICBROOM` | 0x6388a4 | マジカルブルーム |
+| <img src="../img/pack_wpn_st46_myrddinstuff2.png" width="48"> `WEAPON2_ST46_MYRDDINSTAFF_EX` | 0x638924 | ユーデクスＥＸ |
 | `WEAPON2_ST47_LAMIA` | 0x6389a4 | 蛇女の杖 |
 
 #### `YU` (20)
 
 | id interno | va | jp |
 |---|---|---|
-| `WEAPON2_YU01_WOODBOW` | 0x638a24 | ウッドボウ |
-| `WEAPON2_YU02_BATTLEBOW` | 0x638aa4 | バトルボウ |
-| `WEAPON2_YU03_LONGBOW` | 0x638b24 | ロングボウ |
-| `WEAPON2_YU04_GREATBOW` | 0x638ba4 | グレートボウ |
-| `WEAPON2_YU05_YUMI` | 0x638c24 | 紅桜 |
-| `WEAPON2_YU06_MITHRILBOW` | 0x638ca4 | ミスリルボウ |
-| `WEAPON2_YU07_TSUKINOYUMI` | 0x638d24 | 月の弓 |
+| <img src="../img/pack_wpn_yu01_woodbow.png" width="48"> `WEAPON2_YU01_WOODBOW` | 0x638a24 | ウッドボウ |
+| <img src="../img/pack_wpn_yu02_battlebow.png" width="48"> `WEAPON2_YU02_BATTLEBOW` | 0x638aa4 | バトルボウ |
+| <img src="../img/pack_wpn_yu03_longbow.png" width="48"> `WEAPON2_YU03_LONGBOW` | 0x638b24 | ロングボウ |
+| <img src="../img/pack_wpn_yu04_greatbow.png" width="48"> `WEAPON2_YU04_GREATBOW` | 0x638ba4 | グレートボウ |
+| <img src="../img/pack_wpn_yu05_wayumi.png" width="48"> `WEAPON2_YU05_YUMI` | 0x638c24 | 紅桜 |
+| <img src="../img/pack_wpn_yu06_mythrilbow.png" width="48"> `WEAPON2_YU06_MITHRILBOW` | 0x638ca4 | ミスリルボウ |
+| <img src="../img/pack_wpn_yu07_tsukinoyumi.png" width="48"> `WEAPON2_YU07_TSUKINOYUMI` | 0x638d24 | 月の弓 |
 | `WEAPON2_YU08_LONGBOW` | 0x638da4 | ★ロングボウ |
-| `WEAPON2_YU09_IRONBOW` | 0x638e24 | アイアンボウ |
-| `WEAPON2_YU10` | 0x638ea4 | 狩人の弓 |
+| <img src="../img/pack_wpn_yu09_ironbow.png" width="48"> `WEAPON2_YU09_IRONBOW` | 0x638e24 | アイアンボウ |
+| <img src="../img/pack_wpn_yu10_human.png" width="48"> `WEAPON2_YU10` | 0x638ea4 | 狩人の弓 |
 | `WEAPON2_YU11_BATTLEBOW` | 0x638f24 | ★バトルボウ |
 | `WEAPON2_YU12_GREATBOW` | 0x638fa4 | ★グレートボウ |
-| `WEAPON2_YU13_SHINKI` | 0x639024 | エルブンボウ |
+| <img src="../img/pack_wpn_yu13_elfbow.png" width="48"> `WEAPON2_YU13_SHINKI` | 0x639024 | エルブンボウ |
 | `WEAPON2_YU14_IRONBOW` | 0x6390a4 | ★アイアンボウ |
-| `WEAPON2_YU15_LUGH` | 0x639124 | ルーの弓 |
-| `WEAPON2_YU16_RANGER` | 0x6391a4 | ハンターズボウ |
-| `WEAPON2_YU17_D4SHINKI1` | 0x639224 | アサシンボウ |
-| `WEAPON2_YU18_D4SHINKI2` | 0x6392a4 | ディメンションボウ |
-| `WEAPON2_YU19_D4SHINKI3` | 0x639324 | タスラム |
+| <img src="../img/pack_wpn_yu15_lu.png" width="48"> `WEAPON2_YU15_LUGH` | 0x639124 | ルーの弓 |
+| <img src="../img/pack_wpn_yu16_ranger.png" width="48"> `WEAPON2_YU16_RANGER` | 0x6391a4 | ハンターズボウ |
+| <img src="../img/pack_wpn_yu17_toge.png" width="48"> `WEAPON2_YU17_D4SHINKI1` | 0x639224 | アサシンボウ |
+| <img src="../img/pack_wpn_yu18_kikai.png" width="48"> `WEAPON2_YU18_D4SHINKI2` | 0x6392a4 | ディメンションボウ |
+| <img src="../img/pack_wpn_yu19_tas.png" width="48"> `WEAPON2_YU19_D4SHINKI3` | 0x639324 | タスラム |
 | `WEAPON2_YU20_D4SUMMON` | 0x6393a4 | 大魔の弓 |
 
 ### armor2 — armadura — armaduras corporais e túnicas (94)
@@ -488,100 +488,100 @@ melhoradas (nomes ＥＸ). `WEAPON2_QI10_SHINKI` não tem entrada de texto.
 
 | id interno | va | jp |
 |---|---|---|
-| `ARMOR2_AM01_LEATHER` | 0x63f1a4 | レザーアーマー |
-| `ARMOR2_AM02_JACKET` | 0x63f224 | レザージャケット |
-| `ARMOR2_AM03_CHAINMAIL` | 0x63f2a4 | チェインメイル |
-| `ARMOR2_AM04_SCALE` | 0x63f324 | スケイルメイル |
-| `ARMOR2_AM05_LAMELLAR` | 0x63f3a4 | ラメラアーマー |
-| `ARMOR2_AM06_IRON` | 0x63f424 | アイアンアーマー |
-| `ARMOR2_AM07_PLATE` | 0x63f4a4 | プレートメイル |
-| `ARMOR2_AM08_KNIGHT` | 0x63f524 | ナイトプレート |
-| `ARMOR2_AM09_FLAME` | 0x63f5a4 | フレイムアーマー |
-| `ARMOR2_AM10_ICE` | 0x63f624 | アイスアーマー |
-| `ARMOR2_AM11_SPARK` | 0x63f6a4 | スパークアーマー  |
-| `ARMOR2_AM12_MAGIC` | 0x63f724 | マジックアーマー |
-| `ARMOR2_AM13_CURE` | 0x63f7a4 | キュアアーマー |
-| `ARMOR2_AM14_BRIGANDINE` | 0x63f824 | ブリガンダイン |
-| `ARMOR2_AM15_MITHRIL` | 0x63f8a4 | ミスリルアーマー |
-| `ARMOR2_AM16_DRAGON` | 0x63f924 | ドラゴンアーマー |
-| `ARMOR2_AM17_LEATHER` | 0x63f9a4 | レザークロス |
-| `ARMOR2_AM18_CUCHULAIN` | 0x63fa24 | ソリッドアーマー |
-| `ARMOR2_AM19_SPIKE` | 0x63faa4 | スパイククロス |
-| `ARMOR2_AM20_WHITE` | 0x63fb24 | ホーリーメイル |
-| `ARMOR2_AM21_PIRATE` | 0x63fba4 | パイレーツプレート |
-| `ARMOR2_AM22_BLACK` | 0x63fc24 | デモンズアーマー |
-| `ARMOR2_AM23_CROTH` | 0x63fca4 |  |
-| `ARMOR2_AM24_DEFAULT` | 0x63fd24 | クロスアーマー |
-| `ARMOR2_AM25_FIGHTER` | 0x63fda4 | ファイタークロス |
+| <img src="../img/pack_arm_m_ia_am01_leatherarmor.png" width="48"> `ARMOR2_AM01_LEATHER` | 0x63f1a4 | レザーアーマー |
+| <img src="../img/pack_arm_w_ia_am02_leatherjacket.png" width="48"> `ARMOR2_AM02_JACKET` | 0x63f224 | レザージャケット |
+| <img src="../img/pack_arm_m_ia_am03_chainmail.png" width="48"> `ARMOR2_AM03_CHAINMAIL` | 0x63f2a4 | チェインメイル |
+| <img src="../img/pack_arm_w_ia_am04_scalearmor.png" width="48"> `ARMOR2_AM04_SCALE` | 0x63f324 | スケイルメイル |
+| <img src="../img/pack_arm_w_ia_am05_lamellararmor.png" width="48"> `ARMOR2_AM05_LAMELLAR` | 0x63f3a4 | ラメラアーマー |
+| <img src="../img/pack_arm_w_ia_am06_ironarmor.png" width="48"> `ARMOR2_AM06_IRON` | 0x63f424 | アイアンアーマー |
+| <img src="../img/pack_arm_w_ia_am07_platemail.png" width="48"> `ARMOR2_AM07_PLATE` | 0x63f4a4 | プレートメイル |
+| <img src="../img/pack_arm_m_ia_am08_knightplate.png" width="48"> `ARMOR2_AM08_KNIGHT` | 0x63f524 | ナイトプレート |
+| <img src="../img/pack_arm_w_ia_am09_flamemail.png" width="48"> `ARMOR2_AM09_FLAME` | 0x63f5a4 | フレイムアーマー |
+| <img src="../img/pack_arm_w_ia_am10_icearmor.png" width="48"> `ARMOR2_AM10_ICE` | 0x63f624 | アイスアーマー |
+| <img src="../img/pack_arm_m_ia_am11_sparkarmor.png" width="48"> `ARMOR2_AM11_SPARK` | 0x63f6a4 | スパークアーマー  |
+| <img src="../img/pack_arm_w_ia_am12_magicarmor.png" width="48"> `ARMOR2_AM12_MAGIC` | 0x63f724 | マジックアーマー |
+| <img src="../img/pack_arm_m_ia_am13_curearmor.png" width="48"> `ARMOR2_AM13_CURE` | 0x63f7a4 | キュアアーマー |
+| <img src="../img/pack_arm_w_ia_am14_brigandine.png" width="48"> `ARMOR2_AM14_BRIGANDINE` | 0x63f824 | ブリガンダイン |
+| <img src="../img/pack_arm_m_ia_am15_mythrilarmor.png" width="48"> `ARMOR2_AM15_MITHRIL` | 0x63f8a4 | ミスリルアーマー |
+| <img src="../img/pack_arm_w_ia_am16_dragonarmor.png" width="48"> `ARMOR2_AM16_DRAGON` | 0x63f924 | ドラゴンアーマー |
+| <img src="../img/pack_arm_w_ia_am17_leathercloth.png" width="48"> `ARMOR2_AM17_LEATHER` | 0x63f9a4 | レザークロス |
+| <img src="../img/pack_arm_m_ia_am18_cuchulain.png" width="48"> `ARMOR2_AM18_CUCHULAIN` | 0x63fa24 | ソリッドアーマー |
+| <img src="../img/pack_arm_w_ia_am19_spikecloth.png" width="48"> `ARMOR2_AM19_SPIKE` | 0x63faa4 | スパイククロス |
+| <img src="../img/pack_arm_w_ia_am20_whitearmor.png" width="48"> `ARMOR2_AM20_WHITE` | 0x63fb24 | ホーリーメイル |
+| <img src="../img/pack_arm_m_ia_am21_pirateplate.png" width="48"> `ARMOR2_AM21_PIRATE` | 0x63fba4 | パイレーツプレート |
+| <img src="../img/pack_arm_m_ia_am22_blackarmor.png" width="48"> `ARMOR2_AM22_BLACK` | 0x63fc24 | デモンズアーマー |
+| <img src="../img/pack_arm_w_ia_am23_clotharmor.png" width="48"> `ARMOR2_AM23_CROTH` | 0x63fca4 |  |
+| <img src="../img/pack_arm_w_ia_am24_fightercloth.png" width="48"> `ARMOR2_AM24_DEFAULT` | 0x63fd24 | クロスアーマー |
+| <img src="../img/pack_arm_w_ia_am25_fighterarmor.png" width="48"> `ARMOR2_AM25_FIGHTER` | 0x63fda4 | ファイタークロス |
 | `ARMOR2_AM26_LEATHER` | 0x63fe24 | ★レザーアーマー |
 | `ARMOR2_AM27_JACKET` | 0x63fea4 | ★レザージャケット |
 | `ARMOR2_AM28_CHAINMAIL` | 0x63ff24 | ★チェインメイル |
 | `ARMOR2_AM29_IRON` | 0x63ffa4 | ★アイアンアーマー |
 | `ARMOR2_AM30_CROTH` | 0x640024 | ★クロスアーマー |
 | `ARMOR2_AM31_COPPERCLOTH` | 0x6400a4 | カッパークロス |
-| `ARMOR2_AM32_DAIYOROI` | 0x640124 | 緋染の鎧 |
-| `ARMOR2_AM33_CHAINMALE_EX` | 0x6401a4 | クリムゾンチェイン |
-| `ARMOR2_AM34_CLOTH_EX` | 0x640224 | レイクロス |
-| `ARMOR2_AM35_DWARVEN` | 0x6402a4 | ドワーブンアーマー |
-| `ARMOR2_AM36_REFLECT` | 0x640324 | リフレクトアーマー |
+| <img src="../img/pack_arm_w_ia_am32_yoroi.png" width="48"> `ARMOR2_AM32_DAIYOROI` | 0x640124 | 緋染の鎧 |
+| <img src="../img/pack_arm_m_ia_am33_chainmail2.png" width="48"> `ARMOR2_AM33_CHAINMALE_EX` | 0x6401a4 | クリムゾンチェイン |
+| <img src="../img/pack_arm_w_ia_am34_clotharmor2.png" width="48"> `ARMOR2_AM34_CLOTH_EX` | 0x640224 | レイクロス |
+| <img src="../img/pack_arm_m_ia_am35_dwarfcloth.png" width="48"> `ARMOR2_AM35_DWARVEN` | 0x6402a4 | ドワーブンアーマー |
+| <img src="../img/pack_arm_w_ia_am36_reflectarmor.png" width="48"> `ARMOR2_AM36_REFLECT` | 0x640324 | リフレクトアーマー |
 | `ARMOR2_AM37_SCALE` | 0x6403a4 | ★スケイルメイル |
-| `ARMOR2_AM38_BONE` | 0x640424 | リブアーマー |
-| `ARMOR2_AM39_SHINKI` | 0x6404a4 | ジェネラルアーマー |
+| <img src="../img/pack_arm_m_ia_am38_bone.png" width="48"> `ARMOR2_AM38_BONE` | 0x640424 | リブアーマー |
+| <img src="../img/pack_arm_m_ia_am39_paladin.png" width="48"> `ARMOR2_AM39_SHINKI` | 0x6404a4 | ジェネラルアーマー |
 | `ARMOR2_AM40_SOURAN` | 0x640524 | 蒼藍の鎧 |
-| `ARMOR2_AM41_RUFFIAN` | 0x6405a4 | ラフィアンコート |
-| `ARMOR2_AM42_D4SHINKI1` | 0x640624 | アリサノスアーマー |
+| <img src="../img/pack_arm_m_ia_am41_sand.png" width="48"> `ARMOR2_AM41_RUFFIAN` | 0x6405a4 | ラフィアンコート |
+| <img src="../img/pack_arm_w_ia_am42_kishi.png" width="48"> `ARMOR2_AM42_D4SHINKI1` | 0x640624 | アリサノスアーマー |
 | `ARMOR2_AM43_D4SHINKI2` | 0x6406a4 | ブラッディクロス |
-| `ARMOR2_AM44_BARBAROS` | 0x640724 | バルバロスアーマー |
-| `ARMOR2_AM45_HUNTER` | 0x6407a4 | ハンターズクロス |
+| <img src="../img/pack_arm_m_ia_am44_barbarian.png" width="48"> `ARMOR2_AM44_BARBAROS` | 0x640724 | バルバロスアーマー |
+| <img src="../img/pack_arm_m_ia_am45_ranger.png" width="48"> `ARMOR2_AM45_HUNTER` | 0x6407a4 | ハンターズクロス |
 | `ARMOR2_AM46_D4SUMMON` | 0x640824 | 大魔の鎧 |
-| `ARMOR2_AM47_LORD` | 0x6408a4 | ロードオブローズ |
+| <img src="../img/pack_arm_m_ia_am47_load.png" width="48"> `ARMOR2_AM47_LORD` | 0x6408a4 | ロードオブローズ |
 | `ARMOR2_AM48_D4SHINKI3` | 0x640924 | アルカナローブ |
-| `ARMOR2_AM49_DRAGON_EX` | 0x6409a4 | ドラゴニックアーマー |
-| `ARMOR2_AM50_SHADOWROBE_EX` | 0x640a24 | マーブルローブ |
-| `ARMOR2_AM51_KINGROBE_EX` | 0x640aa4 | エンペラーローブ |
-| `ARMOR2_AM52_NINJYA_EX` | 0x640b24 | 風魔装束 |
-| `ARMOR2_RO01_ROBE` | 0x640ba4 | メイジローブ |
+| <img src="../img/pack_arm_w_ia_am49_dragonarmor2.png" width="48"> `ARMOR2_AM49_DRAGON_EX` | 0x6409a4 | ドラゴニックアーマー |
+| <img src="../img/pack_arm_m_ia_am50_shadowrobe2.png" width="48"> `ARMOR2_AM50_SHADOWROBE_EX` | 0x640a24 | マーブルローブ |
+| <img src="../img/pack_arm_m_ia_am51_kingrobe2.png" width="48"> `ARMOR2_AM51_KINGROBE_EX` | 0x640aa4 | エンペラーローブ |
+| <img src="../img/pack_arm_w_ia_am52_shinobi2.png" width="48"> `ARMOR2_AM52_NINJYA_EX` | 0x640b24 | 風魔装束 |
+| <img src="../img/pack_arm_m_ia_ro01_robe.png" width="48"> `ARMOR2_RO01_ROBE` | 0x640ba4 | メイジローブ |
 | `ARMOR2_RO02_TUNIC` | 0x640c24 | フードローブ |
-| `ARMOR2_RO03_MAGEROBE` | 0x640ca4 |  |
-| `ARMOR2_RO04_HOODROBE` | 0x640d24 |  |
+| <img src="../img/pack_arm_m_ia_ro03_magerobe.png" width="48"> `ARMOR2_RO03_MAGEROBE` | 0x640ca4 |  |
+| <img src="../img/pack_arm_w_ia_ro04_hoodrobe.png" width="48"> `ARMOR2_RO04_HOODROBE` | 0x640d24 |  |
 | `ARMOR2_RO05_SIRCOAT` | 0x640da4 |  |
-| `ARMOR2_RO06_CHASUBLE` | 0x640e24 | カズラ |
-| `ARMOR2_RO07_DALMATICA` | 0x640ea4 | ダルマティカ |
-| `ARMOR2_RO08_SHADOWROBE` | 0x640f24 | シャドウローブ |
-| `ARMOR2_RO09_KINGROBE` | 0x640fa4 | キングローブ |
-| `ARMOR2_RO10_PROTECTROBE` | 0x641024 | プロテクトローブ |
-| `ARMOR2_RO11_WIZARDROBE` | 0x6410a4 | ウィザードローブ |
-| `ARMOR2_RO12_BURGLARJACKET` | 0x641124 | バーグラージャケット |
-| `ARMOR2_RO13_SOULROBE` | 0x6411a4 | ソウルローブ |
+| <img src="../img/pack_arm_w_ia_ro06_chasuble.png" width="48"> `ARMOR2_RO06_CHASUBLE` | 0x640e24 | カズラ |
+| <img src="../img/pack_arm_w_ia_ro07_dalmatica.png" width="48"> `ARMOR2_RO07_DALMATICA` | 0x640ea4 | ダルマティカ |
+| <img src="../img/pack_arm_w_ia_ro08_shadowrobe.png" width="48"> `ARMOR2_RO08_SHADOWROBE` | 0x640f24 | シャドウローブ |
+| <img src="../img/pack_arm_m_ia_ro09_kingrobe.png" width="48"> `ARMOR2_RO09_KINGROBE` | 0x640fa4 | キングローブ |
+| <img src="../img/pack_arm_w_ia_ro10_protectrobe.png" width="48"> `ARMOR2_RO10_PROTECTROBE` | 0x641024 | プロテクトローブ |
+| <img src="../img/pack_arm_w_ia_ro11_wizardrobe.png" width="48"> `ARMOR2_RO11_WIZARDROBE` | 0x6410a4 | ウィザードローブ |
+| <img src="../img/pack_arm_w_ia_ro12_burglarjacket.png" width="48"> `ARMOR2_RO12_BURGLARJACKET` | 0x641124 | バーグラージャケット |
+| <img src="../img/pack_arm_w_ia_ro13_soulrobe.png" width="48"> `ARMOR2_RO13_SOULROBE` | 0x6411a4 | ソウルローブ |
 | `ARMOR2_RO14_MAGEROBE` | 0x641224 | ★メイジローブ |
 | `ARMOR2_RO15_HOODROBE` | 0x6412a4 | ★フードローブ |
 | `ARMOR2_RO16_DALMATICA` | 0x641324 | ★ダルマティカ |
 | `ARMOR2_RO17_WARLOCKROBE` | 0x6413a4 | ウォーロックローブ |
 | `ARMOR2_RO18_DEGRATICA` | 0x641424 | ディグラティカ |
-| `ARMOR2_RO19_MUSSU1` | 0x6414a4 |  |
-| `ARMOR2_RO20_WAKKY1` | 0x641524 | リンガーローブ |
-| `ARMOR2_RO21_TAMECHAN1` | 0x6415a4 | カオスローブ |
-| `ARMOR2_RO22_WAKKY2` | 0x641624 | モンクフロック |
-| `ARMOR2_RO23_SHAMANQUILT` | 0x6416a4 | セイントローブ |
-| `ARMOR2_RO24_HOOD_EX` | 0x641724 | シャーマンキルト |
-| `ARMOR2_RO25_ELVEN` | 0x6417a4 | エンハンスローブ |
+| <img src="../img/pack_arm_m_ia_ro19_highpriest.png" width="48"> `ARMOR2_RO19_MUSSU1` | 0x6414a4 |  |
+| <img src="../img/pack_arm_m_ia_ro20_madourobe.png" width="48"> `ARMOR2_RO20_WAKKY1` | 0x641524 | リンガーローブ |
+| <img src="../img/pack_arm_m_ia_ro21_priest.png" width="48"> `ARMOR2_RO21_TAMECHAN1` | 0x6415a4 | カオスローブ |
+| <img src="../img/pack_arm_w_ia_ro22_seraphimrobe.png" width="48"> `ARMOR2_RO22_WAKKY2` | 0x641624 | モンクフロック |
+| <img src="../img/pack_arm_m_ia_ro23_voodoo.png" width="48"> `ARMOR2_RO23_SHAMANQUILT` | 0x6416a4 | セイントローブ |
+| <img src="../img/pack_arm_w_ia_ro24_hoodrobe.png" width="48"> `ARMOR2_RO24_HOOD_EX` | 0x641724 | シャーマンキルト |
+| <img src="../img/pack_arm_w_ia_ro25_elf.png" width="48"> `ARMOR2_RO25_ELVEN` | 0x6417a4 | エンハンスローブ |
 | `ARMOR2_RO26_CHASUBLE` | 0x641824 | ★カズラ |
 | `ARMOR2_RO27_SHADOWROBE` | 0x6418a4 | ★シャドウローブ |
-| `ARMOR2_RO28_SHINKI` | 0x641924 | セイクリッドローブ |
-| `ARMOR2_RO29_SHINKI` | 0x6419a4 | アストラルローブ |
+| <img src="../img/pack_arm_m_ia_ro28_cardrobe.png" width="48"> `ARMOR2_RO28_SHINKI` | 0x641924 | セイクリッドローブ |
+| <img src="../img/pack_arm_m_ia_ro29_astralrobe.png" width="48"> `ARMOR2_RO29_SHINKI` | 0x6419a4 | アストラルローブ |
 | `ARMOR2_RO30_PLATE` | 0x641a24 | ★プレートメイル |
-| `ARMOR2_RO31_SHINKI` | 0x641aa4 | バンデットメイル |
-| `ARMOR2_RO32_SHINKI` | 0x641b24 | 忍者装束 |
+| <img src="../img/pack_arm_w_ia_ro31_sanzoku.png" width="48"> `ARMOR2_RO31_SHINKI` | 0x641aa4 | バンデットメイル |
+| <img src="../img/pack_arm_w_ia_ro32_shinobi.png" width="48"> `ARMOR2_RO32_SHINKI` | 0x641b24 | 忍者装束 |
 | `ARMOR2_RO33_LEATHER` | 0x641ba4 | ★レザークロス |
-| `ARMOR2_RO34_SHINKI` | 0x641c24 | アビスローブ |
-| `ARMOR2_RO35_SHINKI` | 0x641ca4 | ルミナスローブ |
-| `ARMOR2_RO36_SHINKI` | 0x641d24 | ノートリアスジャケット |
+| <img src="../img/pack_arm_m_ia_ro34_daimahou.png" width="48"> `ARMOR2_RO34_SHINKI` | 0x641c24 | アビスローブ |
+| <img src="../img/pack_arm_m_ia_ro35_sikyo.png" width="48"> `ARMOR2_RO35_SHINKI` | 0x641ca4 | ルミナスローブ |
+| <img src="../img/pack_arm_w_ia_ro36_daitouzoku.png" width="48"> `ARMOR2_RO36_SHINKI` | 0x641d24 | ノートリアスジャケット |
 | `ARMOR2_RO37_ROZETTA` | 0x641da4 | ロゼッタローブ |
 | `ARMOR2_RO38_MISTICAL` | 0x641e24 | オラクルローブ |
 | `ARMOR2_RO39_DEMONIC` | 0x641ea4 | デモニックローブ |
-| `ARMOR2_RO40_HERMIT` | 0x641f24 | グレイスローブ |
+| <img src="../img/pack_arm_w_ia_ro40_hermit.png" width="48"> `ARMOR2_RO40_HERMIT` | 0x641f24 | グレイスローブ |
 | `ARMOR2_RO41_NECRO` | 0x641fa4 | イビルローブ |
-| `ARMOR2_RO42_KENSEI` | 0x642024 | 拳聖の僧服 |
+| <img src="../img/pack_arm_w_ia_ro42_monk.png" width="48"> `ARMOR2_RO42_KENSEI` | 0x642024 | 拳聖の僧服 |
 
 ### helm2 — elmos (100)
 
@@ -589,106 +589,106 @@ chapéus, elmos, coroas, máscaras, óculos
 
 | id interno | va | jp |
 |---|---|---|
-| `HELM2_HM00_D4SHINKI4` | 0x645e24 | アルカナベール |
-| `HELM2_HM01_HALF` | 0x645ea4 | ハーフヘルム |
-| `HELM2_HM02_IRON` | 0x645f24 | アイアンヘルム |
-| `HELM2_HM03_VIKING` | 0x645fa4 | ヴァイキングヘルム |
-| `HELM2_HM04_BARREL` | 0x646024 | バレルヘルム |
-| `HELM2_HM05_GREAT` | 0x6460a4 | グレートヘルム |
-| `HELM2_HM06_MITHRIL` | 0x646124 | ミスリルヘルム |
-| `HELM2_HM07_MAGIC` | 0x6461a4 | マジックヘルム |
-| `HELM2_HM08_KNIGHT` | 0x646224 | ナイトヘルム |
-| `HELM2_HM09_BANDANNA` | 0x6462a4 | バンダナ |
-| `HELM2_HM10_LEATHERHAT` | 0x646324 | レザーキャップ |
-| `HELM2_HM11_WINGHAT` | 0x6463a4 | ウィングヘルム |
-| `HELM2_HM12_KETTLEHAT` | 0x646424 | ケトルハット |
-| `HELM2_HM13_MAGICIANHAT` | 0x6464a4 | マジシャンハット |
-| `HELM2_HM14_MITLA` | 0x646524 | ミトラ |
-| `HELM2_HM15_WARLOCKCAP` | 0x6465a4 | ウォーロックキャップ |
-| `HELM2_HM16_SORCERERCAP` | 0x646624 | ソーサラーキャップ |
-| `HELM2_HM17_CLERICCAP` | 0x6466a4 | クレリックキャップ |
-| `HELM2_HM18_BISHOPCAP` | 0x646724 | ビショップキャップ |
-| `HELM2_HM19_CROTHCAP` | 0x6467a4 | クロスキャップ |
-| `HELM2_HM20_PIRATESHAT` | 0x646824 | パイレーツハット |
-| `HELM2_HM21_TIARA` | 0x6468a4 | ティアラ |
-| `HELM2_HM22_CIRCLET` | 0x646924 | サークレット |
-| `HELM2_HM23_WHITE` | 0x6469a4 | ホーリーヘルム |
-| `HELM2_HM24_BLACK` | 0x646a24 | デモンズヘルム |
-| `HELM2_HM25_WIZARDHAT` | 0x646aa4 | ウィザードハット |
-| `HELM2_HM26_PROTECTHAT` | 0x646b24 | プロテクトハット |
-| `HELM2_HM27_SPIKECAP` | 0x646ba4 | スパイクキャップ |
-| `HELM2_HM28_KINGCROWN` | 0x646c24 | キングクラウン |
-| `HELM2_HM29_SNAKEHEAD` | 0x646ca4 | スネークヘッド |
+| <img src="../img/pack_arm_m_ia_hm00_zensyoku.png" width="48"> `HELM2_HM00_D4SHINKI4` | 0x645e24 | アルカナベール |
+| <img src="../img/pack_arm_m_ia_hm01_halfhelm.png" width="48"> `HELM2_HM01_HALF` | 0x645ea4 | ハーフヘルム |
+| <img src="../img/pack_arm_w_ia_hm02_ironhelm.png" width="48"> `HELM2_HM02_IRON` | 0x645f24 | アイアンヘルム |
+| <img src="../img/pack_arm_m_ia_hm03_vikinghelm.png" width="48"> `HELM2_HM03_VIKING` | 0x645fa4 | ヴァイキングヘルム |
+| <img src="../img/pack_arm_w_ia_hm04_barrelhelm.png" width="48"> `HELM2_HM04_BARREL` | 0x646024 | バレルヘルム |
+| <img src="../img/pack_arm_w_ia_hm05_greathelm.png" width="48"> `HELM2_HM05_GREAT` | 0x6460a4 | グレートヘルム |
+| <img src="../img/pack_arm_m_ia_hm06_mythrilhelm.png" width="48"> `HELM2_HM06_MITHRIL` | 0x646124 | ミスリルヘルム |
+| <img src="../img/pack_arm_w_ia_hm07_magichelm.png" width="48"> `HELM2_HM07_MAGIC` | 0x6461a4 | マジックヘルム |
+| <img src="../img/pack_arm_w_ia_hm08_knighthelm.png" width="48"> `HELM2_HM08_KNIGHT` | 0x646224 | ナイトヘルム |
+| <img src="../img/pack_arm_m_ia_hm09_bandana.png" width="48"> `HELM2_HM09_BANDANNA` | 0x6462a4 | バンダナ |
+| <img src="../img/pack_arm_m_ia_hm10_leatherhat.png" width="48"> `HELM2_HM10_LEATHERHAT` | 0x646324 | レザーキャップ |
+| <img src="../img/pack_arm_w_ia_hm11_winghelm.png" width="48"> `HELM2_HM11_WINGHAT` | 0x6463a4 | ウィングヘルム |
+| <img src="../img/pack_arm_m_ia_hm12_kettlehat.png" width="48"> `HELM2_HM12_KETTLEHAT` | 0x646424 | ケトルハット |
+| <img src="../img/pack_arm_m_ia_hm13_magicianhat.png" width="48"> `HELM2_HM13_MAGICIANHAT` | 0x6464a4 | マジシャンハット |
+| <img src="../img/pack_arm_w_ia_hm14_mitra.png" width="48"> `HELM2_HM14_MITLA` | 0x646524 | ミトラ |
+| <img src="../img/pack_arm_m_ia_hm15_warlockcap.png" width="48"> `HELM2_HM15_WARLOCKCAP` | 0x6465a4 | ウォーロックキャップ |
+| <img src="../img/pack_arm_w_ia_hm16_sorcerercap.png" width="48"> `HELM2_HM16_SORCERERCAP` | 0x646624 | ソーサラーキャップ |
+| <img src="../img/pack_arm_w_ia_hm17_clericcap.png" width="48"> `HELM2_HM17_CLERICCAP` | 0x6466a4 | クレリックキャップ |
+| <img src="../img/pack_arm_w_ia_hm18_bishopcap.png" width="48"> `HELM2_HM18_BISHOPCAP` | 0x646724 | ビショップキャップ |
+| <img src="../img/pack_arm_m_ia_hm19_clothcap.png" width="48"> `HELM2_HM19_CROTHCAP` | 0x6467a4 | クロスキャップ |
+| <img src="../img/pack_arm_m_ia_hm20_piratehat.png" width="48"> `HELM2_HM20_PIRATESHAT` | 0x646824 | パイレーツハット |
+| <img src="../img/pack_arm_w_ia_hm21_tiara.png" width="48"> `HELM2_HM21_TIARA` | 0x6468a4 | ティアラ |
+| <img src="../img/pack_arm_w_ia_hm22_circlet.png" width="48"> `HELM2_HM22_CIRCLET` | 0x646924 | サークレット |
+| <img src="../img/pack_arm_w_ia_hm23_whitehelm.png" width="48"> `HELM2_HM23_WHITE` | 0x6469a4 | ホーリーヘルム |
+| <img src="../img/pack_arm_w_ia_hm24_blackhelm.png" width="48"> `HELM2_HM24_BLACK` | 0x646a24 | デモンズヘルム |
+| <img src="../img/pack_arm_w_ia_hm25_wizardhat.png" width="48"> `HELM2_HM25_WIZARDHAT` | 0x646aa4 | ウィザードハット |
+| <img src="../img/pack_arm_w_ia_hm26_protecthat.png" width="48"> `HELM2_HM26_PROTECTHAT` | 0x646b24 | プロテクトハット |
+| <img src="../img/pack_arm_w_ia_hm27_spikecap.png" width="48"> `HELM2_HM27_SPIKECAP` | 0x646ba4 | スパイクキャップ |
+| <img src="../img/pack_arm_w_ia_hm28_kingcrown.png" width="48"> `HELM2_HM28_KINGCROWN` | 0x646c24 | キングクラウン |
+| <img src="../img/pack_arm_m_ia_hm29_snakehead.png" width="48"> `HELM2_HM29_SNAKEHEAD` | 0x646ca4 | スネークヘッド |
 | `HELM2_HM30_IRON` | 0x646d24 | ★アイアンヘルム |
 | `HELM2_HM31_LEATHERHAT` | 0x646da4 | ★レザーキャップ |
 | `HELM2_HM32_MAGICIANHAT` | 0x646e24 | ★マジシャンハット |
 | `HELM2_HM33_CLERICCAP` | 0x646ea4 | ★クレリックキャップ |
-| `HELM2_HM34_SCALE` | 0x646f24 | スケイルヘルム |
+| <img src="../img/pack_arm_w_ia_hm34_scalehelm.png" width="48"> `HELM2_HM34_SCALE` | 0x646f24 | スケイルヘルム |
 | `HELM2_HM35_RUSTYHAT` | 0x646fa4 | ラスティハット |
 | `HELM2_HM36_WARLOCKCAP_EX` | 0x647024 | チャームキャップ |
-| `HELM2_HM37_CLERICCAP_EX` | 0x6470a4 | インディゴバニット |
-| `HELM2_HM38_HANNYA` | 0x647124 | 白鬼の兜 |
-| `HELM2_HM39_DIVINECIRCLET` | 0x6471a4 | ディバインサークレット |
-| `HELM2_HM40_QUEENTIARA` | 0x647224 | クイーンティアラ |
-| `HELM2_HM41_UNICORNHEAD` | 0x6472a4 | ユニコーンヘッド |
-| `HELM2_HM42_CUREHELM` | 0x647324 | キュアヘルム |
-| `HELM2_HM43_SHADOWHAT` | 0x6473a4 | シャドウハット |
-| `HELM2_HM44_NISOUZUKIN` | 0x647424 | フライアベール |
-| `HELM2_HM45_CROWN` | 0x6474a4 | ゴールドクラウン |
-| `HELM2_HM46_EARRING1` | 0x647524 | ウェイバーピアス |
-| `HELM2_HM47_GLASS` | 0x6475a4 | メガネ |
-| `HELM2_HM48_GOBLINMASK` | 0x647624 | ゴブリンマスク |
-| `HELM2_HM49_EARRING2` | 0x6476a4 | チャームピアス |
-| `HELM2_HM50_CLOWNMASK` | 0x647724 | ファントムマスク |
-| `HELM2_HM51_BARANCHE` | 0x6477a4 | バランチェ |
-| `HELM2_HM52_EVILEYE` | 0x647824 | イービルアイ |
-| `HELM2_HM53_VEIL` | 0x6478a4 | ワイアベール |
-| `HELM2_HM54_EYECAP` | 0x647924 | ブラインドマスク |
-| `HELM2_HM55_VALKYRIE` | 0x6479a4 | ヴァルキリエ |
-| `HELM2_HM56_IRONMASK` | 0x647a24 | アイアンマスク |
-| `HELM2_HM57_SKULLFACE` | 0x647aa4 | スカルフェイス |
-| `HELM2_HM58_BARRETTE` | 0x647b24 | ファルコンバレッタ |
-| `HELM2_HM59_PIERCE` | 0x647ba4 | リングピアス |
-| `HELM2_HM60_MASQUERADE` | 0x647c24 | マスカレイドマスク |
+| <img src="../img/pack_arm_m_ia_hm37_clericcap2.png" width="48"> `HELM2_HM37_CLERICCAP_EX` | 0x6470a4 | インディゴバニット |
+| <img src="../img/pack_arm_m_ia_hm38_kabuto.png" width="48"> `HELM2_HM38_HANNYA` | 0x647124 | 白鬼の兜 |
+| <img src="../img/pack_arm_w_ia_hm39_divinecirclet.png" width="48"> `HELM2_HM39_DIVINECIRCLET` | 0x6471a4 | ディバインサークレット |
+| <img src="../img/pack_arm_w_ia_hm40_goldtiara.png" width="48"> `HELM2_HM40_QUEENTIARA` | 0x647224 | クイーンティアラ |
+| <img src="../img/pack_arm_m_ia_hm41_drillcirclet.png" width="48"> `HELM2_HM41_UNICORNHEAD` | 0x6472a4 | ユニコーンヘッド |
+| <img src="../img/pack_arm_w_ia_hm42_curehelm.png" width="48"> `HELM2_HM42_CUREHELM` | 0x647324 | キュアヘルム |
+| <img src="../img/pack_arm_m_ia_hm43_shadowhat.png" width="48"> `HELM2_HM43_SHADOWHAT` | 0x6473a4 | シャドウハット |
+| <img src="../img/pack_arm_m_ia_hm44_sistercap.png" width="48"> `HELM2_HM44_NISOUZUKIN` | 0x647424 | フライアベール |
+| <img src="../img/pack_arm_m_ia_hm45_crown.png" width="48"> `HELM2_HM45_CROWN` | 0x6474a4 | ゴールドクラウン |
+| <img src="../img/pack_arm_w_ia_hm46_earring.png" width="48"> `HELM2_HM46_EARRING1` | 0x647524 | ウェイバーピアス |
+| <img src="../img/pack_arm_m_ia_hm47_megane.png" width="48"> `HELM2_HM47_GLASS` | 0x6475a4 | メガネ |
+| <img src="../img/pack_arm_w_ia_hm48_mask.png" width="48"> `HELM2_HM48_GOBLINMASK` | 0x647624 | ゴブリンマスク |
+| <img src="../img/pack_arm_w_ia_hm49_earring.png" width="48"> `HELM2_HM49_EARRING2` | 0x6476a4 | チャームピアス |
+| <img src="../img/pack_arm_w_ia_hm50_kamen.png" width="48"> `HELM2_HM50_CLOWNMASK` | 0x647724 | ファントムマスク |
+| <img src="../img/pack_arm_m_ia_hm51_ironplate.png" width="48"> `HELM2_HM51_BARANCHE` | 0x6477a4 | バランチェ |
+| <img src="../img/pack_arm_w_ia_hm52_katame.png" width="48"> `HELM2_HM52_EVILEYE` | 0x647824 | イービルアイ |
+| <img src="../img/pack_arm_w_ia_hm53_faceveil.png" width="48"> `HELM2_HM53_VEIL` | 0x6478a4 | ワイアベール |
+| <img src="../img/pack_arm_w_ia_hm54_gurasan.png" width="48"> `HELM2_HM54_EYECAP` | 0x647924 | ブラインドマスク |
+| <img src="../img/pack_arm_m_ia_hm55_valkyrie.png" width="48"> `HELM2_HM55_VALKYRIE` | 0x6479a4 | ヴァルキリエ |
+| <img src="../img/pack_arm_m_ia_hm56_ironmask.png" width="48"> `HELM2_HM56_IRONMASK` | 0x647a24 | アイアンマスク |
+| <img src="../img/pack_arm_w_ia_hm57_skullface.png" width="48"> `HELM2_HM57_SKULLFACE` | 0x647aa4 | スカルフェイス |
+| <img src="../img/pack_arm_w_ia_hm58_hachimaki.png" width="48"> `HELM2_HM58_BARRETTE` | 0x647b24 | ファルコンバレッタ |
+| <img src="../img/pack_arm_w_ia_hm59_chakramring.png" width="48"> `HELM2_HM59_PIERCE` | 0x647ba4 | リングピアス |
+| <img src="../img/pack_arm_w_ia_hm60_masquerade.png" width="48"> `HELM2_HM60_MASQUERADE` | 0x647c24 | マスカレイドマスク |
 | `HELM2_HM61_MONOCLE` | 0x647ca4 | モノクル |
-| `HELM2_HM62_SPIDERFRAME` | 0x647d24 | スパイダーフレーム |
-| `HELM2_HM63_WARRIORFRAME` | 0x647da4 | ウォーリアーフレーム |
+| <img src="../img/pack_arm_m_ia_hm62_wonderful.png" width="48"> `HELM2_HM62_SPIDERFRAME` | 0x647d24 | スパイダーフレーム |
+| <img src="../img/pack_arm_m_ia_hm63_mooncirclet.png" width="48"> `HELM2_HM63_WARRIORFRAME` | 0x647da4 | ウォーリアーフレーム |
 | `HELM2_HM64_SCALE` | 0x647e24 | ★スケイルヘルム |
 | `HELM2_HM65_WARLOCKCAP` | 0x647ea4 | ★ウォーロックキャップ |
 | `HELM2_HM66_SORCERERCAP` | 0x647f24 | ★ソーサラーキャップ |
 | `HELM2_HM67_MITLA` | 0x647fa4 | ★ミトラ |
-| `HELM2_HM68_BONE` | 0x648024 | スカルヘルム |
-| `HELM2_HM69_DRAGON` | 0x6480a4 | ドラゴンヘルム |
-| `HELM2_HM70_SHINKI` | 0x648124 | セイクリッドハット |
-| `HELM2_HM71_SHINKI` | 0x6481a4 | アビスハット |
-| `HELM2_HM72_SHINKI` | 0x648224 | アストラルハット |
+| <img src="../img/pack_arm_m_ia_hm68_bone.png" width="48"> `HELM2_HM68_BONE` | 0x648024 | スカルヘルム |
+| <img src="../img/pack_arm_m_ia_hm69_dragonhelm.png" width="48"> `HELM2_HM69_DRAGON` | 0x6480a4 | ドラゴンヘルム |
+| <img src="../img/pack_arm_m_ia_hm70_cardmahou.png" width="48"> `HELM2_HM70_SHINKI` | 0x648124 | セイクリッドハット |
+| <img src="../img/pack_arm_m_ia_hm71_daimahou.png" width="48"> `HELM2_HM71_SHINKI` | 0x6481a4 | アビスハット |
+| <img src="../img/pack_arm_w_ia_hm72_astralhat.png" width="48"> `HELM2_HM72_SHINKI` | 0x648224 | アストラルハット |
 | `HELM2_HM73_BANDANNA` | 0x6482a4 | ★バンダナ |
-| `HELM2_HM74_SHINKI` | 0x648324 | 忍者頭巾 |
+| <img src="../img/pack_arm_m_ia_hm74_shinobi.png" width="48"> `HELM2_HM74_SHINKI` | 0x648324 | 忍者頭巾 |
 | `HELM2_HM75_BARREL` | 0x6483a4 | ★バレルヘルム |
-| `HELM2_HM76_SHINKI` | 0x648424 | ジェネラルヘルム |
-| `HELM2_HM77_SHINKI` | 0x6484a4 | ルミナスキャップ |
-| `HELM2_HM78_SHINKI` | 0x648524 | ノートリアスハット |
+| <img src="../img/pack_arm_w_ia_hm76_paladin.png" width="48"> `HELM2_HM76_SHINKI` | 0x648424 | ジェネラルヘルム |
+| <img src="../img/pack_arm_w_ia_hm77_sikyo.png" width="48"> `HELM2_HM77_SHINKI` | 0x6484a4 | ルミナスキャップ |
+| <img src="../img/pack_arm_m_ia_hm78_daitouzoku.png" width="48"> `HELM2_HM78_SHINKI` | 0x648524 | ノートリアスハット |
 | `HELM2_HM79_SNAKEHEAD` | 0x6485a4 | ★スネークヘッド |
-| `HELM2_HM80_SOURAN` | 0x648624 | 蒼藍の兜 |
+| <img src="../img/pack_arm_w_ia_hm80_china.png" width="48"> `HELM2_HM80_SOURAN` | 0x648624 | 蒼藍の兜 |
 | `HELM2_HM81_ROZETTA` | 0x6486a4 | ロゼッタハット |
-| `HELM2_HM82_MISTICAL` | 0x648724 | オラクルクラウン |
-| `HELM2_HM83_RAFFIAN` | 0x6487a4 | ラフィアンターバン |
-| `HELM2_HM84_D4SHINKI2` | 0x648824 | アリサノスヘルム |
-| `HELM2_HM85_DEMONIC` | 0x6488a4 | デモニックヘルム |
-| `HELM2_HM86_HERMIT` | 0x648924 | グレイスクラウン |
+| <img src="../img/pack_arm_w_ia_hm82_sinwa.png" width="48"> `HELM2_HM82_MISTICAL` | 0x648724 | オラクルクラウン |
+| <img src="../img/pack_arm_m_ia_hm83_sand.png" width="48"> `HELM2_HM83_RAFFIAN` | 0x6487a4 | ラフィアンターバン |
+| <img src="../img/pack_arm_w_ia_hm84_kishi.png" width="48"> `HELM2_HM84_D4SHINKI2` | 0x648824 | アリサノスヘルム |
+| <img src="../img/pack_arm_m_ia_hm85_ankoku.png" width="48"> `HELM2_HM85_DEMONIC` | 0x6488a4 | デモニックヘルム |
+| <img src="../img/pack_arm_m_ia_hm86_hermit.png" width="48"> `HELM2_HM86_HERMIT` | 0x648924 | グレイスクラウン |
 | `HELM2_HM87_D4SHINKI3` | 0x6489a4 | ブラッディハット |
-| `HELM2_HM88_PRINCESS` | 0x648a24 | プリンセスティアラ |
-| `HELM2_HM89_ROYAL` | 0x648aa4 | ロイヤルクラウン |
-| `HELM2_HM90_D4SHINKI1` | 0x648b24 | ラムナミスバレッタ |
+| <img src="../img/pack_arm_m_ia_hm88_tiara.png" width="48"> `HELM2_HM88_PRINCESS` | 0x648a24 | プリンセスティアラ |
+| <img src="../img/pack_arm_w_ia_hm89_circlet.png" width="48"> `HELM2_HM89_ROYAL` | 0x648aa4 | ロイヤルクラウン |
+| <img src="../img/pack_arm_m_ia_hm90_falconjyoui.png" width="48"> `HELM2_HM90_D4SHINKI1` | 0x648b24 | ラムナミスバレッタ |
 | `HELM2_HM91_ALTORISER` | 0x648ba4 | アルトライザー |
-| `HELM2_HM92_BARBAROS` | 0x648c24 | バルバロスヘルム |
-| `HELM2_HM93_KENSEI` | 0x648ca4 | 拳聖頭巾 |
-| `HELM2_HM94_EVIL` | 0x648d24 | イビルハット |
-| `HELM2_HM95_HUNTER` | 0x648da4 | ハンターズベレー |
-| `HELM2_HM96_DRAGON_EX` | 0x648e24 | ドラゴニックヘルム |
-| `HELM2_HM97_SHADOWHAT_EX` | 0x648ea4 | マーブルマスク |
-| `HELM2_HM98_KINGCROWN_EX` | 0x648f24 | エンペラークラウン |
-| `HELM2_HM99_NINJYA_EX` | 0x648fa4 | 風魔頭巾 |
+| <img src="../img/pack_arm_m_ia_hm92_barbarian.png" width="48"> `HELM2_HM92_BARBAROS` | 0x648c24 | バルバロスヘルム |
+| <img src="../img/pack_arm_w_ia_hm93_monk.png" width="48"> `HELM2_HM93_KENSEI` | 0x648ca4 | 拳聖頭巾 |
+| <img src="../img/pack_arm_w_ia_hm94_necro.png" width="48"> `HELM2_HM94_EVIL` | 0x648d24 | イビルハット |
+| <img src="../img/pack_arm_w_ia_hm95_ranger.png" width="48"> `HELM2_HM95_HUNTER` | 0x648da4 | ハンターズベレー |
+| <img src="../img/pack_arm_w_ia_hm96_dragonhelm2.png" width="48"> `HELM2_HM96_DRAGON_EX` | 0x648e24 | ドラゴニックヘルム |
+| <img src="../img/pack_arm_m_ia_hm97_shadowhat2.png" width="48"> `HELM2_HM97_SHADOWHAT_EX` | 0x648ea4 | マーブルマスク |
+| <img src="../img/pack_arm_m_ia_hm98_kingcrown2.png" width="48"> `HELM2_HM98_KINGCROWN_EX` | 0x648f24 | エンペラークラウン |
+| <img src="../img/pack_arm_w_ia_hm99_shinobi2.png" width="48"> `HELM2_HM99_NINJYA_EX` | 0x648fa4 | 風魔頭巾 |
 
 ### boots2 — botas (76)
 
@@ -696,82 +696,82 @@ botas, sapatos, grevas
 
 | id interno | va | jp |
 |---|---|---|
-| `BOOTS2_BT01_LONG` | 0x642f24 | ロングブーツ |
-| `BOOTS2_BT02_LEATHER` | 0x642fa4 | レザーブーツ |
-| `BOOTS2_BT03_WING` | 0x643024 | ウィングブーツ |
-| `BOOTS2_BT04_PLATE` | 0x6430a4 | アイアンブーツ |
-| `BOOTS2_BT05_KNIGHT` | 0x643124 | ナイトブーツ |
-| `BOOTS2_BT06_MITHRIL` | 0x6431a4 | ミスリルブーツ |
-| `BOOTS2_BT07_MAGICIANSHOES` | 0x643224 | マジシャンシューズ |
-| `BOOTS2_BT08_MAGIC` | 0x6432a4 | マジックブーツ |
-| `BOOTS2_BT09_WHITE` | 0x643324 | ホーリーブーツ |
-| `BOOTS2_BT10_BLACK` | 0x6433a4 | デモンズブーツ |
-| `BOOTS2_BT11_PRIEST` | 0x643424 |  |
-| `BOOTS2_BT12_WARRIOR` | 0x6434a4 |  |
-| `BOOTS2_BT13_CLERIC` | 0x643524 |  |
-| `BOOTS2_BT14_THIEF` | 0x6435a4 | プリーストブーツ |
-| `BOOTS2_BT15_MAGE` | 0x643624 | ラスティブーツ |
-| `BOOTS2_BT16_ROGUE` | 0x6436a4 | ローグブーツ |
-| `BOOTS2_BT17_SPEED` | 0x643724 | スピードブーツ |
-| `BOOTS2_BT18_WARM` | 0x6437a4 | ワームブーツ |
-| `BOOTS2_BT19_SPIKE` | 0x643824 | スパイクブーツ |
-| `BOOTS2_BT20_GATHER` | 0x6438a4 | ギャザーブーツ |
-| `BOOTS2_BT21_CROTH` | 0x643924 | クロスブーツ |
-| `BOOTS2_BT22_KING` | 0x6439a4 | キングブーツ |
-| `BOOTS2_BT23_SOUL` | 0x643a24 |  |
-| `BOOTS2_BT24_FIGHTER` | 0x643aa4 | ウィザードブーツ |
+| <img src="../img/pack_arm_w_ia_bt01_longboots.png" width="48"> `BOOTS2_BT01_LONG` | 0x642f24 | ロングブーツ |
+| <img src="../img/pack_arm_w_ia_bt02_leatherboots.png" width="48"> `BOOTS2_BT02_LEATHER` | 0x642fa4 | レザーブーツ |
+| <img src="../img/pack_arm_m_ia_bt03_wingboots.png" width="48"> `BOOTS2_BT03_WING` | 0x643024 | ウィングブーツ |
+| <img src="../img/pack_arm_m_ia_bt04_plateboots.png" width="48"> `BOOTS2_BT04_PLATE` | 0x6430a4 | アイアンブーツ |
+| <img src="../img/pack_arm_m_ia_bt05_knightboots.png" width="48"> `BOOTS2_BT05_KNIGHT` | 0x643124 | ナイトブーツ |
+| <img src="../img/pack_arm_w_ia_bt06_mythrilboots.png" width="48"> `BOOTS2_BT06_MITHRIL` | 0x6431a4 | ミスリルブーツ |
+| <img src="../img/pack_arm_w_ia_bt07_magicianshoes.png" width="48"> `BOOTS2_BT07_MAGICIANSHOES` | 0x643224 | マジシャンシューズ |
+| <img src="../img/pack_arm_w_ia_bt08_magicboots.png" width="48"> `BOOTS2_BT08_MAGIC` | 0x6432a4 | マジックブーツ |
+| <img src="../img/pack_arm_m_ia_bt09_whiteboots.png" width="48"> `BOOTS2_BT09_WHITE` | 0x643324 | ホーリーブーツ |
+| <img src="../img/pack_arm_m_ia_bt10_blackboots.png" width="48"> `BOOTS2_BT10_BLACK` | 0x6433a4 | デモンズブーツ |
+| <img src="../img/pack_arm_m_ia_bt11_priestboots.png" width="48"> `BOOTS2_BT11_PRIEST` | 0x643424 |  |
+| <img src="../img/pack_arm_m_ia_bt12_fightershoes.png" width="48"> `BOOTS2_BT12_WARRIOR` | 0x6434a4 |  |
+| <img src="../img/pack_arm_w_ia_bt13_clericboots.png" width="48"> `BOOTS2_BT13_CLERIC` | 0x643524 |  |
+| <img src="../img/pack_arm_w_ia_bt14_thiefboots.png" width="48"> `BOOTS2_BT14_THIEF` | 0x6435a4 | プリーストブーツ |
+| <img src="../img/pack_arm_w_ia_bt15_mageboots.png" width="48"> `BOOTS2_BT15_MAGE` | 0x643624 | ラスティブーツ |
+| <img src="../img/pack_arm_w_ia_bt16_rogueboots.png" width="48"> `BOOTS2_BT16_ROGUE` | 0x6436a4 | ローグブーツ |
+| <img src="../img/pack_arm_w_ia_bt17_speedboots.png" width="48"> `BOOTS2_BT17_SPEED` | 0x643724 | スピードブーツ |
+| <img src="../img/pack_arm_w_ia_bt18_warmboots.png" width="48"> `BOOTS2_BT18_WARM` | 0x6437a4 | ワームブーツ |
+| <img src="../img/pack_arm_w_ia_bt19_spikeboots.png" width="48"> `BOOTS2_BT19_SPIKE` | 0x643824 | スパイクブーツ |
+| <img src="../img/pack_arm_w_ia_bt20_gatherboots.png" width="48"> `BOOTS2_BT20_GATHER` | 0x6438a4 | ギャザーブーツ |
+| <img src="../img/pack_arm_w_ia_bt21_clothboots.png" width="48"> `BOOTS2_BT21_CROTH` | 0x643924 | クロスブーツ |
+| <img src="../img/pack_arm_w_ia_bt22_kingboots.png" width="48"> `BOOTS2_BT22_KING` | 0x6439a4 | キングブーツ |
+| <img src="../img/pack_arm_w_ia_bt23_soulboots.png" width="48"> `BOOTS2_BT23_SOUL` | 0x643a24 |  |
+| <img src="../img/pack_arm_w_ia_bt24_fighterboots.png" width="48"> `BOOTS2_BT24_FIGHTER` | 0x643aa4 | ウィザードブーツ |
 | `BOOTS2_BT25_LEATHER` | 0x643b24 | ★レザーブーツ |
 | `BOOTS2_BT26_PLATE` | 0x643ba4 | ★アイアンブーツ |
 | `BOOTS2_BT27_MAGICIANSHOES` | 0x643c24 | ★マジシャンシューズ |
 | `BOOTS2_BT28_PRIEST` | 0x643ca4 | ★プリーストブーツ |
-| `BOOTS2_BT29_SCALE` | 0x643d24 | スケイルブーツ |
-| `BOOTS2_BT30_MANA` | 0x643da4 | マナブーツ |
+| <img src="../img/pack_arm_m_ia_bt29_scaleboots.png" width="48"> `BOOTS2_BT29_SCALE` | 0x643d24 | スケイルブーツ |
+| <img src="../img/pack_arm_m_ia_bt30_manaboots.png" width="48"> `BOOTS2_BT30_MANA` | 0x643da4 | マナブーツ |
 | `BOOTS2_BT31_CROWNSHOES` | 0x643e24 | クラウンシューズ |
-| `BOOTS2_BT32_PRIEST_EX` | 0x643ea4 | オリエントブーツ |
-| `BOOTS2_BT33_SOUL_EX` | 0x643f24 | ノーブルブーツ |
-| `BOOTS2_BT34_DAIGUSOKU` | 0x643fa4 | 黒紋の脛当 |
-| `BOOTS2_BT35_CURE` | 0x644024 | キュアブーツ |
-| `BOOTS2_BT36_PROTECT` | 0x6440a4 | プロテクトブーツ |
-| `BOOTS2_BT37_BISHOP` | 0x644124 | モンクブーツ |
-| `BOOTS2_BT38_SHADOW` | 0x6441a4 | シャドウブーツ |
-| `BOOTS2_BT39_MAGE` | 0x644224 |  |
-| `BOOTS2_BT40_DWARVEN` | 0x6442a4 |  |
-| `BOOTS2_BT41_ELVEN` | 0x644324 | バインドブーツ |
-| `BOOTS2_BT42_SLASH` | 0x6443a4 | スラッシュブーツ |
-| `BOOTS2_BT43_SOARGREAVE` | 0x644424 | ソアグリーヴ |
+| <img src="../img/pack_arm_w_ia_bt32_priestboots.png" width="48"> `BOOTS2_BT32_PRIEST_EX` | 0x643ea4 | オリエントブーツ |
+| <img src="../img/pack_arm_m_ia_bt33_soulboots2.png" width="48"> `BOOTS2_BT33_SOUL_EX` | 0x643f24 | ノーブルブーツ |
+| <img src="../img/pack_arm_w_ia_bt34_gusoku.png" width="48"> `BOOTS2_BT34_DAIGUSOKU` | 0x643fa4 | 黒紋の脛当 |
+| <img src="../img/pack_arm_m_ia_bt35_cureboots.png" width="48"> `BOOTS2_BT35_CURE` | 0x644024 | キュアブーツ |
+| <img src="../img/pack_arm_w_ia_bt36_protectboots.png" width="48"> `BOOTS2_BT36_PROTECT` | 0x6440a4 | プロテクトブーツ |
+| <img src="../img/pack_arm_m_ia_bt37_sandalboots.png" width="48"> `BOOTS2_BT37_BISHOP` | 0x644124 | モンクブーツ |
+| <img src="../img/pack_arm_m_ia_bt38_shadowboots.png" width="48"> `BOOTS2_BT38_SHADOW` | 0x6441a4 | シャドウブーツ |
+| <img src="../img/pack_arm_w_ia_bt39_punkyboots.png" width="48"> `BOOTS2_BT39_MAGE` | 0x644224 |  |
+| <img src="../img/pack_arm_m_ia_bt40_dwarfboots.png" width="48"> `BOOTS2_BT40_DWARVEN` | 0x6442a4 |  |
+| <img src="../img/pack_arm_m_ia_bt41_elfboots.png" width="48"> `BOOTS2_BT41_ELVEN` | 0x644324 | バインドブーツ |
+| <img src="../img/pack_arm_m_ia_bt42_stabberboots.png" width="48"> `BOOTS2_BT42_SLASH` | 0x6443a4 | スラッシュブーツ |
+| <img src="../img/pack_arm_w_ia_bt43_finegreave.png" width="48"> `BOOTS2_BT43_SOARGREAVE` | 0x644424 | ソアグリーヴ |
 | `BOOTS2_BT44_CROTH` | 0x6444a4 | ★クロスブーツ |
 | `BOOTS2_BT45_SCALE` | 0x644524 | ★スケイルブーツ |
 | `BOOTS2_BT46_MANA` | 0x6445a4 | ★マナブーツ |
-| `BOOTS2_BT47_BONE` | 0x644624 | シャンクブーツ |
-| `BOOTS2_BT48_DRAGON` | 0x6446a4 | ドラゴンブーツ |
-| `BOOTS2_BT49_SHINKI` | 0x644724 | セイクリッドブーツ |
-| `BOOTS2_BT50_SHINKI` | 0x6447a4 | アストラルブーツ |
-| `BOOTS2_BT51_SHINKI` | 0x644824 | フォールドブーツ |
-| `BOOTS2_BT52_SHINKI` | 0x6448a4 | 忍者脛当 |
-| `BOOTS2_BT53_SHINKI` | 0x644924 | ジェネラルブーツ |
-| `BOOTS2_BT54_SHINKI` | 0x6449a4 | アビスブーツ |
-| `BOOTS2_BT55_SHINKI` | 0x644a24 | ルミナスブーツ |
-| `BOOTS2_BT56_SHINKI` | 0x644aa4 | ノートリアスブーツ |
+| <img src="../img/pack_arm_w_ia_bt47_bone.png" width="48"> `BOOTS2_BT47_BONE` | 0x644624 | シャンクブーツ |
+| <img src="../img/pack_arm_w_ia_bt48_dragonboots.png" width="48"> `BOOTS2_BT48_DRAGON` | 0x6446a4 | ドラゴンブーツ |
+| <img src="../img/pack_arm_m_ia_bt49_cardmahou.png" width="48"> `BOOTS2_BT49_SHINKI` | 0x644724 | セイクリッドブーツ |
+| <img src="../img/pack_arm_m_ia_bt50_astralboots.png" width="48"> `BOOTS2_BT50_SHINKI` | 0x6447a4 | アストラルブーツ |
+| <img src="../img/pack_arm_m_ia_bt51_mahou.png" width="48"> `BOOTS2_BT51_SHINKI` | 0x644824 | フォールドブーツ |
+| <img src="../img/pack_arm_m_ia_bt52_shinobi.png" width="48"> `BOOTS2_BT52_SHINKI` | 0x6448a4 | 忍者脛当 |
+| <img src="../img/pack_arm_w_ia_bt53_paladin.png" width="48"> `BOOTS2_BT53_SHINKI` | 0x644924 | ジェネラルブーツ |
+| <img src="../img/pack_arm_m_ia_bt54_daimahou.png" width="48"> `BOOTS2_BT54_SHINKI` | 0x6449a4 | アビスブーツ |
+| <img src="../img/pack_arm_w_ia_bt55_sikyo.png" width="48"> `BOOTS2_BT55_SHINKI` | 0x644a24 | ルミナスブーツ |
+| <img src="../img/pack_arm_m_ia_bt56_daitouzoku.png" width="48"> `BOOTS2_BT56_SHINKI` | 0x644aa4 | ノートリアスブーツ |
 | `BOOTS2_BT57_WARRIOR` | 0x644b24 | ★ラスティブーツ |
 | `BOOTS2_BT58_ROGUE` | 0x644ba4 | ★ローグブーツ |
 | `BOOTS2_BT59_SPEED` | 0x644c24 | ★スピードブーツ |
 | `BOOTS2_BT60_SOURAN` | 0x644ca4 | 蒼藍の脛当 |
-| `BOOTS2_BT61_ROZETTA` | 0x644d24 | ロゼッタブーツ |
-| `BOOTS2_BT62_MISTICAL` | 0x644da4 | オラクルブーツ |
+| <img src="../img/pack_arm_w_ia_bt61_dress.png" width="48"> `BOOTS2_BT61_ROZETTA` | 0x644d24 | ロゼッタブーツ |
+| <img src="../img/pack_arm_w_ia_bt62_sinwa.png" width="48"> `BOOTS2_BT62_MISTICAL` | 0x644da4 | オラクルブーツ |
 | `BOOTS2_BT63_RAFFIAN` | 0x644e24 | ラフィアンシューズ |
-| `BOOTS2_BT64_D4SHINKI1` | 0x644ea4 | アリサノスブーツ |
+| <img src="../img/pack_arm_w_ia_bt64_kishi.png" width="48"> `BOOTS2_BT64_D4SHINKI1` | 0x644ea4 | アリサノスブーツ |
 | `BOOTS2_BT65_DEMONIC` | 0x644f24 | デモニックブーツ |
-| `BOOTS2_BT66_HERMIT` | 0x644fa4 | グレイスブーツ |
+| <img src="../img/pack_arm_m_ia_bt66_hermit.png" width="48"> `BOOTS2_BT66_HERMIT` | 0x644fa4 | グレイスブーツ |
 | `BOOTS2_BT67_D4SHINKI2` | 0x645024 | ブラッディブーツ |
-| `BOOTS2_BT68_BARBAROS` | 0x6450a4 | バルバロスブーツ |
+| <img src="../img/pack_arm_w_ia_bt68_barbarian.png" width="48"> `BOOTS2_BT68_BARBAROS` | 0x6450a4 | バルバロスブーツ |
 | `BOOTS2_BT69_KENSEI` | 0x645124 | 拳聖の脛当 |
-| `BOOTS2_BT70_EVIL` | 0x6451a4 | イビルブーツ |
-| `BOOTS2_BT71_HUNTER` | 0x645224 | ハンターズブーツ |
-| `BOOTS2_BT72_D4SHINKI3` | 0x6452a4 | アルカナブーツ |
-| `BOOTS2_BT73_DRAGON_EX` | 0x645324 | ドラゴニックブーツ |
-| `BOOTS2_BT74_SHADOW_EX` | 0x6453a4 | マーブルブーツ |
-| `BOOTS2_BT75_KING_EX` | 0x645424 | エンペラーブーツ |
-| `BOOTS2_BT76_NINJYA_EX` | 0x6454a4 | 風魔脛当 |
+| <img src="../img/pack_arm_m_ia_bt70_necro.png" width="48"> `BOOTS2_BT70_EVIL` | 0x6451a4 | イビルブーツ |
+| <img src="../img/pack_arm_w_ia_bt71_ranger.png" width="48"> `BOOTS2_BT71_HUNTER` | 0x645224 | ハンターズブーツ |
+| <img src="../img/pack_arm_m_ia_bt72_zensyoku.png" width="48"> `BOOTS2_BT72_D4SHINKI3` | 0x6452a4 | アルカナブーツ |
+| <img src="../img/pack_arm_w_ia_bt73_dragonboots2.png" width="48"> `BOOTS2_BT73_DRAGON_EX` | 0x645324 | ドラゴニックブーツ |
+| <img src="../img/pack_arm_w_ia_bt74_shadowboots2.png" width="48"> `BOOTS2_BT74_SHADOW_EX` | 0x6453a4 | マーブルブーツ |
+| <img src="../img/pack_arm_m_ia_bt75_kingboots2.png" width="48"> `BOOTS2_BT75_KING_EX` | 0x645424 | エンペラーブーツ |
+| <img src="../img/pack_arm_w_ia_bt76_shinobi2.png" width="48"> `BOOTS2_BT76_NINJYA_EX` | 0x6454a4 | 風魔脛当 |
 
 ### shield2 — escudos (48)
 
@@ -779,53 +779,53 @@ broquéis, escudos redondos/em losango/de torre
 
 | id interno | va | jp |
 |---|---|---|
-| `SHIELD2_SH01_WOOD` | 0x62c1a4 | ウッドシールド |
-| `SHIELD2_SH02_BUCKLER` | 0x62c224 | バックラー |
-| `SHIELD2_SH03_ROUND` | 0x62c2a4 | ラウンドシールド |
-| `SHIELD2_SH04_LARGE` | 0x62c324 | ラージシールド |
-| `SHIELD2_SH05_KITE` | 0x62c3a4 | カイトシールド |
-| `SHIELD2_SH06_KNIGHT` | 0x62c424 | ナイトシールド |
-| `SHIELD2_SH07_WING` | 0x62c4a4 | ウィングシールド |
-| `SHIELD2_SH08_TOWER` | 0x62c524 | タワーシールド |
-| `SHIELD2_SH09_SPIKE` | 0x62c5a4 | スパイクシールド |
-| `SHIELD2_SH10_FLAME` | 0x62c624 | フレイムシールド |
-| `SHIELD2_SH11_ICE` | 0x62c6a4 | アイスシールド |
-| `SHIELD2_SH12_THUNDER` | 0x62c724 | サンダーシールド |
-| `SHIELD2_SH13_MAGIC` | 0x62c7a4 | マジックシールド |
-| `SHIELD2_SH14_DRAGON` | 0x62c824 | ドラゴンシールド |
-| `SHIELD2_SH15_MITHRIL` | 0x62c8a4 | ミスリルシールド |
-| `SHIELD2_SH16_REFLECT` | 0x62c924 | リフレクトシールド |
-| `SHIELD2_SH17_WHITE` | 0x62c9a4 | ホーリーシールド |
-| `SHIELD2_SH18_BLACK` | 0x62ca24 | デモンズシールド |
+| <img src="../img/pack_wpn_sh01_woodshield.png" width="48"> `SHIELD2_SH01_WOOD` | 0x62c1a4 | ウッドシールド |
+| <img src="../img/pack_wpn_sh02_buckler.png" width="48"> `SHIELD2_SH02_BUCKLER` | 0x62c224 | バックラー |
+| <img src="../img/pack_wpn_sh03_roundshield.png" width="48"> `SHIELD2_SH03_ROUND` | 0x62c2a4 | ラウンドシールド |
+| <img src="../img/pack_wpn_sh04_largeshield.png" width="48"> `SHIELD2_SH04_LARGE` | 0x62c324 | ラージシールド |
+| <img src="../img/pack_wpn_sh05_kiteshield.png" width="48"> `SHIELD2_SH05_KITE` | 0x62c3a4 | カイトシールド |
+| <img src="../img/pack_wpn_sh06_knightshield.png" width="48"> `SHIELD2_SH06_KNIGHT` | 0x62c424 | ナイトシールド |
+| <img src="../img/pack_wpn_sh07_wingshield.png" width="48"> `SHIELD2_SH07_WING` | 0x62c4a4 | ウィングシールド |
+| <img src="../img/pack_wpn_sh08_towershield.png" width="48"> `SHIELD2_SH08_TOWER` | 0x62c524 | タワーシールド |
+| <img src="../img/pack_wpn_sh09_spikeshield.png" width="48"> `SHIELD2_SH09_SPIKE` | 0x62c5a4 | スパイクシールド |
+| <img src="../img/pack_wpn_sh10_flameshield.png" width="48"> `SHIELD2_SH10_FLAME` | 0x62c624 | フレイムシールド |
+| <img src="../img/pack_wpn_sh11_iceshield.png" width="48"> `SHIELD2_SH11_ICE` | 0x62c6a4 | アイスシールド |
+| <img src="../img/pack_wpn_sh12_thundershield.png" width="48"> `SHIELD2_SH12_THUNDER` | 0x62c724 | サンダーシールド |
+| <img src="../img/pack_wpn_sh13_magicshield.png" width="48"> `SHIELD2_SH13_MAGIC` | 0x62c7a4 | マジックシールド |
+| <img src="../img/pack_wpn_sh14_dragonshield.png" width="48"> `SHIELD2_SH14_DRAGON` | 0x62c824 | ドラゴンシールド |
+| <img src="../img/pack_wpn_sh15_mythrilshield.png" width="48"> `SHIELD2_SH15_MITHRIL` | 0x62c8a4 | ミスリルシールド |
+| <img src="../img/pack_wpn_sh16_reflectshield.png" width="48"> `SHIELD2_SH16_REFLECT` | 0x62c924 | リフレクトシールド |
+| <img src="../img/pack_wpn_sh17_whiteshield.png" width="48"> `SHIELD2_SH17_WHITE` | 0x62c9a4 | ホーリーシールド |
+| <img src="../img/pack_wpn_sh18_blackshield.png" width="48"> `SHIELD2_SH18_BLACK` | 0x62ca24 | デモンズシールド |
 | `SHIELD2_SH19_ROUND` | 0x62caa4 | ★ラウンドシールド |
 | `SHIELD2_SH20_LARGE` | 0x62cb24 | ★ラージシールド |
-| `SHIELD2_SH21_LEATHER` | 0x62cba4 | レザーシールド |
-| `SHIELD2_SH22_PALISADE` | 0x62cc24 | パリセイドシールド |
-| `SHIELD2_SH23_CHARCOAL` | 0x62cca4 | チャコールシールド |
-| `SHIELD2_SH24_SKELETON` | 0x62cd24 | 骸骨の盾 |
-| `SHIELD2_SH25_LIZARDMAN` | 0x62cda4 | 蜥蜴の盾 |
-| `SHIELD2_SH26_LIZARDNAN_G` | 0x62ce24 | 蜥蜴護衛兵の盾 |
-| `SHIELD2_SH27_GOBLIN_F` | 0x62cea4 | 小鬼の盾 |
-| `SHIELD2_SH28_KOBOLD_W` | 0x62cf24 | 犬頭鬼の盾 |
-| `SHIELD2_SH29_ORC` | 0x62cfa4 | 邪鬼の盾 |
+| <img src="../img/pack_wpn_sh21_leathershield.png" width="48"> `SHIELD2_SH21_LEATHER` | 0x62cba4 | レザーシールド |
+| <img src="../img/pack_wpn_sh22_palisadeshield.png" width="48"> `SHIELD2_SH22_PALISADE` | 0x62cc24 | パリセイドシールド |
+| <img src="../img/pack_wpn_sh23_woodshild2.png" width="48"> `SHIELD2_SH23_CHARCOAL` | 0x62cca4 | チャコールシールド |
+| <img src="../img/pack_wpn_sh24_skeleton.png" width="48"> `SHIELD2_SH24_SKELETON` | 0x62cd24 | 骸骨の盾 |
+| <img src="../img/pack_wpn_sh25_lizardman.png" width="48"> `SHIELD2_SH25_LIZARDMAN` | 0x62cda4 | 蜥蜴の盾 |
+| <img src="../img/pack_wpn_sh26_glizardman.png" width="48"> `SHIELD2_SH26_LIZARDNAN_G` | 0x62ce24 | 蜥蜴護衛兵の盾 |
+| <img src="../img/pack_wpn_sh27_goblinfighter.png" width="48"> `SHIELD2_SH27_GOBLIN_F` | 0x62cea4 | 小鬼の盾 |
+| <img src="../img/pack_wpn_sh28_coboldwoodshield.png" width="48"> `SHIELD2_SH28_KOBOLD_W` | 0x62cf24 | 犬頭鬼の盾 |
+| <img src="../img/pack_wpn_sh29_olkshield.png" width="48"> `SHIELD2_SH29_ORC` | 0x62cfa4 | 邪鬼の盾 |
 | `SHIELD2_SH30_WING` | 0x62d024 | ★ウィングシールド |
 | `SHIELD2_SH31_TOWER` | 0x62d0a4 | ★タワーシールド |
 | `SHIELD2_SH32_PALISADE` | 0x62d124 | ★パリセイドシールド |
-| `SHIELD2_SH33_SHINKI` | 0x62d1a4 |  |
-| `SHIELD2_SH34_SHINKI` | 0x62d224 | ジェネラルシールド |
-| `SHIELD2_SH35_SHINKI` | 0x62d2a4 | ルミナスシールド |
+| <img src="../img/pack_wpn_sh33_paladin.png" width="48"> `SHIELD2_SH33_SHINKI` | 0x62d1a4 |  |
+| <img src="../img/pack_wpn_sh34_sikyo.png" width="48"> `SHIELD2_SH34_SHINKI` | 0x62d224 | ジェネラルシールド |
+| <img src="../img/pack_wpn_sh35_daitouzoku.png" width="48"> `SHIELD2_SH35_SHINKI` | 0x62d2a4 | ルミナスシールド |
 | `SHIELD2_SH36_LARGE` | 0x62d324 | ノートリアスシールド |
 | `SHIELD2_SH37_KITE` | 0x62d3a4 | ★カイトシールド |
-| `SHIELD2_SH38_MACHINE` | 0x62d424 | 機兵の盾 |
-| `SHIELD2_SH39_MACHINE_GOLD` | 0x62d4a4 | 黄金機兵の盾 |
-| `SHIELD2_SH40_MACHINE_DARK` | 0x62d524 | 暗黒機兵の盾 |
-| `SHIELD2_SH41_SOURAN` | 0x62d5a4 | 蒼藍の盾 |
-| `SHIELD2_SH42_MISTICAL` | 0x62d624 | オラクルシールド |
-| `SHIELD2_SH43_RAFFIAN` | 0x62d6a4 | ラフィアンシールド |
-| `SHIELD2_SH44_D4SHINKI1` | 0x62d724 | アリサノスシールド |
-| `SHIELD2_SH45_HERMIT` | 0x62d7a4 | グレイスシールド |
-| `SHIELD2_SH46_D4SHINKI2` | 0x62d824 | ブラッディシールド |
-| `SHIELD2_SH47_BARBAROS` | 0x62d8a4 | バルバロスシールド |
+| <img src="../img/pack_wpn_sh38_metal.png" width="48"> `SHIELD2_SH38_MACHINE` | 0x62d424 | 機兵の盾 |
+| <img src="../img/pack_wpn_sh39_metalgold.png" width="48"> `SHIELD2_SH39_MACHINE_GOLD` | 0x62d4a4 | 黄金機兵の盾 |
+| <img src="../img/pack_wpn_sh40_metaldark.png" width="48"> `SHIELD2_SH40_MACHINE_DARK` | 0x62d524 | 暗黒機兵の盾 |
+| <img src="../img/pack_wpn_sh41_china.png" width="48"> `SHIELD2_SH41_SOURAN` | 0x62d5a4 | 蒼藍の盾 |
+| <img src="../img/pack_wpn_sh42_sinwa.png" width="48"> `SHIELD2_SH42_MISTICAL` | 0x62d624 | オラクルシールド |
+| <img src="../img/pack_wpn_sh43_sand.png" width="48"> `SHIELD2_SH43_RAFFIAN` | 0x62d6a4 | ラフィアンシールド |
+| <img src="../img/pack_wpn_sh44_kishi.png" width="48"> `SHIELD2_SH44_D4SHINKI1` | 0x62d724 | アリサノスシールド |
+| <img src="../img/pack_wpn_sh45_hermit.png" width="48"> `SHIELD2_SH45_HERMIT` | 0x62d7a4 | グレイスシールド |
+| <img src="../img/pack_wpn_sh46_ansatusya.png" width="48"> `SHIELD2_SH46_D4SHINKI2` | 0x62d824 | ブラッディシールド |
+| <img src="../img/pack_wpn_sh47_barbarian.png" width="48"> `SHIELD2_SH47_BARBAROS` | 0x62d8a4 | バルバロスシールド |
 | `SHIELD2_SH50_D4SUMMON` | 0x62d924 | 大魔の盾 |
 
 ### acces2 — acessórios (90)
