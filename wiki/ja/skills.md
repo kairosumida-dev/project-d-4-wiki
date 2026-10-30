@@ -1,7 +1,5 @@
 [EN](../en/skills.md) | [JA](../ja/skills.md) | [PT-BR](../pt-br/skills.md)
 
-<link rel="stylesheet" href="../assets/lb.css">
-<script src="../assets/lb.js" defer></script>
 # スキル
 
 **208件のスキルレコード** が `skill` テーブルにある。ID文法：

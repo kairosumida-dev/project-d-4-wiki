@@ -1,7 +1,5 @@
 [EN](../en/cards.md) | [JA](../ja/cards.md) | [PT-BR](../pt-br/cards.md)
 
-<link rel="stylesheet" href="../assets/lb.css">
-<script src="../assets/lb.js" defer></script>
 # Cartas e o sistema de cartão IC
 
 Quest of D usa **duas camadas de cartas**: o **cartão IC de save** do jogador (dados do personagem, como em outros jogos de cartão Sega Chihiro/ALL.Net) e as **cartas de deck dispensadas** — cartas físicas que a máquina imprime, cada uma representando um item do jogo ou um monstro invocado.

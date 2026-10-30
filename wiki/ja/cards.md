@@ -1,7 +1,5 @@
 [EN](../en/cards.md) | [JA](../ja/cards.md) | [PT-BR](../pt-br/cards.md)
 
-<link rel="stylesheet" href="../assets/lb.css">
-<script src="../assets/lb.js" defer></script>
 # カードと IC カードシステム
 
 Quest of D には **2層のカード** がある：プレイヤーの **IC セーブカード**（キャラクターデータ。他の Sega Chihiro/ALL.Net カードゲームと同様）と、**排出式デッキカード** —— 筐体が印刷する物理カードで、1枚ごとがゲーム内アイテムまたは召喚モンスターを表す。

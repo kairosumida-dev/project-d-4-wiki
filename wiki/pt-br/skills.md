@@ -1,7 +1,5 @@
 [EN](../en/skills.md) | [JA](../ja/skills.md) | [PT-BR](../pt-br/skills.md)
 
-<link rel="stylesheet" href="../assets/lb.css">
-<script src="../assets/lb.js" defer></script>
 # Habilidades
 
 **208 registros de habilidade** na tabela `skill`. Gramática do ID:

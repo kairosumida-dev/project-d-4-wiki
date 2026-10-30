@@ -1,7 +1,5 @@
 [EN](../en/model.md) | [JA](../ja/model.md) | [PT-BR](../pt-br/model.md)
 
-<link rel="stylesheet" href="../assets/lb.css">
-<script src="../assets/lb.js" defer></script>
 # Reconstrução de Modelo
 
 > Fonte: `media/object/pack_cha_*.bin`, `media/motion/bone_cha_*.bin`,

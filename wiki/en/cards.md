@@ -1,7 +1,5 @@
 [EN](../en/cards.md) | [JA](../ja/cards.md) | [PT-BR](../pt-br/cards.md)
 
-<link rel="stylesheet" href="../assets/lb.css">
-<script src="../assets/lb.js" defer></script>
 # Cards & the IC-card system
 
 Quest of D uses **two card layers**: the player's **IC save card** (character data, like other Sega Chihiro/ALL.Net card games) and **dispensed deck cards** — physical cards the machine prints, each representing an in-game item or summoned monster.
