@@ -50,68 +50,68 @@ marks party-wide skills.
 
 | internal id | SK# | type | EX | jp (inferred) |
 |---|---|---|---|---|
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK163_FIGHTER_COMB01 — ＶラッシュⅠ"> `SKILL_SK163_FIGHTER_COMB01` | 163 | `COMB` |  | ＶラッシュⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK164_FIGHTER_COMB01 — ＶラッシュⅡ"> `SKILL_SK164_FIGHTER_COMB01` | 164 | `COMB` |  | ＶラッシュⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK165_FIGHTER_COMB01 — ＶラッシュⅢ"> `SKILL_SK165_FIGHTER_COMB01` | 165 | `COMB` |  | ＶラッシュⅢ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK166_FIGHTER_COMB02 — スパイラルアサルトⅠ"> `SKILL_SK166_FIGHTER_COMB02` | 166 | `COMB` |  | スパイラルアサルトⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK167_FIGHTER_COMB02 — スパイラルアサルトⅡ"> `SKILL_SK167_FIGHTER_COMB02` | 167 | `COMB` |  | スパイラルアサルトⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK168_FIGHTER_COMB02 — スパイラルアサルトⅢ"> `SKILL_SK168_FIGHTER_COMB02` | 168 | `COMB` |  | スパイラルアサルトⅢ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK169_FIGHTER_COMB03 — ダブルドラゴン"> `SKILL_SK169_FIGHTER_COMB03` | 169 | `COMB` |  | ダブルドラゴン |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK170_FIGHTER_COMB04 — ハンドレッドソードⅠ"> `SKILL_SK170_FIGHTER_COMB04` | 170 | `COMB` |  | ハンドレッドソードⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK171_FIGHTER_COMB04 — ハンドレッドソードⅡ"> `SKILL_SK171_FIGHTER_COMB04` | 171 | `COMB` |  | ハンドレッドソードⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK172_FIGHTER_COMB05 — バーバリアンラッシュⅠ"> `SKILL_SK172_FIGHTER_COMB05` | 172 | `COMB` |  | バーバリアンラッシュⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK173_FIGHTER_COMB05 — バーバリアンラッシュⅡ"> `SKILL_SK173_FIGHTER_COMB05` | 173 | `COMB` |  | バーバリアンラッシュⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK174_FIGHTER_COMB05 — バーバリアンラッシュⅢ"> `SKILL_SK174_FIGHTER_COMB05` | 174 | `COMB` |  | バーバリアンラッシュⅢ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK163_FIGHTER_COMB01 — ＶラッシュⅠ — スキル／技：片手剣専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目で敵を吹き飛ばす"> `SKILL_SK163_FIGHTER_COMB01` | 163 | `COMB` |  | ＶラッシュⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK164_FIGHTER_COMB01 — ＶラッシュⅡ — スキル／技：片手剣専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目で敵を吹き飛ばす"> `SKILL_SK164_FIGHTER_COMB01` | 164 | `COMB` |  | ＶラッシュⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK165_FIGHTER_COMB01 — ＶラッシュⅢ — スキル／技：片手剣専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目で敵を吹き飛ばす"> `SKILL_SK165_FIGHTER_COMB01` | 165 | `COMB` |  | ＶラッシュⅢ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK166_FIGHTER_COMB02 — スパイラルアサルトⅠ — スキル／技：二刀流専用 カード選択後ＡＡＡＡで発動 スキル／両手の武器を使用して 強力な多段攻撃を繰り出す"> `SKILL_SK166_FIGHTER_COMB02` | 166 | `COMB` |  | スパイラルアサルトⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK167_FIGHTER_COMB02 — スパイラルアサルトⅡ — スキル／技：二刀流専用 カード選択後ＡＡＡＡで発動 スキル／両手の武器を使用して 強力な多段攻撃を繰り出す"> `SKILL_SK167_FIGHTER_COMB02` | 167 | `COMB` |  | スパイラルアサルトⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK168_FIGHTER_COMB02 — スパイラルアサルトⅢ — スキル／技：二刀流専用 カード選択後ＡＡＡＡで発動 スキル／両手の武器を使用して 強力な多段攻撃を繰り出す"> `SKILL_SK168_FIGHTER_COMB02` | 168 | `COMB` |  | スパイラルアサルトⅢ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK169_FIGHTER_COMB03 — ダブルドラゴン — スキル／技：二刀流専用 カード選択後Ａ＋Ｇで発動 スキル／広い範囲の敵に対応で きる優秀な攻撃"> `SKILL_SK169_FIGHTER_COMB03` | 169 | `COMB` |  | ダブルドラゴン |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK170_FIGHTER_COMB04 — ハンドレッドソードⅠ — スキル／技：片手剣専用 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／剣による多段攻撃で大 ダメージを与える必殺の奥義"> `SKILL_SK170_FIGHTER_COMB04` | 170 | `COMB` |  | ハンドレッドソードⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK171_FIGHTER_COMB04 — ハンドレッドソードⅡ — スキル／技：片手剣専用 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／剣による多段攻撃で大 ダメージを与える必殺の奥義"> `SKILL_SK171_FIGHTER_COMB04` | 171 | `COMB` |  | ハンドレッドソードⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK172_FIGHTER_COMB05 — バーバリアンラッシュⅠ — スキル／技：片手斧専用 カード選択後ＡＡＡで発動 スキル／スピードは遅いが、３ 段目は高い威力を誇る"> `SKILL_SK172_FIGHTER_COMB05` | 172 | `COMB` |  | バーバリアンラッシュⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK173_FIGHTER_COMB05 — バーバリアンラッシュⅡ — スキル／技：片手斧専用 カード選択後ＡＡＡで発動 スキル／スピードは遅いが、３ 段目は高い威力を誇る"> `SKILL_SK173_FIGHTER_COMB05` | 173 | `COMB` |  | バーバリアンラッシュⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK174_FIGHTER_COMB05 — バーバリアンラッシュⅢ — スキル／技：片手斧専用 カード選択後ＡＡＡで発動 スキル／スピードは遅いが、３ 段目は高い威力を誇る"> `SKILL_SK174_FIGHTER_COMB05` | 174 | `COMB` |  | バーバリアンラッシュⅢ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK175_FIGHTER_COMB06 — バーサーカーラッシュⅠ"> `SKILL_SK175_FIGHTER_COMB06` | 175 | `COMB` |  | バーサーカーラッシュⅠ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK176_FIGHTER_COMB06 — バーサーカーラッシュⅡ"> `SKILL_SK176_FIGHTER_COMB06` | 176 | `COMB` |  | バーサーカーラッシュⅡ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK177_FIGHTER_COMB06 — バーサーカーラッシュⅢ"> `SKILL_SK177_FIGHTER_COMB06` | 177 | `COMB` |  | バーサーカーラッシュⅢ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK178_FIGHTER_COMB07 — ブレイドトルネードⅠ"> `SKILL_SK178_FIGHTER_COMB07` | 178 | `COMB` |  | ブレイドトルネードⅠ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK179_FIGHTER_COMB07 — ブレイドトルネードⅡ"> `SKILL_SK179_FIGHTER_COMB07` | 179 | `COMB` |  | ブレイドトルネードⅡ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK180_FIGHTER_COMB07 — ブレイドトルネードⅢ"> `SKILL_SK180_FIGHTER_COMB07` | 180 | `COMB` |  | ブレイドトルネードⅢ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK181_FIGHTER_COMB08 — ライトニングランサー"> `SKILL_SK181_FIGHTER_COMB08` | 181 | `COMB` |  | ライトニングランサー |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK181_FIGHTER_COMB08 — ライトニングランサー — スキル／技：槍専用 カード選択後Ａ＋ＧＡで発動 スキル／１発目がヒットした瞬 間にＡを入力すると蹴りが発動"> `SKILL_SK181_FIGHTER_COMB08` | 181 | `COMB` |  | ライトニングランサー |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK182_FIGHTER_COMB08 — ホースライダースラスト"> `SKILL_SK182_FIGHTER_COMB08` | 182 | `COMB` |  | ホースライダースラスト |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK183_FIGHTER_COMB09 — ＨスラッシュⅠ"> `SKILL_SK183_FIGHTER_COMB09` | 183 | `COMB` |  | ＨスラッシュⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK184_FIGHTER_COMB09 — ＨスラッシュⅡ"> `SKILL_SK184_FIGHTER_COMB09` | 184 | `COMB` |  | ＨスラッシュⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK185_FIGHTER_COMB10 — ピアシングオールⅠ"> `SKILL_SK185_FIGHTER_COMB10` | 185 | `COMB` |  | ピアシングオールⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK186_FIGHTER_COMB10 — ピアシングオールⅡ"> `SKILL_SK186_FIGHTER_COMB10` | 186 | `COMB` |  | ピアシングオールⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK187_FIGHTER_COMB11 — ピアシングオールⅢ"> `SKILL_SK187_FIGHTER_COMB11` | 187 | `COMB` |  | ピアシングオールⅢ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK188_FIGHTER_COMB11 — ミラージュインパクトⅠ"> `SKILL_SK188_FIGHTER_COMB11` | 188 | `COMB` |  | ミラージュインパクトⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK189_FIGHTER_COMB11 — ミラージュインパクトⅡ"> `SKILL_SK189_FIGHTER_COMB11` | 189 | `COMB` |  | ミラージュインパクトⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK190_FIGHTER_COMB12 — ミラージュインパクトⅢ"> `SKILL_SK190_FIGHTER_COMB12` | 190 | `COMB` |  | ミラージュインパクトⅢ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK191_FIGHTER_COMB12 — ハードスラッシュ"> `SKILL_SK191_FIGHTER_COMB12` | 191 | `COMB` |  | ハードスラッシュ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK192_FIGHTER_COMB12 — グランドブレイカー"> `SKILL_SK192_FIGHTER_COMB12` | 192 | `COMB` |  | グランドブレイカー |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK193_FIGHTER_COMB13 — アーマーブレイカーⅠ"> `SKILL_SK193_FIGHTER_COMB13` | 193 | `COMB` |  | アーマーブレイカーⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK194_FIGHTER_COMB13 — アーマーブレイカーⅡ"> `SKILL_SK194_FIGHTER_COMB13` | 194 | `COMB` |  | アーマーブレイカーⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK195_FIGHTER_COMB13 — アーマーブレイカーⅢ"> `SKILL_SK195_FIGHTER_COMB13` | 195 | `COMB` |  | アーマーブレイカーⅢ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK196_FIGHTER_COMB14 — デッドエンド"> `SKILL_SK196_FIGHTER_COMB14` | 196 | `COMB` |  | デッドエンド |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK197_FIGHTER_COMB15 — プロテクトアロー"> `SKILL_SK197_FIGHTER_COMB15` | 197 | `COMB` |  | プロテクトアロー |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK198_FIGHTER_COMB16 — リフレクトアロー"> `SKILL_SK198_FIGHTER_COMB16` | 198 | `COMB` |  | リフレクトアロー |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK199_FIGHTER_COMB16 — プロテクトマジック"> `SKILL_SK199_FIGHTER_COMB16` | 199 | `COMB` |  | プロテクトマジック |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK200_FIGHTER_COMB16 — リフレクトマジック"> `SKILL_SK200_FIGHTER_COMB16` | 200 | `COMB` |  | リフレクトマジック |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK201_FIGHTER_COMB17 — 絶対障壁１"> `SKILL_SK201_FIGHTER_COMB17` | 201 | `COMB` |  | 絶対障壁１ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK202_FIGHTER_COMB17 — 絶対障壁＞反射１"> `SKILL_SK202_FIGHTER_COMB17` | 202 | `COMB` |  | 絶対障壁＞反射１ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK203_FIGHTER_COMB17 — ライジングスラッシュⅠ"> `SKILL_SK203_FIGHTER_COMB17` | 203 | `COMB` |  | ライジングスラッシュⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK204_FIGHTER_COMB18 — ライジングスラッシュⅡ"> `SKILL_SK204_FIGHTER_COMB18` | 204 | `COMB` |  | ライジングスラッシュⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK183_FIGHTER_COMB09 — ＨスラッシュⅠ — スキル／技：槍専用 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／槍による多段攻撃で大 ダメージを与える必殺の奥義"> `SKILL_SK183_FIGHTER_COMB09` | 183 | `COMB` |  | ＨスラッシュⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK184_FIGHTER_COMB09 — ＨスラッシュⅡ — スキル／技：槍専用 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／槍による多段攻撃で大 ダメージを与える必殺の奥義"> `SKILL_SK184_FIGHTER_COMB09` | 184 | `COMB` |  | ＨスラッシュⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK185_FIGHTER_COMB10 — ピアシングオールⅠ — スキル／技：槍専用 カード選択後ＡＡＡで発動 スキル／なぎ払いから２連の突 きへとつなぐ３段攻撃"> `SKILL_SK185_FIGHTER_COMB10` | 185 | `COMB` |  | ピアシングオールⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK186_FIGHTER_COMB10 — ピアシングオールⅡ — スキル／技：槍専用 カード選択後ＡＡＡで発動 スキル／なぎ払いから２連の突 きへとつなぐ３段攻撃"> `SKILL_SK186_FIGHTER_COMB10` | 186 | `COMB` |  | ピアシングオールⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK187_FIGHTER_COMB11 — ピアシングオールⅢ — スキル／技：槍専用 カード選択後ＡＡＡで発動 スキル／なぎ払いから２連の突 きへとつなぐ３段攻撃"> `SKILL_SK187_FIGHTER_COMB11` | 187 | `COMB` |  | ピアシングオールⅢ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK188_FIGHTER_COMB11 — ミラージュインパクトⅠ — スキル／技：両手剣専用 カード選択後ＡＡＡで発動 スキル／威力の高い４段の連係 攻撃を繰り出す"> `SKILL_SK188_FIGHTER_COMB11` | 188 | `COMB` |  | ミラージュインパクトⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK189_FIGHTER_COMB11 — ミラージュインパクトⅡ — スキル／技：両手剣専用 カード選択後ＡＡＡで発動 スキル／威力の高い４段の連係 攻撃を繰り出す"> `SKILL_SK189_FIGHTER_COMB11` | 189 | `COMB` |  | ミラージュインパクトⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK190_FIGHTER_COMB12 — ミラージュインパクトⅢ — スキル／技：両手剣専用 カード選択後ＡＡＡで発動 スキル／威力の高い４段の連係 攻撃を繰り出す"> `SKILL_SK190_FIGHTER_COMB12` | 190 | `COMB` |  | ミラージュインパクトⅢ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK191_FIGHTER_COMB12 — ハードスラッシュ — スキル／技：両手剣専用 カード選択後Ａ＋Ｇで発動 スキル／強力な横斬り攻撃。溜 めることで威力がアップする"> `SKILL_SK191_FIGHTER_COMB12` | 191 | `COMB` |  | ハードスラッシュ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK192_FIGHTER_COMB12 — グランドブレイカー — スキル／強力な縦斬り攻撃。溜 めることで威力がアップする"> `SKILL_SK192_FIGHTER_COMB12` | 192 | `COMB` |  | グランドブレイカー |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK193_FIGHTER_COMB13 — アーマーブレイカーⅠ — スキル／技：両手斧専用 カード選択後ＡＡＡで発動 スキル／流れるような連係から ５段目の広範囲攻撃へとつなぐ"> `SKILL_SK193_FIGHTER_COMB13` | 193 | `COMB` |  | アーマーブレイカーⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK194_FIGHTER_COMB13 — アーマーブレイカーⅡ — スキル／技：両手斧専用 カード選択後ＡＡＡで発動 スキル／流れるような連係から ５段目の広範囲攻撃へとつなぐ"> `SKILL_SK194_FIGHTER_COMB13` | 194 | `COMB` |  | アーマーブレイカーⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK195_FIGHTER_COMB13 — アーマーブレイカーⅢ — スキル／技：両手斧専用 カード選択後ＡＡＡで発動 スキル／流れるような連係から ５段目の広範囲攻撃へとつなぐ"> `SKILL_SK195_FIGHTER_COMB13` | 195 | `COMB` |  | アーマーブレイカーⅢ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK196_FIGHTER_COMB14 — デッドエンド — スキル／技：両手斧専用 カード選択後Ａ＋Ｇで発動 スキル／大きく振りかぶり、範 囲の広い強烈な一撃を繰り出す"> `SKILL_SK196_FIGHTER_COMB14` | 196 | `COMB` |  | デッドエンド |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK197_FIGHTER_COMB15 — プロテクトアロー — スキル／光：物理障壁 ユーズボタンなどで発動 スキル／自分の目の前に、矢を 遮断する光の壁を作り出す"> `SKILL_SK197_FIGHTER_COMB15` | 197 | `COMB` |  | プロテクトアロー |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK198_FIGHTER_COMB16 — リフレクトアロー — スキル／光：物理反射障壁 ユーズボタンなどで発動 スキル／自分の目の前に、矢を 反射する光の壁を作り出す"> `SKILL_SK198_FIGHTER_COMB16` | 198 | `COMB` |  | リフレクトアロー |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK199_FIGHTER_COMB16 — プロテクトマジック — スキル／光：魔法障壁 ユーズボタンなどで発動 スキル／自分の目の前に、魔法 を遮断する光の壁を作り出す"> `SKILL_SK199_FIGHTER_COMB16` | 199 | `COMB` |  | プロテクトマジック |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK200_FIGHTER_COMB16 — リフレクトマジック — スキル／光：魔法反射障壁 ユーズボタンなどで発動 スキル／自分の目の前に、魔法 を反射する光の壁を作り出す"> `SKILL_SK200_FIGHTER_COMB16` | 200 | `COMB` |  | リフレクトマジック |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK201_FIGHTER_COMB17 — 絶対障壁１ — スキル／光：物理障壁召喚 ユーズボタンなどで発動 スキル／矢・魔法を遮る光の壁 を作り出すことができる"> `SKILL_SK201_FIGHTER_COMB17` | 201 | `COMB` |  | 絶対障壁１ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK202_FIGHTER_COMB17 — 絶対障壁＞反射１ — スキル／矢・魔法を跳ね返す光 の壁を作り出すことができる"> `SKILL_SK202_FIGHTER_COMB17` | 202 | `COMB` |  | 絶対障壁＞反射１ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK203_FIGHTER_COMB17 — ライジングスラッシュⅠ — スキル／技：片手剣専用 カード選択後ＡＡで発動 スキル／素早い２段攻撃。戦士 のみ２段目をためることが可能"> `SKILL_SK203_FIGHTER_COMB17` | 203 | `COMB` |  | ライジングスラッシュⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK204_FIGHTER_COMB18 — ライジングスラッシュⅡ — スキル／技：片手剣専用 カード選択後ＡＡで発動 スキル／素早い２段攻撃。戦士 のみ２段目をためることが可能"> `SKILL_SK204_FIGHTER_COMB18` | 204 | `COMB` |  | ライジングスラッシュⅡ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK281_FIGHTER_COMB21 — ワイルドスマッシュⅡ"> `SKILL_SK281_FIGHTER_COMB21` | 281 | `COMB` |  | ワイルドスマッシュⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK282_FIGHTER_COMB21 — ファントムインパルス"> `SKILL_SK282_FIGHTER_COMB21` | 282 | `COMB` |  | ファントムインパルス |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK284_FIGHTER_COMB22 — ウィンドブレイク"> `SKILL_SK284_FIGHTER_COMB22` | 284 | `COMB` |  | ウィンドブレイク |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK285_FIGHTER_COMB23 — ロックブレイカー"> `SKILL_SK285_FIGHTER_COMB23` | 285 | `COMB` |  | ロックブレイカー |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK299_FIGHTER_COMB19 — ビートダウン"> `SKILL_SK299_FIGHTER_COMB19` | 299 | `COMB` |  | ビートダウン |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK300_FIGHTER_COMB20 — Ｂスラッシュ"> `SKILL_SK300_FIGHTER_COMB20` | 300 | `COMB` |  | Ｂスラッシュ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK318_FIGHTER_COMB24 — カラミティエッジⅠ"> `SKILL_SK318_FIGHTER_COMB24` | 318 | `COMB` |  | カラミティエッジⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK319_FIGHTER_COMB25 — カラミティエッジⅡ"> `SKILL_SK319_FIGHTER_COMB25` | 319 | `COMB` |  | カラミティエッジⅡ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK320_FIGHTER_COMB25 — ストームチェイサー"> `SKILL_SK320_FIGHTER_COMB25` | 320 | `COMB` |  | ストームチェイサー |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK321_FIGHTER_SPEC01 — エンハンスマジック"> `SKILL_SK321_FIGHTER_SPEC01` | 321 | `SPEC` |  | エンハンスマジック |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK341_FIGHTER_COMB28 — レイズラッシュⅠ"> `SKILL_SK341_FIGHTER_COMB28` | 341 | `COMB` |  | レイズラッシュⅠ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK342_FIGHTER_COMB29 — レイズラッシュⅡ"> `SKILL_SK342_FIGHTER_COMB29` | 342 | `COMB` |  | レイズラッシュⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK282_FIGHTER_COMB21 — ファントムインパルス — スキル／技：杖専用 カード選択後Ａ＋Ｇで発動"> `SKILL_SK282_FIGHTER_COMB21` | 282 | `COMB` |  | ファントムインパルス |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK284_FIGHTER_COMB22 — ウィンドブレイク — スキル／なぎ払い攻撃で、敵を 吹き飛ばす突風を発生させる"> `SKILL_SK284_FIGHTER_COMB22` | 284 | `COMB` |  | ウィンドブレイク |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK285_FIGHTER_COMB23 — ロックブレイカー — スキル／技：片手斧専用 カード選択後Ａ＋Ｇで発動 スキル／体を１回転させ、攻撃 範囲の広い強力な一撃を放つ"> `SKILL_SK285_FIGHTER_COMB23` | 285 | `COMB` |  | ロックブレイカー |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK299_FIGHTER_COMB19 — ビートダウン — スキル／広い範囲の敵に対応で きる２段攻撃"> `SKILL_SK299_FIGHTER_COMB19` | 299 | `COMB` |  | ビートダウン |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK300_FIGHTER_COMB20 — Ｂスラッシュ — スキル／素早く敵を斬り付け、 出血状態にさせる"> `SKILL_SK300_FIGHTER_COMB20` | 300 | `COMB` |  | Ｂスラッシュ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK318_FIGHTER_COMB24 — カラミティエッジⅠ — スキル／広範囲に攻撃できる強 力な２段攻撃を繰り出す"> `SKILL_SK318_FIGHTER_COMB24` | 318 | `COMB` |  | カラミティエッジⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK319_FIGHTER_COMB25 — カラミティエッジⅡ — スキル／広範囲に攻撃できる強 力な２段攻撃を繰り出す"> `SKILL_SK319_FIGHTER_COMB25` | 319 | `COMB` |  | カラミティエッジⅡ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK320_FIGHTER_COMB25 — ストームチェイサー — スキル／技：能力変化 ウィンドウで選択すると発動 スキル／全能力を低下させ、移 動速度を最大限に高める"> `SKILL_SK320_FIGHTER_COMB25` | 320 | `COMB` |  | ストームチェイサー |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK321_FIGHTER_SPEC01 — エンハンスマジック — スキル／技：攻撃強化 ウィンドウで選択すると発動 スキル／魔法攻撃時にＭＰを消 費し、攻撃力を高める"> `SKILL_SK321_FIGHTER_SPEC01` | 321 | `SPEC` |  | エンハンスマジック |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK341_FIGHTER_COMB28 — レイズラッシュⅠ — スキル／技：二刀流専用 カード選択後ＡＡで発動 スキル／両手の武器を使用して 強力な連係攻撃を繰り出す"> `SKILL_SK341_FIGHTER_COMB28` | 341 | `COMB` |  | レイズラッシュⅠ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK342_FIGHTER_COMB29 — レイズラッシュⅡ — スキル／技：二刀流専用 カード選択後ＡＡで発動 スキル／両手の武器を使用して 強力な連係攻撃を繰り出す"> `SKILL_SK342_FIGHTER_COMB29` | 342 | `COMB` |  | レイズラッシュⅡ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK343_FIGHTER_COMB29 — ファルコンブロウ"> `SKILL_SK343_FIGHTER_COMB29` | 343 | `COMB` |  | ファルコンブロウ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK345_FIGHTER_COMB32 — クレセントインパクト"> `SKILL_SK345_FIGHTER_COMB32` | 345 | `COMB` |  | クレセントインパクト |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK346_FIGHTER_COMB32 — ヴァリアントブレイブ"> `SKILL_SK346_FIGHTER_COMB32` | 346 | `COMB` |  | ヴァリアントブレイブ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK346_FIGHTER_COMB32 — ヴァリアントブレイブ — スキル／技：二刀流専用 カード選択後Ａ＋ＧＡで発動 スキル／敵を高く打ち上げ、強 力な叩き付け攻撃へとつなぐ"> `SKILL_SK346_FIGHTER_COMB32` | 346 | `COMB` |  | ヴァリアントブレイブ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK347_FIGHTER_COMB30 — メテオストライク"> `SKILL_SK347_FIGHTER_COMB30` | 347 | `COMB` |  | メテオストライク |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK348_FIGHTER_COMB30 — オーガデストラクション"> `SKILL_SK348_FIGHTER_COMB30` | 348 | `COMB` |  | オーガデストラクション |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK348_FIGHTER_COMB30 — オーガデストラクション — スキル／敵の頭上に力強く斧を 振り下ろし、出血させる"> `SKILL_SK348_FIGHTER_COMB30` | 348 | `COMB` |  | オーガデストラクション |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK349_FIGHTER_COMB31 — アトミックスマッシュ"> `SKILL_SK349_FIGHTER_COMB31` | 349 | `COMB` |  | アトミックスマッシュ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK350_FIGHTER_COMB27 — ヘブンズドーン"> `SKILL_SK350_FIGHTER_COMB27` | 350 | `COMB` |  | ヘブンズドーン |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK365_FIGHTER_COMB26 — ハンターズアイ"> `SKILL_SK365_FIGHTER_COMB26` | 365 | `COMB` |  | ハンターズアイ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK350_FIGHTER_COMB27 — ヘブンズドーン — スキル／小さく跳び上がり、範 囲の広い強烈な一撃を繰り出す"> `SKILL_SK350_FIGHTER_COMB27` | 350 | `COMB` |  | ヘブンズドーン |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK365_FIGHTER_COMB26 — ハンターズアイ — スキル／弓矢の飛距離を犠牲に し、威力を最大限に高める"> `SKILL_SK365_FIGHTER_COMB26` | 365 | `COMB` |  | ハンターズアイ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK376_FIGHTER_COMB01_EX — ＶラッシュＥＸ"> `SKILL_SK376_FIGHTER_COMB01_EX` | 376 | `COMB` | EX | ＶラッシュＥＸ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK378_FIGHTER_COMB15_EX — グランドブレイカーＥＸ"> `SKILL_SK378_FIGHTER_COMB15_EX` | 378 | `COMB` | EX | グランドブレイカーＥＸ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK379_FIGHTER_COMB04_EX — ハンドレットソードＥＸ"> `SKILL_SK379_FIGHTER_COMB04_EX` | 379 | `COMB` | EX | ハンドレットソードＥＸ |
@@ -121,7 +121,7 @@ marks party-wide skills.
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK384_FIGHTER_COMB11_EX — ピアシングオールＥＸ"> `SKILL_SK384_FIGHTER_COMB11_EX` | 384 | `COMB` | EX | ピアシングオールＥＸ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK386_FIGHTER_COMB08_EX — ホースライダースラストＥＸ"> `SKILL_SK386_FIGHTER_COMB08_EX` | 386 | `COMB` | EX | ホースライダースラストＥＸ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK387_FIGHTER_COMB09_EX — ＨスラッシュＥＸ"> `SKILL_SK387_FIGHTER_COMB09_EX` | 387 | `COMB` | EX | ＨスラッシュＥＸ |
-| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK391_FIGHTER_SPEC02_EX — クロノストライフＥＸ"> `SKILL_SK391_FIGHTER_SPEC02_EX` | 391 | `SPEC` | EX | クロノストライフＥＸ |
+| <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK391_FIGHTER_SPEC02_EX — クロノストライフＥＸ — スキル／攻撃時にＭＰを消費し 攻撃力を高める"> `SKILL_SK391_FIGHTER_SPEC02_EX` | 391 | `SPEC` | EX | クロノストライフＥＸ |
 | <img src="../img/skills/skill_018.png" width="28" title="SKILL_SK456_FIGHTER_SPEC02 — クロノストライフ"> `SKILL_SK456_FIGHTER_SPEC02` | 456 | `SPEC` |  | クロノストライフ |
 
 #### <img src="../img/skills/skill_025.png" width="32" title="THIEF"> `THIEF` (41)
@@ -142,28 +142,28 @@ marks party-wide skills.
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK259_THIEF_COMB09 — 回避行動３＋攻撃(仮)１"> `SKILL_SK259_THIEF_COMB09` | 259 | `COMB` |  | 回避行動３＋攻撃(仮)１ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK260_THIEF_COMB10 — 回避行動３＋攻撃(仮)Ⅱ"> `SKILL_SK260_THIEF_COMB10` | 260 | `COMB` |  | 回避行動３＋攻撃(仮)Ⅱ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK261_THIEF_COMB10 — 回避行動３＋攻撃(仮)２"> `SKILL_SK261_THIEF_COMB10` | 261 | `COMB` |  | 回避行動３＋攻撃(仮)２ |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK262_THIEF_COMB11 — ヘビースタッブ"> `SKILL_SK262_THIEF_COMB11` | 262 | `COMB` |  | ヘビースタッブ |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK262_THIEF_COMB11 — ヘビースタッブ — スキル／技：ナイフ専用 カード選択後Ａ＋Ｇで発動 スキル／力を溜め、敵の急所に 強烈な突きを叩き込む"> `SKILL_SK262_THIEF_COMB11` | 262 | `COMB` |  | ヘビースタッブ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK263_THIEF_COMB12 — シャドウキル"> `SKILL_SK263_THIEF_COMB12` | 263 | `COMB` |  | シャドウキル |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK264_THIEF_COMB13 — エクステンシブショット"> `SKILL_SK264_THIEF_COMB13` | 264 | `COMB` |  | エクステンシブショット |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK265_THIEF_COMB14 — ブラッディレイン"> `SKILL_SK265_THIEF_COMB14` | 265 | `COMB` |  | ブラッディレイン |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK266_THIEF_MEGACRUSH — イマジナリーアロー"> `SKILL_SK266_THIEF_MEGACRUSH` | 266 | `MEGACRUSH` |  | イマジナリーアロー |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK264_THIEF_COMB13 — エクステンシブショット — スキル／技：弓矢専用 カード選択後Ａ＋Ｇで発動 スキル／３本の矢を同時に射出 する。広範囲に攻撃可能"> `SKILL_SK264_THIEF_COMB13` | 264 | `COMB` |  | エクステンシブショット |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK265_THIEF_COMB14 — ブラッディレイン — スキル／技：全方位 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／複数の爆弾を投げ、大 ダメージを与える必殺の奥義"> `SKILL_SK265_THIEF_COMB14` | 265 | `COMB` |  | ブラッディレイン |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK266_THIEF_MEGACRUSH — イマジナリーアロー — スキル／技：弓矢専用 ユーズボタンなどで発動 スキル／一時的に、矢を消費せ ずに射出できるようになる"> `SKILL_SK266_THIEF_MEGACRUSH` | 266 | `MEGACRUSH` |  | イマジナリーアロー |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK267_THIEF_COMB16 — 連続貫通攻撃２(仮)"> `SKILL_SK267_THIEF_COMB16` | 267 | `COMB` |  | 連続貫通攻撃２(仮) |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK268_THIEF_COMB17 — チャージショット"> `SKILL_SK268_THIEF_COMB17` | 268 | `COMB` |  | チャージショット |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK269_THIEF_COMB18 — メテオストーム"> `SKILL_SK269_THIEF_COMB18` | 269 | `COMB` |  | メテオストーム |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK336_THIEF_SPEC03 — デッドリーロンドⅠ"> `SKILL_SK336_THIEF_SPEC03` | 336 | `SPEC` |  | デッドリーロンドⅠ |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK337_THIEF_COMB19 — デッドリーロンドⅡ"> `SKILL_SK337_THIEF_COMB19` | 337 | `COMB` |  | デッドリーロンドⅡ |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK338_THIEF_COMB19 — デッドリーロンドⅢ"> `SKILL_SK338_THIEF_COMB19` | 338 | `COMB` |  | デッドリーロンドⅢ |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK339_THIEF_COMB19 — ツインスティング"> `SKILL_SK339_THIEF_COMB19` | 339 | `COMB` |  | ツインスティング |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK358_THIEF_COMB22 — ジャッジメントブロウ"> `SKILL_SK358_THIEF_COMB22` | 358 | `COMB` |  | ジャッジメントブロウ |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK268_THIEF_COMB17 — チャージショット — スキル／力を溜め、敵の急所を 狙って高威力の矢を発射する"> `SKILL_SK268_THIEF_COMB17` | 268 | `COMB` |  | チャージショット |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK269_THIEF_COMB18 — メテオストーム — スキル／魔：全方位 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／多数の隕石を降らせ、 大ダメージを与える必殺の奥義"> `SKILL_SK269_THIEF_COMB18` | 269 | `COMB` |  | メテオストーム |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK336_THIEF_SPEC03 — デッドリーロンドⅠ — スキル／短剣による連続攻撃か ら爆弾へとつなぐ"> `SKILL_SK336_THIEF_SPEC03` | 336 | `SPEC` |  | デッドリーロンドⅠ |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK337_THIEF_COMB19 — デッドリーロンドⅡ — スキル／短剣による連続攻撃か ら爆弾へとつなぐ"> `SKILL_SK337_THIEF_COMB19` | 337 | `COMB` |  | デッドリーロンドⅡ |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK338_THIEF_COMB19 — デッドリーロンドⅢ — スキル／短剣による連続攻撃か ら爆弾へとつなぐ"> `SKILL_SK338_THIEF_COMB19` | 338 | `COMB` |  | デッドリーロンドⅢ |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK339_THIEF_COMB19 — ツインスティング — スキル／技：二刀流専用 カード選択後ダッシュＡで発動 スキル／素早く敵に接近し、強 力な突きで敵を吹き飛ばす"> `SKILL_SK339_THIEF_COMB19` | 339 | `COMB` |  | ツインスティング |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK358_THIEF_COMB22 — ジャッジメントブロウ — スキル／棍棒を素早く叩き付け 広範囲の敵にダメージを与える"> `SKILL_SK358_THIEF_COMB22` | 358 | `COMB` |  | ジャッジメントブロウ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK364_THIEF_COMB21 — ヘルディバイド"> `SKILL_SK364_THIEF_COMB21` | 364 | `COMB` |  | ヘルディバイド |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK366_THIEF_SPEC02 — ヴァイパーバイト"> `SKILL_SK366_THIEF_SPEC02` | 366 | `SPEC` |  | ヴァイパーバイト |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK368_THIEF_SPEC01 — ソニッククレイドル"> `SKILL_SK368_THIEF_SPEC01` | 368 | `SPEC` |  | ソニッククレイドル |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK371_THIEF_COMB23 — リストレインショット"> `SKILL_SK371_THIEF_COMB23` | 371 | `COMB` |  | リストレインショット |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK372_THIEF_COMB20 — アドバンスドシフト"> `SKILL_SK372_THIEF_COMB20` | 372 | `COMB` |  | アドバンスドシフト |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK366_THIEF_SPEC02 — ヴァイパーバイト — スキル／毒状態の相手にのみ、 致命的な一撃を与える"> `SKILL_SK366_THIEF_SPEC02` | 366 | `SPEC` |  | ヴァイパーバイト |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK368_THIEF_SPEC01 — ソニッククレイドル — スキル／技：弓矢専用 カード選択後ダッシュＡ スキル／装備した弓で敵を殴り ダウンを奪う"> `SKILL_SK368_THIEF_SPEC01` | 368 | `SPEC` |  | ソニッククレイドル |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK371_THIEF_COMB23 — リストレインショット — スキル／技：弓矢専用 カード選択後Ａで発動 スキル／敵をダウンさせる効果 のある弓矢攻撃"> `SKILL_SK371_THIEF_COMB23` | 371 | `COMB` |  | リストレインショット |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK372_THIEF_COMB20 — アドバンスドシフト — スキル／技：回避 カード選択後Ａ＋Ｖで発動 スキル／側転で素早く移動し、 敵の攻撃を回避する"> `SKILL_SK372_THIEF_COMB20` | 372 | `COMB` |  | アドバンスドシフト |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK525_THIEF_COMB06_EX — ＬスラッシュＥＸ"> `SKILL_SK525_THIEF_COMB06_EX` | 525 | `COMB` | EX | ＬスラッシュＥＸ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK527_THIEF_COMB07_EX — ＫスラッシュＥＸ"> `SKILL_SK527_THIEF_COMB07_EX` | 527 | `COMB` | EX | ＫスラッシュＥＸ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK528_THIEF_COMB11_EX — ヘビースタッブＥＸ"> `SKILL_SK528_THIEF_COMB11_EX` | 528 | `COMB` | EX | ヘビースタッブＥＸ |
-| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK529_THIEF_COMB18_EX — チャージショットＥＸ"> `SKILL_SK529_THIEF_COMB18_EX` | 529 | `COMB` | EX | チャージショットＥＸ |
+| <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK529_THIEF_COMB18_EX — チャージショットＥＸ — スキル／攻撃に時間を要するが 強力な一撃が繰り出せる"> `SKILL_SK529_THIEF_COMB18_EX` | 529 | `COMB` | EX | チャージショットＥＸ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK530_THIEF_COMB20_EX — リストレインショットＥＸ"> `SKILL_SK530_THIEF_COMB20_EX` | 530 | `COMB` | EX | リストレインショットＥＸ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK531_THIEF_COMB14_EX — エクステンシブショットＥＸ"> `SKILL_SK531_THIEF_COMB14_EX` | 531 | `COMB` | EX | エクステンシブショットＥＸ |
 | <img src="../img/skills/skill_025.png" width="28" title="SKILL_SK532_THIEF_COMB23_EX — ライトニングブラストＥＸ"> `SKILL_SK532_THIEF_COMB23_EX` | 532 | `COMB` | EX | ライトニングブラストＥＸ |
@@ -174,18 +174,18 @@ marks party-wide skills.
 
 | internal id | SK# | type | EX | jp (inferred) |
 |---|---|---|---|---|
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK151_WIZARD_COMB01 — ＳＦラッシュⅠ"> `SKILL_SK151_WIZARD_COMB01` | 151 | `COMB` |  | ＳＦラッシュⅠ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK152_WIZARD_COMB01 — ＳＦラッシュⅡ"> `SKILL_SK152_WIZARD_COMB01` | 152 | `COMB` |  | ＳＦラッシュⅡ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK153_WIZARD_COMB01 — ＳＦラッシュⅢ"> `SKILL_SK153_WIZARD_COMB01` | 153 | `COMB` |  | ＳＦラッシュⅢ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK154_WIZARD_COMB02 — オールレンジアタックⅠ"> `SKILL_SK154_WIZARD_COMB02` | 154 | `COMB` |  | オールレンジアタックⅠ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK155_WIZARD_COMB02 — オールレンジアタックⅡ"> `SKILL_SK155_WIZARD_COMB02` | 155 | `COMB` |  | オールレンジアタックⅡ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK270_WIZARD_MEGACRUSH — エターナルサンライズ"> `SKILL_SK270_WIZARD_MEGACRUSH` | 270 | `MEGACRUSH` |  | エターナルサンライズ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK151_WIZARD_COMB01 — ＳＦラッシュⅠ — スキル／技：杖専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目は攻撃範囲が広い"> `SKILL_SK151_WIZARD_COMB01` | 151 | `COMB` |  | ＳＦラッシュⅠ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK152_WIZARD_COMB01 — ＳＦラッシュⅡ — スキル／技：杖専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目は攻撃範囲が広い"> `SKILL_SK152_WIZARD_COMB01` | 152 | `COMB` |  | ＳＦラッシュⅡ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK153_WIZARD_COMB01 — ＳＦラッシュⅢ — スキル／技：杖専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目は攻撃範囲が広い"> `SKILL_SK153_WIZARD_COMB01` | 153 | `COMB` |  | ＳＦラッシュⅢ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK154_WIZARD_COMB02 — オールレンジアタックⅠ — スキル／技：杖専用 カード選択後ＡＡで発動 スキル／広い攻撃範囲を誇る連 係攻撃だが、ダメージは低め"> `SKILL_SK154_WIZARD_COMB02` | 154 | `COMB` |  | オールレンジアタックⅠ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK155_WIZARD_COMB02 — オールレンジアタックⅡ — スキル／技：杖専用 カード選択後ＡＡで発動 スキル／広い攻撃範囲を誇る連 係攻撃だが、ダメージは低め"> `SKILL_SK155_WIZARD_COMB02` | 155 | `COMB` |  | オールレンジアタックⅡ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK270_WIZARD_MEGACRUSH — エターナルサンライズ — スキル／光：全方位 カード選択後Ａ＋Ｇ＋Ｖで発動 スキル／聖なる波動で大ダメー ジを与える必殺の奥義"> `SKILL_SK270_WIZARD_MEGACRUSH` | 270 | `MEGACRUSH` |  | エターナルサンライズ |
 | <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK283_WIZARD_COMB03 — ソニックブラスト"> `SKILL_SK283_WIZARD_COMB03` | 283 | `COMB` |  | ソニックブラスト |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK324_WIZARD_SPEC02 — ウィルオブユニバースⅠ"> `SKILL_SK324_WIZARD_SPEC02` | 324 | `SPEC` |  | ウィルオブユニバースⅠ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK325_WIZARD_COMB04 — ウィルオブユニバースⅡ"> `SKILL_SK325_WIZARD_COMB04` | 325 | `COMB` |  | ウィルオブユニバースⅡ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK326_WIZARD_COMB04 — ウィルオブユニバースⅢ"> `SKILL_SK326_WIZARD_COMB04` | 326 | `COMB` |  | ウィルオブユニバースⅢ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK327_WIZARD_COMB04 — ドラゴンスマッシュ"> `SKILL_SK327_WIZARD_COMB04` | 327 | `COMB` |  | ドラゴンスマッシュ |
-| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK370_WIZARD_SPEC01 — ライトニングブラスト"> `SKILL_SK370_WIZARD_SPEC01` | 370 | `SPEC` |  | ライトニングブラスト |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK324_WIZARD_SPEC02 — ウィルオブユニバースⅠ — スキル／杖による連続攻撃から 魔法へとつなぐ"> `SKILL_SK324_WIZARD_SPEC02` | 324 | `SPEC` |  | ウィルオブユニバースⅠ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK325_WIZARD_COMB04 — ウィルオブユニバースⅡ — スキル／杖による連続攻撃から 魔法へとつなぐ"> `SKILL_SK325_WIZARD_COMB04` | 325 | `COMB` |  | ウィルオブユニバースⅡ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK326_WIZARD_COMB04 — ウィルオブユニバースⅢ — スキル／杖による連続攻撃から 魔法へとつなぐ"> `SKILL_SK326_WIZARD_COMB04` | 326 | `COMB` |  | ウィルオブユニバースⅢ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK327_WIZARD_COMB04 — ドラゴンスマッシュ — スキル／技：ナックル専用 カード選択後ダッシュＡで発動"> `SKILL_SK327_WIZARD_COMB04` | 327 | `COMB` |  | ドラゴンスマッシュ |
+| <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK370_WIZARD_SPEC01 — ライトニングブラスト — スキル／天空に向かって矢を放 ち、落雷でダメージを与える"> `SKILL_SK370_WIZARD_SPEC01` | 370 | `SPEC` |  | ライトニングブラスト |
 | <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK508_WIZARD_MEGACRUSH_EX — メテオストームＥＸ"> `SKILL_SK508_WIZARD_MEGACRUSH_EX` | 508 | `MEGACRUSH` | EX | メテオストームＥＸ |
 | <img src="../img/skills/skill_035.png" width="28" title="SKILL_SK541_WIZARD_SPEC02_EX — エンハンスマジックＥＸ"> `SKILL_SK541_WIZARD_SPEC02_EX` | 541 | `SPEC` | EX | エンハンスマジックＥＸ |
 
@@ -193,23 +193,23 @@ marks party-wide skills.
 
 | internal id | SK# | type | EX | jp (inferred) |
 |---|---|---|---|---|
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK093_PRIEST_SPEC02 — ロードオブファランクス"> `SKILL_SK093_PRIEST_SPEC02` | 093 | `SPEC` |  | ロードオブファランクス |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK156_PRIEST_COMB01 — 粛正Ⅰ"> `SKILL_SK156_PRIEST_COMB01` | 156 | `COMB` |  | 粛正Ⅰ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK157_PRIEST_COMB01 — 粛正Ⅱ"> `SKILL_SK157_PRIEST_COMB01` | 157 | `COMB` |  | 粛正Ⅱ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK158_PRIEST_COMB01 — 粛正Ⅲ"> `SKILL_SK158_PRIEST_COMB01` | 158 | `COMB` |  | 粛正Ⅲ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK159_PRIEST_COMB02 — 神罰Ⅰ"> `SKILL_SK159_PRIEST_COMB02` | 159 | `COMB` |  | 神罰Ⅰ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK160_PRIEST_COMB02 — 神罰Ⅱ"> `SKILL_SK160_PRIEST_COMB02` | 160 | `COMB` |  | 神罰Ⅱ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK161_PRIEST_COMB02 — 神罰Ⅲ"> `SKILL_SK161_PRIEST_COMB02` | 161 | `COMB` |  | 神罰Ⅲ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK162_PRIEST_COMB03 — スパイトブレイカー"> `SKILL_SK162_PRIEST_COMB03` | 162 | `COMB` |  | スパイトブレイカー |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK271_PRIEST_MEGACRUSH — ヘブンズゲート"> `SKILL_SK271_PRIEST_MEGACRUSH` | 271 | `MEGACRUSH` |  | ヘブンズゲート |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK093_PRIEST_SPEC02 — ロードオブファランクス — スキル／技：特殊防御 ウィンドウで選択すると発動 スキル／受けたダメージをＭＰ で吸収するシールドをまとう"> `SKILL_SK093_PRIEST_SPEC02` | 093 | `SPEC` |  | ロードオブファランクス |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK156_PRIEST_COMB01 — 粛正Ⅰ — スキル／技：棍棒専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目には気絶効果あり"> `SKILL_SK156_PRIEST_COMB01` | 156 | `COMB` |  | 粛正Ⅰ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK157_PRIEST_COMB01 — 粛正Ⅱ — スキル／技：棍棒専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目には気絶効果あり"> `SKILL_SK157_PRIEST_COMB01` | 157 | `COMB` |  | 粛正Ⅱ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK158_PRIEST_COMB01 — 粛正Ⅲ — スキル／技：棍棒専用 カード選択後ＡＡＡで発動 スキル／素早い連係攻撃を繰り 出す。３段目には気絶効果あり"> `SKILL_SK158_PRIEST_COMB01` | 158 | `COMB` |  | 粛正Ⅲ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK159_PRIEST_COMB02 — 神罰Ⅰ — スキル／素早い連係攻撃を繰り 出す。３段目で敵を浮かせる"> `SKILL_SK159_PRIEST_COMB02` | 159 | `COMB` |  | 神罰Ⅰ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK160_PRIEST_COMB02 — 神罰Ⅱ — スキル／素早い連係攻撃を繰り 出す。３段目で敵を浮かせる"> `SKILL_SK160_PRIEST_COMB02` | 160 | `COMB` |  | 神罰Ⅱ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK161_PRIEST_COMB02 — 神罰Ⅲ — スキル／素早い連係攻撃を繰り 出す。３段目で敵を浮かせる"> `SKILL_SK161_PRIEST_COMB02` | 161 | `COMB` |  | 神罰Ⅲ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK162_PRIEST_COMB03 — スパイトブレイカー — スキル／技：棍棒専用 カード選択後Ａ＋Ｇで発動 スキル／攻撃速度が非常に速く 回転力に優れた一撃"> `SKILL_SK162_PRIEST_COMB03` | 162 | `COMB` |  | スパイトブレイカー |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK271_PRIEST_MEGACRUSH — ヘブンズゲート — スキル／技：杖専用 カード選択後ダッシュＡで発動 スキル／素早く敵に接近し、敵 を打ち上げる"> `SKILL_SK271_PRIEST_MEGACRUSH` | 271 | `MEGACRUSH` |  | ヘブンズゲート |
 | <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK275_PRIEST_COMB04 — 神の鉄槌Ⅱ"> `SKILL_SK275_PRIEST_COMB04` | 275 | `COMB` |  | 神の鉄槌Ⅱ |
 | <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK276_PRIEST_COMB04 — 神の鉄槌Ⅲ"> `SKILL_SK276_PRIEST_COMB04` | 276 | `COMB` |  | 神の鉄槌Ⅲ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK277_PRIEST_COMB04 — ヴァルキリーストライク"> `SKILL_SK277_PRIEST_COMB04` | 277 | `COMB` |  | ヴァルキリーストライク |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK334_PRIEST_COMB05 — サイレントフラッシュ"> `SKILL_SK334_PRIEST_COMB05` | 334 | `COMB` |  | サイレントフラッシュ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK356_PRIEST_COMB06 — ホーリーガイザー"> `SKILL_SK356_PRIEST_COMB06` | 356 | `COMB` |  | ホーリーガイザー |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK357_PRIEST_COMB07 — デュアルスタッブ"> `SKILL_SK357_PRIEST_COMB07` | 357 | `COMB` |  | デュアルスタッブ |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK361_PRIEST_COMB08 — シャイニングアロー"> `SKILL_SK361_PRIEST_COMB08` | 361 | `COMB` |  | シャイニングアロー |
-| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK375_PRIEST_SPEC01 — シンセリティー"> `SKILL_SK375_PRIEST_SPEC01` | 375 | `SPEC` |  | シンセリティー |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK277_PRIEST_COMB04 — ヴァルキリーストライク — スキル／技：片手剣専用 カード選択後ダッシュＡで発動 スキル／素早く敵に接近し、高 く打ち上げる攻撃"> `SKILL_SK277_PRIEST_COMB04` | 277 | `COMB` |  | ヴァルキリーストライク |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK334_PRIEST_COMB05 — サイレントフラッシュ — スキル／クリティカルヒット時 にＭＰを消費し攻撃力を高める"> `SKILL_SK334_PRIEST_COMB05` | 334 | `COMB` |  | サイレントフラッシュ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK356_PRIEST_COMB06 — ホーリーガイザー — スキル／拳を地面に向かって振 り下ろし、衝撃波を出す"> `SKILL_SK356_PRIEST_COMB06` | 356 | `COMB` |  | ホーリーガイザー |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK357_PRIEST_COMB07 — デュアルスタッブ — スキル／装備した短剣で、素早 い連続突きを繰り出す"> `SKILL_SK357_PRIEST_COMB07` | 357 | `COMB` |  | デュアルスタッブ |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK361_PRIEST_COMB08 — シャイニングアロー — スキル／発動中にロックオン した敵全てに矢を放つ"> `SKILL_SK361_PRIEST_COMB08` | 361 | `COMB` |  | シャイニングアロー |
+| <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK375_PRIEST_SPEC01 — シンセリティー — スキル／防御力を低下させ、精 神力を最大限に高める"> `SKILL_SK375_PRIEST_SPEC01` | 375 | `SPEC` |  | シンセリティー |
 | <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK509_PRIEST_COMB01_EX — 粛正ＥＸ"> `SKILL_SK509_PRIEST_COMB01_EX` | 509 | `COMB` | EX | 粛正ＥＸ |
 | <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK510_PRIEST_COMB03_EX — スパイトブレイカーＥＸ"> `SKILL_SK510_PRIEST_COMB03_EX` | 510 | `COMB` | EX | スパイトブレイカーＥＸ |
 | <img src="../img/skills/skill_041.png" width="28" title="SKILL_SK511_PRIEST_COMB02_EX — 神罰ＥＸ"> `SKILL_SK511_PRIEST_COMB02_EX` | 511 | `COMB` | EX | 神罰ＥＸ |
@@ -330,7 +330,7 @@ marks party-wide skills.
 | internal id | SK# | type | EX | jp (inferred) |
 |---|---|---|---|---|
 | <img src="../img/skills/skill_050.png" width="28" title="SKILL_SK373_ALL_ESCAPE"> `SKILL_SK373_ALL_ESCAPE` | 373 | `ESCAPE` |  |  |
-| <img src="../img/skills/skill_050.png" width="28" title="SKILL_SK374_ALL_MEGACRUSH — ラディカルバースト"> `SKILL_SK374_ALL_MEGACRUSH` | 374 | `MEGACRUSH` |  | ラディカルバースト |
+| <img src="../img/skills/skill_050.png" width="28" title="SKILL_SK374_ALL_MEGACRUSH — ラディカルバースト — スキル／生命力を放出してダメ ージを与える必殺の奥義"> `SKILL_SK374_ALL_MEGACRUSH` | 374 | `MEGACRUSH` |  | ラディカルバースト |
 
 #### `—` (2)
 

@@ -13,6 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
     el.addEventListener('click', () => {
       im.src = el.src;
       cap.textContent = el.title || el.alt || '';
+      const small = el.naturalWidth <= 192;
+      im.style.height = small ? '72vh' : '';
+      im.style.width = small ? 'auto' : '';
       ov.classList.toggle('px', el.naturalWidth <= 256);
       ov.classList.add('on');
       document.body.style.overflow = 'hidden';
