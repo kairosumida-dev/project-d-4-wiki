@@ -1,5 +1,7 @@
 [EN](../en/model.md) | [JA](../ja/model.md) | [PT-BR](../pt-br/model.md)
 
+<link rel="stylesheet" href="../assets/lb.css">
+<script src="../assets/lb.js" defer></script>
 # モデル復元
 
 > 出典: `media/object/pack_cha_*.bin`, `media/motion/bone_cha_*.bin`,
@@ -90,6 +92,28 @@
 |---|---|
 | ![v2 front](../img/model/bv2_front.png) | ![v2 ¾](../img/model/bv2_q34.png) |
 | ![v4 front](../img/model/bv4_front.png) | ![v4 side](../img/model/bv4_side.png) |
+
+### スキン&アーマーピース
+
+最新の反復 — 重み付き/スキンピースのデコードが進み、アーマー
+パーツも配置。`wgt_raw` はまだ凝集した `_wgt` 生頂点、`stick_up` は
+直立スケルトンチェーン、`model_up_*` はピース別カラー組み立て、
+`final_*` は最新の全身試行、`zb_*` はzバッファ深度レンダー、
+`skinned`/`armor_render` はテクスチャ付きピース、`godot_render` は
+Godot 内のメッシュ。
+
+| | |
+|---|---|
+| ![wgt raw](../img/model/wgt_raw.png) | ![stick up](../img/model/stick_up.png) | ![skinned](../img/model/skinned.png) |
+| ![armor](../img/model/armor_render.png) | ![godot](../img/model/godot_render.png) | |
+
+#### Piece-colour assemblies (latest)
+
+| | |
+|---|---|
+| ![v5 front](../img/model/model_up_front.png) | ![v5 ¾](../img/model/model_up_q34.png) | ![v5 side](../img/model/model_up_side.png) |
+| ![v6](../img/model/model_up2.png) | ![final front](../img/model/final_front.png) | ![final ¾](../img/model/final_q34.png) |
+| ![final side](../img/model/final_side.png) | ![final back](../img/model/final_back.png) | ![z-buffer](../img/model/zb_front.png) |
 
 ## 現在の状態
 

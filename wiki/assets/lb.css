@@ -1,0 +1,10 @@
+section img { cursor: zoom-in; }
+#lbOverlay { position: fixed; inset: 0; background: rgba(0,0,0,.88);
+  display: none; align-items: center; justify-content: center;
+  flex-direction: column; z-index: 9999; cursor: zoom-out; }
+#lbOverlay.on { display: flex; }
+#lbOverlay img { max-width: 92vw; max-height: 78vh; object-fit: contain;
+  box-shadow: 0 0 28px #000; cursor: zoom-out; }
+#lbOverlay.px img { image-rendering: pixelated; }
+#lbCap { color: #eee; font: 14px/1.5 sans-serif; margin-top: 14px;
+  max-width: 88vw; text-align: center; white-space: pre-wrap; }

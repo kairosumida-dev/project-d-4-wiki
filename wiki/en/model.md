@@ -1,5 +1,7 @@
 [EN](../en/model.md) | [JA](../ja/model.md) | [PT-BR](../pt-br/model.md)
 
+<link rel="stylesheet" href="../assets/lb.css">
+<script src="../assets/lb.js" defer></script>
 # Model Reconstruction
 
 > Source: `media/object/pack_cha_*.bin`, `media/motion/bone_cha_*.bin`,
@@ -92,6 +94,28 @@ true bind transforms.
 |---|---|
 | ![v2 front](../img/model/bv2_front.png) | ![v2 ¾](../img/model/bv2_q34.png) |
 | ![v4 front](../img/model/bv4_front.png) | ![v4 side](../img/model/bv4_side.png) |
+
+### Skinned & armour pieces
+
+Latest iterations — weighted/skin pieces decoded further and armour
+parts placed. `wgt_raw` shows raw `_wgt` verts still clustered,
+`stick_up` the upright skeleton chain, `model_up_*` per-piece
+colour-coded assemblies, `final_*` the newest whole-body attempt,
+`zb_*` z-buffer depth renders, `skinned`/`armor_render` textured
+pieces, `godot_render` the mesh inside Godot.
+
+| | |
+|---|---|
+| ![wgt raw](../img/model/wgt_raw.png) | ![stick up](../img/model/stick_up.png) | ![skinned](../img/model/skinned.png) |
+| ![armor](../img/model/armor_render.png) | ![godot](../img/model/godot_render.png) | |
+
+#### Piece-colour assemblies (latest)
+
+| | |
+|---|---|
+| ![v5 front](../img/model/model_up_front.png) | ![v5 ¾](../img/model/model_up_q34.png) | ![v5 side](../img/model/model_up_side.png) |
+| ![v6](../img/model/model_up2.png) | ![final front](../img/model/final_front.png) | ![final ¾](../img/model/final_q34.png) |
+| ![final side](../img/model/final_side.png) | ![final back](../img/model/final_back.png) | ![z-buffer](../img/model/zb_front.png) |
 
 ## Current state
 
