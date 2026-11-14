@@ -19,6 +19,8 @@
       var t = e.target;
       if (t && t.tagName === 'IMG' && t.closest('table.wiki-table')) {
         img.src = t.src;
+        img.alt = t.alt || '';
+        img.classList.toggle('lb-hd', t.classList.contains('card-hd'));
         cap.textContent = t.getAttribute('title') || t.alt || '';
         ov.classList.add('open');
       }
@@ -106,7 +108,8 @@
       }
 
       if (countEl) {
-        countEl.textContent = 'Mostrando ' + visibleTotal + ' de ' + totalRows;
+        var tpl = countEl.getAttribute('data-tpl') || 'Mostrando {n} de {total}';
+        countEl.textContent = tpl.replace('{n}', visibleTotal).replace('{total}', totalRows);
       }
       if (emptyEl) {
         emptyEl.style.display = visibleTotal === 0 ? 'block' : 'none';

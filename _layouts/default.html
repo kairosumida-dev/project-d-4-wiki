@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{% if page.lang == 'ja' %}ja{% else %}pt-BR{% endif %}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,13 +10,27 @@
   <body>
     <header class="site-header">
       <div class="site-header-inner">
-        <a class="site-brand" href="{{ "/" | relative_url }}">Quest of D 4.0 <span class="brand-sub">Wiki</span></a>
-        <nav class="site-nav" aria-label="Navegação principal">
-          <a href="{{ "/" | relative_url }}" class="nav-link{% if page.url == '/' or page.url == '/index.html' %} active{% endif %}">Início</a>
-          <a href="{{ "/wiki/pt-br/items.html" | relative_url }}" class="nav-link{% if page.url contains '/items' %} active{% endif %}">Itens</a>
-          <a href="{{ "/wiki/pt-br/cards.html" | relative_url }}" class="nav-link{% if page.url contains '/cards' %} active{% endif %}">Cartas D-Force</a>
-          <a href="{{ "/wiki/pt-br/skills.html" | relative_url }}" class="nav-link{% if page.url contains '/skills' %} active{% endif %}">Habilidades</a>
-        </nav>
+        {% if page.lang == 'ja' %}{% assign home_path = '/wiki/ja/' %}{% else %}{% assign home_path = '/' %}{% endif %}
+        <a class="site-brand" href="{{ home_path | relative_url }}">Quest of D 4.0 <span class="brand-sub">Wiki</span></a>
+        <div class="header-right">
+          <nav class="site-nav" aria-label="{% if page.lang == 'ja' %}メインナビゲーション{% else %}Navegação principal{% endif %}">
+            {% if page.lang == 'ja' %}
+            <a href="{{ "/wiki/ja/" | relative_url }}" class="nav-link{% if page.section == 'home' %} active{% endif %}">ホーム</a>
+            <a href="{{ "/wiki/ja/items.html" | relative_url }}" class="nav-link{% if page.section == 'items' %} active{% endif %}">アイテム</a>
+            <a href="{{ "/wiki/ja/cards.html" | relative_url }}" class="nav-link{% if page.section == 'cards' %} active{% endif %}">Dフォースカード</a>
+            <a href="{{ "/wiki/ja/skills.html" | relative_url }}" class="nav-link{% if page.section == 'skills' %} active{% endif %}">スキル</a>
+            {% else %}
+            <a href="{{ "/" | relative_url }}" class="nav-link{% if page.section == 'home' %} active{% endif %}">Início</a>
+            <a href="{{ "/wiki/pt-br/items.html" | relative_url }}" class="nav-link{% if page.section == 'items' %} active{% endif %}">Itens</a>
+            <a href="{{ "/wiki/pt-br/cards.html" | relative_url }}" class="nav-link{% if page.section == 'cards' %} active{% endif %}">Cartas D-Force</a>
+            <a href="{{ "/wiki/pt-br/skills.html" | relative_url }}" class="nav-link{% if page.section == 'skills' %} active{% endif %}">Habilidades</a>
+            {% endif %}
+          </nav>
+          <div class="lang-switch" aria-label="Idioma / 言語">
+            <a href="{{ page.pt_url | default: '/wiki/pt-br/' | relative_url }}" class="lang-pill{% unless page.lang == 'ja' %} active{% endunless %}">PT-BR</a>
+            <a href="{{ page.ja_url | default: '/wiki/ja/' | relative_url }}" class="lang-pill{% if page.lang == 'ja' %} active{% endif %}">日本語</a>
+          </div>
+        </div>
       </div>
     </header>
     <main class="site-main">
@@ -24,7 +38,11 @@
     </main>
     <footer class="site-footer">
       <div class="site-footer-inner">
-        <span>Quest of D 4.0 (2007) — Banco de dados em PT-BR com IDs originais preservados.</span>
+        {% if page.lang == 'ja' %}
+        <span>Quest of D 4.0 (2007) — アイテム・Dフォースカード・スキル 日本語データベース（内部ID収録）。</span>
+        {% else %}
+        <span>Quest of D 4.0 (2007) — Catálogo em PT-BR e 日本語 com IDs internos preservados.</span>
+        {% endif %}
       </div>
     </footer>
     <script defer src="{{ "/wiki/assets/wiki.js" | relative_url }}"></script>

@@ -1,14 +1,18 @@
 ---
 title: Itens
+lang: pt-br
+section: items
+pt_url: /wiki/pt-br/items.html
+ja_url: /wiki/ja/items.html
 ---
 <div class="page-head">
   <h1>Catálogo de Itens <span class="home-count">1005</span></h1>
-  <p class="page-lead">Todos os itens utilizáveis pelo jogador (slots vazios, registros de teste/dummy e equipamentos exclusivos de monstros foram removidos). Clique em qualquer ícone para ampliar ou em ⧉ para copiar o ID exato.</p>
+  <p class="page-lead">Todos os itens utilizáveis pelo jogador (slots vazios, registros de teste e equipamentos exclusivos de monstros foram removidos). Clique em qualquer ícone para ampliar ou em ⧉ para copiar o ID exato.</p>
 </div>
 <div class="wiki-controls">
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="Buscar por nome PT-BR, japonês, ID (ex: WEAPON2_KA01), código de barras ou descrição... (tecla /)">
-    <span id="result-count" class="result-count">Mostrando 1005 de 1005</span>
+    <span id="result-count" class="result-count" data-tpl="Mostrando {n} de {total}">Mostrando 1005 de 1005</span>
     <button type="button" id="wiki-clear" class="clear-btn">Limpar</button>
   </div>
   <div class="filter-group"><span class="filter-label">Categoria:</span><button type="button" class="pill active" data-filter="cat" data-val="ALL">Todos (1005)</button><button type="button" class="pill" data-filter="cat" data-val="WEAPON2">Armas (267)</button><button type="button" class="pill" data-filter="cat" data-val="SHIELD2">Escudos (38)</button><button type="button" class="pill" data-filter="cat" data-val="ARMOR2">Armaduras &amp; Vestes (87)</button><button type="button" class="pill" data-filter="cat" data-val="HELM2">Elmos &amp; Chapéus (100)</button><button type="button" class="pill" data-filter="cat" data-val="BOOTS2">Botas (70)</button><button type="button" class="pill" data-filter="cat" data-val="ACCES2">Acessórios (90)</button><button type="button" class="pill" data-filter="cat" data-val="POTION2">Poções (27)</button><button type="button" class="pill" data-filter="cat" data-val="FOOD2">Comidas (21)</button><button type="button" class="pill" data-filter="cat" data-val="BOOK2_SK">Livros de Magia (176)</button><button type="button" class="pill" data-filter="cat" data-val="BOOK2_UTIL">Pergaminhos &amp; Utilitários (36)</button><button type="button" class="pill" data-filter="cat" data-val="BOOK2_MAT">Joias &amp; Materiais (93)</button></div>
