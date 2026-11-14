@@ -1,29 +1,21 @@
-[EN](../en/index.md) | [JA](../ja/index.md) | [PT-BR](../pt-br/index.md)
-
-# Quest of D 4.0 — Wiki de Dados
-
-### Totais do banco de dados de entidades
-
-| tabela | registros | conteúdo |
-|---|---|---|
-| `monst` | 1508 | registros de partes/ataques de monstros (168 espécies-base) |
-| `book2` | 410 | livros de magia/habilidade + materiais + gadgets de missão |
-| `weapon2` | 358 | armas em 11 famílias de classe |
-| `param` | 245 | efeitos de status, armadilhas, elementos, parâmetros de habilidade |
-| `skill` | 208 | habilidades incl. melhorias _EX |
-| `summon` | 168 | cartas de monstros invocáveis |
-| `helm2` | 100 | elmos |
-| `armor2` | 94 | armaduras + túnicas |
-| `acces2` | 90 | amuletos + anéis |
-| `boots2` | 76 | botas |
-| `shield2` | 48 | escudos |
-| `potion2` | 38 | poções |
-| `food2` | 21 | alimentos |
-| — | 307 | tabelas legadas v1.x + registros diversos |
-
-### Páginas
-
-- [Reconstrução de Modelo](model.md)
-- [Itens](items.md)
-- [Habilidades](skills.md)
-- [Cartas](cards.md)
+---
+title: Quest of D 4.0 — PT-BR
+---
+<div class="page-head">
+<h1>Quest of D 4.0 — Catálogo</h1>
+<p class="page-lead">Referência limpa em português com todos os itens jogáveis, cartas físicas D-Force, habilidades e seus respectivos IDs internos preservados.</p>
+</div>
+<div class="home-grid">
+<a class="home-card" href="items.html">
+<div class="home-card-top"><h2>Itens</h2><span class="home-count">1005</span></div>
+<p>Armas, armaduras, escudos, elmos, botas, acessórios, poções, comidas, livros de magia, pergaminhos e materiais com ícones originais, atributos e IDs exatos.</p>
+</a>
+<a class="home-card" href="cards.html">
+<div class="home-card-top"><h2>Cartas D-Force</h2><span class="home-count">628</span></div>
+<p>Todas as cartas colecionáveis físicas do arcade com arte, número da coleção, código de barras, raridade, FLv, efeitos e IDs exatos.</p>
+</a>
+<a class="home-card" href="skills.html">
+<div class="home-card-top"><h2>Habilidades</h2><span class="home-count">177</span></div>
+<p>Combos, especiais, barreiras e variantes evoluídas (EX) por classe e família de arma, com comandos de ativação e IDs exatos.</p>
+</a>
+</div>
