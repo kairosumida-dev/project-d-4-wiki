@@ -5,11 +5,11 @@ section: cards
 pt_url: /wiki/pt-br/cards.html
 ja_url: /wiki/ja/cards.html
 ---
-<div class="page-head">
+<div class="page-head" data-enter data-spotlight>
   <h1>Dフォースカード <span class="home-count">628</span></h1>
   <p class="page-lead">Quest of D 4.0 の全 628 枚の使用可能Dフォースカードを収録。うち検証済みの 301 枚は実物カードの高画質スキャン画像を拡大表示できます。</p>
 </div>
-<div class="wiki-controls">
+<div class="wiki-controls" data-spotlight>
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="カード名・No. (例: 021)・コード (例: 0-2126)・ID・効果で検索... ( / キー)">
     <span id="result-count" class="result-count" data-tpl="{total}件中 {n}件表示">628件中 628件表示</span>

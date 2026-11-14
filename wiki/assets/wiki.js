@@ -12,18 +12,44 @@
     ov.addEventListener('click', function () {
       ov.classList.remove('open');
     });
+    ov.addEventListener('mousemove', function (e) {
+      if (!ov.classList.contains('open') || !ov.getBoundingClientRect) return;
+      var rect = ov.getBoundingClientRect();
+      if (!rect.width || !rect.height) return;
+      var x = Math.round(((e.clientX - rect.left) / rect.width) * 100);
+      var y = Math.round(((e.clientY - rect.top) / rect.height) * 100);
+      if (ov.style && ov.style.setProperty) {
+        ov.style.setProperty('--holo-x', x + '%');
+        ov.style.setProperty('--holo-y', y + '%');
+      }
+    });
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') ov.classList.remove('open');
     });
     document.addEventListener('click', function (e) {
       var t = e.target;
-      if (t && t.tagName === 'IMG' && t.closest('table.wiki-table')) {
+      if (!t || t.tagName !== 'IMG') return;
+      var inTable = t.closest && t.closest('table.wiki-table');
+      var inHero = t.classList && t.classList.contains('hero-showcase-img');
+      if (inTable || inHero) {
         img.src = t.src;
         img.alt = t.alt || '';
         img.classList.toggle('lb-hd', t.classList.contains('card-hd'));
         cap.textContent = t.getAttribute('title') || t.alt || '';
         ov.classList.add('open');
       }
+    });
+  }
+
+  function initSpotlight() {
+    document.addEventListener('mousemove', function (e) {
+      var t = e.target;
+      if (!t || !t.closest) return;
+      var card = t.closest('[data-spotlight]');
+      if (!card || !card.getBoundingClientRect || !card.style || !card.style.setProperty) return;
+      var rect = card.getBoundingClientRect();
+      card.style.setProperty('--spot-x', (e.clientX - rect.left) + 'px');
+      card.style.setProperty('--spot-y', (e.clientY - rect.top) + 'px');
     });
   }
 
@@ -165,6 +191,7 @@
 
   document.addEventListener('DOMContentLoaded', function () {
     initLightbox();
+    initSpotlight();
     initCopy();
     initCatalog();
   });

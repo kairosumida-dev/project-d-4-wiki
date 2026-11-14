@@ -5,11 +5,11 @@ section: items
 pt_url: /wiki/pt-br/items.html
 ja_url: /wiki/ja/items.html
 ---
-<div class="page-head">
+<div class="page-head" data-enter data-spotlight>
   <h1>Catálogo de Itens <span class="home-count">1005</span></h1>
   <p class="page-lead">Todos os itens utilizáveis pelo jogador (slots vazios, registros de teste e equipamentos exclusivos de monstros foram removidos). Clique em qualquer ícone para ampliar ou em ⧉ para copiar o ID exato.</p>
 </div>
-<div class="wiki-controls">
+<div class="wiki-controls" data-spotlight>
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="Buscar por nome PT-BR, japonês, ID (ex: WEAPON2_KA01), código de barras ou descrição... (tecla /)">
     <span id="result-count" class="result-count" data-tpl="Mostrando {n} de {total}">Mostrando 1005 de 1005</span>

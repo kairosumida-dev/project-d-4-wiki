@@ -5,11 +5,11 @@ section: cards
 pt_url: /wiki/pt-br/cards.html
 ja_url: /wiki/ja/cards.html
 ---
-<div class="page-head">
+<div class="page-head" data-enter data-spotlight>
   <h1>Cartas D-Force <span class="home-count">628</span></h1>
   <p class="page-lead">Catálogo completo das 628 cartas físicas D-Force de Quest of D 4.0 com número da coleção, código de barras, raridade, FLv, 301 scans verificados em tamanho ampliado e IDs exatos preservados.</p>
 </div>
-<div class="wiki-controls">
+<div class="wiki-controls" data-spotlight>
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="Buscar por nome, japonês, No. (ex: 021), código (ex: 0-2126), ID ou efeito... (tecla /)">
     <span id="result-count" class="result-count" data-tpl="Mostrando {n} de {total}">Mostrando 628 de 628</span>

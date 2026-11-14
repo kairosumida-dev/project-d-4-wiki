@@ -5,11 +5,11 @@ section: skills
 pt_url: /wiki/pt-br/skills.html
 ja_url: /wiki/ja/skills.html
 ---
-<div class="page-head">
+<div class="page-head" data-enter data-spotlight>
   <h1>Habilidades <span class="home-count">177</span></h1>
   <p class="page-lead">Habilidades utilizáveis de Quest of D 4.0 (cartas de habilidade D-Force e suas variantes evoluídas EX), com classe, comando de ativação, efeito em português e IDs exatos.</p>
 </div>
-<div class="wiki-controls">
+<div class="wiki-controls" data-spotlight>
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="Buscar por nome, classe, comando (ex: AAA), ID (ex: SKILL_SK163) ou efeito... (tecla /)">
     <span id="result-count" class="result-count" data-tpl="Mostrando {n} de {total}">Mostrando 177 de 177</span>

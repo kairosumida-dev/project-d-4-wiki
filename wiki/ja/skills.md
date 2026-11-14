@@ -5,11 +5,11 @@ section: skills
 pt_url: /wiki/pt-br/skills.html
 ja_url: /wiki/ja/skills.html
 ---
-<div class="page-head">
+<div class="page-head" data-enter data-spotlight>
   <h1>スキル一覧 <span class="home-count">177</span></h1>
   <p class="page-lead">Quest of D 4.0 で使用可能な全 177 種のスキル（Dフォースカード版および強化版 EX）を収録。発動コマンド、効果、内部IDを確認できます。</p>
 </div>
-<div class="wiki-controls">
+<div class="wiki-controls" data-spotlight>
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="スキル名・職業・コマンド (例: AAA)・ID (例: SKILL_SK163)・効果で検索... ( / キー)">
     <span id="result-count" class="result-count" data-tpl="{total}件中 {n}件表示">177件中 177件表示</span>

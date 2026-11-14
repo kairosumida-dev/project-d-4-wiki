@@ -5,11 +5,11 @@ section: items
 pt_url: /wiki/pt-br/items.html
 ja_url: /wiki/ja/items.html
 ---
-<div class="page-head">
+<div class="page-head" data-enter data-spotlight>
   <h1>アイテム一覧 <span class="home-count">1005</span></h1>
   <p class="page-lead">プレイヤーが使用可能な全アイテムを収録。アイコンをクリックで拡大、⧉ で正確な内部IDをコピーできます。</p>
 </div>
-<div class="wiki-controls">
+<div class="wiki-controls" data-spotlight>
   <div class="search-row">
     <input id="wiki-search" class="wiki-search" type="search" placeholder="アイテム名・説明・バーコード・ID (例: WEAPON2_KA01) で検索... ( / キー)">
     <span id="result-count" class="result-count" data-tpl="{total}件中 {n}件表示">1005件中 1005件表示</span>
