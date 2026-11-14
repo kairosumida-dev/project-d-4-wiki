@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Noto+Sans+JP:wght@400;500;700&display=swap">
     <link rel="stylesheet" href="{{ "/wiki/assets/wiki.css" | relative_url }}">
   </head>
-  <body>
+  <body data-wiki-root="{{ "/wiki/" | relative_url }}">
     <a class="skip-link" href="#main-content">{% if page.lang == 'ja' %}本文へスキップ{% else %}Pular para o conteúdo{% endif %}</a>
     <header class="site-header">
       <div class="site-header-inner">
@@ -25,11 +25,21 @@
           <nav class="site-nav" aria-label="{% if page.lang == 'ja' %}メインナビゲーション{% else %}Navegação principal{% endif %}">
             {% if page.lang == 'ja' %}
             <a href="{{ "/wiki/ja/" | relative_url }}" class="nav-link{% if page.section == 'home' %} active{% endif %}">ホーム</a>
+            <button type="button" id="deck-open-btn" class="nav-deck-btn" title="Dフォースデッキビルダー（最大35枚）">
+              <svg class="deck-icon-svg" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="3" y="4" width="11" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.8" transform="rotate(-10 8.5 11.5)"/><rect x="9" y="3" width="11" height="15" rx="2" fill="rgba(201,164,90,0.22)" stroke="currentColor" stroke-width="1.8" transform="rotate(6 14.5 10.5)"/><circle cx="14.5" cy="10.5" r="2" fill="currentColor"/></svg>
+              <span class="deck-nav-lbl">デッキ</span>
+              <span id="deck-nav-count" class="deck-nav-badge">0/35</span>
+            </button>
             <a href="{{ "/wiki/ja/items.html" | relative_url }}" class="nav-link{% if page.section == 'items' %} active{% endif %}">アイテム</a>
             <a href="{{ "/wiki/ja/cards.html" | relative_url }}" class="nav-link{% if page.section == 'cards' %} active{% endif %}">Dフォースカード</a>
             <a href="{{ "/wiki/ja/skills.html" | relative_url }}" class="nav-link{% if page.section == 'skills' %} active{% endif %}">スキル</a>
             {% else %}
             <a href="{{ "/" | relative_url }}" class="nav-link{% if page.section == 'home' %} active{% endif %}">Início</a>
+            <button type="button" id="deck-open-btn" class="nav-deck-btn" title="Abrir Deck D-Force (máx. 35 cartas)">
+              <svg class="deck-icon-svg" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><rect x="3" y="4" width="11" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.8" transform="rotate(-10 8.5 11.5)"/><rect x="9" y="3" width="11" height="15" rx="2" fill="rgba(201,164,90,0.22)" stroke="currentColor" stroke-width="1.8" transform="rotate(6 14.5 10.5)"/><circle cx="14.5" cy="10.5" r="2" fill="currentColor"/></svg>
+              <span class="deck-nav-lbl">Deck</span>
+              <span id="deck-nav-count" class="deck-nav-badge">0/35</span>
+            </button>
             <a href="{{ "/wiki/pt-br/items.html" | relative_url }}" class="nav-link{% if page.section == 'items' %} active{% endif %}">Itens</a>
             <a href="{{ "/wiki/pt-br/cards.html" | relative_url }}" class="nav-link{% if page.section == 'cards' %} active{% endif %}">Cartas D-Force</a>
             <a href="{{ "/wiki/pt-br/skills.html" | relative_url }}" class="nav-link{% if page.section == 'skills' %} active{% endif %}">Habilidades</a>
